@@ -1,27 +1,14 @@
 {
-  "generatedAt": "2026-03-15T01:33:49.114Z",
-  "date": "2026-03-15",
+  "generatedAt": "2026-03-16T01:33:20.312Z",
+  "date": "2026-03-16",
   "summary": {
     "totalModels": 229,
     "totalTransitions": 0,
     "totalStaleModels": 0,
-    "avgEntryPriceDelta": 0.73
+    "avgEntryPriceDelta": 6.06
   },
   "modelYearTransitions": [],
   "entryPriceDeltas": [
-    {
-      "id": "skoda-Škoda Scala-entry",
-      "brand": "Škoda",
-      "brandId": "skoda",
-      "model": "Škoda Scala",
-      "currentEntryPrice": 1785900,
-      "previousEntryPrice": 2372900,
-      "delta": -587000,
-      "deltaPercent": -24.74,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
     {
       "id": "skoda-Škoda Superb-entry",
       "brand": "Škoda",
@@ -31,217 +18,9 @@
       "previousEntryPrice": 3530400,
       "delta": 621500,
       "deltaPercent": 17.6,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
-    {
-      "id": "peugeot-E--entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "E-",
-      "currentEntryPrice": 2201500,
-      "previousEntryPrice": 2014000,
-      "delta": 187500,
-      "deltaPercent": 9.31,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
-    {
-      "id": "peugeot-408-entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "408",
-      "currentEntryPrice": 2374500,
-      "previousEntryPrice": 2175000,
-      "delta": 199500,
-      "deltaPercent": 9.17,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
-    {
-      "id": "peugeot-Partner Van-entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "Partner Van",
-      "currentEntryPrice": 1366000,
-      "previousEntryPrice": 1273500,
-      "delta": 92500,
-      "deltaPercent": 7.26,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
-    {
-      "id": "citroen-Elektrikli ë-C4 X-entry",
-      "brand": "Citroën",
-      "brandId": "citroen",
-      "model": "Elektrikli ë-C4 X",
-      "currentEntryPrice": 2017000,
-      "previousEntryPrice": 2167000,
-      "delta": -150000,
-      "deltaPercent": -6.92,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
-    {
-      "id": "citroen-Elektrikli ë-C4-entry",
-      "brand": "Citroën",
-      "brandId": "citroen",
-      "model": "Elektrikli ë-C4",
-      "currentEntryPrice": 2052000,
-      "previousEntryPrice": 2202000,
-      "delta": -150000,
-      "deltaPercent": -6.81,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
-    {
-      "id": "peugeot--entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "",
-      "currentEntryPrice": 2329000,
-      "previousEntryPrice": 2181000,
-      "delta": 148000,
-      "deltaPercent": 6.79,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
-    {
-      "id": "peugeot-Expert Traveller-entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "Expert Traveller",
-      "currentEntryPrice": 2490000,
-      "previousEntryPrice": 2360500,
-      "delta": 129500,
-      "deltaPercent": 5.49,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
-    {
-      "id": "citroen-C4-entry",
-      "brand": "Citroën",
-      "brandId": "citroen",
-      "model": "C4",
-      "currentEntryPrice": 1862000,
-      "previousEntryPrice": 1962000,
-      "delta": -100000,
-      "deltaPercent": -5.1,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
-    {
-      "id": "citroen-C4 X-entry",
-      "brand": "Citroën",
-      "brandId": "citroen",
-      "model": "C4 X",
-      "currentEntryPrice": 1862000,
-      "previousEntryPrice": 1962000,
-      "delta": -100000,
-      "deltaPercent": -5.1,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
-    {
-      "id": "peugeot-3008-entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "3008",
-      "currentEntryPrice": 2594500,
-      "previousEntryPrice": 2725000,
-      "delta": -130500,
-      "deltaPercent": -4.79,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
-    {
-      "id": "citroen-Spacetourer-entry",
-      "brand": "Citroën",
-      "brandId": "citroen",
-      "model": "Spacetourer",
-      "currentEntryPrice": 2495000,
-      "previousEntryPrice": 2615000,
-      "delta": -120000,
-      "deltaPercent": -4.59,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
-    {
-      "id": "peugeot-E-3008-entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "E-3008",
-      "currentEntryPrice": 3318000,
-      "previousEntryPrice": 3199000,
-      "delta": 119000,
-      "deltaPercent": 3.72,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
-    {
-      "id": "peugeot-Rifter-entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "Rifter",
-      "currentEntryPrice": 1573500,
-      "previousEntryPrice": 1536000,
-      "delta": 37500,
-      "deltaPercent": 2.44,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
-    {
-      "id": "peugeot-5008-entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "5008",
-      "currentEntryPrice": 3290000,
-      "previousEntryPrice": 3218500,
-      "delta": 71500,
-      "deltaPercent": 2.22,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
-    {
-      "id": "citroen-Yeni ë-C5 Aircross-entry",
-      "brand": "Citroën",
-      "brandId": "citroen",
-      "model": "Yeni ë-C5 Aircross",
-      "currentEntryPrice": 2430000,
-      "previousEntryPrice": 2380000,
-      "delta": 50000,
-      "deltaPercent": 2.1,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
-    {
-      "id": "peugeot-E-208-entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "E-208",
-      "currentEntryPrice": 1999500,
-      "previousEntryPrice": 1960000,
-      "delta": 39500,
-      "deltaPercent": 2.02,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
+      "currentDate": "2026-03-16",
+      "previousDate": "2026-03-09",
+      "daysBetween": 7
     },
     {
       "id": "ford-Focus-entry",
@@ -252,22 +31,9 @@
       "previousEntryPrice": 2539500,
       "delta": 50600,
       "deltaPercent": 1.99,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
-    {
-      "id": "citroen-Yeni C5 Aircross Hybrid 145-entry",
-      "brand": "Citroën",
-      "brandId": "citroen",
-      "model": "Yeni C5 Aircross Hybrid 145",
-      "currentEntryPrice": 2650000,
-      "previousEntryPrice": 2600000,
-      "delta": 50000,
-      "deltaPercent": 1.92,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
+      "currentDate": "2026-03-16",
+      "previousDate": "2026-03-09",
+      "daysBetween": 7
     },
     {
       "id": "citroen-Elektrikli ë-C3 Aircross-entry",
@@ -275,25 +41,12 @@
       "brandId": "citroen",
       "model": "Elektrikli ë-C3 Aircross",
       "currentEntryPrice": 1683000,
-      "previousEntryPrice": 1665000,
-      "delta": 18000,
-      "deltaPercent": 1.08,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
-    },
-    {
-      "id": "citroen-Jumpy Van-entry",
-      "brand": "Citroën",
-      "brandId": "citroen",
-      "model": "Jumpy Van",
-      "currentEntryPrice": 1486000,
-      "previousEntryPrice": 1471000,
-      "delta": 15000,
-      "deltaPercent": 1.02,
-      "currentDate": "2026-03-15",
-      "previousDate": "2026-03-05",
-      "daysBetween": 10
+      "previousEntryPrice": 1707000,
+      "delta": -24000,
+      "deltaPercent": -1.41,
+      "currentDate": "2026-03-16",
+      "previousDate": "2026-03-09",
+      "daysBetween": 7
     }
   ],
   "staleModels": [],
@@ -308,7 +61,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -320,7 +73,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -332,7 +85,7 @@
       "fuelTypes": [
         "Plug-in Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -344,7 +97,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -356,7 +109,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -368,7 +121,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -380,7 +133,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -392,7 +145,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -404,7 +157,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -416,7 +169,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -428,7 +181,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -440,7 +193,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -452,7 +205,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -464,7 +217,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -476,7 +229,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -488,7 +241,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -500,7 +253,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -512,7 +265,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -524,7 +277,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -536,7 +289,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -548,7 +301,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -560,7 +313,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -572,7 +325,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -584,7 +337,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -596,7 +349,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -608,7 +361,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -620,7 +373,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -632,7 +385,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -644,7 +397,7 @@
       "fuelTypes": [
         "Plug-in Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -656,7 +409,7 @@
       "fuelTypes": [
         "Plug-in Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -668,7 +421,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -680,7 +433,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -692,7 +445,7 @@
       "fuelTypes": [
         "Plug-in Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -704,7 +457,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -716,7 +469,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -728,7 +481,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -740,7 +493,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -752,7 +505,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -764,7 +517,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -776,7 +529,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BMW",
@@ -788,7 +541,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BYD",
@@ -800,7 +553,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BYD",
@@ -812,7 +565,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BYD",
@@ -824,7 +577,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BYD",
@@ -836,7 +589,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "BYD",
@@ -848,7 +601,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Citroën",
@@ -860,7 +613,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Citroën",
@@ -872,7 +625,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Citroën",
@@ -884,7 +637,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Citroën",
@@ -896,7 +649,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Citroën",
@@ -908,7 +661,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Citroën",
@@ -920,7 +673,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Citroën",
@@ -932,7 +685,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Citroën",
@@ -944,7 +697,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Citroën",
@@ -956,7 +709,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Citroën",
@@ -968,7 +721,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Citroën",
@@ -980,7 +733,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Citroën",
@@ -992,7 +745,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Citroën",
@@ -1004,7 +757,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Citroën",
@@ -1016,7 +769,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Citroën",
@@ -1028,7 +781,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Dacia",
@@ -1041,7 +794,7 @@
         "Benzin",
         "LPG"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Dacia",
@@ -1053,7 +806,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Dacia",
@@ -1065,7 +818,7 @@
       "fuelTypes": [
         "LPG"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Fiat",
@@ -1077,7 +830,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Fiat",
@@ -1089,7 +842,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Fiat",
@@ -1101,7 +854,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Fiat",
@@ -1113,7 +866,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Fiat",
@@ -1126,7 +879,7 @@
         "Elektrik",
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Fiat",
@@ -1138,7 +891,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Ford",
@@ -1150,7 +903,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Ford",
@@ -1162,7 +915,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Ford",
@@ -1174,7 +927,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Ford",
@@ -1186,7 +939,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Ford",
@@ -1198,7 +951,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Ford",
@@ -1210,7 +963,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Honda",
@@ -1222,7 +975,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Hyundai",
@@ -1234,7 +987,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Hyundai",
@@ -1246,7 +999,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Hyundai",
@@ -1258,7 +1011,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Hyundai",
@@ -1270,7 +1023,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Hyundai",
@@ -1282,7 +1035,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Hyundai",
@@ -1294,7 +1047,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Hyundai",
@@ -1306,7 +1059,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Hyundai",
@@ -1318,7 +1071,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Hyundai",
@@ -1330,7 +1083,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Hyundai",
@@ -1342,7 +1095,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Hyundai",
@@ -1354,7 +1107,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Hyundai",
@@ -1366,7 +1119,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Hyundai",
@@ -1379,7 +1132,7 @@
         "Benzin",
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Hyundai",
@@ -1391,7 +1144,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Kia",
@@ -1403,7 +1156,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Kia",
@@ -1415,7 +1168,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Kia",
@@ -1427,7 +1180,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Kia",
@@ -1439,7 +1192,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Kia",
@@ -1451,7 +1204,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Kia",
@@ -1463,7 +1216,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Kia",
@@ -1475,7 +1228,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Kia",
@@ -1487,7 +1240,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Kia",
@@ -1500,7 +1253,7 @@
         "Hibrit",
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1512,7 +1265,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1524,7 +1277,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1536,7 +1289,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1548,7 +1301,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1560,7 +1313,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1572,7 +1325,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1584,7 +1337,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1596,7 +1349,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1608,7 +1361,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1620,7 +1373,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1632,7 +1385,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1644,7 +1397,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1656,7 +1409,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1668,7 +1421,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1680,7 +1433,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1692,7 +1445,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1704,7 +1457,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1716,7 +1469,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1728,7 +1481,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1740,7 +1493,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1752,7 +1505,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1764,7 +1517,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1776,7 +1529,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1788,7 +1541,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1800,7 +1553,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1812,7 +1565,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1824,7 +1577,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1836,7 +1589,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1848,7 +1601,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1860,7 +1613,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1872,7 +1625,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1884,7 +1637,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1896,7 +1649,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1908,7 +1661,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1920,7 +1673,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1932,7 +1685,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1944,7 +1697,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1956,7 +1709,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1968,7 +1721,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1980,7 +1733,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1992,7 +1745,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -2004,7 +1757,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -2016,7 +1769,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -2028,7 +1781,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Mercedes-Benz",
@@ -2040,7 +1793,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Nissan",
@@ -2052,7 +1805,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Nissan",
@@ -2064,7 +1817,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Nissan",
@@ -2076,7 +1829,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Nissan",
@@ -2088,7 +1841,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Nissan",
@@ -2101,7 +1854,7 @@
         "Benzin",
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Opel",
@@ -2114,7 +1867,7 @@
         "Benzin",
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Opel",
@@ -2126,7 +1879,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Opel",
@@ -2139,7 +1892,7 @@
         "Benzin",
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Opel",
@@ -2151,7 +1904,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Opel",
@@ -2163,7 +1916,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Opel",
@@ -2175,7 +1928,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Opel",
@@ -2187,7 +1940,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Opel",
@@ -2199,7 +1952,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Opel",
@@ -2212,7 +1965,7 @@
         "Benzin",
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Peugeot",
@@ -2224,7 +1977,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Peugeot",
@@ -2236,7 +1989,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Peugeot",
@@ -2248,7 +2001,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Peugeot",
@@ -2260,7 +2013,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Peugeot",
@@ -2272,7 +2025,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Peugeot",
@@ -2284,7 +2037,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Peugeot",
@@ -2296,7 +2049,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Peugeot",
@@ -2308,7 +2061,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Peugeot",
@@ -2320,7 +2073,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Peugeot",
@@ -2332,7 +2085,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Peugeot",
@@ -2344,7 +2097,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Peugeot",
@@ -2356,7 +2109,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Renault",
@@ -2368,7 +2121,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Renault",
@@ -2380,7 +2133,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Renault",
@@ -2392,7 +2145,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Renault",
@@ -2405,7 +2158,7 @@
         "Benzin",
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Renault",
@@ -2417,7 +2170,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Renault",
@@ -2429,7 +2182,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Renault",
@@ -2442,7 +2195,7 @@
         "Benzin",
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Renault",
@@ -2454,7 +2207,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Renault",
@@ -2467,7 +2220,7 @@
         "LPG",
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "SEAT",
@@ -2479,7 +2232,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "SEAT",
@@ -2491,7 +2244,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "SEAT",
@@ -2503,7 +2256,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "SEAT",
@@ -2515,7 +2268,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "SEAT",
@@ -2527,7 +2280,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Škoda",
@@ -2539,7 +2292,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Škoda",
@@ -2551,7 +2304,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Škoda",
@@ -2563,7 +2316,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Škoda",
@@ -2575,7 +2328,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Škoda",
@@ -2587,7 +2340,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Škoda",
@@ -2599,7 +2352,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Toyota",
@@ -2612,7 +2365,7 @@
         "Benzin",
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Toyota",
@@ -2624,7 +2377,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Toyota",
@@ -2636,7 +2389,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Toyota",
@@ -2648,7 +2401,7 @@
       "fuelTypes": [
         "Diger"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Toyota",
@@ -2660,7 +2413,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Toyota",
@@ -2672,7 +2425,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Toyota",
@@ -2684,7 +2437,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Toyota",
@@ -2697,7 +2450,7 @@
         "Dizel",
         "Diger"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Toyota",
@@ -2709,7 +2462,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Toyota",
@@ -2721,7 +2474,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Toyota",
@@ -2733,7 +2486,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Toyota",
@@ -2745,7 +2498,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Toyota",
@@ -2757,7 +2510,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Toyota",
@@ -2769,7 +2522,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Toyota",
@@ -2781,7 +2534,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Toyota",
@@ -2793,7 +2546,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volkswagen",
@@ -2805,7 +2558,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volkswagen",
@@ -2817,7 +2570,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volkswagen",
@@ -2829,7 +2582,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volkswagen",
@@ -2841,7 +2594,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volkswagen",
@@ -2853,7 +2606,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volkswagen",
@@ -2867,7 +2620,7 @@
         "Plug-in Hibrit",
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volkswagen",
@@ -2879,7 +2632,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volkswagen",
@@ -2891,7 +2644,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volkswagen",
@@ -2903,7 +2656,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volkswagen",
@@ -2915,7 +2668,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volkswagen",
@@ -2927,7 +2680,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volkswagen",
@@ -2940,7 +2693,7 @@
         "Benzin",
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volkswagen",
@@ -2952,7 +2705,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volvo",
@@ -2964,7 +2717,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volvo",
@@ -2976,7 +2729,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volvo",
@@ -2988,7 +2741,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volvo",
@@ -3000,7 +2753,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volvo",
@@ -3012,7 +2765,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volvo",
@@ -3024,7 +2777,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volvo",
@@ -3037,7 +2790,7 @@
         "Hibrit",
         "Plug-in Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volvo",
@@ -3050,7 +2803,7 @@
         "Hibrit",
         "Plug-in Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     },
     {
       "brand": "Volvo",
@@ -3063,7 +2816,7 @@
         "Hibrit",
         "Plug-in Hibrit"
       ],
-      "lastUpdated": "2026-03-15"
+      "lastUpdated": "2026-03-16"
     }
   ]
 }
