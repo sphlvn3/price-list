@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-03-31T01:33:21.191Z",
-  "totalVehicles": 499,
+  "generatedAt": "2026-04-01T01:33:48.611Z",
+  "totalVehicles": 504,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -1585,7 +1585,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -2488,7 +2488,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -2840,6 +2840,20 @@
           "priceCampaignNumeric": 13100000
         },
         {
+          "model": "Land Cruiser Prado",
+          "trim": "Land Cruiser Prado 2.8 L D-4D Mild Hybrid Power 8 A/T",
+          "engine": "2.8",
+          "transmission": "Otomatik",
+          "fuel": "Dizel",
+          "priceRaw": "13750000",
+          "priceNumeric": 13750000,
+          "brand": "Toyota",
+          "modelYear": 2026,
+          "origin": "Japonya",
+          "priceListNumeric": 18350000,
+          "priceCampaignNumeric": 13750000
+        },
+        {
           "model": "Hilux",
           "trim": "2.4 D-4D 4x2 Hi-Cruiser A/T**",
           "engine": "",
@@ -3107,6 +3121,20 @@
         },
         {
           "model": "Proace Max",
+          "trim": "2.2D 140 HP M/T 13 M³",
+          "engine": "2.2",
+          "transmission": "Düz",
+          "fuel": "Dizel",
+          "priceRaw": "1673000",
+          "priceNumeric": 1673000,
+          "brand": "Toyota",
+          "modelYear": 2026,
+          "origin": "İtalya",
+          "priceListNumeric": 1802500,
+          "priceCampaignNumeric": 1673000
+        },
+        {
+          "model": "Proace Max",
           "trim": "2.2 D 180 HP 15M³ M/T",
           "engine": "2.2",
           "transmission": "Düz",
@@ -3118,6 +3146,20 @@
           "origin": "İtalya",
           "priceListNumeric": 1820000,
           "priceCampaignNumeric": 1696500
+        },
+        {
+          "model": "Proace Max",
+          "trim": "2.2D 180 HP M/T 15 M³",
+          "engine": "2.2",
+          "transmission": "Düz",
+          "fuel": "Dizel",
+          "priceRaw": "1745500",
+          "priceNumeric": 1745500,
+          "brand": "Toyota",
+          "modelYear": 2026,
+          "origin": "İtalya",
+          "priceListNumeric": 1875000,
+          "priceCampaignNumeric": 1745500
         },
         {
           "model": "Proace Max",
@@ -3134,6 +3176,20 @@
           "priceCampaignNumeric": 1746500
         },
         {
+          "model": "Proace Max",
+          "trim": "2.2D 180 HP M/T 17 M³",
+          "engine": "2.2",
+          "transmission": "Düz",
+          "fuel": "Dizel",
+          "priceRaw": "1796500",
+          "priceNumeric": 1796500,
+          "brand": "Toyota",
+          "modelYear": 2026,
+          "origin": "İtalya",
+          "priceListNumeric": 1926000,
+          "priceCampaignNumeric": 1796500
+        },
+        {
           "model": "Proace Max Kamyonet",
           "trim": "2.2 D 140 HP L4 Kasalı M/T",
           "engine": "2.2",
@@ -3146,12 +3202,26 @@
           "origin": "İtalya",
           "priceListNumeric": 1850000,
           "priceCampaignNumeric": 1696500
+        },
+        {
+          "model": "Proace Max Kamyonet",
+          "trim": "2.2 D 140 HP L4 Kasalı M/T",
+          "engine": "2.2",
+          "transmission": "Düz",
+          "fuel": "Dizel",
+          "priceRaw": "1745500",
+          "priceNumeric": 1745500,
+          "brand": "Toyota",
+          "modelYear": 2026,
+          "origin": "İtalya",
+          "priceListNumeric": 1906000,
+          "priceCampaignNumeric": 1745500
         }
       ]
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "i20",
@@ -3584,7 +3654,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "E-208",
@@ -3983,7 +4053,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "ATTO 3",
@@ -4105,7 +4175,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "Corsa E",
@@ -4346,7 +4416,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -4865,7 +4935,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -5830,7 +5900,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "A 200",
@@ -6938,7 +7008,7 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "Yeni Puma",
@@ -7656,7 +7726,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -7947,7 +8017,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -8369,7 +8439,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "HR-V Hybrid",
@@ -8404,7 +8474,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "YENİ",
@@ -8552,7 +8622,7 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "Stonic",
@@ -9008,7 +9078,7 @@
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "EX30",
@@ -9246,7 +9316,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "vehicles": [
         {
           "model": "Egea Sedan",

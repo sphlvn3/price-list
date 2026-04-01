@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-31T01:33:24.005Z",
-  "date": "2026-03-31",
+  "generatedAt": "2026-04-01T01:33:52.432Z",
+  "date": "2026-04-01",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -1525,13 +1525,23 @@
           "engine": "2.8",
           "transmission": "Otomatik",
           "fuel": "Dizel"
+        },
+        {
+          "trim": "Land Cruiser Prado 2.8 L D-4D Mild Hybrid Power 8 A/T",
+          "price": 13750000,
+          "priceFormatted": "13750000",
+          "stepFromBase": 650000,
+          "stepPercent": 4.961832061068702,
+          "engine": "2.8",
+          "transmission": "Otomatik",
+          "fuel": "Dizel"
         }
       ],
       "basePrice": 13100000,
-      "topPrice": 13100000,
-      "priceSpread": 0,
-      "priceSpreadPercent": 0,
-      "trimCount": 1
+      "topPrice": 13750000,
+      "priceSpread": 650000,
+      "priceSpreadPercent": 4.96,
+      "trimCount": 2
     },
     {
       "id": "toyota-hilux",
@@ -1795,11 +1805,31 @@
           "fuel": "Dizel"
         },
         {
+          "trim": "2.2D 140 HP M/T 13 M³",
+          "price": 1673000,
+          "priceFormatted": "1673000",
+          "stepFromBase": 46500,
+          "stepPercent": 2.858899477405472,
+          "engine": "2.2",
+          "transmission": "Düz",
+          "fuel": "Dizel"
+        },
+        {
           "trim": "2.2 D 180 HP 15M³ M/T",
           "price": 1696500,
           "priceFormatted": "1696500",
           "stepFromBase": 70000,
           "stepPercent": 4.303719643406087,
+          "engine": "2.2",
+          "transmission": "Düz",
+          "fuel": "Dizel"
+        },
+        {
+          "trim": "2.2D 180 HP M/T 15 M³",
+          "price": 1745500,
+          "priceFormatted": "1745500",
+          "stepFromBase": 119000,
+          "stepPercent": 7.316323393790347,
           "engine": "2.2",
           "transmission": "Düz",
           "fuel": "Dizel"
@@ -1813,13 +1843,23 @@
           "engine": "2.2",
           "transmission": "Düz",
           "fuel": "Dizel"
+        },
+        {
+          "trim": "2.2D 180 HP M/T 17 M³",
+          "price": 1796500,
+          "priceFormatted": "1796500",
+          "stepFromBase": 170000,
+          "stepPercent": 10.451890562557638,
+          "engine": "2.2",
+          "transmission": "Düz",
+          "fuel": "Dizel"
         }
       ],
       "basePrice": 1626500,
-      "topPrice": 1746500,
-      "priceSpread": 120000,
-      "priceSpreadPercent": 7.38,
-      "trimCount": 3
+      "topPrice": 1796500,
+      "priceSpread": 170000,
+      "priceSpreadPercent": 10.45,
+      "trimCount": 6
     },
     {
       "id": "toyota-proace-max-kamyonet",
@@ -1836,13 +1876,23 @@
           "engine": "2.2",
           "transmission": "Düz",
           "fuel": "Dizel"
+        },
+        {
+          "trim": "2.2 D 140 HP L4 Kasalı M/T",
+          "price": 1745500,
+          "priceFormatted": "1745500",
+          "stepFromBase": 49000,
+          "stepPercent": 2.888299440023578,
+          "engine": "2.2",
+          "transmission": "Düz",
+          "fuel": "Dizel"
         }
       ],
       "basePrice": 1696500,
-      "topPrice": 1696500,
-      "priceSpread": 0,
-      "priceSpreadPercent": 0,
-      "trimCount": 1
+      "topPrice": 1745500,
+      "priceSpread": 49000,
+      "priceSpreadPercent": 2.89,
+      "trimCount": 2
     },
     {
       "id": "hyundai-i20",
@@ -8043,10 +8093,10 @@
           "brandId": "toyota",
           "model": "Proace Max",
           "basePrice": 1626500,
-          "topPrice": 1746500,
+          "topPrice": 1796500,
           "basePriceFormatted": "₺1.626.500",
-          "topPriceFormatted": "₺1.746.500",
-          "trimCount": 3
+          "topPriceFormatted": "₺1.796.500",
+          "trimCount": 6
         },
         {
           "brand": "Dacia",
@@ -8073,10 +8123,10 @@
           "brandId": "toyota",
           "model": "Proace Max Kamyonet",
           "basePrice": 1696500,
-          "topPrice": 1696500,
+          "topPrice": 1745500,
           "basePriceFormatted": "₺1.696.500",
-          "topPriceFormatted": "₺1.696.500",
-          "trimCount": 1
+          "topPriceFormatted": "₺1.745.500",
+          "trimCount": 2
         },
         {
           "brand": "Fiat",
@@ -8943,10 +8993,10 @@
           "brandId": "toyota",
           "model": "Land Cruiser Prado",
           "basePrice": 13100000,
-          "topPrice": 13100000,
+          "topPrice": 13750000,
           "basePriceFormatted": "₺13.100.000",
-          "topPriceFormatted": "₺13.100.000",
-          "trimCount": 1
+          "topPriceFormatted": "₺13.750.000",
+          "trimCount": 2
         },
         {
           "brand": "Mercedes-Benz",
@@ -9220,7 +9270,7 @@
         }
       ],
       "avgBasePrice": 8335623,
-      "avgTopPrice": 8592491
+      "avgTopPrice": 8598389
     },
     {
       "segment": "SUV",
@@ -10251,7 +10301,7 @@
   "summary": {
     "totalModels": 227,
     "avgTrimsPerModel": 2.2,
-    "avgPriceSpread": 323395,
-    "avgPriceSpreadPercent": 10.92
+    "avgPriceSpread": 326694,
+    "avgPriceSpreadPercent": 10.97
   }
 }

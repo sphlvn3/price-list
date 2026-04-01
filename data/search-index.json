@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-31T01:33:21.205Z",
-  "totalEntries": 499,
+  "generatedAt": "2026-04-01T01:33:48.624Z",
+  "totalEntries": 504,
   "entries": [
     {
       "id": "volkswagen-polo-life-1.0-tsi-95-ps",
@@ -1368,6 +1368,19 @@
       "searchText": "toyota land cruiser prado land cruiser prado 2 8 l d 4d mild hybrid power 8 a t 2 8 dizel otomatik"
     },
     {
+      "id": "toyota-land-cruiser-prado-land-cruiser-prado-2.8-l-d-4d-mild-hybrid-power-8-a/t-2.8",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "Land Cruiser Prado",
+      "trim": "Land Cruiser Prado 2.8 L D-4D Mild Hybrid Power 8 A/T",
+      "engine": "2.8",
+      "fuel": "Dizel",
+      "transmission": "Otomatik",
+      "price": 13750000,
+      "priceFormatted": "13750000",
+      "searchText": "toyota land cruiser prado land cruiser prado 2 8 l d 4d mild hybrid power 8 a t 2 8 dizel otomatik"
+    },
+    {
       "id": "toyota-hilux-2.4-d-4d-4x2-hi-cruiser-a/t**-",
       "brand": "Toyota",
       "brandId": "toyota",
@@ -1615,6 +1628,19 @@
       "searchText": "toyota proace max 2 2 d 140 hp 13m m t 2 2 dizel duz"
     },
     {
+      "id": "toyota-proace-max-2.2d-140-hp-m/t-13-m³-2.2",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "Proace Max",
+      "trim": "2.2D 140 HP M/T 13 M³",
+      "engine": "2.2",
+      "fuel": "Dizel",
+      "transmission": "Düz",
+      "price": 1673000,
+      "priceFormatted": "1673000",
+      "searchText": "toyota proace max 2 2d 140 hp m t 13 m 2 2 dizel duz"
+    },
+    {
       "id": "toyota-proace-max-2.2-d-180-hp-15m³-m/t-2.2",
       "brand": "Toyota",
       "brandId": "toyota",
@@ -1626,6 +1652,19 @@
       "price": 1696500,
       "priceFormatted": "1696500",
       "searchText": "toyota proace max 2 2 d 180 hp 15m m t 2 2 dizel duz"
+    },
+    {
+      "id": "toyota-proace-max-2.2d-180-hp-m/t-15-m³-2.2",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "Proace Max",
+      "trim": "2.2D 180 HP M/T 15 M³",
+      "engine": "2.2",
+      "fuel": "Dizel",
+      "transmission": "Düz",
+      "price": 1745500,
+      "priceFormatted": "1745500",
+      "searchText": "toyota proace max 2 2d 180 hp m t 15 m 2 2 dizel duz"
     },
     {
       "id": "toyota-proace-max-2.2-d-180-hp-17m³-m/t-2.2",
@@ -1641,6 +1680,19 @@
       "searchText": "toyota proace max 2 2 d 180 hp 17m m t 2 2 dizel duz"
     },
     {
+      "id": "toyota-proace-max-2.2d-180-hp-m/t-17-m³-2.2",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "Proace Max",
+      "trim": "2.2D 180 HP M/T 17 M³",
+      "engine": "2.2",
+      "fuel": "Dizel",
+      "transmission": "Düz",
+      "price": 1796500,
+      "priceFormatted": "1796500",
+      "searchText": "toyota proace max 2 2d 180 hp m t 17 m 2 2 dizel duz"
+    },
+    {
       "id": "toyota-proace-max-kamyonet-2.2-d-140-hp-l4-kasalı-m/t-2.2",
       "brand": "Toyota",
       "brandId": "toyota",
@@ -1651,6 +1703,19 @@
       "transmission": "Düz",
       "price": 1696500,
       "priceFormatted": "1696500",
+      "searchText": "toyota proace max kamyonet 2 2 d 140 hp l4 kasal m t 2 2 dizel duz"
+    },
+    {
+      "id": "toyota-proace-max-kamyonet-2.2-d-140-hp-l4-kasalı-m/t-2.2",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "Proace Max Kamyonet",
+      "trim": "2.2 D 140 HP L4 Kasalı M/T",
+      "engine": "2.2",
+      "fuel": "Dizel",
+      "transmission": "Düz",
+      "price": 1745500,
+      "priceFormatted": "1745500",
       "searchText": "toyota proace max kamyonet 2 2 d 140 hp l4 kasal m t 2 2 dizel duz"
     },
     {

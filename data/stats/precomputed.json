@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-03-31T01:33:21.222Z",
-  "totalVehicles": 499,
+  "generatedAt": "2026-04-01T01:33:48.640Z",
+  "totalVehicles": 504,
   "overallStats": {
-    "avgPrice": 4916239,
+    "avgPrice": 4908559,
     "minPrice": 544900,
     "maxPrice": 36933000,
-    "medianPrice": 2951000
+    "medianPrice": 2944350
   },
   "brandStats": [
     {
@@ -26,11 +26,11 @@
     },
     {
       "name": "Toyota",
-      "vehicleCount": 47,
-      "avgPrice": 2761979,
+      "vehicleCount": 52,
+      "avgPrice": 2894683,
       "minPrice": 1222000,
-      "maxPrice": 13100000,
-      "medianPrice": 2455000
+      "maxPrice": 13750000,
+      "medianPrice": 2364000
     },
     {
       "name": "Volkswagen",
@@ -165,26 +165,26 @@
     {
       "fuel": "Benzin",
       "count": 195,
-      "percentage": 39.1,
+      "percentage": 38.7,
       "avgPrice": 5595549
     },
     {
       "fuel": "Elektrik",
       "count": 122,
-      "percentage": 24.4,
+      "percentage": 24.2,
       "avgPrice": 4591168
+    },
+    {
+      "fuel": "Dizel",
+      "count": 68,
+      "percentage": 13.5,
+      "avgPrice": 4248391
     },
     {
       "fuel": "Hibrit",
       "count": 65,
-      "percentage": 13,
+      "percentage": 12.9,
       "avgPrice": 3199009
-    },
-    {
-      "fuel": "Dizel",
-      "count": 63,
-      "percentage": 12.6,
-      "avgPrice": 4256827
     },
     {
       "fuel": "Hafif Hibrit",
@@ -214,21 +214,21 @@
   "transmissionStats": [
     {
       "transmission": "Otomatik",
-      "count": 362,
-      "percentage": 72.5,
-      "avgPrice": 5686459
+      "count": 363,
+      "percentage": 72,
+      "avgPrice": 5708672
     },
     {
       "transmission": "DSG",
       "count": 54,
-      "percentage": 10.8,
+      "percentage": 10.7,
       "avgPrice": 3617278
     },
     {
       "transmission": "Manuel",
-      "count": 35,
-      "percentage": 7,
-      "avgPrice": 1700743
+      "count": 39,
+      "percentage": 7.7,
+      "avgPrice": 1704782
     },
     {
       "transmission": "Bilinmiyor",
@@ -255,22 +255,22 @@
       "segment": "mid",
       "min": 1500000,
       "max": 3000000,
-      "count": 225,
-      "percentage": 45.1
+      "count": 229,
+      "percentage": 45.4
     },
     {
       "segment": "premium",
       "min": 3000000,
       "max": 5000000,
       "count": 112,
-      "percentage": 22.4
+      "percentage": 22.2
     },
     {
       "segment": "luxury",
       "min": 5000000,
       "max": 0,
-      "count": 135,
-      "percentage": 27.1
+      "count": 136,
+      "percentage": 27
     }
   ],
   "otvStats": {
@@ -396,14 +396,14 @@
     "distribution": [
       {
         "year": "2026",
-        "count": 216,
-        "percentage": 55.5,
-        "avgPrice": 4971007
+        "count": 221,
+        "percentage": 56.1,
+        "avgPrice": 4952254
       },
       {
         "year": "2025",
         "count": 162,
-        "percentage": 41.6,
+        "percentage": 41.1,
         "avgPrice": 4186536
       },
       {
@@ -415,7 +415,7 @@
       {
         "year": "2023",
         "count": 10,
-        "percentage": 2.6,
+        "percentage": 2.5,
         "avgPrice": 8629310
       }
     ]
