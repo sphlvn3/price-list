@@ -1,22 +1,42 @@
 {
-  "generatedAt": "2026-04-06T01:33:34.302Z",
-  "date": "2026-04-06",
-  "previousDate": "2026-04-05",
+  "generatedAt": "2026-04-07T01:33:38.087Z",
+  "date": "2026-04-07",
+  "previousDate": "2026-04-06",
   "dateRange": {
     "start": "2026-01-28",
-    "end": "2026-04-06",
-    "totalDays": 69
+    "end": "2026-04-07",
+    "totalDays": 70
   },
   "summary": {
-    "totalEvents": 1208,
+    "totalEvents": 1209,
     "newVehicles": 261,
     "removedVehicles": 274,
-    "priceIncreases": 539,
+    "priceIncreases": 540,
     "priceDecreases": 134,
-    "avgPriceChange": 109210,
-    "avgPriceChangePercent": 1.69
+    "avgPriceChange": 109070,
+    "avgPriceChangePercent": 1.68
   },
   "events": [
+    {
+      "id": "citroen-jumper-4.2t-(15m³)-2.2-bluehdi-140-hp---6-i̇leri-manuel-price_increase-2026-04-07",
+      "type": "price_increase",
+      "vehicleId": "citroën-jumper-4.2t-(15m³)-2.2-bluehdi-140-hp---6-i̇leri-manuel",
+      "brand": "Citroën",
+      "brandId": "citroen",
+      "model": "Jumper",
+      "trim": "4.2T (15M³)",
+      "engine": "2.2 BlueHDi 140 HP - 6 İleri Manuel",
+      "fuel": "Dizel",
+      "transmission": "Manuel",
+      "oldPrice": 1930000,
+      "newPrice": 1945000,
+      "oldPriceFormatted": "1.930.000 TL",
+      "newPriceFormatted": "1.945.000 TL",
+      "priceChange": 15000,
+      "priceChangePercent": 0.78,
+      "date": "2026-04-07",
+      "previousDate": "2026-04-06"
+    },
     {
       "id": "bmw-bmw-220i-active-tourer-luxury-line-1.5l-156+20-hp-new-2026-04-04",
       "type": "new",
@@ -21809,10 +21829,10 @@
       {
         "id": "citroen",
         "name": "Citroën",
-        "changeCount": 55,
-        "avgChange": 46218,
-        "avgChangePercent": 2.35,
-        "increaseCount": 41,
+        "changeCount": 56,
+        "avgChange": 45661,
+        "avgChangePercent": 2.32,
+        "increaseCount": 42,
         "decreaseCount": 14
       },
       {

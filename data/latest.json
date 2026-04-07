@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-06T01:33:28.842Z",
+  "generatedAt": "2026-04-07T01:33:35.408Z",
   "totalVehicles": 529,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -1322,11 +1322,11 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 33333
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 33333
             }
           ]
@@ -1350,11 +1350,11 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 33333
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 33333
             }
           ]
@@ -1378,11 +1378,11 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 33333
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 33333
             }
           ]
@@ -1406,11 +1406,11 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 33333
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 33333
             }
           ]
@@ -1436,11 +1436,11 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 18519
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 18519
             }
           ]
@@ -1464,11 +1464,11 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 18519
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 18519
             }
           ]
@@ -1494,15 +1494,15 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 18519
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 18519
             },
             {
-              "name": "Panoramik Cam Tavan",
+              "name": "Panoramik Cam Tavan (3-5)",
               "price": 39352
             }
           ]
@@ -1526,15 +1526,15 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 18519
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 18519
             },
             {
-              "name": "Panoramik Cam Tavan",
+              "name": "Panoramik Cam Tavan (3-5)",
               "price": 39352
             }
           ]
@@ -1558,15 +1558,15 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 18519
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 18519
             },
             {
-              "name": "Panoramik Cam Tavan",
+              "name": "Panoramik Cam Tavan (3-5)",
               "price": 39352
             }
           ]
@@ -1592,15 +1592,15 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 18519
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 18519
             },
             {
-              "name": "Panoramik Cam Tavan",
+              "name": "Panoramik Cam Tavan (3-5)",
               "price": 39352
             }
           ]
@@ -1624,11 +1624,11 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             }
           ]
@@ -1654,11 +1654,11 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             }
           ]
@@ -1682,11 +1682,11 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             }
           ]
@@ -1710,11 +1710,11 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             }
           ]
@@ -1738,11 +1738,11 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             }
           ]
@@ -1766,11 +1766,11 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             }
           ]
@@ -1794,11 +1794,11 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             }
           ]
@@ -1822,11 +1822,11 @@
           "origin": "Slovakya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             }
           ]
@@ -1852,11 +1852,11 @@
           "origin": "Slovakya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             }
           ]
@@ -1882,11 +1882,11 @@
           "origin": "Slovakya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             }
           ]
@@ -1912,11 +1912,11 @@
           "origin": "Slovakya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             }
           ]
@@ -1940,11 +1940,11 @@
           "origin": "Slovakya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             }
           ]
@@ -1968,11 +1968,11 @@
           "origin": "Slovakya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             }
           ]
@@ -1996,11 +1996,11 @@
           "origin": "Slovakya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             }
           ]
@@ -2024,11 +2024,11 @@
           "origin": "Slovakya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             }
           ]
@@ -2052,11 +2052,11 @@
           "origin": "Slovakya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             }
           ]
@@ -2080,11 +2080,11 @@
           "origin": "Slovakya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             }
           ]
@@ -2110,15 +2110,15 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 18519
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 18519
             },
             {
-              "name": "Panoramik Cam Tavan",
+              "name": "Panoramik Cam Tavan (3-5)",
               "price": 39352
             }
           ]
@@ -2142,15 +2142,15 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 18519
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 18519
             },
             {
-              "name": "Panoramik Cam Tavan",
+              "name": "Panoramik Cam Tavan (3-5)",
               "price": 39352
             }
           ]
@@ -2174,15 +2174,15 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 18519
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 18519
             },
             {
-              "name": "Panoramik Cam Tavan",
+              "name": "Panoramik Cam Tavan (3-5)",
               "price": 39352
             }
           ]
@@ -2208,15 +2208,15 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 18519
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 18519
             },
             {
-              "name": "Panoramik Cam Tavan",
+              "name": "Panoramik Cam Tavan (3-5)",
               "price": 39352
             }
           ]
@@ -2240,15 +2240,15 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Elektrikli Açılabilir Panoramik Cam Tavan",
+              "name": "Elektrikli Açılabilir Panoramik Cam Tavan (3-5)",
               "price": 41667
             }
           ]
@@ -2274,15 +2274,15 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Elektrikli Açılabilir Panoramik Cam Tavan",
+              "name": "Elektrikli Açılabilir Panoramik Cam Tavan (3-5)",
               "price": 41667
             }
           ]
@@ -2308,15 +2308,15 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Elektrikli Açılabilir Panoramik Cam Tavan",
+              "name": "Elektrikli Açılabilir Panoramik Cam Tavan (3-5)",
               "price": 41667
             }
           ]
@@ -2340,15 +2340,15 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "7 Kişilik Versiyon",
+              "name": "7 Kişilik Versiyon (3-5)",
               "price": 46296
             }
           ]
@@ -2374,15 +2374,15 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "7 Kişilik Versiyon",
+              "name": "7 Kişilik Versiyon (3-5)",
               "price": 46296
             }
           ]
@@ -2408,15 +2408,15 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "7 Kişilik Versiyon",
+              "name": "7 Kişilik Versiyon (3-5)",
               "price": 46296
             }
           ]
@@ -2440,15 +2440,15 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "7 Kişilik Versiyon",
+              "name": "7 Kişilik Versiyon (3-5)",
               "price": 46296
             }
           ]
@@ -2472,15 +2472,15 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "7 Kişilik Versiyon",
+              "name": "7 Kişilik Versiyon (3-5)",
               "price": 46296
             }
           ]
@@ -2504,15 +2504,15 @@
           "origin": "Çekya",
           "optionalEquipment": [
             {
-              "name": "Metalik Renk",
+              "name": "Metalik Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "Exclusive Renk",
+              "name": "Exclusive Renk (3-5)",
               "price": 21930
             },
             {
-              "name": "7 Kişilik Versiyon",
+              "name": "7 Kişilik Versiyon (3-5)",
               "price": 46296
             }
           ]
@@ -2521,7 +2521,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -3424,7 +3424,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -4017,7 +4017,7 @@
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "i20",
@@ -4450,7 +4450,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "E-208",
@@ -4849,7 +4849,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "ATTO 3",
@@ -4971,7 +4971,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5252,7 +5252,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5714,10 +5714,10 @@
           "engine": "2.2 BlueHDi 140 HP - 6 İleri Manuel",
           "transmission": "Manuel",
           "fuel": "Dizel",
-          "priceRaw": "1.930.000 TL",
-          "priceNumeric": 1930000,
+          "priceRaw": "1.945.000 TL",
+          "priceNumeric": 1945000,
           "brand": "Citroën",
-          "priceListNumeric": 1930000,
+          "priceListNumeric": 1945000,
           "powerHP": 140,
           "engineDisplacement": "2.2L",
           "engineType": "BlueHDi"
@@ -5752,7 +5752,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -6742,7 +6742,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "A 200",
@@ -7801,7 +7801,7 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "Yeni Puma",
@@ -8519,7 +8519,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -8834,7 +8834,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -9310,7 +9310,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "HR-V Hybrid",
@@ -9345,7 +9345,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "YENİ",
@@ -9493,7 +9493,7 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "Stonic",
@@ -9982,7 +9982,7 @@
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "EX30",
@@ -10220,7 +10220,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "vehicles": [
         {
           "model": "Egea Sedan",

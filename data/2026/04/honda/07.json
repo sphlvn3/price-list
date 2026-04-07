@@ -1,0 +1,37 @@
+{
+  "collectedAt": "2026-04-07T01:31:57.431Z",
+  "brand": "Honda",
+  "brandId": "honda",
+  "rowCount": 2,
+  "rows": [
+    {
+      "model": "HR-V Hybrid",
+      "trim": "Elegance",
+      "engine": "1.5L Hibrit Otomatik",
+      "transmission": "Otomatik",
+      "fuel": "Hybrid",
+      "priceRaw": "2.389.000 TL",
+      "priceNumeric": 2389000,
+      "brand": "Honda",
+      "modelYear": 2026,
+      "priceListNumeric": 2595000,
+      "priceCampaignNumeric": 2389000,
+      "engineDisplacement": "1.5L",
+      "isHybrid": true
+    },
+    {
+      "model": "HR-V Hybrid",
+      "trim": "Advance",
+      "engine": "1.5L Hibrit Otomatik",
+      "transmission": "Otomatik",
+      "fuel": "Hybrid",
+      "priceRaw": "2.730.000 TL",
+      "priceNumeric": 2730000,
+      "brand": "Honda",
+      "modelYear": 2026,
+      "priceListNumeric": 2730000,
+      "engineDisplacement": "1.5L",
+      "isHybrid": true
+    }
+  ]
+}

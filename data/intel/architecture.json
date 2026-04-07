@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-06T01:33:41.176Z",
-  "date": "2026-04-06",
+  "generatedAt": "2026-04-07T01:33:38.610Z",
+  "date": "2026-04-07",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -3972,16 +3972,6 @@
           "fuel": "Dizel"
         },
         {
-          "trim": "4.2T (15M³)",
-          "price": 1930000,
-          "priceFormatted": "1.930.000 TL",
-          "stepFromBase": 113000,
-          "stepPercent": 6.219042377545405,
-          "engine": "2.2 BlueHDi 140 HP - 6 İleri Manuel",
-          "transmission": "Manuel",
-          "fuel": "Dizel"
-        },
-        {
           "trim": "3.5T (15M³)",
           "price": 1936000,
           "priceFormatted": "1.936.000 TL",
@@ -3990,12 +3980,22 @@
           "engine": "2.2 BlueHDi 180 HP - EAT8",
           "transmission": "Otomatik",
           "fuel": "Dizel"
+        },
+        {
+          "trim": "4.2T (15M³)",
+          "price": 1945000,
+          "priceFormatted": "1.945.000 TL",
+          "stepFromBase": 128000,
+          "stepPercent": 7.044578976334617,
+          "engine": "2.2 BlueHDi 140 HP - 6 İleri Manuel",
+          "transmission": "Manuel",
+          "fuel": "Dizel"
         }
       ],
       "basePrice": 1817000,
-      "topPrice": 1936000,
-      "priceSpread": 119000,
-      "priceSpreadPercent": 6.55,
+      "topPrice": 1945000,
+      "priceSpread": 128000,
+      "priceSpreadPercent": 7.04,
       "trimCount": 3
     },
     {
@@ -8498,9 +8498,9 @@
           "brandId": "citroen",
           "model": "Jumper",
           "basePrice": 1817000,
-          "topPrice": 1936000,
+          "topPrice": 1945000,
           "basePriceFormatted": "₺1.817.000",
-          "topPriceFormatted": "₺1.936.000",
+          "topPriceFormatted": "₺1.945.000",
           "trimCount": 3
         },
         {
@@ -9575,7 +9575,7 @@
         }
       ],
       "avgBasePrice": 7987392,
-      "avgTopPrice": 8268009
+      "avgTopPrice": 8268081
     },
     {
       "segment": "SUV",
@@ -10666,7 +10666,7 @@
   "summary": {
     "totalModels": 232,
     "avgTrimsPerModel": 2.3,
-    "avgPriceSpread": 377478,
+    "avgPriceSpread": 377517,
     "avgPriceSpreadPercent": 12.51
   }
 }

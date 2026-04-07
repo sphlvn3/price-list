@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-06T01:33:46.822Z",
-  "date": "2026-04-06",
+  "generatedAt": "2026-04-07T01:33:39.088Z",
+  "date": "2026-04-07",
   "summary": {
-    "totalPriceDrops": 27,
+    "totalPriceDrops": 25,
     "totalRecentDrops": 22,
-    "avgDropPercent": 8.97,
+    "avgDropPercent": 9.28,
     "maxDropPercent": 15.56,
-    "brandsWithDrops": 6
+    "brandsWithDrops": 5
   },
   "priceDrops": [
     {
@@ -22,20 +22,12 @@
       "currentPriceFormatted": "₺1.799.000",
       "peakPrice": 2130500,
       "peakPriceFormatted": "₺2.130.500",
-      "peakDate": "2026-03-05",
+      "peakDate": "2026-03-09",
       "dropAmount": 331500,
       "dropPercent": 15.56,
-      "daysSincePeak": 32,
+      "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 1735200
-        },
-        {
-          "date": "2026-04-02",
-          "price": 2130500
-        },
-        {
           "date": "2026-04-03",
           "price": 1735200
         },
@@ -65,6 +57,14 @@
         },
         {
           "date": "2026-04-06",
+          "price": 1799000
+        },
+        {
+          "date": "2026-04-07",
+          "price": 1699000
+        },
+        {
+          "date": "2026-04-07",
           "price": 1799000
         }
       ],
@@ -85,15 +85,11 @@
       "currentPriceFormatted": "₺2.199.000",
       "peakPrice": 2595600,
       "peakPriceFormatted": "₺2.595.600",
-      "peakDate": "2026-03-05",
+      "peakDate": "2026-03-09",
       "dropAmount": 396600,
       "dropPercent": 15.28,
-      "daysSincePeak": 32,
+      "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-03-28",
-          "price": 2595600
-        },
         {
           "date": "2026-03-29",
           "price": 2595600
@@ -128,6 +124,10 @@
         },
         {
           "date": "2026-04-06",
+          "price": 2199000
+        },
+        {
+          "date": "2026-04-07",
           "price": 2199000
         }
       ],
@@ -148,15 +148,11 @@
       "currentPriceFormatted": "₺2.569.000",
       "peakPrice": 3013500,
       "peakPriceFormatted": "₺3.013.500",
-      "peakDate": "2026-03-05",
+      "peakDate": "2026-03-09",
       "dropAmount": 444500,
       "dropPercent": 14.75,
-      "daysSincePeak": 32,
+      "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-03-28",
-          "price": 3013500
-        },
         {
           "date": "2026-03-29",
           "price": 3013500
@@ -191,6 +187,10 @@
         },
         {
           "date": "2026-04-06",
+          "price": 2569000
+        },
+        {
+          "date": "2026-04-07",
           "price": 2569000
         }
       ],
@@ -211,15 +211,11 @@
       "currentPriceFormatted": "₺1.899.000",
       "peakPrice": 2223700,
       "peakPriceFormatted": "₺2.223.700",
-      "peakDate": "2026-03-05",
+      "peakDate": "2026-03-09",
       "dropAmount": 324700,
       "dropPercent": 14.6,
-      "daysSincePeak": 32,
+      "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-03-28",
-          "price": 2223700
-        },
         {
           "date": "2026-03-29",
           "price": 2223700
@@ -254,6 +250,10 @@
         },
         {
           "date": "2026-04-06",
+          "price": 1899000
+        },
+        {
+          "date": "2026-04-07",
           "price": 1899000
         }
       ],
@@ -274,15 +274,11 @@
       "currentPriceFormatted": "₺2.370.000",
       "peakPrice": 2705000,
       "peakPriceFormatted": "₺2.705.000",
-      "peakDate": "2026-03-05",
+      "peakDate": "2026-03-09",
       "dropAmount": 335000,
       "dropPercent": 12.38,
-      "daysSincePeak": 32,
+      "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-03-28",
-          "price": 2705000
-        },
         {
           "date": "2026-03-29",
           "price": 2705000
@@ -317,6 +313,10 @@
         },
         {
           "date": "2026-04-06",
+          "price": 2370000
+        },
+        {
+          "date": "2026-04-07",
           "price": 2370000
         }
       ],
@@ -340,17 +340,9 @@
       "peakDate": "2026-04-02",
       "dropAmount": 1174500,
       "dropPercent": 10.33,
-      "daysSincePeak": 4,
+      "daysSincePeak": 5,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 11367500
-        },
-        {
-          "date": "2026-04-02",
-          "price": 10193000
-        },
-        {
           "date": "2026-04-03",
           "price": 11367500
         },
@@ -380,6 +372,14 @@
         },
         {
           "date": "2026-04-06",
+          "price": 10193000
+        },
+        {
+          "date": "2026-04-07",
+          "price": 11367500
+        },
+        {
+          "date": "2026-04-07",
           "price": 10193000
         }
       ],
@@ -402,17 +402,9 @@
       "peakDate": "2026-04-02",
       "dropAmount": 1180500,
       "dropPercent": 10.31,
-      "daysSincePeak": 4,
+      "daysSincePeak": 5,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 11450500
-        },
-        {
-          "date": "2026-04-02",
-          "price": 10270000
-        },
-        {
           "date": "2026-04-03",
           "price": 11450500
         },
@@ -442,6 +434,14 @@
         },
         {
           "date": "2026-04-06",
+          "price": 10270000
+        },
+        {
+          "date": "2026-04-07",
+          "price": 11450500
+        },
+        {
+          "date": "2026-04-07",
           "price": 10270000
         }
       ],
@@ -464,17 +464,9 @@
       "peakDate": "2026-04-02",
       "dropAmount": 824000,
       "dropPercent": 9.87,
-      "daysSincePeak": 4,
+      "daysSincePeak": 5,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 8349000
-        },
-        {
-          "date": "2026-04-02",
-          "price": 7525000
-        },
-        {
           "date": "2026-04-03",
           "price": 8349000
         },
@@ -504,6 +496,14 @@
         },
         {
           "date": "2026-04-06",
+          "price": 7525000
+        },
+        {
+          "date": "2026-04-07",
+          "price": 8349000
+        },
+        {
+          "date": "2026-04-07",
           "price": 7525000
         }
       ],
@@ -526,17 +526,9 @@
       "peakDate": "2026-04-02",
       "dropAmount": 829000,
       "dropPercent": 9.85,
-      "daysSincePeak": 4,
+      "daysSincePeak": 5,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 8416000
-        },
-        {
-          "date": "2026-04-02",
-          "price": 7587000
-        },
-        {
           "date": "2026-04-03",
           "price": 8416000
         },
@@ -566,6 +558,14 @@
         },
         {
           "date": "2026-04-06",
+          "price": 7587000
+        },
+        {
+          "date": "2026-04-07",
+          "price": 8416000
+        },
+        {
+          "date": "2026-04-07",
           "price": 7587000
         }
       ],
@@ -588,17 +588,9 @@
       "peakDate": "2026-04-02",
       "dropAmount": 566000,
       "dropPercent": 9.43,
-      "daysSincePeak": 4,
+      "daysSincePeak": 5,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 6002000
-        },
-        {
-          "date": "2026-04-02",
-          "price": 5436000
-        },
-        {
           "date": "2026-04-03",
           "price": 6002000
         },
@@ -628,6 +620,14 @@
         },
         {
           "date": "2026-04-06",
+          "price": 5436000
+        },
+        {
+          "date": "2026-04-07",
+          "price": 6002000
+        },
+        {
+          "date": "2026-04-07",
           "price": 5436000
         }
       ],
@@ -647,20 +647,12 @@
       "currentPriceFormatted": "₺5.770.000",
       "peakPrice": 6358000,
       "peakPriceFormatted": "₺6.358.000",
-      "peakDate": "2026-03-05",
+      "peakDate": "2026-03-09",
       "dropAmount": 588000,
       "dropPercent": 9.25,
-      "daysSincePeak": 32,
+      "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 6358000
-        },
-        {
-          "date": "2026-04-02",
-          "price": 5770000
-        },
-        {
           "date": "2026-04-03",
           "price": 6358000
         },
@@ -690,6 +682,14 @@
         },
         {
           "date": "2026-04-06",
+          "price": 5770000
+        },
+        {
+          "date": "2026-04-07",
+          "price": 6358000
+        },
+        {
+          "date": "2026-04-07",
           "price": 5770000
         }
       ],
@@ -709,20 +709,12 @@
       "currentPriceFormatted": "₺15.231.000",
       "peakPrice": 16772500,
       "peakPriceFormatted": "₺16.772.500",
-      "peakDate": "2026-03-05",
+      "peakDate": "2026-03-09",
       "dropAmount": 1541500,
       "dropPercent": 9.19,
-      "daysSincePeak": 32,
+      "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 16772500
-        },
-        {
-          "date": "2026-04-02",
-          "price": 15231000
-        },
-        {
           "date": "2026-04-03",
           "price": 16772500
         },
@@ -752,6 +744,14 @@
         },
         {
           "date": "2026-04-06",
+          "price": 15231000
+        },
+        {
+          "date": "2026-04-07",
+          "price": 16772500
+        },
+        {
+          "date": "2026-04-07",
           "price": 15231000
         }
       ],
@@ -771,20 +771,12 @@
       "currentPriceFormatted": "₺6.372.000",
       "peakPrice": 6957500,
       "peakPriceFormatted": "₺6.957.500",
-      "peakDate": "2026-03-05",
+      "peakDate": "2026-03-09",
       "dropAmount": 585500,
       "dropPercent": 8.42,
-      "daysSincePeak": 32,
+      "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 6957500
-        },
-        {
-          "date": "2026-04-02",
-          "price": 6372000
-        },
-        {
           "date": "2026-04-03",
           "price": 6957500
         },
@@ -814,6 +806,14 @@
         },
         {
           "date": "2026-04-06",
+          "price": 6372000
+        },
+        {
+          "date": "2026-04-07",
+          "price": 6957500
+        },
+        {
+          "date": "2026-04-07",
           "price": 6372000
         }
       ],
@@ -833,15 +833,11 @@
       "currentPriceFormatted": "₺2.389.000",
       "peakPrice": 2595000,
       "peakPriceFormatted": "₺2.595.000",
-      "peakDate": "2026-03-05",
+      "peakDate": "2026-03-09",
       "dropAmount": 206000,
       "dropPercent": 7.94,
-      "daysSincePeak": 32,
+      "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-03-28",
-          "price": 2389000
-        },
         {
           "date": "2026-03-29",
           "price": 2389000
@@ -876,6 +872,10 @@
         },
         {
           "date": "2026-04-06",
+          "price": 2389000
+        },
+        {
+          "date": "2026-04-07",
           "price": 2389000
         }
       ],
@@ -896,20 +896,12 @@
       "currentPriceFormatted": "₺4.268.000",
       "peakPrice": 4619500,
       "peakPriceFormatted": "₺4.619.500",
-      "peakDate": "2026-03-05",
+      "peakDate": "2026-03-09",
       "dropAmount": 351500,
       "dropPercent": 7.61,
-      "daysSincePeak": 32,
+      "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 4619500
-        },
-        {
-          "date": "2026-04-02",
-          "price": 4268000
-        },
-        {
           "date": "2026-04-03",
           "price": 4619500
         },
@@ -939,6 +931,14 @@
         },
         {
           "date": "2026-04-06",
+          "price": 4268000
+        },
+        {
+          "date": "2026-04-07",
+          "price": 4619500
+        },
+        {
+          "date": "2026-04-07",
           "price": 4268000
         }
       ],
@@ -958,20 +958,12 @@
       "currentPriceFormatted": "₺4.014.800",
       "peakPrice": 4345000,
       "peakPriceFormatted": "₺4.345.000",
-      "peakDate": "2026-03-05",
+      "peakDate": "2026-03-09",
       "dropAmount": 330200,
       "dropPercent": 7.6,
-      "daysSincePeak": 32,
+      "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 4345000
-        },
-        {
-          "date": "2026-04-02",
-          "price": 4014800
-        },
-        {
           "date": "2026-04-03",
           "price": 4345000
         },
@@ -1001,6 +993,14 @@
         },
         {
           "date": "2026-04-06",
+          "price": 4014800
+        },
+        {
+          "date": "2026-04-07",
+          "price": 4345000
+        },
+        {
+          "date": "2026-04-07",
           "price": 4014800
         }
       ],
@@ -1020,15 +1020,11 @@
       "currentPriceFormatted": "₺3.754.000",
       "peakPrice": 4062000,
       "peakPriceFormatted": "₺4.062.000",
-      "peakDate": "2026-03-05",
+      "peakDate": "2026-03-09",
       "dropAmount": 308000,
       "dropPercent": 7.58,
-      "daysSincePeak": 32,
+      "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-03-28",
-          "price": 4062000
-        },
         {
           "date": "2026-03-29",
           "price": 4062000
@@ -1064,6 +1060,10 @@
         {
           "date": "2026-04-06",
           "price": 3754000
+        },
+        {
+          "date": "2026-04-07",
+          "price": 3754000
         }
       ],
       "listPrice": 3854000,
@@ -1083,20 +1083,12 @@
       "currentPriceFormatted": "₺6.787.000",
       "peakPrice": 7341000,
       "peakPriceFormatted": "₺7.341.000",
-      "peakDate": "2026-03-05",
+      "peakDate": "2026-03-09",
       "dropAmount": 554000,
       "dropPercent": 7.55,
-      "daysSincePeak": 32,
+      "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 7341000
-        },
-        {
-          "date": "2026-04-02",
-          "price": 6787000
-        },
-        {
           "date": "2026-04-03",
           "price": 7341000
         },
@@ -1126,6 +1118,14 @@
         },
         {
           "date": "2026-04-06",
+          "price": 6787000
+        },
+        {
+          "date": "2026-04-07",
+          "price": 7341000
+        },
+        {
+          "date": "2026-04-07",
           "price": 6787000
         }
       ],
@@ -1148,17 +1148,9 @@
       "peakDate": "2026-04-02",
       "dropAmount": 636000,
       "dropPercent": 7.53,
-      "daysSincePeak": 4,
+      "daysSincePeak": 5,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 8451000
-        },
-        {
-          "date": "2026-04-02",
-          "price": 7815000
-        },
-        {
           "date": "2026-04-03",
           "price": 8451000
         },
@@ -1188,6 +1180,14 @@
         },
         {
           "date": "2026-04-06",
+          "price": 7815000
+        },
+        {
+          "date": "2026-04-07",
+          "price": 8451000
+        },
+        {
+          "date": "2026-04-07",
           "price": 7815000
         }
       ],
@@ -1210,17 +1210,9 @@
       "peakDate": "2026-04-03",
       "dropAmount": 40000,
       "dropPercent": 6.84,
-      "daysSincePeak": 3,
+      "daysSincePeak": 4,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 544900
-        },
-        {
-          "date": "2026-04-02",
-          "price": 575900
-        },
-        {
           "date": "2026-04-03",
           "price": 584900
         },
@@ -1250,6 +1242,14 @@
         },
         {
           "date": "2026-04-06",
+          "price": 544900
+        },
+        {
+          "date": "2026-04-07",
+          "price": 584900
+        },
+        {
+          "date": "2026-04-07",
           "price": 544900
         }
       ],
@@ -1273,17 +1273,9 @@
       "peakDate": "2026-04-02",
       "dropAmount": 672300,
       "dropPercent": 6.65,
-      "daysSincePeak": 4,
+      "daysSincePeak": 5,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 10108500
-        },
-        {
-          "date": "2026-04-02",
-          "price": 9436200
-        },
-        {
           "date": "2026-04-03",
           "price": 10108500
         },
@@ -1313,6 +1305,14 @@
         },
         {
           "date": "2026-04-06",
+          "price": 9436200
+        },
+        {
+          "date": "2026-04-07",
+          "price": 10108500
+        },
+        {
+          "date": "2026-04-07",
           "price": 9436200
         }
       ],
@@ -1335,17 +1335,9 @@
       "peakDate": "2026-04-03",
       "dropAmount": 40000,
       "dropPercent": 6.35,
-      "daysSincePeak": 3,
+      "daysSincePeak": 4,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 624900
-        },
-        {
-          "date": "2026-04-02",
-          "price": 589900
-        },
-        {
           "date": "2026-04-03",
           "price": 629900
         },
@@ -1375,6 +1367,14 @@
         },
         {
           "date": "2026-04-06",
+          "price": 589900
+        },
+        {
+          "date": "2026-04-07",
+          "price": 629900
+        },
+        {
+          "date": "2026-04-07",
           "price": 589900
         }
       ],
@@ -1398,17 +1398,9 @@
       "peakDate": "2026-04-02",
       "dropAmount": 342800,
       "dropPercent": 5.78,
-      "daysSincePeak": 4,
+      "daysSincePeak": 5,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 5930500
-        },
-        {
-          "date": "2026-04-02",
-          "price": 5587700
-        },
-        {
           "date": "2026-04-03",
           "price": 5930500
         },
@@ -1438,6 +1430,14 @@
         },
         {
           "date": "2026-04-06",
+          "price": 5587700
+        },
+        {
+          "date": "2026-04-07",
+          "price": 5930500
+        },
+        {
+          "date": "2026-04-07",
           "price": 5587700
         }
       ],
@@ -1460,17 +1460,9 @@
       "peakDate": "2026-04-02",
       "dropAmount": 1206400,
       "dropPercent": 5.74,
-      "daysSincePeak": 4,
+      "daysSincePeak": 5,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 21035000
-        },
-        {
-          "date": "2026-04-02",
-          "price": 19828600
-        },
-        {
           "date": "2026-04-03",
           "price": 21035000
         },
@@ -1500,6 +1492,14 @@
         },
         {
           "date": "2026-04-06",
+          "price": 19828600
+        },
+        {
+          "date": "2026-04-07",
+          "price": 21035000
+        },
+        {
+          "date": "2026-04-07",
           "price": 19828600
         }
       ],
@@ -1522,17 +1522,9 @@
       "peakDate": "2026-04-02",
       "dropAmount": 478000,
       "dropPercent": 5.7,
-      "daysSincePeak": 4,
+      "daysSincePeak": 5,
       "priceHistory": [
         {
-          "date": "2026-04-02",
-          "price": 8389000
-        },
-        {
-          "date": "2026-04-02",
-          "price": 7911000
-        },
-        {
           "date": "2026-04-03",
           "price": 8389000
         },
@@ -1562,137 +1554,19 @@
         },
         {
           "date": "2026-04-06",
+          "price": 7911000
+        },
+        {
+          "date": "2026-04-07",
+          "price": 8389000
+        },
+        {
+          "date": "2026-04-07",
           "price": 7911000
         }
       ],
       "listPrice": 2589198,
       "otvRate": 170
-    },
-    {
-      "id": "citroen-c4-you-1.2-hybrid-145*-edcs6",
-      "brand": "Citroën",
-      "brandId": "citroen",
-      "model": "C4",
-      "trim": "You",
-      "engine": "1.2 Hybrid 145* eDCS6",
-      "fuel": "Hibrit",
-      "transmission": "Otomatik",
-      "currentPrice": 1862000,
-      "currentPriceFormatted": "₺1.862.000",
-      "peakPrice": 1962000,
-      "peakPriceFormatted": "₺1.962.000",
-      "peakDate": "2026-03-05",
-      "dropAmount": 100000,
-      "dropPercent": 5.1,
-      "daysSincePeak": 28,
-      "priceHistory": [
-        {
-          "date": "2026-03-24",
-          "price": 1862000
-        },
-        {
-          "date": "2026-03-25",
-          "price": 1862000
-        },
-        {
-          "date": "2026-03-26",
-          "price": 1862000
-        },
-        {
-          "date": "2026-03-27",
-          "price": 1862000
-        },
-        {
-          "date": "2026-03-28",
-          "price": 1862000
-        },
-        {
-          "date": "2026-03-29",
-          "price": 1862000
-        },
-        {
-          "date": "2026-03-30",
-          "price": 1862000
-        },
-        {
-          "date": "2026-03-31",
-          "price": 1862000
-        },
-        {
-          "date": "2026-04-01",
-          "price": 1862000
-        },
-        {
-          "date": "2026-04-02",
-          "price": 1862000
-        }
-      ],
-      "listPrice": 1962000,
-      "campaignPrice": 1862000,
-      "campaignDiscount": 5.1
-    },
-    {
-      "id": "citroen-c4-x-you-1.2-hybrid-145*-edcs6",
-      "brand": "Citroën",
-      "brandId": "citroen",
-      "model": "C4 X",
-      "trim": "You",
-      "engine": "1.2 Hybrid 145* eDCS6",
-      "fuel": "Hibrit",
-      "transmission": "Otomatik",
-      "currentPrice": 1862000,
-      "currentPriceFormatted": "₺1.862.000",
-      "peakPrice": 1962000,
-      "peakPriceFormatted": "₺1.962.000",
-      "peakDate": "2026-03-05",
-      "dropAmount": 100000,
-      "dropPercent": 5.1,
-      "daysSincePeak": 28,
-      "priceHistory": [
-        {
-          "date": "2026-03-24",
-          "price": 1862000
-        },
-        {
-          "date": "2026-03-25",
-          "price": 1862000
-        },
-        {
-          "date": "2026-03-26",
-          "price": 1862000
-        },
-        {
-          "date": "2026-03-27",
-          "price": 1862000
-        },
-        {
-          "date": "2026-03-28",
-          "price": 1862000
-        },
-        {
-          "date": "2026-03-29",
-          "price": 1862000
-        },
-        {
-          "date": "2026-03-30",
-          "price": 1862000
-        },
-        {
-          "date": "2026-03-31",
-          "price": 1862000
-        },
-        {
-          "date": "2026-04-01",
-          "price": 1862000
-        },
-        {
-          "date": "2026-04-02",
-          "price": 1862000
-        }
-      ],
-      "listPrice": 1962000,
-      "campaignPrice": 1862000,
-      "campaignDiscount": 5.1
     }
   ],
   "recentDrops": [
@@ -1707,8 +1581,8 @@
       "previousPrice": 11367500,
       "dropAmount": 1174500,
       "dropPercent": 10.33,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 3508488
     },
     {
@@ -1722,8 +1596,8 @@
       "previousPrice": 11450500,
       "dropAmount": 1180500,
       "dropPercent": 10.31,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 3534105
     },
     {
@@ -1737,8 +1611,8 @@
       "previousPrice": 8349000,
       "dropAmount": 824000,
       "dropPercent": 9.87,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 3478750
     },
     {
@@ -1752,8 +1626,8 @@
       "previousPrice": 8416000,
       "dropAmount": 829000,
       "dropPercent": 9.85,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 3506667
     },
     {
@@ -1767,8 +1641,8 @@
       "previousPrice": 6002000,
       "dropAmount": 566000,
       "dropPercent": 9.43,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 2500833
     },
     {
@@ -1782,8 +1656,8 @@
       "previousPrice": 6358000,
       "dropAmount": 588000,
       "dropPercent": 9.25,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 2649167
     },
     {
@@ -1797,8 +1671,8 @@
       "previousPrice": 16772500,
       "dropAmount": 1541500,
       "dropPercent": 9.19,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 5176698
     },
     {
@@ -1812,8 +1686,8 @@
       "previousPrice": 6957500,
       "dropAmount": 585500,
       "dropPercent": 8.42,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 2898958
     },
     {
@@ -1827,8 +1701,8 @@
       "previousPrice": 4619500,
       "dropAmount": 351500,
       "dropPercent": 7.61,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 2026096
     },
     {
@@ -1842,8 +1716,8 @@
       "previousPrice": 4345000,
       "dropAmount": 330200,
       "dropPercent": 7.6,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 2336022
     },
     {
@@ -1857,8 +1731,8 @@
       "previousPrice": 7341000,
       "dropAmount": 554000,
       "dropPercent": 7.55,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 3058750
     },
     {
@@ -1872,8 +1746,8 @@
       "previousPrice": 8451000,
       "dropAmount": 636000,
       "dropPercent": 7.53,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 2608333
     },
     {
@@ -1887,8 +1761,8 @@
       "previousPrice": 584900,
       "dropAmount": 40000,
       "dropPercent": 6.84,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 674900,
       "campaignPrice": 584900,
       "campaignDiscount": 13.3
@@ -1904,8 +1778,8 @@
       "previousPrice": 10108500,
       "dropAmount": 672300,
       "dropPercent": 6.65,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 4813571
     },
     {
@@ -1919,8 +1793,8 @@
       "previousPrice": 629900,
       "dropAmount": 40000,
       "dropPercent": 6.35,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 719900,
       "campaignPrice": 629900,
       "campaignDiscount": 12.5
@@ -1936,8 +1810,8 @@
       "previousPrice": 5930500,
       "dropAmount": 342800,
       "dropPercent": 5.78,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 3188441
     },
     {
@@ -1951,8 +1825,8 @@
       "previousPrice": 21035000,
       "dropAmount": 1206400,
       "dropPercent": 5.74,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 5477865
     },
     {
@@ -1966,8 +1840,8 @@
       "previousPrice": 8389000,
       "dropAmount": 478000,
       "dropPercent": 5.7,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 2589198
     },
     {
@@ -1981,8 +1855,8 @@
       "previousPrice": 4873000,
       "dropAmount": 230000,
       "dropPercent": 4.72,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 2030417
     },
     {
@@ -1996,8 +1870,8 @@
       "previousPrice": 1514900,
       "dropAmount": 45000,
       "dropPercent": 2.97,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 1584900,
       "campaignPrice": 1514900,
       "campaignDiscount": 4.4
@@ -2013,8 +1887,8 @@
       "previousPrice": 2405000,
       "dropAmount": 60000,
       "dropPercent": 2.49,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 1595148.58,
       "campaignPrice": 2405000
     },
@@ -2029,8 +1903,8 @@
       "previousPrice": 7058000,
       "dropAmount": 138000,
       "dropPercent": 1.96,
-      "date": "2026-04-06",
-      "previousDate": "2026-04-06",
+      "date": "2026-04-07",
+      "previousDate": "2026-04-07",
       "listPrice": 2178395
     }
   ],
@@ -2046,12 +1920,6 @@
       "brand": "Nissan",
       "dropCount": 5,
       "avgDropPercent": 13.55
-    },
-    {
-      "brandId": "citroen",
-      "brand": "Citroën",
-      "dropCount": 2,
-      "avgDropPercent": 5.1
     },
     {
       "brandId": "fiat",
