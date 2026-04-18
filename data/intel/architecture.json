@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-17T01:33:53.002Z",
-  "date": "2026-04-17",
+  "generatedAt": "2026-04-18T01:33:38.618Z",
+  "date": "2026-04-18",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -2801,6 +2801,49 @@
       "trimCount": 2
     },
     {
+      "id": "peugeot-408",
+      "model": "408",
+      "brand": "Peugeot",
+      "brandId": "peugeot",
+      "trims": [
+        {
+          "trim": "Allure",
+          "price": 2270000,
+          "priceFormatted": "2.270.000 TL",
+          "stepFromBase": 0,
+          "stepPercent": 0,
+          "engine": "1.2 Hybrid 145 HP",
+          "transmission": "Otomatik",
+          "fuel": "Hibrit"
+        },
+        {
+          "trim": "Allure",
+          "price": 2350000,
+          "priceFormatted": "2.350.000 TL",
+          "stepFromBase": 80000,
+          "stepPercent": 3.524229074889868,
+          "engine": "1.2 Hybrid 145 HP",
+          "transmission": "Otomatik",
+          "fuel": "Hibrit"
+        },
+        {
+          "trim": "Gt",
+          "price": 2745000,
+          "priceFormatted": "2.745.000 TL",
+          "stepFromBase": 475000,
+          "stepPercent": 20.92511013215859,
+          "engine": "1.2 Hybrid 145 HP",
+          "transmission": "Otomatik",
+          "fuel": "Hibrit"
+        }
+      ],
+      "basePrice": 2270000,
+      "topPrice": 2745000,
+      "priceSpread": 475000,
+      "priceSpreadPercent": 20.93,
+      "trimCount": 3
+    },
+    {
       "id": "peugeot-3008",
       "model": "3008",
       "brand": "Peugeot",
@@ -3491,8 +3534,8 @@
       "trims": [
         {
           "trim": "Plus",
-          "price": 1468000,
-          "priceFormatted": "1.468.000 TL",
+          "price": 1483000,
+          "priceFormatted": "1.483.000 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "83 kW Elektrikli Motor",
@@ -3501,19 +3544,19 @@
         },
         {
           "trim": "Max",
-          "price": 1528000,
-          "priceFormatted": "1.528.000 TL",
-          "stepFromBase": 60000,
-          "stepPercent": 4.087193460490464,
+          "price": 1544000,
+          "priceFormatted": "1.544.000 TL",
+          "stepFromBase": 61000,
+          "stepPercent": 4.11328388401888,
           "engine": "83 kW Elektrikli Motor",
           "transmission": "Otomatik",
           "fuel": "Elektrik"
         }
       ],
-      "basePrice": 1468000,
-      "topPrice": 1528000,
-      "priceSpread": 60000,
-      "priceSpreadPercent": 4.09,
+      "basePrice": 1483000,
+      "topPrice": 1544000,
+      "priceSpread": 61000,
+      "priceSpreadPercent": 4.11,
       "trimCount": 2
     },
     {
@@ -3524,8 +3567,8 @@
       "trims": [
         {
           "trim": "Max",
-          "price": 2010000,
-          "priceFormatted": "2.010.000 TL",
+          "price": 2042000,
+          "priceFormatted": "2.042.000 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "1.2 Hybrid 145* -  eDCS6",
@@ -3534,29 +3577,29 @@
         },
         {
           "trim": "Plus",
-          "price": 2014000,
-          "priceFormatted": "2.014.000 TL",
-          "stepFromBase": 4000,
-          "stepPercent": 0.1990049751243781,
+          "price": 2045000,
+          "priceFormatted": "2.045.000 TL",
+          "stepFromBase": 3000,
+          "stepPercent": 0.14691478942213515,
           "engine": "1.2 Hybrid 145* -  eDCS6",
           "transmission": "Otomatik",
           "fuel": "Hibrit"
         },
         {
           "trim": "Max - 7 Koltuk",
-          "price": 2115000,
-          "priceFormatted": "2.115.000 TL",
-          "stepFromBase": 105000,
-          "stepPercent": 5.223880597014925,
+          "price": 2149000,
+          "priceFormatted": "2.149.000 TL",
+          "stepFromBase": 107000,
+          "stepPercent": 5.2399608227228205,
           "engine": "1.2 Hybrid 145* -  eDCS6",
           "transmission": "Otomatik",
           "fuel": "Hibrit"
         }
       ],
-      "basePrice": 2010000,
-      "topPrice": 2115000,
-      "priceSpread": 105000,
-      "priceSpreadPercent": 5.22,
+      "basePrice": 2042000,
+      "topPrice": 2149000,
+      "priceSpread": 107000,
+      "priceSpreadPercent": 5.24,
       "trimCount": 3
     },
     {
@@ -3600,8 +3643,8 @@
       "trims": [
         {
           "trim": "You",
-          "price": 1962000,
-          "priceFormatted": "1.962.000 TL",
+          "price": 1982000,
+          "priceFormatted": "1.982.000 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "1.2 Hybrid 145* eDCS6",
@@ -3610,18 +3653,18 @@
         },
         {
           "trim": "Max",
-          "price": 2057000,
-          "priceFormatted": "2.057.000 TL",
-          "stepFromBase": 95000,
-          "stepPercent": 4.841997961264016,
+          "price": 2078000,
+          "priceFormatted": "2.078.000 TL",
+          "stepFromBase": 96000,
+          "stepPercent": 4.843592330978809,
           "engine": "1.2 Hybrid 145* eDCS6",
           "transmission": "Otomatik",
           "fuel": "Hibrit"
         }
       ],
-      "basePrice": 1962000,
-      "topPrice": 2057000,
-      "priceSpread": 95000,
+      "basePrice": 1982000,
+      "topPrice": 2078000,
+      "priceSpread": 96000,
       "priceSpreadPercent": 4.84,
       "trimCount": 2
     },
@@ -3633,8 +3676,8 @@
       "trims": [
         {
           "trim": "Max",
-          "price": 2202000,
-          "priceFormatted": "2.202.000 TL",
+          "price": 2224000,
+          "priceFormatted": "2.224.000 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "115 kW Elektrikli Motor",
@@ -3642,8 +3685,8 @@
           "fuel": "Elektrik"
         }
       ],
-      "basePrice": 2202000,
-      "topPrice": 2202000,
+      "basePrice": 2224000,
+      "topPrice": 2224000,
       "priceSpread": 0,
       "priceSpreadPercent": 0,
       "trimCount": 1
@@ -3656,8 +3699,8 @@
       "trims": [
         {
           "trim": "You",
-          "price": 1962000,
-          "priceFormatted": "1.962.000 TL",
+          "price": 1982000,
+          "priceFormatted": "1.982.000 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "1.2 Hybrid 145* eDCS6",
@@ -3666,18 +3709,18 @@
         },
         {
           "trim": "Max",
-          "price": 2066000,
-          "priceFormatted": "2.066.000 TL",
-          "stepFromBase": 104000,
-          "stepPercent": 5.300713557594292,
+          "price": 2087000,
+          "priceFormatted": "2.087.000 TL",
+          "stepFromBase": 105000,
+          "stepPercent": 5.297679112008073,
           "engine": "1.2 Hybrid 145* eDCS6",
           "transmission": "Otomatik",
           "fuel": "Hibrit"
         }
       ],
-      "basePrice": 1962000,
-      "topPrice": 2066000,
-      "priceSpread": 104000,
+      "basePrice": 1982000,
+      "topPrice": 2087000,
+      "priceSpread": 105000,
       "priceSpreadPercent": 5.3,
       "trimCount": 2
     },
@@ -3689,8 +3732,8 @@
       "trims": [
         {
           "trim": "Max",
-          "price": 2167000,
-          "priceFormatted": "2.167.000 TL",
+          "price": 2189000,
+          "priceFormatted": "2.189.000 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "115 kW Elektrikli Motor",
@@ -3698,8 +3741,8 @@
           "fuel": "Elektrik"
         }
       ],
-      "basePrice": 2167000,
-      "topPrice": 2167000,
+      "basePrice": 2189000,
+      "topPrice": 2189000,
       "priceSpread": 0,
       "priceSpreadPercent": 0,
       "trimCount": 1
@@ -8670,6 +8713,16 @@
           "trimCount": 4
         },
         {
+          "brand": "Peugeot",
+          "brandId": "peugeot",
+          "model": "408",
+          "basePrice": 2270000,
+          "topPrice": 2745000,
+          "basePriceFormatted": "₺2.270.000",
+          "topPriceFormatted": "₺2.745.000",
+          "trimCount": 3
+        },
+        {
           "brand": "Hyundai",
           "brandId": "hyundai",
           "model": "KONA",
@@ -9580,8 +9633,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 8033501,
-      "avgTopPrice": 8319483
+      "avgBasePrice": 7987759,
+      "avgTopPrice": 8275241
     },
     {
       "segment": "SUV",
@@ -9630,10 +9683,10 @@
           "brand": "Citroën",
           "brandId": "citroen",
           "model": "C3 Aircross Hybrid 145",
-          "basePrice": 2010000,
-          "topPrice": 2115000,
-          "basePriceFormatted": "₺2.010.000",
-          "topPriceFormatted": "₺2.115.000",
+          "basePrice": 2042000,
+          "topPrice": 2149000,
+          "basePriceFormatted": "₺2.042.000",
+          "topPriceFormatted": "₺2.149.000",
           "trimCount": 3
         },
         {
@@ -10017,8 +10070,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 5231846,
-      "avgTopPrice": 5736977
+      "avgBasePrice": 5232590,
+      "avgTopPrice": 5737767
     },
     {
       "segment": "Sedan",
@@ -10057,31 +10110,21 @@
           "brand": "Citroën",
           "brandId": "citroen",
           "model": " C4 Hybrid 145",
-          "basePrice": 1962000,
-          "topPrice": 2057000,
-          "basePriceFormatted": "₺1.962.000",
-          "topPriceFormatted": "₺2.057.000",
+          "basePrice": 1982000,
+          "topPrice": 2078000,
+          "basePriceFormatted": "₺1.982.000",
+          "topPriceFormatted": "₺2.078.000",
           "trimCount": 2
         },
         {
           "brand": "Citroën",
           "brandId": "citroen",
           "model": "C4 X Hybrid 145",
-          "basePrice": 1962000,
-          "topPrice": 2066000,
-          "basePriceFormatted": "₺1.962.000",
-          "topPriceFormatted": "₺2.066.000",
+          "basePrice": 1982000,
+          "topPrice": 2087000,
+          "basePriceFormatted": "₺1.982.000",
+          "topPriceFormatted": "₺2.087.000",
           "trimCount": 2
-        },
-        {
-          "brand": "Citroën",
-          "brandId": "citroen",
-          "model": "Elektrikli ë-C4 X",
-          "basePrice": 2167000,
-          "topPrice": 2167000,
-          "basePriceFormatted": "₺2.167.000",
-          "topPriceFormatted": "₺2.167.000",
-          "trimCount": 1
         },
         {
           "brand": "Toyota",
@@ -10096,11 +10139,21 @@
         {
           "brand": "Citroën",
           "brandId": "citroen",
+          "model": "Elektrikli ë-C4 X",
+          "basePrice": 2189000,
+          "topPrice": 2189000,
+          "basePriceFormatted": "₺2.189.000",
+          "topPriceFormatted": "₺2.189.000",
+          "trimCount": 1
+        },
+        {
+          "brand": "Citroën",
+          "brandId": "citroen",
           "model": "Elektrikli ë-C4",
-          "basePrice": 2202000,
-          "topPrice": 2202000,
-          "basePriceFormatted": "₺2.202.000",
-          "topPriceFormatted": "₺2.202.000",
+          "basePrice": 2224000,
+          "topPrice": 2224000,
+          "basePriceFormatted": "₺2.224.000",
+          "topPriceFormatted": "₺2.224.000",
           "trimCount": 1
         },
         {
@@ -10264,8 +10317,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 5537447,
-      "avgTopPrice": 6224880
+      "avgBasePrice": 5540947,
+      "avgTopPrice": 6228464
     },
     {
       "segment": "Electric",
@@ -10274,10 +10327,10 @@
           "brand": "Citroën",
           "brandId": "citroen",
           "model": "Elektrikli ë-C3",
-          "basePrice": 1468000,
-          "topPrice": 1528000,
-          "basePriceFormatted": "₺1.468.000",
-          "topPriceFormatted": "₺1.528.000",
+          "basePrice": 1483000,
+          "topPrice": 1544000,
+          "basePriceFormatted": "₺1.483.000",
+          "topPriceFormatted": "₺1.544.000",
           "trimCount": 2
         },
         {
@@ -10441,8 +10494,8 @@
           "trimCount": 4
         }
       ],
-      "avgBasePrice": 3197371,
-      "avgTopPrice": 3560541
+      "avgBasePrice": 3198253,
+      "avgTopPrice": 3561482
     },
     {
       "segment": "Hatchback",
@@ -10700,9 +10753,9 @@
     }
   ],
   "summary": {
-    "totalModels": 234,
+    "totalModels": 235,
     "avgTrimsPerModel": 2.3,
-    "avgPriceSpread": 378604,
-    "avgPriceSpreadPercent": 12.55
+    "avgPriceSpread": 379036,
+    "avgPriceSpreadPercent": 12.59
   }
 }

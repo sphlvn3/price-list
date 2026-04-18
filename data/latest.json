@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-17T01:33:49.209Z",
-  "totalVehicles": 528,
+  "generatedAt": "2026-04-18T01:33:34.814Z",
+  "totalVehicles": 531,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -2521,7 +2521,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -3424,7 +3424,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -4017,7 +4017,7 @@
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "i20",
@@ -4450,7 +4450,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "E-208",
@@ -4546,6 +4546,64 @@
           "priceListNumeric": 2308500,
           "powerKW": 115,
           "isElectric": true,
+          "vehicleCategory": "Binek"
+        },
+        {
+          "model": "408",
+          "trim": "Allure",
+          "engine": "1.2 Hybrid 145 HP",
+          "transmission": "Otomatik",
+          "fuel": "Hybrid",
+          "priceRaw": "2.270.000 TL",
+          "priceNumeric": 2270000,
+          "brand": "Peugeot",
+          "modelYear": 2026,
+          "priceListNumeric": 2570000,
+          "priceCampaignNumeric": 2270000,
+          "powerHP": 145,
+          "engineDisplacement": "1.2L",
+          "engineType": "Hybrid",
+          "transmissionType": "eDCS6",
+          "isHybrid": true,
+          "vehicleCategory": "Binek"
+        },
+        {
+          "model": "408",
+          "trim": "Allure",
+          "engine": "1.2 Hybrid 145 HP",
+          "transmission": "Otomatik",
+          "fuel": "Hybrid",
+          "priceRaw": "2.350.000 TL",
+          "priceNumeric": 2350000,
+          "brand": "Peugeot",
+          "modelYear": 2026,
+          "priceListNumeric": 2654444,
+          "priceCampaignNumeric": 2350000,
+          "powerHP": 145,
+          "engineDisplacement": "1.2L",
+          "engineType": "Hybrid",
+          "transmissionType": "eDCS6",
+          "isHybrid": true,
+          "vehicleCategory": "Binek",
+          "hasPanoramicRoof": true
+        },
+        {
+          "model": "408",
+          "trim": "Gt",
+          "engine": "1.2 Hybrid 145 HP",
+          "transmission": "Otomatik",
+          "fuel": "Hybrid",
+          "priceRaw": "2.745.000 TL",
+          "priceNumeric": 2745000,
+          "brand": "Peugeot",
+          "modelYear": 2026,
+          "priceListNumeric": 2910000,
+          "priceCampaignNumeric": 2745000,
+          "powerHP": 145,
+          "engineDisplacement": "1.2L",
+          "engineType": "Hybrid",
+          "transmissionType": "eDCS6",
+          "isHybrid": true,
           "vehicleCategory": "Binek"
         },
         {
@@ -4794,7 +4852,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "ATTO 3",
@@ -4916,7 +4974,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5225,7 +5283,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5233,11 +5291,11 @@
           "engine": "83 kW Elektrikli Motor",
           "transmission": "Otomatik",
           "fuel": "Elektrik",
-          "priceRaw": "1.468.000 TL",
-          "priceNumeric": 1468000,
+          "priceRaw": "1.483.000 TL",
+          "priceNumeric": 1483000,
           "brand": "Citroën",
-          "priceListNumeric": 1488000,
-          "priceCampaignNumeric": 1468000,
+          "priceListNumeric": 1503000,
+          "priceCampaignNumeric": 1483000,
           "powerKW": 83,
           "isElectric": true
         },
@@ -5247,11 +5305,11 @@
           "engine": "83 kW Elektrikli Motor",
           "transmission": "Otomatik",
           "fuel": "Elektrik",
-          "priceRaw": "1.528.000 TL",
-          "priceNumeric": 1528000,
+          "priceRaw": "1.544.000 TL",
+          "priceNumeric": 1544000,
           "brand": "Citroën",
-          "priceListNumeric": 1548000,
-          "priceCampaignNumeric": 1528000,
+          "priceListNumeric": 1564000,
+          "priceCampaignNumeric": 1544000,
           "powerKW": 83,
           "isElectric": true
         },
@@ -5261,10 +5319,10 @@
           "engine": "1.2 Hybrid 145* -  eDCS6",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2.014.000 TL",
-          "priceNumeric": 2014000,
+          "priceRaw": "2.045.000 TL",
+          "priceNumeric": 2045000,
           "brand": "Citroën",
-          "priceListNumeric": 2014000,
+          "priceListNumeric": 2045000,
           "powerHP": 145,
           "engineDisplacement": "1.2L",
           "engineType": "Hybrid",
@@ -5277,11 +5335,11 @@
           "engine": "1.2 Hybrid 145* -  eDCS6",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2.010.000 TL",
-          "priceNumeric": 2010000,
+          "priceRaw": "2.042.000 TL",
+          "priceNumeric": 2042000,
           "brand": "Citroën",
-          "priceListNumeric": 2110000,
-          "priceCampaignNumeric": 2010000,
+          "priceListNumeric": 2142000,
+          "priceCampaignNumeric": 2042000,
           "powerHP": 145,
           "engineDisplacement": "1.2L",
           "engineType": "Hybrid",
@@ -5294,11 +5352,11 @@
           "engine": "1.2 Hybrid 145* -  eDCS6",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2.115.000 TL",
-          "priceNumeric": 2115000,
+          "priceRaw": "2.149.000 TL",
+          "priceNumeric": 2149000,
           "brand": "Citroën",
-          "priceListNumeric": 2215000,
-          "priceCampaignNumeric": 2115000,
+          "priceListNumeric": 2249000,
+          "priceCampaignNumeric": 2149000,
           "powerHP": 145,
           "engineDisplacement": "1.2L",
           "engineType": "Hybrid",
@@ -5338,10 +5396,10 @@
           "engine": "1.2 Hybrid 145* eDCS6",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "1.962.000 TL",
-          "priceNumeric": 1962000,
+          "priceRaw": "1.982.000 TL",
+          "priceNumeric": 1982000,
           "brand": "Citroën",
-          "priceListNumeric": 1962000,
+          "priceListNumeric": 1982000,
           "powerHP": 145,
           "engineDisplacement": "1.2L",
           "engineType": "Hybrid",
@@ -5354,10 +5412,10 @@
           "engine": "1.2 Hybrid 145* eDCS6",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2.057.000 TL",
-          "priceNumeric": 2057000,
+          "priceRaw": "2.078.000 TL",
+          "priceNumeric": 2078000,
           "brand": "Citroën",
-          "priceListNumeric": 2057000,
+          "priceListNumeric": 2078000,
           "powerHP": 145,
           "engineDisplacement": "1.2L",
           "engineType": "Hybrid",
@@ -5370,10 +5428,10 @@
           "engine": "115 kW Elektrikli Motor",
           "transmission": "Otomatik",
           "fuel": "Elektrik",
-          "priceRaw": "2.202.000 TL",
-          "priceNumeric": 2202000,
+          "priceRaw": "2.224.000 TL",
+          "priceNumeric": 2224000,
           "brand": "Citroën",
-          "priceListNumeric": 2202000,
+          "priceListNumeric": 2224000,
           "powerKW": 115,
           "isElectric": true
         },
@@ -5383,10 +5441,10 @@
           "engine": "1.2 Hybrid 145* eDCS6",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "1.962.000 TL",
-          "priceNumeric": 1962000,
+          "priceRaw": "1.982.000 TL",
+          "priceNumeric": 1982000,
           "brand": "Citroën",
-          "priceListNumeric": 1962000,
+          "priceListNumeric": 1982000,
           "powerHP": 145,
           "engineDisplacement": "1.2L",
           "engineType": "Hybrid",
@@ -5399,10 +5457,10 @@
           "engine": "1.2 Hybrid 145* eDCS6",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2.066.000 TL",
-          "priceNumeric": 2066000,
+          "priceRaw": "2.087.000 TL",
+          "priceNumeric": 2087000,
           "brand": "Citroën",
-          "priceListNumeric": 2066000,
+          "priceListNumeric": 2087000,
           "powerHP": 145,
           "engineDisplacement": "1.2L",
           "engineType": "Hybrid",
@@ -5415,10 +5473,10 @@
           "engine": "115 kW Elektrikli Motor",
           "transmission": "Otomatik",
           "fuel": "Elektrik",
-          "priceRaw": "2.167.000 TL",
-          "priceNumeric": 2167000,
+          "priceRaw": "2.189.000 TL",
+          "priceNumeric": 2189000,
           "brand": "Citroën",
-          "priceListNumeric": 2167000,
+          "priceListNumeric": 2189000,
           "powerKW": 115,
           "isElectric": true
         },
@@ -5725,7 +5783,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -6749,7 +6807,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "A 200",
@@ -7808,7 +7866,7 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "Puma",
@@ -8526,7 +8584,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -8841,7 +8899,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -9317,7 +9375,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "HR-V Hybrid",
@@ -9352,7 +9410,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "YENİ",
@@ -9472,7 +9530,7 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "Stonic",
@@ -9962,7 +10020,7 @@
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "EX30",
@@ -10200,7 +10258,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-04-17",
+      "date": "2026-04-18",
       "vehicles": [
         {
           "model": "Egea Sedan",

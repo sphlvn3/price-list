@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-17T01:33:49.225Z",
-  "totalEntries": 528,
+  "generatedAt": "2026-04-18T01:33:34.826Z",
+  "totalEntries": 531,
   "entries": [
     {
       "id": "volkswagen-polo-life-1.0-tsi-95-ps",
@@ -2525,6 +2525,45 @@
       "searchText": "peugeot e 2008 gt 115 kw elektrik"
     },
     {
+      "id": "peugeot-408-allure-1.2-hybrid-145-hp",
+      "brand": "Peugeot",
+      "brandId": "peugeot",
+      "model": "408",
+      "trim": "Allure",
+      "engine": "1.2 Hybrid 145 HP",
+      "fuel": "Hybrid",
+      "transmission": "Otomatik",
+      "price": 2270000,
+      "priceFormatted": "2.270.000 TL",
+      "searchText": "peugeot 408 allure 1 2 hybrid 145 hp hybrid otomatik"
+    },
+    {
+      "id": "peugeot-408-allure-1.2-hybrid-145-hp",
+      "brand": "Peugeot",
+      "brandId": "peugeot",
+      "model": "408",
+      "trim": "Allure",
+      "engine": "1.2 Hybrid 145 HP",
+      "fuel": "Hybrid",
+      "transmission": "Otomatik",
+      "price": 2350000,
+      "priceFormatted": "2.350.000 TL",
+      "searchText": "peugeot 408 allure 1 2 hybrid 145 hp hybrid otomatik"
+    },
+    {
+      "id": "peugeot-408-gt-1.2-hybrid-145-hp",
+      "brand": "Peugeot",
+      "brandId": "peugeot",
+      "model": "408",
+      "trim": "Gt",
+      "engine": "1.2 Hybrid 145 HP",
+      "fuel": "Hybrid",
+      "transmission": "Otomatik",
+      "price": 2745000,
+      "priceFormatted": "2.745.000 TL",
+      "searchText": "peugeot 408 gt 1 2 hybrid 145 hp hybrid otomatik"
+    },
+    {
       "id": "peugeot-3008-allure-1.2-hybrid-145-hp",
       "brand": "Peugeot",
       "brandId": "peugeot",
@@ -3066,8 +3105,8 @@
       "engine": "83 kW Elektrikli Motor",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 1468000,
-      "priceFormatted": "1.468.000 TL",
+      "price": 1483000,
+      "priceFormatted": "1.483.000 TL",
       "searchText": "citroen elektrikli e c3 plus 83 kw elektrikli motor elektrik otomatik"
     },
     {
@@ -3079,8 +3118,8 @@
       "engine": "83 kW Elektrikli Motor",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 1528000,
-      "priceFormatted": "1.528.000 TL",
+      "price": 1544000,
+      "priceFormatted": "1.544.000 TL",
       "searchText": "citroen elektrikli e c3 max 83 kw elektrikli motor elektrik otomatik"
     },
     {
@@ -3092,8 +3131,8 @@
       "engine": "1.2 Hybrid 145* -  eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2014000,
-      "priceFormatted": "2.014.000 TL",
+      "price": 2045000,
+      "priceFormatted": "2.045.000 TL",
       "searchText": "citroen c3 aircross hybrid 145 plus 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3105,8 +3144,8 @@
       "engine": "1.2 Hybrid 145* -  eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2010000,
-      "priceFormatted": "2.010.000 TL",
+      "price": 2042000,
+      "priceFormatted": "2.042.000 TL",
       "searchText": "citroen c3 aircross hybrid 145 max 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3118,8 +3157,8 @@
       "engine": "1.2 Hybrid 145* -  eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2115000,
-      "priceFormatted": "2.115.000 TL",
+      "price": 2149000,
+      "priceFormatted": "2.149.000 TL",
       "searchText": "citroen c3 aircross hybrid 145 max 7 koltuk 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3157,8 +3196,8 @@
       "engine": "1.2 Hybrid 145* eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 1962000,
-      "priceFormatted": "1.962.000 TL",
+      "price": 1982000,
+      "priceFormatted": "1.982.000 TL",
       "searchText": "citroen c4 hybrid 145 you 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3170,8 +3209,8 @@
       "engine": "1.2 Hybrid 145* eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2057000,
-      "priceFormatted": "2.057.000 TL",
+      "price": 2078000,
+      "priceFormatted": "2.078.000 TL",
       "searchText": "citroen c4 hybrid 145 max 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3183,8 +3222,8 @@
       "engine": "115 kW Elektrikli Motor",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 2202000,
-      "priceFormatted": "2.202.000 TL",
+      "price": 2224000,
+      "priceFormatted": "2.224.000 TL",
       "searchText": "citroen elektrikli e c4 max 115 kw elektrikli motor elektrik otomatik"
     },
     {
@@ -3196,8 +3235,8 @@
       "engine": "1.2 Hybrid 145* eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 1962000,
-      "priceFormatted": "1.962.000 TL",
+      "price": 1982000,
+      "priceFormatted": "1.982.000 TL",
       "searchText": "citroen c4 x hybrid 145 you 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3209,8 +3248,8 @@
       "engine": "1.2 Hybrid 145* eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2066000,
-      "priceFormatted": "2.066.000 TL",
+      "price": 2087000,
+      "priceFormatted": "2.087.000 TL",
       "searchText": "citroen c4 x hybrid 145 max 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3222,8 +3261,8 @@
       "engine": "115 kW Elektrikli Motor",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 2167000,
-      "priceFormatted": "2.167.000 TL",
+      "price": 2189000,
+      "priceFormatted": "2.189.000 TL",
       "searchText": "citroen elektrikli e c4 x max 115 kw elektrikli motor elektrik otomatik"
     },
     {
