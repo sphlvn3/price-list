@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T01:33:42.426Z",
+  "generatedAt": "2026-04-21T01:33:53.898Z",
   "totalEntries": 531,
   "entries": [
     {
@@ -2967,19 +2967,6 @@
       "searchText": "opel mokka edition 1 2 136 hp benzin benzin manuel"
     },
     {
-      "id": "opel-mokka-gse-elektrik-207-kw",
-      "brand": "Opel",
-      "brandId": "opel",
-      "model": "Mokka",
-      "trim": "GSE",
-      "engine": "Elektrik 207 kW",
-      "fuel": "Elektrik",
-      "transmission": "",
-      "price": 3500000,
-      "priceFormatted": "3.500.000 TL",
-      "searchText": "opel mokka gse elektrik 207 kw elektrik"
-    },
-    {
       "id": "opel-mokka-edition-1.2-130-hp-benzin",
       "brand": "Opel",
       "brandId": "opel",
@@ -3017,6 +3004,19 @@
       "price": 2650000,
       "priceFormatted": "2.650.000 TL",
       "searchText": "opel mokka gs hybrid 1 2 145 136 hp hybrid otomatik"
+    },
+    {
+      "id": "opel-mokka-gse-elektrik-207-kw",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Mokka",
+      "trim": "GSE",
+      "engine": "Elektrik 207 kW",
+      "fuel": "Elektrik",
+      "transmission": "",
+      "price": 3500000,
+      "priceFormatted": "3.500.000 TL",
+      "searchText": "opel mokka gse elektrik 207 kw elektrik"
     },
     {
       "id": "opel-astra-gs-1.5-130-hp-dizel",
