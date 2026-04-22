@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-21T01:33:58.052Z",
-  "date": "2026-04-21",
+  "generatedAt": "2026-04-22T01:33:46.160Z",
+  "date": "2026-04-22",
   "summary": {
     "totalSegments": 11,
     "totalGaps": 1000,
@@ -11,8 +11,8 @@
     {
       "segment": "SUV-Compact",
       "totalVehicles": 113,
-      "avgPrice": 2822103,
-      "minPrice": 1247900,
+      "avgPrice": 2834319,
+      "minPrice": 1273200,
       "maxPrice": 8210300,
       "brands": [
         "Volkswagen",
@@ -66,7 +66,7 @@
     {
       "segment": "Hatchback-C",
       "totalVehicles": 66,
-      "avgPrice": 2621564,
+      "avgPrice": 2619518,
       "minPrice": 544900,
       "maxPrice": 6683000,
       "brands": [
@@ -115,7 +115,7 @@
     {
       "segment": "SUV-Medium",
       "totalVehicles": 62,
-      "avgPrice": 3742673,
+      "avgPrice": 3746053,
       "minPrice": 2049000,
       "maxPrice": 9241000,
       "brands": [
@@ -1623,7 +1623,7 @@
       "brands": [
         "Nissan"
       ],
-      "avgPrice": 1312650,
+      "avgPrice": 1339750,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -1641,7 +1641,7 @@
         "SEAT",
         "Kia"
       ],
-      "avgPrice": 1759640,
+      "avgPrice": 1775290,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -1662,7 +1662,7 @@
         "Nissan",
         "SEAT"
       ],
-      "avgPrice": 2495043,
+      "avgPrice": 2501343,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -2060,7 +2060,7 @@
         "Toyota",
         "Nissan"
       ],
-      "avgPrice": 3610700,
+      "avgPrice": 3708067,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -2231,7 +2231,7 @@
       "brands": [
         "Nissan"
       ],
-      "avgPrice": 2384000,
+      "avgPrice": 2409800,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -2247,7 +2247,7 @@
         "BMW",
         "Nissan"
       ],
-      "avgPrice": 3929114,
+      "avgPrice": 3984114,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -2614,7 +2614,7 @@
         "Nissan",
         "Volvo"
       ],
-      "avgPrice": 2270297,
+      "avgPrice": 2270697,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -3919,7 +3919,7 @@
       "brands": [
         "Fiat"
       ],
-      "avgPrice": 1969900,
+      "avgPrice": 1834900,
       "hasGap": true,
       "opportunityScore": 27.47
     },
@@ -4893,7 +4893,7 @@
       "brands": [
         "Nissan"
       ],
-      "avgPrice": 4898600,
+      "avgPrice": 4998300,
       "hasGap": true,
       "opportunityScore": 24.17
     },
@@ -4909,7 +4909,7 @@
         "BMW",
         "Nissan"
       ],
-      "avgPrice": 6428167,
+      "avgPrice": 6464800,
       "hasGap": false,
       "opportunityScore": 0
     },

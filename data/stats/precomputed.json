@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-21T01:33:53.915Z",
+  "generatedAt": "2026-04-22T01:33:42.447Z",
   "totalVehicles": 531,
   "overallStats": {
-    "avgPrice": 4951474,
+    "avgPrice": 4954214,
     "minPrice": 544900,
     "maxPrice": 38034000,
     "medianPrice": 3102000
@@ -75,10 +75,10 @@
     {
       "name": "Nissan",
       "vehicleCount": 28,
-      "avgPrice": 2841318,
-      "minPrice": 1247900,
-      "maxPrice": 5405700,
-      "medianPrice": 2546700
+      "avgPrice": 2898104,
+      "minPrice": 1273200,
+      "maxPrice": 5515600,
+      "medianPrice": 2598150
     },
     {
       "name": "Renault",
@@ -115,7 +115,7 @@
     {
       "name": "Fiat",
       "vehicleCount": 19,
-      "avgPrice": 1519795,
+      "avgPrice": 1512689,
       "minPrice": 544900,
       "maxPrice": 2149900,
       "medianPrice": 1679900
@@ -166,19 +166,19 @@
       "fuel": "Benzin",
       "count": 214,
       "percentage": 40.3,
-      "avgPrice": 5146058
+      "avgPrice": 5147720
     },
     {
       "fuel": "Elektrik",
       "count": 123,
       "percentage": 23.2,
-      "avgPrice": 4757863
+      "avgPrice": 4756798
     },
     {
       "fuel": "Hibrit",
       "count": 69,
       "percentage": 13,
-      "avgPrice": 3157292
+      "avgPrice": 3165759
     },
     {
       "fuel": "Dizel",
@@ -190,7 +190,7 @@
       "fuel": "Hafif Hibrit",
       "count": 34,
       "percentage": 6.4,
-      "avgPrice": 7933491
+      "avgPrice": 7952497
     },
     {
       "fuel": "Plug-in Hibrit",
@@ -216,7 +216,7 @@
       "transmission": "Otomatik",
       "count": 365,
       "percentage": 68.7,
-      "avgPrice": 5783225
+      "avgPrice": 5787211
     },
     {
       "transmission": "DSG",
@@ -398,7 +398,7 @@
         "year": "2026",
         "count": 277,
         "percentage": 65.6,
-        "avgPrice": 4765496
+        "avgPrice": 4771236
       },
       {
         "year": "2025",
