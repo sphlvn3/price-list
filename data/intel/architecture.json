@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-22T01:33:45.938Z",
-  "date": "2026-04-22",
+  "generatedAt": "2026-04-23T01:34:12.203Z",
+  "date": "2026-04-23",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -1504,6 +1504,29 @@
       "priceSpread": 732000.0199999996,
       "priceSpreadPercent": 27.88,
       "trimCount": 3
+    },
+    {
+      "id": "renault-scenic-e-tech-elektri̇kli̇",
+      "model": "Scenic E-Tech ELEKTRİKLİ",
+      "brand": "Renault",
+      "brandId": "renault",
+      "trims": [
+        {
+          "trim": "Esprit Alpine",
+          "price": 3490000,
+          "priceFormatted": "₺3.490.000,00",
+          "stepFromBase": 0,
+          "stepPercent": 0,
+          "engine": "Esprit Alpine EV87 220 hp",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik"
+        }
+      ],
+      "basePrice": 3490000,
+      "topPrice": 3490000,
+      "priceSpread": 0,
+      "priceSpreadPercent": 0,
+      "trimCount": 1
     },
     {
       "id": "renault-rafale",
@@ -10444,6 +10467,16 @@
           "trimCount": 2
         },
         {
+          "brand": "Renault",
+          "brandId": "renault",
+          "model": "Scenic E-Tech ELEKTRİKLİ",
+          "basePrice": 3490000,
+          "topPrice": 3490000,
+          "basePriceFormatted": "₺3.490.000",
+          "topPriceFormatted": "₺3.490.000",
+          "trimCount": 1
+        },
+        {
           "brand": "Kia",
           "brandId": "kia",
           "model": "EV6 PE",
@@ -10494,8 +10527,8 @@
           "trimCount": 4
         }
       ],
-      "avgBasePrice": 3198488,
-      "avgTopPrice": 3561482
+      "avgBasePrice": 3214683,
+      "avgTopPrice": 3557511
     },
     {
       "segment": "Hatchback",
@@ -10753,9 +10786,9 @@
     }
   ],
   "summary": {
-    "totalModels": 235,
+    "totalModels": 236,
     "avgTrimsPerModel": 2.3,
-    "avgPriceSpread": 379564,
-    "avgPriceSpreadPercent": 12.6
+    "avgPriceSpread": 377956,
+    "avgPriceSpreadPercent": 12.55
   }
 }

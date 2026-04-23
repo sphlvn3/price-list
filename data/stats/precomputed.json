@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-22T01:33:42.447Z",
-  "totalVehicles": 531,
+  "generatedAt": "2026-04-23T01:34:08.212Z",
+  "totalVehicles": 532,
   "overallStats": {
-    "avgPrice": 4954214,
+    "avgPrice": 4951462,
     "minPrice": 544900,
     "maxPrice": 38034000,
-    "medianPrice": 3102000
+    "medianPrice": 3103500
   },
   "brandStats": [
     {
@@ -82,11 +82,11 @@
     },
     {
       "name": "Renault",
-      "vehicleCount": 25,
-      "avgPrice": 2310640,
+      "vehicleCount": 26,
+      "avgPrice": 2356000,
       "minPrice": 1694999.99,
       "maxPrice": 3748000,
-      "medianPrice": 2156000.01
+      "medianPrice": 2211000
     },
     {
       "name": "Peugeot",
@@ -165,14 +165,14 @@
     {
       "fuel": "Benzin",
       "count": 214,
-      "percentage": 40.3,
+      "percentage": 40.2,
       "avgPrice": 5147720
     },
     {
       "fuel": "Elektrik",
-      "count": 123,
-      "percentage": 23.2,
-      "avgPrice": 4756798
+      "count": 124,
+      "percentage": 23.3,
+      "avgPrice": 4746582
     },
     {
       "fuel": "Hibrit",
@@ -214,9 +214,9 @@
   "transmissionStats": [
     {
       "transmission": "Otomatik",
-      "count": 365,
-      "percentage": 68.7,
-      "avgPrice": 5787211
+      "count": 366,
+      "percentage": 68.8,
+      "avgPrice": 5780935
     },
     {
       "transmission": "DSG",
@@ -227,7 +227,7 @@
     {
       "transmission": "Manuel",
       "count": 38,
-      "percentage": 7.2,
+      "percentage": 7.1,
       "avgPrice": 1702118
     },
     {
@@ -256,25 +256,25 @@
       "min": 1500000,
       "max": 3000000,
       "count": 234,
-      "percentage": 44.1
+      "percentage": 44
     },
     {
       "segment": "premium",
       "min": 3000000,
       "max": 5000000,
-      "count": 124,
-      "percentage": 23.4
+      "count": 125,
+      "percentage": 23.5
     },
     {
       "segment": "luxury",
       "min": 5000000,
       "max": 0,
       "count": 148,
-      "percentage": 27.9
+      "percentage": 27.8
     }
   ],
   "otvStats": {
-    "avgOtvRate": 108.8,
+    "avgOtvRate": 108.6,
     "distribution": [
       {
         "rate": 1,
@@ -296,9 +296,9 @@
       },
       {
         "rate": 55,
-        "count": 18,
-        "percentage": 6.6,
-        "avgPrice": 4958283
+        "count": 19,
+        "percentage": 7,
+        "avgPrice": 4881005
       },
       {
         "rate": 70,
@@ -327,7 +327,7 @@
       {
         "rate": 100,
         "count": 49,
-        "percentage": 18,
+        "percentage": 17.9,
         "avgPrice": 5685961
       },
       {
@@ -339,7 +339,7 @@
       {
         "rate": 170,
         "count": 54,
-        "percentage": 19.9,
+        "percentage": 19.8,
         "avgPrice": 8240463
       },
       {
@@ -372,8 +372,8 @@
       },
       {
         "brand": "Renault",
-        "avgOtvRate": 68.4,
-        "count": 25
+        "avgOtvRate": 67.9,
+        "count": 26
       },
       {
         "brand": "Kia",
@@ -396,14 +396,14 @@
     "distribution": [
       {
         "year": "2026",
-        "count": 277,
-        "percentage": 65.6,
-        "avgPrice": 4771236
+        "count": 278,
+        "percentage": 65.7,
+        "avgPrice": 4766627
       },
       {
         "year": "2025",
         "count": 135,
-        "percentage": 32,
+        "percentage": 31.9,
         "avgPrice": 4275469
       },
       {

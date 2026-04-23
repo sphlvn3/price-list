@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-22T01:33:42.431Z",
-  "totalEntries": 531,
+  "generatedAt": "2026-04-23T01:34:08.199Z",
+  "totalEntries": 532,
   "entries": [
     {
       "id": "volkswagen-polo-life-1.0-tsi-95-ps",
@@ -1431,6 +1431,19 @@
       "price": 3358000.01,
       "priceFormatted": "₺3.358.000,01",
       "searchText": "renault austral esprit alpine esprit alpine full hybrid e tech 200 hp hybrid otomatik"
+    },
+    {
+      "id": "renault-scenic-e-tech-elektri̇kli̇-esprit-alpine-esprit-alpine-ev87-220-hp",
+      "brand": "Renault",
+      "brandId": "renault",
+      "model": "Scenic E-Tech ELEKTRİKLİ",
+      "trim": "Esprit Alpine",
+      "engine": "Esprit Alpine EV87 220 hp",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 3490000,
+      "priceFormatted": "₺3.490.000,00",
+      "searchText": "renault scenic e tech elektrikli esprit alpine esprit alpine ev87 220 hp elektrik otomatik"
     },
     {
       "id": "renault-rafale-esprit-alpine-esprit-alpine-full-hybrid-e-tech-200-hp",

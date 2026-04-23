@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-04-22T01:33:45.399Z",
-  "date": "2026-04-22",
-  "previousDate": "2026-04-21",
+  "generatedAt": "2026-04-23T01:34:11.505Z",
+  "date": "2026-04-23",
+  "previousDate": "2026-04-22",
   "dateRange": {
     "start": "2026-01-28",
-    "end": "2026-04-22",
-    "totalDays": 85
+    "end": "2026-04-23",
+    "totalDays": 86
   },
   "summary": {
-    "totalEvents": 1278,
-    "newVehicles": 277,
+    "totalEvents": 1279,
+    "newVehicles": 278,
     "removedVehicles": 288,
     "priceIncreases": 578,
     "priceDecreases": 135,
@@ -17,6 +17,21 @@
     "avgPriceChangePercent": 1.69
   },
   "events": [
+    {
+      "id": "renault-scenic-e-tech-elektri̇kli̇-esprit-alpine-esprit-alpine-ev87-220-hp-new-2026-04-23",
+      "type": "new",
+      "vehicleId": "renault-scenic-e-tech-elektri̇kli̇-esprit-alpine-esprit-alpine-ev87-220-hp",
+      "brand": "Renault",
+      "brandId": "renault",
+      "model": "Scenic E-Tech ELEKTRİKLİ",
+      "trim": "Esprit Alpine",
+      "engine": "Esprit Alpine EV87 220 hp",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "newPrice": 3490000,
+      "newPriceFormatted": "₺3.490.000,00",
+      "date": "2026-04-23"
+    },
     {
       "id": "nissan-qashqai-skypack-1.3-dig-t-mild-hybrid-158ps-price_increase-2026-04-22",
       "type": "price_increase",

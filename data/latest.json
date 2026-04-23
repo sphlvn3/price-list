@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-22T01:33:42.417Z",
-  "totalVehicles": 531,
+  "generatedAt": "2026-04-23T01:34:08.187Z",
+  "totalVehicles": 532,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -2521,7 +2521,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -3394,6 +3394,36 @@
           "isElectric": true
         },
         {
+          "model": "Scenic E-Tech ELEKTRİKLİ",
+          "trim": "Esprit Alpine",
+          "engine": "Esprit Alpine EV87 220 hp",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "₺3.490.000,00",
+          "priceNumeric": 3490000,
+          "brand": "Renault",
+          "modelYear": "2026",
+          "otvRate": 55,
+          "netPrice": 1846229.57,
+          "otvAmount": 1015426.26,
+          "kdvAmount": 572331.17,
+          "optionalEquipment": [
+            {
+              "name": "Metalik Renk",
+              "price": 15000
+            },
+            {
+              "name": "Çift Renk Tavan",
+              "price": 16500
+            }
+          ],
+          "vehicleCategory": "Binek",
+          "otvIncentivePrice": 3490000,
+          "powerHP": 220,
+          "engineType": "EV",
+          "isElectric": true
+        },
+        {
           "model": "Rafale",
           "trim": "Esprit Alpine",
           "engine": "esprit alpine full hybrid E-Tech 200 hp",
@@ -3424,7 +3454,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -4017,7 +4047,7 @@
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "i20",
@@ -4450,7 +4480,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "E-208",
@@ -4852,7 +4882,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "ATTO 3",
@@ -4974,7 +5004,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5283,7 +5313,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5783,7 +5813,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -6807,7 +6837,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "A 200",
@@ -7866,7 +7896,7 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "Puma",
@@ -8584,7 +8614,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -8899,7 +8929,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -9375,7 +9405,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "HR-V Hybrid",
@@ -9410,7 +9440,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "YENİ",
@@ -9530,7 +9560,7 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "Stonic",
@@ -10020,7 +10050,7 @@
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "EX30",
@@ -10258,7 +10288,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-04-22",
+      "date": "2026-04-23",
       "vehicles": [
         {
           "model": "Egea Sedan",
