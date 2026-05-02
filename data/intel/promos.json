@@ -1,14 +1,76 @@
 {
-  "generatedAt": "2026-05-01T01:34:28.450Z",
-  "date": "2026-05-01",
+  "generatedAt": "2026-05-02T01:34:41.030Z",
+  "date": "2026-05-02",
   "summary": {
-    "totalPriceDrops": 25,
-    "totalRecentDrops": 22,
-    "avgDropPercent": 9.3,
-    "maxDropPercent": 19.84,
-    "brandsWithDrops": 4
+    "totalPriceDrops": 24,
+    "totalRecentDrops": 27,
+    "avgDropPercent": 10.01,
+    "maxDropPercent": 23.74,
+    "brandsWithDrops": 6
   },
   "priceDrops": [
+    {
+      "id": "mercedes-mercedes-amg-e-53-hybrid-4matic+-performance-3.0l-585-hp",
+      "brand": "Mercedes-Benz",
+      "brandId": "mercedes",
+      "model": "Mercedes-AMG E 53 Hybrid 4MATIC+",
+      "trim": "Performance",
+      "engine": "3.0L 585 HP",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "currentPrice": 15892100,
+      "currentPriceFormatted": "₺15.892.100",
+      "peakPrice": 20839000,
+      "peakPriceFormatted": "₺20.839.000",
+      "peakDate": "2026-04-03",
+      "dropAmount": 4946900,
+      "dropPercent": 23.74,
+      "daysSincePeak": 29,
+      "priceHistory": [
+        {
+          "date": "2026-04-23",
+          "price": 20839000
+        },
+        {
+          "date": "2026-04-24",
+          "price": 20839000
+        },
+        {
+          "date": "2026-04-25",
+          "price": 20839000
+        },
+        {
+          "date": "2026-04-26",
+          "price": 20839000
+        },
+        {
+          "date": "2026-04-27",
+          "price": 20839000
+        },
+        {
+          "date": "2026-04-28",
+          "price": 20839000
+        },
+        {
+          "date": "2026-04-29",
+          "price": 20839000
+        },
+        {
+          "date": "2026-04-30",
+          "price": 20839000
+        },
+        {
+          "date": "2026-05-01",
+          "price": 20839000
+        },
+        {
+          "date": "2026-05-02",
+          "price": 15892100
+        }
+      ],
+      "listPrice": 4138568,
+      "otvRate": 220
+    },
     {
       "id": "nissan-qashqai-skypack-4x4-1.3-dig-t-mild-hybrid-158ps",
       "brand": "Nissan",
@@ -22,15 +84,11 @@
       "currentPriceFormatted": "₺2.800.000",
       "peakPrice": 3493200,
       "peakPriceFormatted": "₺3.493.200",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 693200,
       "dropPercent": 19.84,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-04-22",
-          "price": 3474500
-        },
         {
           "date": "2026-04-23",
           "price": 3474500
@@ -65,6 +123,10 @@
         },
         {
           "date": "2026-05-01",
+          "price": 2800000
+        },
+        {
+          "date": "2026-05-02",
           "price": 2800000
         }
       ],
@@ -85,20 +147,12 @@
       "currentPriceFormatted": "₺1.799.000",
       "peakPrice": 2130500,
       "peakPriceFormatted": "₺2.130.500",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 331500,
       "dropPercent": 15.56,
       "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-27",
-          "price": 1699000
-        },
-        {
-          "date": "2026-04-27",
-          "price": 1799000
-        },
-        {
           "date": "2026-04-28",
           "price": 1699000
         },
@@ -128,6 +182,14 @@
         },
         {
           "date": "2026-05-01",
+          "price": 1799000
+        },
+        {
+          "date": "2026-05-02",
+          "price": 1699000
+        },
+        {
+          "date": "2026-05-02",
           "price": 1799000
         }
       ],
@@ -148,15 +210,11 @@
       "currentPriceFormatted": "₺2.249.000",
       "peakPrice": 2595600,
       "peakPriceFormatted": "₺2.595.600",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 346600,
       "dropPercent": 13.35,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-04-22",
-          "price": 2199000
-        },
         {
           "date": "2026-04-23",
           "price": 2199000
@@ -191,6 +249,10 @@
         },
         {
           "date": "2026-05-01",
+          "price": 2249000
+        },
+        {
+          "date": "2026-05-02",
           "price": 2249000
         }
       ],
@@ -211,15 +273,11 @@
       "currentPriceFormatted": "₺2.620.600",
       "peakPrice": 3013500,
       "peakPriceFormatted": "₺3.013.500",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 392900,
       "dropPercent": 13.04,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-04-22",
-          "price": 2620600
-        },
         {
           "date": "2026-04-23",
           "price": 2620600
@@ -255,11 +313,76 @@
         {
           "date": "2026-05-01",
           "price": 2620600
+        },
+        {
+          "date": "2026-05-02",
+          "price": 2620600
         }
       ],
       "listPrice": 3096900,
       "campaignPrice": 2620600,
       "campaignDiscount": 15.4
+    },
+    {
+      "id": "opel-corsa-edition-1.2-100-hp-benzin",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Corsa",
+      "trim": "Edition",
+      "engine": "1.2 100 HP Benzin",
+      "fuel": "Benzin",
+      "transmission": "Manuel",
+      "currentPrice": 1535000,
+      "currentPriceFormatted": "₺1.535.000",
+      "peakPrice": 1749000,
+      "peakPriceFormatted": "₺1.749.000",
+      "peakDate": "2026-04-03",
+      "dropAmount": 214000,
+      "dropPercent": 12.24,
+      "daysSincePeak": 29,
+      "priceHistory": [
+        {
+          "date": "2026-04-27",
+          "price": 1749000
+        },
+        {
+          "date": "2026-04-28",
+          "price": 1535000
+        },
+        {
+          "date": "2026-04-28",
+          "price": 1749000
+        },
+        {
+          "date": "2026-04-29",
+          "price": 1535000
+        },
+        {
+          "date": "2026-04-29",
+          "price": 1749000
+        },
+        {
+          "date": "2026-04-30",
+          "price": 1535000
+        },
+        {
+          "date": "2026-04-30",
+          "price": 1749000
+        },
+        {
+          "date": "2026-05-01",
+          "price": 1535000
+        },
+        {
+          "date": "2026-05-01",
+          "price": 1749000
+        },
+        {
+          "date": "2026-05-02",
+          "price": 1535000
+        }
+      ],
+      "listPrice": 1535000
     },
     {
       "id": "nissan-juke-platinum-1.0-dig-t-115ps",
@@ -274,15 +397,11 @@
       "currentPriceFormatted": "₺1.991.500",
       "peakPrice": 2223700,
       "peakPriceFormatted": "₺2.223.700",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 232200,
       "dropPercent": 10.44,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-04-22",
-          "price": 1991500
-        },
         {
           "date": "2026-04-23",
           "price": 1991500
@@ -318,73 +437,15 @@
         {
           "date": "2026-05-01",
           "price": 1991500
+        },
+        {
+          "date": "2026-05-02",
+          "price": 1991500
         }
       ],
       "listPrice": 2300500,
       "campaignPrice": 1991500,
       "campaignDiscount": 13.4
-    },
-    {
-      "id": "mercedes-e-220-d-4matic-exclusive-2.0l-197-hp",
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "E 220 d 4MATIC",
-      "trim": "Exclusive",
-      "engine": "2.0L 197 HP",
-      "fuel": "Dizel",
-      "transmission": "Otomatik",
-      "currentPrice": 10193000,
-      "currentPriceFormatted": "₺10.193.000",
-      "peakPrice": 11367500,
-      "peakPriceFormatted": "₺11.367.500",
-      "peakDate": "2026-04-02",
-      "dropAmount": 1174500,
-      "dropPercent": 10.33,
-      "daysSincePeak": 29,
-      "priceHistory": [
-        {
-          "date": "2026-04-27",
-          "price": 11367500
-        },
-        {
-          "date": "2026-04-27",
-          "price": 10193000
-        },
-        {
-          "date": "2026-04-28",
-          "price": 11367500
-        },
-        {
-          "date": "2026-04-28",
-          "price": 10193000
-        },
-        {
-          "date": "2026-04-29",
-          "price": 11367500
-        },
-        {
-          "date": "2026-04-29",
-          "price": 10193000
-        },
-        {
-          "date": "2026-04-30",
-          "price": 11367500
-        },
-        {
-          "date": "2026-04-30",
-          "price": 10193000
-        },
-        {
-          "date": "2026-05-01",
-          "price": 11367500
-        },
-        {
-          "date": "2026-05-01",
-          "price": 10193000
-        }
-      ],
-      "listPrice": 3508488,
-      "otvRate": 170
     },
     {
       "id": "mercedes-e-220-d-4matic-amg-2.0l-197-hp",
@@ -399,20 +460,12 @@
       "currentPriceFormatted": "₺10.270.000",
       "peakPrice": 11450500,
       "peakPriceFormatted": "₺11.450.500",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 1180500,
       "dropPercent": 10.31,
       "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-27",
-          "price": 11450500
-        },
-        {
-          "date": "2026-04-27",
-          "price": 10270000
-        },
-        {
           "date": "2026-04-28",
           "price": 11450500
         },
@@ -442,6 +495,14 @@
         },
         {
           "date": "2026-05-01",
+          "price": 10270000
+        },
+        {
+          "date": "2026-05-02",
+          "price": 11450500
+        },
+        {
+          "date": "2026-05-02",
           "price": 10270000
         }
       ],
@@ -461,20 +522,12 @@
       "currentPriceFormatted": "₺7.525.000",
       "peakPrice": 8349000,
       "peakPriceFormatted": "₺8.349.000",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 824000,
       "dropPercent": 9.87,
       "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-27",
-          "price": 8349000
-        },
-        {
-          "date": "2026-04-27",
-          "price": 7525000
-        },
-        {
           "date": "2026-04-28",
           "price": 8349000
         },
@@ -504,6 +557,14 @@
         },
         {
           "date": "2026-05-01",
+          "price": 7525000
+        },
+        {
+          "date": "2026-05-02",
+          "price": 8349000
+        },
+        {
+          "date": "2026-05-02",
           "price": 7525000
         }
       ],
@@ -523,20 +584,12 @@
       "currentPriceFormatted": "₺7.587.000",
       "peakPrice": 8416000,
       "peakPriceFormatted": "₺8.416.000",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 829000,
       "dropPercent": 9.85,
       "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-27",
-          "price": 8416000
-        },
-        {
-          "date": "2026-04-27",
-          "price": 7587000
-        },
-        {
           "date": "2026-04-28",
           "price": 8416000
         },
@@ -566,6 +619,14 @@
         },
         {
           "date": "2026-05-01",
+          "price": 7587000
+        },
+        {
+          "date": "2026-05-02",
+          "price": 8416000
+        },
+        {
+          "date": "2026-05-02",
           "price": 7587000
         }
       ],
@@ -585,20 +646,12 @@
       "currentPriceFormatted": "₺5.436.000",
       "peakPrice": 6002000,
       "peakPriceFormatted": "₺6.002.000",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 566000,
       "dropPercent": 9.43,
       "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-27",
-          "price": 6002000
-        },
-        {
-          "date": "2026-04-27",
-          "price": 5436000
-        },
-        {
           "date": "2026-04-28",
           "price": 6002000
         },
@@ -628,6 +681,14 @@
         },
         {
           "date": "2026-05-01",
+          "price": 5436000
+        },
+        {
+          "date": "2026-05-02",
+          "price": 6002000
+        },
+        {
+          "date": "2026-05-02",
           "price": 5436000
         }
       ],
@@ -647,20 +708,12 @@
       "currentPriceFormatted": "₺2.350.000",
       "peakPrice": 2592000,
       "peakPriceFormatted": "₺2.592.000",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 242000,
       "dropPercent": 9.34,
       "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-27",
-          "price": 2270000
-        },
-        {
-          "date": "2026-04-27",
-          "price": 2350000
-        },
-        {
           "date": "2026-04-28",
           "price": 2270000
         },
@@ -690,6 +743,14 @@
         },
         {
           "date": "2026-05-01",
+          "price": 2350000
+        },
+        {
+          "date": "2026-05-02",
+          "price": 2270000
+        },
+        {
+          "date": "2026-05-02",
           "price": 2350000
         }
       ],
@@ -710,20 +771,12 @@
       "currentPriceFormatted": "₺5.770.000",
       "peakPrice": 6358000,
       "peakPriceFormatted": "₺6.358.000",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 588000,
       "dropPercent": 9.25,
       "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-27",
-          "price": 6358000
-        },
-        {
-          "date": "2026-04-27",
-          "price": 5770000
-        },
-        {
           "date": "2026-04-28",
           "price": 6358000
         },
@@ -753,6 +806,14 @@
         },
         {
           "date": "2026-05-01",
+          "price": 5770000
+        },
+        {
+          "date": "2026-05-02",
+          "price": 6358000
+        },
+        {
+          "date": "2026-05-02",
           "price": 5770000
         }
       ],
@@ -772,20 +833,12 @@
       "currentPriceFormatted": "₺15.231.000",
       "peakPrice": 16772500,
       "peakPriceFormatted": "₺16.772.500",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 1541500,
       "dropPercent": 9.19,
       "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-27",
-          "price": 16772500
-        },
-        {
-          "date": "2026-04-27",
-          "price": 15231000
-        },
-        {
           "date": "2026-04-28",
           "price": 16772500
         },
@@ -815,73 +868,19 @@
         },
         {
           "date": "2026-05-01",
+          "price": 15231000
+        },
+        {
+          "date": "2026-05-02",
+          "price": 16772500
+        },
+        {
+          "date": "2026-05-02",
           "price": 15231000
         }
       ],
       "listPrice": 5176698,
       "otvRate": 170
-    },
-    {
-      "id": "mercedes-glc-180-amg-1.5l-170-hp",
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "GLC 180",
-      "trim": "AMG",
-      "engine": "1.5L 170 HP",
-      "fuel": "Benzin",
-      "transmission": "Otomatik",
-      "currentPrice": 6372000,
-      "currentPriceFormatted": "₺6.372.000",
-      "peakPrice": 6957500,
-      "peakPriceFormatted": "₺6.957.500",
-      "peakDate": "2026-04-02",
-      "dropAmount": 585500,
-      "dropPercent": 8.42,
-      "daysSincePeak": 29,
-      "priceHistory": [
-        {
-          "date": "2026-04-27",
-          "price": 6957500
-        },
-        {
-          "date": "2026-04-27",
-          "price": 6372000
-        },
-        {
-          "date": "2026-04-28",
-          "price": 6957500
-        },
-        {
-          "date": "2026-04-28",
-          "price": 6372000
-        },
-        {
-          "date": "2026-04-29",
-          "price": 6957500
-        },
-        {
-          "date": "2026-04-29",
-          "price": 6372000
-        },
-        {
-          "date": "2026-04-30",
-          "price": 6957500
-        },
-        {
-          "date": "2026-04-30",
-          "price": 6372000
-        },
-        {
-          "date": "2026-05-01",
-          "price": 6957500
-        },
-        {
-          "date": "2026-05-01",
-          "price": 6372000
-        }
-      ],
-      "listPrice": 2898958,
-      "otvRate": 100
     },
     {
       "id": "mercedes-gla-200-amg-1.3l-163-hp",
@@ -896,20 +895,12 @@
       "currentPriceFormatted": "₺4.268.000",
       "peakPrice": 4619500,
       "peakPriceFormatted": "₺4.619.500",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 351500,
       "dropPercent": 7.61,
       "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-27",
-          "price": 4619500
-        },
-        {
-          "date": "2026-04-27",
-          "price": 4268000
-        },
-        {
           "date": "2026-04-28",
           "price": 4619500
         },
@@ -939,73 +930,19 @@
         },
         {
           "date": "2026-05-01",
+          "price": 4268000
+        },
+        {
+          "date": "2026-05-02",
+          "price": 4619500
+        },
+        {
+          "date": "2026-05-02",
           "price": 4268000
         }
       ],
       "listPrice": 2026096,
       "otvRate": 90
-    },
-    {
-      "id": "mercedes-eqa-250+-night-edition-190-hp",
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "EQA 250+",
-      "trim": "Night Edition",
-      "engine": "190 HP",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "currentPrice": 4014800,
-      "currentPriceFormatted": "₺4.014.800",
-      "peakPrice": 4345000,
-      "peakPriceFormatted": "₺4.345.000",
-      "peakDate": "2026-04-02",
-      "dropAmount": 330200,
-      "dropPercent": 7.6,
-      "daysSincePeak": 29,
-      "priceHistory": [
-        {
-          "date": "2026-04-27",
-          "price": 4345000
-        },
-        {
-          "date": "2026-04-27",
-          "price": 4014800
-        },
-        {
-          "date": "2026-04-28",
-          "price": 4345000
-        },
-        {
-          "date": "2026-04-28",
-          "price": 4014800
-        },
-        {
-          "date": "2026-04-29",
-          "price": 4345000
-        },
-        {
-          "date": "2026-04-29",
-          "price": 4014800
-        },
-        {
-          "date": "2026-04-30",
-          "price": 4345000
-        },
-        {
-          "date": "2026-04-30",
-          "price": 4014800
-        },
-        {
-          "date": "2026-05-01",
-          "price": 4345000
-        },
-        {
-          "date": "2026-05-01",
-          "price": 4014800
-        }
-      ],
-      "listPrice": 2336022,
-      "otvRate": 55
     },
     {
       "id": "mercedes-glc-180-coupé-amg-1.5l-170-hp",
@@ -1020,20 +957,12 @@
       "currentPriceFormatted": "₺6.787.000",
       "peakPrice": 7341000,
       "peakPriceFormatted": "₺7.341.000",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 554000,
       "dropPercent": 7.55,
       "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-27",
-          "price": 7341000
-        },
-        {
-          "date": "2026-04-27",
-          "price": 6787000
-        },
-        {
           "date": "2026-04-28",
           "price": 7341000
         },
@@ -1063,73 +992,19 @@
         },
         {
           "date": "2026-05-01",
+          "price": 6787000
+        },
+        {
+          "date": "2026-05-02",
+          "price": 7341000
+        },
+        {
+          "date": "2026-05-02",
           "price": 6787000
         }
       ],
       "listPrice": 3058750,
       "otvRate": 100
-    },
-    {
-      "id": "mercedes-mercedes-amg-c-43-4matic-performance-2.0l-421-hp",
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "Mercedes-AMG C 43 4MATIC",
-      "trim": "Performance",
-      "engine": "2.0L 421 HP",
-      "fuel": "Benzin",
-      "transmission": "Otomatik",
-      "currentPrice": 7815000,
-      "currentPriceFormatted": "₺7.815.000",
-      "peakPrice": 8451000,
-      "peakPriceFormatted": "₺8.451.000",
-      "peakDate": "2026-04-02",
-      "dropAmount": 636000,
-      "dropPercent": 7.53,
-      "daysSincePeak": 29,
-      "priceHistory": [
-        {
-          "date": "2026-04-27",
-          "price": 8451000
-        },
-        {
-          "date": "2026-04-27",
-          "price": 7815000
-        },
-        {
-          "date": "2026-04-28",
-          "price": 8451000
-        },
-        {
-          "date": "2026-04-28",
-          "price": 7815000
-        },
-        {
-          "date": "2026-04-29",
-          "price": 8451000
-        },
-        {
-          "date": "2026-04-29",
-          "price": 7815000
-        },
-        {
-          "date": "2026-04-30",
-          "price": 8451000
-        },
-        {
-          "date": "2026-04-30",
-          "price": 7815000
-        },
-        {
-          "date": "2026-05-01",
-          "price": 8451000
-        },
-        {
-          "date": "2026-05-01",
-          "price": 7815000
-        }
-      ],
-      "listPrice": 2608333,
-      "otvRate": 170
     },
     {
       "id": "fiat-600-la-prima-54-kwh",
@@ -1144,15 +1019,11 @@
       "currentPriceFormatted": "₺1.834.900",
       "peakPrice": 1969900,
       "peakPriceFormatted": "₺1.969.900",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 135000,
       "dropPercent": 6.85,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-04-22",
-          "price": 1834900
-        },
         {
           "date": "2026-04-23",
           "price": 1834900
@@ -1187,6 +1058,10 @@
         },
         {
           "date": "2026-05-01",
+          "price": 1834900
+        },
+        {
+          "date": "2026-05-02",
           "price": 1834900
         }
       ],
@@ -1210,17 +1085,9 @@
       "peakDate": "2026-04-03",
       "dropAmount": 40000,
       "dropPercent": 6.84,
-      "daysSincePeak": 28,
+      "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-27",
-          "price": 584900
-        },
-        {
-          "date": "2026-04-27",
-          "price": 544900
-        },
-        {
           "date": "2026-04-28",
           "price": 584900
         },
@@ -1250,6 +1117,14 @@
         },
         {
           "date": "2026-05-01",
+          "price": 544900
+        },
+        {
+          "date": "2026-05-02",
+          "price": 584900
+        },
+        {
+          "date": "2026-05-02",
           "price": 544900
         }
       ],
@@ -1270,20 +1145,12 @@
       "currentPriceFormatted": "₺9.436.200",
       "peakPrice": 10108500,
       "peakPriceFormatted": "₺10.108.500",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 672300,
       "dropPercent": 6.65,
       "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-27",
-          "price": 10108500
-        },
-        {
-          "date": "2026-04-27",
-          "price": 9436200
-        },
-        {
           "date": "2026-04-28",
           "price": 10108500
         },
@@ -1313,6 +1180,14 @@
         },
         {
           "date": "2026-05-01",
+          "price": 9436200
+        },
+        {
+          "date": "2026-05-02",
+          "price": 10108500
+        },
+        {
+          "date": "2026-05-02",
           "price": 9436200
         }
       ],
@@ -1335,17 +1210,9 @@
       "peakDate": "2026-04-03",
       "dropAmount": 40000,
       "dropPercent": 6.35,
-      "daysSincePeak": 28,
+      "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-27",
-          "price": 629900
-        },
-        {
-          "date": "2026-04-27",
-          "price": 589900
-        },
-        {
           "date": "2026-04-28",
           "price": 629900
         },
@@ -1375,6 +1242,14 @@
         },
         {
           "date": "2026-05-01",
+          "price": 589900
+        },
+        {
+          "date": "2026-05-02",
+          "price": 629900
+        },
+        {
+          "date": "2026-05-02",
           "price": 589900
         }
       ],
@@ -1395,20 +1270,12 @@
       "currentPriceFormatted": "₺5.587.700",
       "peakPrice": 5930500,
       "peakPriceFormatted": "₺5.930.500",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 342800,
       "dropPercent": 5.78,
       "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-27",
-          "price": 5930500
-        },
-        {
-          "date": "2026-04-27",
-          "price": 5587700
-        },
-        {
           "date": "2026-04-28",
           "price": 5930500
         },
@@ -1438,6 +1305,14 @@
         },
         {
           "date": "2026-05-01",
+          "price": 5587700
+        },
+        {
+          "date": "2026-05-02",
+          "price": 5930500
+        },
+        {
+          "date": "2026-05-02",
           "price": 5587700
         }
       ],
@@ -1457,20 +1332,12 @@
       "currentPriceFormatted": "₺19.828.600",
       "peakPrice": 21035000,
       "peakPriceFormatted": "₺21.035.000",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 1206400,
       "dropPercent": 5.74,
       "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-27",
-          "price": 21035000
-        },
-        {
-          "date": "2026-04-27",
-          "price": 19828600
-        },
-        {
           "date": "2026-04-28",
           "price": 21035000
         },
@@ -1500,6 +1367,14 @@
         },
         {
           "date": "2026-05-01",
+          "price": 19828600
+        },
+        {
+          "date": "2026-05-02",
+          "price": 21035000
+        },
+        {
+          "date": "2026-05-02",
           "price": 19828600
         }
       ],
@@ -1519,20 +1394,12 @@
       "currentPriceFormatted": "₺7.911.000",
       "peakPrice": 8389000,
       "peakPriceFormatted": "₺8.389.000",
-      "peakDate": "2026-04-02",
+      "peakDate": "2026-04-03",
       "dropAmount": 478000,
       "dropPercent": 5.7,
       "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-04-27",
-          "price": 8389000
-        },
-        {
-          "date": "2026-04-27",
-          "price": 7911000
-        },
-        {
           "date": "2026-04-28",
           "price": 8389000
         },
@@ -1562,28 +1429,113 @@
         },
         {
           "date": "2026-05-01",
+          "price": 7911000
+        },
+        {
+          "date": "2026-05-02",
+          "price": 8389000
+        },
+        {
+          "date": "2026-05-02",
           "price": 7911000
         }
       ],
       "listPrice": 2589198,
       "otvRate": 170
+    },
+    {
+      "id": "kia-ev3-prestige-standard-range-150-kw",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "EV3",
+      "trim": "Prestige Standard Range",
+      "engine": "150 kW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "currentPrice": 2345000,
+      "currentPriceFormatted": "₺2.345.000",
+      "peakPrice": 2485000,
+      "peakPriceFormatted": "₺2.485.000",
+      "peakDate": "2026-05-02",
+      "dropAmount": 140000,
+      "dropPercent": 5.63,
+      "daysSincePeak": 0,
+      "priceHistory": [
+        {
+          "date": "2026-04-27",
+          "price": 2405000
+        },
+        {
+          "date": "2026-04-27",
+          "price": 2345000
+        },
+        {
+          "date": "2026-04-28",
+          "price": 2405000
+        },
+        {
+          "date": "2026-04-28",
+          "price": 2345000
+        },
+        {
+          "date": "2026-04-29",
+          "price": 2405000
+        },
+        {
+          "date": "2026-04-29",
+          "price": 2345000
+        },
+        {
+          "date": "2026-04-30",
+          "price": 2405000
+        },
+        {
+          "date": "2026-04-30",
+          "price": 2345000
+        },
+        {
+          "date": "2026-05-02",
+          "price": 2485000
+        },
+        {
+          "date": "2026-05-02",
+          "price": 2345000
+        }
+      ],
+      "listPrice": 1595148.58,
+      "campaignPrice": 2405000
     }
   ],
   "recentDrops": [
     {
-      "id": "mercedes-e-220-d-4matic-exclusive-2.0l-197-hp-recent",
+      "id": "mercedes-mercedes-amg-e-53-hybrid-4matic+-performance-3.0l-585-hp-recent",
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
-      "model": "E 220 d 4MATIC",
-      "trim": "Exclusive",
-      "engine": "2.0L 197 HP",
-      "currentPrice": 10193000,
-      "previousPrice": 11367500,
-      "dropAmount": 1174500,
-      "dropPercent": 10.33,
-      "date": "2026-05-01",
+      "model": "Mercedes-AMG E 53 Hybrid 4MATIC+",
+      "trim": "Performance",
+      "engine": "3.0L 585 HP",
+      "currentPrice": 15892100,
+      "previousPrice": 20839000,
+      "dropAmount": 4946900,
+      "dropPercent": 23.74,
+      "date": "2026-05-02",
       "previousDate": "2026-05-01",
-      "listPrice": 3508488
+      "listPrice": 4138568
+    },
+    {
+      "id": "opel-corsa-edition-1.2-100-hp-benzin-recent",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Corsa",
+      "trim": "Edition",
+      "engine": "1.2 100 HP Benzin",
+      "currentPrice": 1535000,
+      "previousPrice": 1749000,
+      "dropAmount": 214000,
+      "dropPercent": 12.24,
+      "date": "2026-05-02",
+      "previousDate": "2026-05-01",
+      "listPrice": 1535000
     },
     {
       "id": "mercedes-e-220-d-4matic-amg-2.0l-197-hp-recent",
@@ -1596,8 +1548,8 @@
       "previousPrice": 11450500,
       "dropAmount": 1180500,
       "dropPercent": 10.31,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
+      "date": "2026-05-02",
+      "previousDate": "2026-05-02",
       "listPrice": 3534105
     },
     {
@@ -1611,8 +1563,8 @@
       "previousPrice": 8349000,
       "dropAmount": 824000,
       "dropPercent": 9.87,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
+      "date": "2026-05-02",
+      "previousDate": "2026-05-02",
       "listPrice": 3478750
     },
     {
@@ -1626,8 +1578,8 @@
       "previousPrice": 8416000,
       "dropAmount": 829000,
       "dropPercent": 9.85,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
+      "date": "2026-05-02",
+      "previousDate": "2026-05-02",
       "listPrice": 3506667
     },
     {
@@ -1641,8 +1593,8 @@
       "previousPrice": 6002000,
       "dropAmount": 566000,
       "dropPercent": 9.43,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
+      "date": "2026-05-02",
+      "previousDate": "2026-05-02",
       "listPrice": 2500833
     },
     {
@@ -1656,8 +1608,8 @@
       "previousPrice": 6358000,
       "dropAmount": 588000,
       "dropPercent": 9.25,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
+      "date": "2026-05-02",
+      "previousDate": "2026-05-02",
       "listPrice": 2649167
     },
     {
@@ -1671,24 +1623,9 @@
       "previousPrice": 16772500,
       "dropAmount": 1541500,
       "dropPercent": 9.19,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
+      "date": "2026-05-02",
+      "previousDate": "2026-05-02",
       "listPrice": 5176698
-    },
-    {
-      "id": "mercedes-glc-180-amg-1.5l-170-hp-recent",
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "GLC 180",
-      "trim": "AMG",
-      "engine": "1.5L 170 HP",
-      "currentPrice": 6372000,
-      "previousPrice": 6957500,
-      "dropAmount": 585500,
-      "dropPercent": 8.42,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
-      "listPrice": 2898958
     },
     {
       "id": "mercedes-gla-200-amg-1.3l-163-hp-recent",
@@ -1701,24 +1638,9 @@
       "previousPrice": 4619500,
       "dropAmount": 351500,
       "dropPercent": 7.61,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
+      "date": "2026-05-02",
+      "previousDate": "2026-05-02",
       "listPrice": 2026096
-    },
-    {
-      "id": "mercedes-eqa-250+-night-edition-190-hp-recent",
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "EQA 250+",
-      "trim": "Night Edition",
-      "engine": "190 HP",
-      "currentPrice": 4014800,
-      "previousPrice": 4345000,
-      "dropAmount": 330200,
-      "dropPercent": 7.6,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
-      "listPrice": 2336022
     },
     {
       "id": "mercedes-glc-180-coupé-amg-1.5l-170-hp-recent",
@@ -1731,24 +1653,9 @@
       "previousPrice": 7341000,
       "dropAmount": 554000,
       "dropPercent": 7.55,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
+      "date": "2026-05-02",
+      "previousDate": "2026-05-02",
       "listPrice": 3058750
-    },
-    {
-      "id": "mercedes-mercedes-amg-c-43-4matic-performance-2.0l-421-hp-recent",
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "Mercedes-AMG C 43 4MATIC",
-      "trim": "Performance",
-      "engine": "2.0L 421 HP",
-      "currentPrice": 7815000,
-      "previousPrice": 8451000,
-      "dropAmount": 636000,
-      "dropPercent": 7.53,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
-      "listPrice": 2608333
     },
     {
       "id": "fiat-topolino-topolino-6-kw/8-hp---5.5kwh-recent",
@@ -1761,8 +1668,8 @@
       "previousPrice": 584900,
       "dropAmount": 40000,
       "dropPercent": 6.84,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
+      "date": "2026-05-02",
+      "previousDate": "2026-05-02",
       "listPrice": 674900,
       "campaignPrice": 584900,
       "campaignDiscount": 13.3
@@ -1778,8 +1685,8 @@
       "previousPrice": 10108500,
       "dropAmount": 672300,
       "dropPercent": 6.65,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
+      "date": "2026-05-02",
+      "previousDate": "2026-05-02",
       "listPrice": 4813571
     },
     {
@@ -1793,8 +1700,8 @@
       "previousPrice": 629900,
       "dropAmount": 40000,
       "dropPercent": 6.35,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
+      "date": "2026-05-02",
+      "previousDate": "2026-05-02",
       "listPrice": 719900,
       "campaignPrice": 629900,
       "campaignDiscount": 12.5
@@ -1810,8 +1717,8 @@
       "previousPrice": 5930500,
       "dropAmount": 342800,
       "dropPercent": 5.78,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
+      "date": "2026-05-02",
+      "previousDate": "2026-05-02",
       "listPrice": 3188441
     },
     {
@@ -1825,8 +1732,8 @@
       "previousPrice": 21035000,
       "dropAmount": 1206400,
       "dropPercent": 5.74,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
+      "date": "2026-05-02",
+      "previousDate": "2026-05-02",
       "listPrice": 5477865
     },
     {
@@ -1840,9 +1747,25 @@
       "previousPrice": 8389000,
       "dropAmount": 478000,
       "dropPercent": 5.7,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
+      "date": "2026-05-02",
+      "previousDate": "2026-05-02",
       "listPrice": 2589198
+    },
+    {
+      "id": "kia-ev3-prestige-standard-range-150-kw-recent",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "EV3",
+      "trim": "Prestige Standard Range",
+      "engine": "150 kW",
+      "currentPrice": 2345000,
+      "previousPrice": 2485000,
+      "dropAmount": 140000,
+      "dropPercent": 5.63,
+      "date": "2026-05-02",
+      "previousDate": "2026-05-02",
+      "listPrice": 1595148.58,
+      "campaignPrice": 2405000
     },
     {
       "id": "mercedes-cla-220-4matic-amg-1.5l-190-hp-recent",
@@ -1855,9 +1778,94 @@
       "previousPrice": 4873000,
       "dropAmount": 230000,
       "dropPercent": 4.72,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
+      "date": "2026-05-02",
+      "previousDate": "2026-05-02",
       "listPrice": 2030417
+    },
+    {
+      "id": "toyota-proace-city-1.5-d-130-hp-flame-x-pack-a/t-1.8-recent",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "Proace City",
+      "trim": "1.5 D 130 HP Flame X-Pack A/T",
+      "engine": "1.8",
+      "currentPrice": 1758000,
+      "previousPrice": 1842000,
+      "dropAmount": 84000,
+      "dropPercent": 4.56,
+      "date": "2026-05-02",
+      "previousDate": "2026-05-01",
+      "listPrice": 2288000,
+      "campaignPrice": 1758000,
+      "campaignDiscount": 23.2
+    },
+    {
+      "id": "toyota-proace-city-1.5-d-130-hp-passion-x-pack-a/t-1.8-recent",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "Proace City",
+      "trim": "1.5 D 130 HP Passion X-Pack A/T",
+      "engine": "1.8",
+      "currentPrice": 1850000,
+      "previousPrice": 1932500,
+      "dropAmount": 82500,
+      "dropPercent": 4.27,
+      "date": "2026-05-02",
+      "previousDate": "2026-05-01",
+      "listPrice": 2390500,
+      "campaignPrice": 1850000,
+      "campaignDiscount": 22.6
+    },
+    {
+      "id": "toyota-proace-city-1.5-d-130-hp-dream-a/t-1.8-recent",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "Proace City",
+      "trim": "1.5 D 130 HP Dream A/T",
+      "engine": "1.8",
+      "currentPrice": 1575000,
+      "previousPrice": 1639000,
+      "dropAmount": 64000,
+      "dropPercent": 3.9,
+      "date": "2026-05-02",
+      "previousDate": "2026-05-01",
+      "listPrice": 2028000,
+      "campaignPrice": 1575000,
+      "campaignDiscount": 22.3
+    },
+    {
+      "id": "toyota-proace-city-cargo-1.5-d-100-hp-vision-1.5-recent",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "PROACE CITY CARGO",
+      "trim": "1.5 D 100 HP Vision",
+      "engine": "1.5",
+      "currentPrice": 1190000,
+      "previousPrice": 1235000,
+      "dropAmount": 45000,
+      "dropPercent": 3.64,
+      "date": "2026-05-02",
+      "previousDate": "2026-05-01",
+      "listPrice": 1296000,
+      "campaignPrice": 1190000,
+      "campaignDiscount": 8.2
+    },
+    {
+      "id": "toyota-proace-city-cargo-1.5-d-100-hp-dream-1.5-recent",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "PROACE CITY CARGO",
+      "trim": "1.5 D 100 HP Dream",
+      "engine": "1.5",
+      "currentPrice": 1244000,
+      "previousPrice": 1289000,
+      "dropAmount": 45000,
+      "dropPercent": 3.49,
+      "date": "2026-05-02",
+      "previousDate": "2026-05-01",
+      "listPrice": 1353000,
+      "campaignPrice": 1244000,
+      "campaignDiscount": 8.1
     },
     {
       "id": "fiat-grande-panda-la-prima-44-kwh-recent",
@@ -1870,27 +1878,11 @@
       "previousPrice": 1514900,
       "dropAmount": 45000,
       "dropPercent": 2.97,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
+      "date": "2026-05-02",
+      "previousDate": "2026-05-02",
       "listPrice": 1584900,
       "campaignPrice": 1514900,
       "campaignDiscount": 4.4
-    },
-    {
-      "id": "kia-ev3-prestige-standard-range-150-kw-recent",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "EV3",
-      "trim": "Prestige Standard Range",
-      "engine": "150 kW",
-      "currentPrice": 2345000,
-      "previousPrice": 2405000,
-      "dropAmount": 60000,
-      "dropPercent": 2.49,
-      "date": "2026-04-30",
-      "previousDate": "2026-04-30",
-      "listPrice": 1595148.58,
-      "campaignPrice": 2405000
     },
     {
       "id": "mercedes-mercedes-amg-a-45-s-4matic+-final-edition-2.0l-421-hp-recent",
@@ -1903,17 +1895,51 @@
       "previousPrice": 7058000,
       "dropAmount": 138000,
       "dropPercent": 1.96,
-      "date": "2026-05-01",
-      "previousDate": "2026-05-01",
+      "date": "2026-05-02",
+      "previousDate": "2026-05-02",
       "listPrice": 2178395
+    },
+    {
+      "id": "toyota-proace-verso-2.2-d-180-hp-passion-a/t-2-recent",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "Proace Verso",
+      "trim": "2.2 D 180 HP Passion A/T",
+      "engine": "2",
+      "currentPrice": 2275000,
+      "previousPrice": 2316000,
+      "dropAmount": 41000,
+      "dropPercent": 1.77,
+      "date": "2026-05-02",
+      "previousDate": "2026-05-01",
+      "listPrice": 2495500,
+      "campaignPrice": 2380000,
+      "campaignDiscount": 4.6
+    },
+    {
+      "id": "toyota-proace-verso-2.2-d-180-hp-passion-x-pack-a/t-2-recent",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "Proace Verso",
+      "trim": "2.2 D 180 HP Passion X-Pack A/T",
+      "engine": "2",
+      "currentPrice": 2345000,
+      "previousPrice": 2383000,
+      "dropAmount": 38000,
+      "dropPercent": 1.59,
+      "date": "2026-05-02",
+      "previousDate": "2026-05-01",
+      "listPrice": 2568500,
+      "campaignPrice": 2450000,
+      "campaignDiscount": 4.6
     }
   ],
   "brandSummary": [
     {
       "brandId": "mercedes",
       "brand": "Mercedes-Benz",
-      "dropCount": 16,
-      "avgDropPercent": 8.17
+      "dropCount": 13,
+      "avgDropPercent": 9.28
     },
     {
       "brandId": "nissan",
@@ -1932,6 +1958,18 @@
       "brand": "Peugeot",
       "dropCount": 1,
       "avgDropPercent": 9.34
+    },
+    {
+      "brandId": "opel",
+      "brand": "Opel",
+      "dropCount": 1,
+      "avgDropPercent": 12.24
+    },
+    {
+      "brandId": "kia",
+      "brand": "Kia",
+      "dropCount": 1,
+      "avgDropPercent": 5.63
     }
   ]
 }
