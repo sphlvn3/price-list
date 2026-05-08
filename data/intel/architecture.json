@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-07T01:34:39.549Z",
-  "date": "2026-05-07",
+  "generatedAt": "2026-05-08T01:34:37.036Z",
+  "date": "2026-05-08",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -3312,6 +3312,29 @@
       "trimCount": 2
     },
     {
+      "id": "opel-astra",
+      "model": "Astra",
+      "brand": "Opel",
+      "brandId": "opel",
+      "trims": [
+        {
+          "trim": "GS",
+          "price": 2590000,
+          "priceFormatted": "2.590.000 TL",
+          "stepFromBase": 0,
+          "stepPercent": 0,
+          "engine": "1.5 130 HP Dizel",
+          "transmission": "Otomatik",
+          "fuel": "Dizel"
+        }
+      ],
+      "basePrice": 2590000,
+      "topPrice": 2590000,
+      "priceSpread": 0,
+      "priceSpreadPercent": 0,
+      "trimCount": 1
+    },
+    {
       "id": "opel-grandland",
       "model": "Grandland",
       "brand": "Opel",
@@ -3352,8 +3375,8 @@
       "trims": [
         {
           "trim": "Edition",
-          "price": 3460000,
-          "priceFormatted": "3.460.000 TL",
+          "price": 2485000,
+          "priceFormatted": "2.485.000 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "157 kW",
@@ -3364,17 +3387,17 @@
           "trim": "GS",
           "price": 4222000,
           "priceFormatted": "4.222.000 TL",
-          "stepFromBase": 762000,
-          "stepPercent": 22.023121387283236,
+          "stepFromBase": 1737000,
+          "stepPercent": 69.89939637826961,
           "engine": "239 kW AWD",
           "transmission": "",
           "fuel": "Elektrik"
         }
       ],
-      "basePrice": 3460000,
+      "basePrice": 2485000,
       "topPrice": 4222000,
-      "priceSpread": 762000,
-      "priceSpreadPercent": 22.02,
+      "priceSpread": 1737000,
+      "priceSpreadPercent": 69.9,
       "trimCount": 2
     },
     {
@@ -7637,10 +7660,10 @@
         },
         {
           "trim": "GT-Line",
-          "price": 7630000,
-          "priceFormatted": "7.630.000 TL",
-          "stepFromBase": 1270000,
-          "stepPercent": 19.968553459119498,
+          "price": 7690000,
+          "priceFormatted": "7.690.000 TL",
+          "stepFromBase": 1330000,
+          "stepPercent": 20.91194968553459,
           "engine": "283 kW",
           "transmission": "Otomatik",
           "fuel": "Elektrik"
@@ -8458,6 +8481,16 @@
           "topPrice": 2474900,
           "basePriceFormatted": "₺2.474.900",
           "topPriceFormatted": "₺2.474.900",
+          "trimCount": 1
+        },
+        {
+          "brand": "Opel",
+          "brandId": "opel",
+          "model": "Astra",
+          "basePrice": 2590000,
+          "topPrice": 2590000,
+          "basePriceFormatted": "₺2.590.000",
+          "topPriceFormatted": "₺2.590.000",
           "trimCount": 1
         },
         {
@@ -9301,8 +9334,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 8063506,
-      "avgTopPrice": 8326175
+      "avgBasePrice": 8019006,
+      "avgTopPrice": 8279539
     },
     {
       "segment": "SUV",
@@ -10062,6 +10095,16 @@
           "trimCount": 1
         },
         {
+          "brand": "Opel",
+          "brandId": "opel",
+          "model": "Grandland Elektrik",
+          "basePrice": 2485000,
+          "topPrice": 4222000,
+          "basePriceFormatted": "₺2.485.000",
+          "topPriceFormatted": "₺4.222.000",
+          "trimCount": 2
+        },
+        {
           "brand": "Nissan",
           "brandId": "nissan",
           "model": "TOWNSTAR COMBI EV",
@@ -10080,16 +10123,6 @@
           "basePriceFormatted": "₺3.126.000",
           "topPriceFormatted": "₺3.126.000",
           "trimCount": 1
-        },
-        {
-          "brand": "Opel",
-          "brandId": "opel",
-          "model": "Grandland Elektrik",
-          "basePrice": 3460000,
-          "topPrice": 4222000,
-          "basePriceFormatted": "₺3.460.000",
-          "topPriceFormatted": "₺4.222.000",
-          "trimCount": 2
         },
         {
           "brand": "Renault",
@@ -10152,7 +10185,7 @@
           "trimCount": 4
         }
       ],
-      "avgBasePrice": 3177889,
+      "avgBasePrice": 3123722,
       "avgTopPrice": 3520889
     },
     {
@@ -10421,9 +10454,9 @@
     }
   ],
   "summary": {
-    "totalModels": 231,
+    "totalModels": 232,
     "avgTrimsPerModel": 2.2,
-    "avgPriceSpread": 360604,
-    "avgPriceSpreadPercent": 11.9
+    "avgPriceSpread": 363253,
+    "avgPriceSpreadPercent": 12.06
   }
 }

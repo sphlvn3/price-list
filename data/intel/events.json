@@ -1,22 +1,57 @@
 {
-  "generatedAt": "2026-05-07T01:34:38.872Z",
-  "date": "2026-05-07",
-  "previousDate": "2026-05-06",
+  "generatedAt": "2026-05-08T01:34:36.167Z",
+  "date": "2026-05-08",
+  "previousDate": "2026-05-07",
   "dateRange": {
     "start": "2026-01-28",
-    "end": "2026-05-07",
-    "totalDays": 100
+    "end": "2026-05-08",
+    "totalDays": 101
   },
   "summary": {
-    "totalEvents": 1578,
-    "newVehicles": 324,
+    "totalEvents": 1580,
+    "newVehicles": 325,
     "removedVehicles": 349,
     "priceIncreases": 759,
-    "priceDecreases": 146,
-    "avgPriceChange": 99310,
-    "avgPriceChangePercent": 1.62
+    "priceDecreases": 147,
+    "avgPriceChange": 98124,
+    "avgPriceChangePercent": 1.59
   },
   "events": [
+    {
+      "id": "opel-astra-gs-1.5-130-hp-dizel-new-2026-05-08",
+      "type": "new",
+      "vehicleId": "opel-astra-gs-1.5-130-hp-dizel",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Astra",
+      "trim": "GS",
+      "engine": "1.5 130 HP Dizel",
+      "fuel": "Dizel",
+      "transmission": "Otomatik",
+      "newPrice": 2590000,
+      "newPriceFormatted": "2.590.000 TL",
+      "date": "2026-05-08"
+    },
+    {
+      "id": "opel-grandland-elektrik-edition-157-kw-price_decrease-2026-05-08",
+      "type": "price_decrease",
+      "vehicleId": "opel-grandland-elektrik-edition-157-kw",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Grandland Elektrik",
+      "trim": "Edition",
+      "engine": "157 kW",
+      "fuel": "Elektrik",
+      "transmission": "",
+      "oldPrice": 3460000,
+      "newPrice": 2485000,
+      "oldPriceFormatted": "3.460.000 TL",
+      "newPriceFormatted": "2.485.000 TL",
+      "priceChange": -975000,
+      "priceChangePercent": -28.18,
+      "date": "2026-05-08",
+      "previousDate": "2026-05-07"
+    },
     {
       "id": "citroen--c4-hybrid-145-you-1.2-hybrid-145*-edcs6-price_increase-2026-05-07",
       "type": "price_increase",
@@ -28684,11 +28719,11 @@
       {
         "id": "opel",
         "name": "Opel",
-        "changeCount": 23,
-        "avgChange": 98609,
-        "avgChangePercent": 4.25,
+        "changeCount": 24,
+        "avgChange": 135125,
+        "avgChangePercent": 5.25,
         "increaseCount": 20,
-        "decreaseCount": 3
+        "decreaseCount": 4
       },
       {
         "id": "byd",
@@ -29315,6 +29350,26 @@
     ],
     "topDecreases": [
       {
+        "id": "opel-grandland-elektrik-edition-157-kw-price_decrease-2026-05-08",
+        "type": "price_decrease",
+        "vehicleId": "opel-grandland-elektrik-edition-157-kw",
+        "brand": "Opel",
+        "brandId": "opel",
+        "model": "Grandland Elektrik",
+        "trim": "Edition",
+        "engine": "157 kW",
+        "fuel": "Elektrik",
+        "transmission": "",
+        "oldPrice": 3460000,
+        "newPrice": 2485000,
+        "oldPriceFormatted": "3.460.000 TL",
+        "newPriceFormatted": "2.485.000 TL",
+        "priceChange": -975000,
+        "priceChangePercent": -28.18,
+        "date": "2026-05-08",
+        "previousDate": "2026-05-07"
+      },
+      {
         "id": "mercedes-mercedes-amg-e-53-hybrid-4matic+-performance-3.0l-585-hp-price_decrease-2026-05-02",
         "type": "price_decrease",
         "vehicleId": "mercedes-benz-mercedes-amg-e-53-hybrid-4matic+-performance-3.0l-585-hp",
@@ -29693,26 +29748,6 @@
         "priceChangePercent": -7.58,
         "date": "2026-04-04",
         "previousDate": "2026-04-03"
-      },
-      {
-        "id": "citroen-elektrikli-ë-c4-x-max-115-kw-elektrikli-motor-price_decrease-2026-03-09",
-        "type": "price_decrease",
-        "vehicleId": "citroën-elektrikli-ë-c4-x-max-115-kw-elektrikli-motor",
-        "brand": "Citroën",
-        "brandId": "citroen",
-        "model": "Elektrikli ë-C4 X",
-        "trim": "Max",
-        "engine": "115 kW Elektrikli Motor",
-        "fuel": "Elektrik",
-        "transmission": "Otomatik",
-        "oldPrice": 2167000,
-        "newPrice": 2017000,
-        "oldPriceFormatted": "2.167.000 TL",
-        "newPriceFormatted": "2.017.000 TL",
-        "priceChange": -150000,
-        "priceChangePercent": -6.92,
-        "date": "2026-03-09",
-        "previousDate": "2026-03-05"
       }
     ]
   }

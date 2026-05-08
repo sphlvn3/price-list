@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-07T01:34:35.455Z",
-  "totalEntries": 507,
+  "generatedAt": "2026-05-08T01:34:32.732Z",
+  "totalEntries": 508,
   "entries": [
     {
       "id": "volkswagen-polo-life-1.0-tsi-95-ps",
@@ -2902,6 +2902,19 @@
       "searchText": "opel mokka gs hybrid 1 2 145 136 hp hybrid otomatik"
     },
     {
+      "id": "opel-astra-gs-1.5-130-hp-dizel",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Astra",
+      "trim": "GS",
+      "engine": "1.5 130 HP Dizel",
+      "fuel": "Dizel",
+      "transmission": "Otomatik",
+      "price": 2590000,
+      "priceFormatted": "2.590.000 TL",
+      "searchText": "opel astra gs 1 5 130 hp dizel dizel otomatik"
+    },
+    {
       "id": "opel-grandland-edition-hybrid-1.2-145-(136hp)³",
       "brand": "Opel",
       "brandId": "opel",
@@ -2936,8 +2949,8 @@
       "engine": "157 kW",
       "fuel": "Elektrik",
       "transmission": "",
-      "price": 3460000,
-      "priceFormatted": "3.460.000 TL",
+      "price": 2485000,
+      "priceFormatted": "2.485.000 TL",
       "searchText": "opel grandland elektrik edition 157 kw elektrik"
     },
     {
@@ -6225,8 +6238,8 @@
       "engine": "283 kW",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 7630000,
-      "priceFormatted": "7.630.000 TL",
+      "price": 7690000,
+      "priceFormatted": "7.690.000 TL",
       "searchText": "kia ev9 gt line 283 kw elektrik otomatik"
     },
     {

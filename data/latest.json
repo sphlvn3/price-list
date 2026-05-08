@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-07T01:34:35.440Z",
-  "totalVehicles": 507,
+  "generatedAt": "2026-05-08T01:34:32.718Z",
+  "totalVehicles": 508,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -2523,7 +2523,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -3364,7 +3364,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -3929,7 +3929,7 @@
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "i20",
@@ -4362,7 +4362,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "E-208",
@@ -4764,7 +4764,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "SEAL",
@@ -4867,7 +4867,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5016,6 +5016,20 @@
           "isHybrid": true
         },
         {
+          "model": "Astra",
+          "trim": "GS",
+          "engine": "1.5 130 HP Dizel",
+          "transmission": "Otomatik",
+          "fuel": "Dizel",
+          "priceRaw": "2.590.000 TL",
+          "priceNumeric": 2590000,
+          "brand": "Opel",
+          "modelYear": 2026,
+          "priceListNumeric": 2590000,
+          "powerHP": 130,
+          "engineDisplacement": "1.5L"
+        },
+        {
           "model": "Grandland",
           "trim": "Edition",
           "engine": "Hybrid 1.2 145 (136HP)³",
@@ -5051,11 +5065,11 @@
           "engine": "157 kW",
           "transmission": "",
           "fuel": "Elektrik",
-          "priceRaw": "3.460.000 TL",
-          "priceNumeric": 3460000,
+          "priceRaw": "2.485.000 TL",
+          "priceNumeric": 2485000,
           "brand": "Opel",
           "modelYear": 2026,
-          "priceListNumeric": 3460000,
+          "priceListNumeric": 2485000,
           "powerKW": 157,
           "isElectric": true
         },
@@ -5077,7 +5091,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5559,7 +5573,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -6600,7 +6614,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "A 200",
@@ -7563,7 +7577,7 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "Yeni Puma",
@@ -8281,7 +8295,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -8588,7 +8602,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -9064,7 +9078,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "Jazz Hybrid",
@@ -9127,7 +9141,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "YENİ",
@@ -9247,7 +9261,7 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "Niro EV",
@@ -9654,8 +9668,8 @@
           "engine": "283 kW",
           "transmission": "Otomatik",
           "fuel": "Elektrik",
-          "priceRaw": "7.630.000 TL",
-          "priceNumeric": 7630000,
+          "priceRaw": "7.690.000 TL",
+          "priceNumeric": 7690000,
           "brand": "Kia",
           "priceListNumeric": 3525026.55,
           "priceCampaignNumeric": 7440000,
@@ -9686,7 +9700,7 @@
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "EX40 Black Edition Ultra",
@@ -9825,7 +9839,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-05-07",
+      "date": "2026-05-08",
       "vehicles": [
         {
           "model": "Egea Sedan",
