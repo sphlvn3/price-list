@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-05-17T01:35:24.282Z",
+  "timestamp": "2026-05-18T01:39:52.727Z",
   "status": "healthy",
   "summary": {
     "totalBrands": 19,
     "totalVehicles": 507,
-    "lastUpdate": "2026-05-17T01:35:01.403Z",
-    "dataDate": "2026-05-17"
+    "lastUpdate": "2026-05-18T01:39:29.278Z",
+    "dataDate": "2026-05-18"
   },
   "brands": [
     {
@@ -13,7 +13,7 @@
       "name": "Volkswagen",
       "status": "ok",
       "vehicleCount": 46,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     },
     {
@@ -21,7 +21,7 @@
       "name": "Škoda",
       "status": "ok",
       "vehicleCount": 40,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     },
     {
@@ -29,7 +29,7 @@
       "name": "Renault",
       "status": "ok",
       "vehicleCount": 24,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     },
     {
@@ -37,7 +37,7 @@
       "name": "Toyota",
       "status": "ok",
       "vehicleCount": 40,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     },
     {
@@ -45,7 +45,7 @@
       "name": "Hyundai",
       "status": "ok",
       "vehicleCount": 35,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     },
     {
@@ -53,7 +53,7 @@
       "name": "Peugeot",
       "status": "ok",
       "vehicleCount": 23,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     },
     {
@@ -61,7 +61,7 @@
       "name": "BYD",
       "status": "ok",
       "vehicleCount": 5,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     },
     {
@@ -69,7 +69,7 @@
       "name": "Opel",
       "status": "ok",
       "vehicleCount": 15,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     },
     {
@@ -77,7 +77,7 @@
       "name": "Citroën",
       "status": "ok",
       "vehicleCount": 32,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     },
     {
@@ -85,7 +85,7 @@
       "name": "BMW",
       "status": "ok",
       "vehicleCount": 64,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     },
     {
@@ -93,7 +93,7 @@
       "name": "Mercedes-Benz",
       "status": "ok",
       "vehicleCount": 60,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     },
     {
@@ -101,7 +101,7 @@
       "name": "Ford",
       "status": "ok",
       "vehicleCount": 21,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     },
     {
@@ -109,7 +109,7 @@
       "name": "Dacia",
       "status": "ok",
       "vehicleCount": 10,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     },
     {
@@ -117,7 +117,7 @@
       "name": "Nissan",
       "status": "ok",
       "vehicleCount": 27,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     },
     {
@@ -125,7 +125,7 @@
       "name": "Honda",
       "status": "ok",
       "vehicleCount": 4,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     },
     {
@@ -133,7 +133,7 @@
       "name": "SEAT",
       "status": "ok",
       "vehicleCount": 8,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     },
     {
@@ -141,7 +141,7 @@
       "name": "Kia",
       "status": "ok",
       "vehicleCount": 26,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     },
     {
@@ -149,7 +149,7 @@
       "name": "Volvo",
       "status": "ok",
       "vehicleCount": 8,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     },
     {
@@ -157,7 +157,7 @@
       "name": "Fiat",
       "status": "ok",
       "vehicleCount": 19,
-      "latestDate": "2026-05-17",
+      "latestDate": "2026-05-18",
       "issues": []
     }
   ],

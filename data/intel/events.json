@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-17T01:35:07.737Z",
-  "date": "2026-05-17",
-  "previousDate": "2026-05-16",
+  "generatedAt": "2026-05-18T01:39:35.967Z",
+  "date": "2026-05-18",
+  "previousDate": "2026-05-17",
   "dateRange": {
     "start": "2026-01-28",
-    "end": "2026-05-17",
-    "totalDays": 110
+    "end": "2026-05-18",
+    "totalDays": 111
   },
   "summary": {
     "totalEvents": 1612,
