@@ -1,0 +1,1297 @@
+{
+  "collectedAt": "2026-05-21T01:37:08.168Z",
+  "brand": "Volkswagen",
+  "brandId": "volkswagen",
+  "rowCount": 46,
+  "rows": [
+    {
+      "model": "Polo",
+      "trim": "Life",
+      "engine": "1.0 TSI 95 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺2.252.000,00",
+      "priceNumeric": 2252000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 80,
+      "netPrice": 1037317.08,
+      "otvAmount": 829853.67,
+      "kdvAmount": 373434.15,
+      "mtvAmount": 3451,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 3734.34,
+      "origin": "Güney Afrika",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 19540
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 56780
+        }
+      ]
+    },
+    {
+      "model": "T-Cross",
+      "trim": "Life",
+      "engine": "1.0 TSI 116 PS",
+      "transmission": "Manuel",
+      "fuel": "Benzin",
+      "priceRaw": "₺2.155.000,00",
+      "priceNumeric": 2155000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 90,
+      "netPrice": 992409.68,
+      "otvAmount": 793927.74,
+      "kdvAmount": 357267.48,
+      "mtvAmount": 3451,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 3572.67,
+      "origin": "İspanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 17230
+        }
+      ]
+    },
+    {
+      "model": "T-Cross",
+      "trim": "Life",
+      "engine": "1.0 TSI 116 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺2.541.000,00",
+      "priceNumeric": 2541000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 90,
+      "netPrice": 1109475.83,
+      "otvAmount": 998528.25,
+      "kdvAmount": 421600.82,
+      "mtvAmount": 3451,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 4216.01,
+      "origin": "İspanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 17230
+        }
+      ]
+    },
+    {
+      "model": "T-Cross",
+      "trim": "Style",
+      "engine": "1.0 TSI 116 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺2.692.000,00",
+      "priceNumeric": 2692000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 90,
+      "netPrice": 1175703.9,
+      "otvAmount": 1058133.51,
+      "kdvAmount": 446767.48,
+      "mtvAmount": 3451,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 4467.67,
+      "origin": "İspanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 17230
+        }
+      ]
+    },
+    {
+      "model": "T-Cross",
+      "trim": "R-Line",
+      "engine": "1.0 TSI 116 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺2.795.000,00",
+      "priceNumeric": 2795000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 90,
+      "netPrice": 1220879.34,
+      "otvAmount": 1098791.41,
+      "kdvAmount": 463934.15,
+      "mtvAmount": 3451,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 4639.34,
+      "origin": "İspanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 17230
+        }
+      ]
+    },
+    {
+      "model": "Taigo",
+      "trim": "Life",
+      "engine": "1.0 TSI 95 PS",
+      "transmission": "Manuel",
+      "fuel": "Benzin",
+      "priceRaw": "₺2.051.000,00",
+      "priceNumeric": 2051000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 90,
+      "netPrice": 944261.53,
+      "otvAmount": 755409.22,
+      "kdvAmount": 339934.15,
+      "mtvAmount": 3451,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 3399.34,
+      "origin": "İspanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 18330
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 52740
+        }
+      ]
+    },
+    {
+      "model": "Taigo",
+      "trim": "Life",
+      "engine": "1.0 TSI 116 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺2.331.000,00",
+      "priceNumeric": 2331000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 90,
+      "netPrice": 1073891.16,
+      "otvAmount": 859112.93,
+      "kdvAmount": 386600.82,
+      "mtvAmount": 3451,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 3866.01,
+      "origin": "İspanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 18330
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 52740
+        }
+      ]
+    },
+    {
+      "model": "Taigo",
+      "trim": "Style",
+      "engine": "1.0 TSI 116 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺2.772.000,00",
+      "priceNumeric": 2772000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 90,
+      "netPrice": 1210791.62,
+      "otvAmount": 1089712.46,
+      "kdvAmount": 460100.82,
+      "mtvAmount": 3451,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 4601.01,
+      "origin": "İspanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 18330
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 52740
+        }
+      ]
+    },
+    {
+      "model": "Taigo",
+      "trim": "R-Line",
+      "engine": "1.0 TSI 116 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺2.891.000,00",
+      "priceNumeric": 2891000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 90,
+      "netPrice": 1262984.61,
+      "otvAmount": 1136686.14,
+      "kdvAmount": 479934.15,
+      "mtvAmount": 3451,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 4799.34,
+      "origin": "İspanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 18330
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 52740
+        }
+      ]
+    },
+    {
+      "model": "Taigo",
+      "trim": "Style",
+      "engine": "1.5 TSI 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺2.951.000,00",
+      "priceNumeric": 2951000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 90,
+      "netPrice": 1288176.27,
+      "otvAmount": 1159358.64,
+      "kdvAmount": 489506.98,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 4895.07,
+      "origin": "İspanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 18330
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 52740
+        }
+      ]
+    },
+    {
+      "model": "Taigo",
+      "trim": "R-Line",
+      "engine": "1.5 TSI 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺3.156.000,00",
+      "priceNumeric": 3156000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 90,
+      "netPrice": 1378088.55,
+      "otvAmount": 1240279.7,
+      "kdvAmount": 523673.65,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 5236.74,
+      "origin": "İspanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 18330
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 52740
+        }
+      ]
+    },
+    {
+      "model": "Golf",
+      "trim": "Impression",
+      "engine": "1.5 TSI 116 PS",
+      "transmission": "Manuel",
+      "fuel": "Benzin",
+      "priceRaw": "₺2.139.000,00",
+      "priceNumeric": 2139000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 90,
+      "netPrice": 983815.69,
+      "otvAmount": 787052.56,
+      "kdvAmount": 354173.65,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 3541.74,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 20340
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 60180
+        }
+      ]
+    },
+    {
+      "model": "Golf",
+      "trim": "Life",
+      "engine": "1.5 eTSI 116 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺2.680.000,00",
+      "priceNumeric": 2680000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 90,
+      "netPrice": 1169316.62,
+      "otvAmount": 1052384.96,
+      "kdvAmount": 444340.32,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 4443.4,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 20340
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 60180
+        }
+      ]
+    },
+    {
+      "model": "Golf",
+      "trim": "Style",
+      "engine": "1.5 eTSI 116 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺3.023.000,00",
+      "priceNumeric": 3023000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 90,
+      "netPrice": 1319755.22,
+      "otvAmount": 1187779.7,
+      "kdvAmount": 501506.98,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 5015.07,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 20340
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 60180
+        }
+      ]
+    },
+    {
+      "model": "Golf",
+      "trim": "Style",
+      "engine": "1.5 eTSI 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺3.214.000,00",
+      "priceNumeric": 3214000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 90,
+      "netPrice": 1403527.15,
+      "otvAmount": 1263174.43,
+      "kdvAmount": 533340.32,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 5333.4,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 20340
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 60180
+        }
+      ]
+    },
+    {
+      "model": "Golf",
+      "trim": "R-Line",
+      "engine": "1.5 eTSI 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺3.428.000,00",
+      "priceNumeric": 3428000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 90,
+      "netPrice": 1497386.8,
+      "otvAmount": 1347648.12,
+      "kdvAmount": 569006.98,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 5690.07,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 20340
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 60180
+        }
+      ]
+    },
+    {
+      "model": "Golf GTI",
+      "trim": "GTI",
+      "engine": "2.0 TSI 265 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺4.924.000,00",
+      "priceNumeric": 4924000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 150,
+      "netPrice": 1633106.3,
+      "otvAmount": 2449659.45,
+      "kdvAmount": 816553.15,
+      "mtvAmount": 16737,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 8165.53,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 36590
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 60180
+        }
+      ]
+    },
+    {
+      "model": "Golf R",
+      "trim": "R",
+      "engine": "2.0 TSI 333 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺6.683.000,00",
+      "priceNumeric": 6683000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 170,
+      "netPrice": 2055036.7,
+      "otvAmount": 3493562.39,
+      "kdvAmount": 1109719.82,
+      "mtvAmount": 16737,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 11097.2,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 36590
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 60180
+        }
+      ]
+    },
+    {
+      "model": "T-Roc",
+      "trim": "Life",
+      "engine": "1.5 TSI 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺2.660.000,00",
+      "priceNumeric": 2660000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 90,
+      "netPrice": 1160544.69,
+      "otvAmount": 1044490.22,
+      "kdvAmount": 441006.98,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 4410.07,
+      "origin": "Portekiz",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 21750
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70340
+        }
+      ]
+    },
+    {
+      "model": "T-Roc",
+      "trim": "Style",
+      "engine": "1.5 TSI 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺2.982.000,00",
+      "priceNumeric": 2982000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 90,
+      "netPrice": 1301772.76,
+      "otvAmount": 1171595.49,
+      "kdvAmount": 494673.65,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 4946.74,
+      "origin": "Portekiz",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 21750
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70340
+        }
+      ]
+    },
+    {
+      "model": "Tiguan",
+      "trim": "Life",
+      "engine": "1.5 eTSI ACT 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺3.223.000,00",
+      "priceNumeric": 3223000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 170,
+      "otvAmount": 1266727.07,
+      "kdvAmount": 534840.32,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 5348.4,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 19830
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70100
+        }
+      ]
+    },
+    {
+      "model": "Tiguan",
+      "trim": "Elegance",
+      "engine": "1.5 eTSI ACT 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺4.145.000,00",
+      "priceNumeric": 4145000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 170,
+      "otvAmount": 1721267.46,
+      "kdvAmount": 688506.98,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 6885.07,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 19830
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70100
+        }
+      ]
+    },
+    {
+      "model": "Tiguan",
+      "trim": "R-Line",
+      "engine": "1.5 eTSI ACT 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺4.421.000,00",
+      "priceNumeric": 4421000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 170,
+      "otvAmount": 1836267.46,
+      "kdvAmount": 734506.98,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 7345.07,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 19830
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70100
+        }
+      ]
+    },
+    {
+      "model": "Tiguan",
+      "trim": "Elegance",
+      "engine": "2.0 TDI SCR 193 PS 4M",
+      "transmission": "DSG",
+      "fuel": "Dizel",
+      "priceRaw": "₺5.927.000,00",
+      "priceNumeric": 5927000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 170,
+      "otvAmount": 3096895.72,
+      "kdvAmount": 983719.82,
+      "mtvAmount": 16737,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 9837.2,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 19830
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70100
+        }
+      ]
+    },
+    {
+      "model": "Tiguan",
+      "trim": "R-Line",
+      "engine": "2.0 TDI SCR 193 PS 4M",
+      "transmission": "DSG",
+      "fuel": "Dizel",
+      "priceRaw": "₺6.272.000,00",
+      "priceNumeric": 6272000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 170,
+      "otvAmount": 3277914.24,
+      "kdvAmount": 1041219.82,
+      "mtvAmount": 16737,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 10412.2,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 19830
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70100
+        }
+      ]
+    },
+    {
+      "model": "Tayron",
+      "trim": "Life",
+      "engine": "1.5 eTSI ACT 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺3.475.000,00",
+      "priceNumeric": 3475000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 100,
+      "otvAmount": 1366200.75,
+      "kdvAmount": 576840.32,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 5768.4,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 19830
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70100
+        }
+      ]
+    },
+    {
+      "model": "Tayron",
+      "trim": "Life",
+      "engine": "1.5 eTSI ACT 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺3.568.000,00",
+      "priceNumeric": 3568000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 100,
+      "otvAmount": 1402911.28,
+      "kdvAmount": 592340.32,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 5923.4,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 19830
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70100
+        }
+      ]
+    },
+    {
+      "model": "Tayron",
+      "trim": "Elegance",
+      "engine": "1.5 eTSI ACT 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺4.443.000,00",
+      "priceNumeric": 4443000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 100,
+      "otvAmount": 1845434.13,
+      "kdvAmount": 738173.65,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 7381.74,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 19830
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70100
+        }
+      ]
+    },
+    {
+      "model": "Tayron",
+      "trim": "Elegance",
+      "engine": "1.5 eTSI ACT 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺4.542.000,00",
+      "priceNumeric": 4542000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 100,
+      "otvAmount": 1886684.13,
+      "kdvAmount": 754673.65,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 7546.74,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 19830
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70100
+        }
+      ]
+    },
+    {
+      "model": "Tayron",
+      "trim": "R-Line",
+      "engine": "1.5 eTSI ACT 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺4.740.000,00",
+      "priceNumeric": 4740000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 100,
+      "otvAmount": 1969184.13,
+      "kdvAmount": 787673.65,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 7876.74,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 19830
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70100
+        }
+      ]
+    },
+    {
+      "model": "Tayron",
+      "trim": "R-Line",
+      "engine": "1.5 eTSI ACT 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺4.838.000,00",
+      "priceNumeric": 4838000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 100,
+      "otvAmount": 2010017.46,
+      "kdvAmount": 804006.98,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 8040.07,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 19830
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70100
+        }
+      ]
+    },
+    {
+      "model": "ID.4",
+      "trim": "Pure",
+      "engine": "125 kW 170 PS",
+      "transmission": "Otomatik",
+      "fuel": "Elektrik",
+      "priceRaw": "₺3.126.000,00",
+      "priceNumeric": 3126000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 55,
+      "netPrice": 1672999.41,
+      "otvAmount": 920149.67,
+      "kdvAmount": 518629.82,
+      "mtvAmount": 6277,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 5186.3,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 44300
+        }
+      ]
+    },
+    {
+      "model": "Passat",
+      "trim": "Impression",
+      "engine": "1.5 eTSI 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺3.411.000,00",
+      "priceNumeric": 3411000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 170,
+      "netPrice": 1489930.66,
+      "otvAmount": 1340937.59,
+      "kdvAmount": 566173.65,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 5661.74,
+      "origin": "Slovakya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 35950
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70430
+        }
+      ]
+    },
+    {
+      "model": "Passat",
+      "trim": "Impression",
+      "engine": "1.5 eHybrid 204 PS",
+      "transmission": "DSG",
+      "fuel": "Plug-in Hybrid",
+      "priceRaw": "₺3.658.000,00",
+      "priceNumeric": 3658000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 170,
+      "netPrice": 1735258.05,
+      "otvAmount": 1301443.54,
+      "kdvAmount": 607340.32,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 6073.4,
+      "origin": "Slovakya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 35950
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70430
+        }
+      ]
+    },
+    {
+      "model": "Passat",
+      "trim": "Business",
+      "engine": "1.5 eTSI 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺4.076.000,00",
+      "priceNumeric": 4076000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 170,
+      "netPrice": 1692517.46,
+      "otvAmount": 1692517.46,
+      "kdvAmount": 677006.98,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 6770.07,
+      "origin": "Slovakya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 35950
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70430
+        }
+      ]
+    },
+    {
+      "model": "Passat",
+      "trim": "Elegance",
+      "engine": "1.5 eTSI 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺4.525.000,00",
+      "priceNumeric": 4525000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 170,
+      "netPrice": 1879600.79,
+      "otvAmount": 1879600.79,
+      "kdvAmount": 751840.32,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 7518.4,
+      "origin": "Slovakya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 35950
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70430
+        }
+      ]
+    },
+    {
+      "model": "Passat",
+      "trim": "Elegance",
+      "engine": "1.5 eHybrid 204 PS",
+      "transmission": "DSG",
+      "fuel": "Plug-in Hybrid",
+      "priceRaw": "₺4.514.000,00",
+      "priceNumeric": 4514000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 170,
+      "netPrice": 2142877.1,
+      "otvAmount": 1607157.82,
+      "kdvAmount": 750006.98,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 7500.07,
+      "origin": "Slovakya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 35950
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70430
+        }
+      ]
+    },
+    {
+      "model": "Passat",
+      "trim": "R-Line",
+      "engine": "1.5 eTSI 150 PS",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺4.650.000,00",
+      "priceNumeric": 4650000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 170,
+      "netPrice": 1931684.13,
+      "otvAmount": 1931684.13,
+      "kdvAmount": 772673.65,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 7726.74,
+      "origin": "Slovakya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 35950
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70430
+        }
+      ]
+    },
+    {
+      "model": "Passat",
+      "trim": "R-Line",
+      "engine": "1.5 eHybrid 204 PS",
+      "transmission": "DSG",
+      "fuel": "Plug-in Hybrid",
+      "priceRaw": "₺4.664.000,00",
+      "priceNumeric": 4664000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 170,
+      "netPrice": 2214305.67,
+      "otvAmount": 1660729.25,
+      "kdvAmount": 775006.98,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 7750.07,
+      "origin": "Slovakya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 35950
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70430
+        }
+      ]
+    },
+    {
+      "model": "Passat",
+      "trim": "R-Line",
+      "engine": "1.5 eHybrid 272 PS",
+      "transmission": "DSG",
+      "fuel": "Plug-in Hybrid",
+      "priceRaw": "₺4.913.000,00",
+      "priceNumeric": 4913000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 170,
+      "netPrice": 2332877.1,
+      "otvAmount": 1749657.82,
+      "kdvAmount": 816506.98,
+      "mtvAmount": 6014,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 8165.07,
+      "origin": "Slovakya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 35950
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70430
+        }
+      ]
+    },
+    {
+      "model": "Passat",
+      "trim": "Elegance",
+      "engine": "2.0 TDI SCR 193 PS 4M",
+      "transmission": "DSG",
+      "fuel": "Dizel",
+      "priceRaw": "₺6.826.000,00",
+      "priceNumeric": 6826000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 170,
+      "netPrice": 2099172.5,
+      "otvAmount": 3568593.25,
+      "kdvAmount": 1133553.15,
+      "mtvAmount": 16737,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 11335.53,
+      "origin": "Slovakya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 35950
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70430
+        }
+      ]
+    },
+    {
+      "model": "Passat",
+      "trim": "R-Line",
+      "engine": "2.0 TSI 265 PS 4M",
+      "transmission": "DSG",
+      "fuel": "Benzin",
+      "priceRaw": "₺6.866.000,00",
+      "priceNumeric": 6866000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 170,
+      "netPrice": 2111518.18,
+      "otvAmount": 3589580.9,
+      "kdvAmount": 1140219.82,
+      "mtvAmount": 16737,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 11402.2,
+      "origin": "Slovakya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 35950
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70430
+        }
+      ]
+    },
+    {
+      "model": "Passat",
+      "trim": "R-Line",
+      "engine": "2.0 TDI SCR 193 PS 4M",
+      "transmission": "DSG",
+      "fuel": "Dizel",
+      "priceRaw": "₺6.990.000,00",
+      "priceNumeric": 6990000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 170,
+      "netPrice": 2149789.78,
+      "otvAmount": 3654642.63,
+      "kdvAmount": 1160886.48,
+      "mtvAmount": 16737,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 11608.86,
+      "origin": "Slovakya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 35950
+        },
+        {
+          "name": "Panoramik Açılır Cam Tavan",
+          "price": 70430
+        }
+      ]
+    },
+    {
+      "model": "ID.7",
+      "trim": "Pro S",
+      "engine": "210 kW 286 PS",
+      "transmission": "Otomatik",
+      "fuel": "Elektrik",
+      "priceRaw": "₺4.415.000,00",
+      "priceNumeric": 4415000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 75,
+      "netPrice": 2092250.43,
+      "otvAmount": 1569187.82,
+      "kdvAmount": 732287.65,
+      "mtvAmount": 13330,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 7322.88,
+      "origin": "Almanya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 44310
+        }
+      ]
+    },
+    {
+      "model": "Touareg",
+      "trim": "Elegance",
+      "engine": "3.0 V6 TDI SCR 286 PS",
+      "transmission": "Tiptronik",
+      "fuel": "Dizel",
+      "priceRaw": "₺10.717.000,00",
+      "priceNumeric": 10717000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 220,
+      "otvAmount": 6115339.37,
+      "kdvAmount": 1779007.82,
+      "mtvAmount": 35009,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 17790.08,
+      "origin": "Slovakya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 56790
+        }
+      ]
+    },
+    {
+      "model": "Touareg",
+      "trim": "R-Line",
+      "engine": "3.0 V6 TDI SCR 286 PS",
+      "transmission": "Tiptronik",
+      "fuel": "Dizel",
+      "priceRaw": "₺11.263.000,00",
+      "priceNumeric": 11263000,
+      "brand": "Volkswagen",
+      "modelYear": "2025",
+      "otvRate": 220,
+      "otvAmount": 6428151.87,
+      "kdvAmount": 1870007.82,
+      "mtvAmount": 35009,
+      "trafficRegistrationFee": 3609.1,
+      "notaryFee": 18700.08,
+      "origin": "Slovakya",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 56790
+        }
+      ]
+    }
+  ]
+}
