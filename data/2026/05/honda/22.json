@@ -1,0 +1,65 @@
+{
+  "collectedAt": "2026-05-22T01:37:50.042Z",
+  "brand": "Honda",
+  "brandId": "honda",
+  "rowCount": 4,
+  "rows": [
+    {
+      "model": "Jazz Hybrid",
+      "trim": "Crosstar",
+      "engine": "1.5L Hibrit Otomatik",
+      "transmission": "Otomatik",
+      "fuel": "Hybrid",
+      "priceRaw": "2.525.000 TL",
+      "priceNumeric": 2525000,
+      "brand": "Honda",
+      "modelYear": 2026,
+      "priceListNumeric": 2525000,
+      "engineDisplacement": "1.5L",
+      "isHybrid": true
+    },
+    {
+      "model": "HR-V Hybrid",
+      "trim": "Elegance",
+      "engine": "1.5L Hibrit Otomatik",
+      "transmission": "Otomatik",
+      "fuel": "Hybrid",
+      "priceRaw": "2.389.000 TL",
+      "priceNumeric": 2389000,
+      "brand": "Honda",
+      "modelYear": 2026,
+      "priceListNumeric": 2595000,
+      "priceCampaignNumeric": 2389000,
+      "engineDisplacement": "1.5L",
+      "isHybrid": true
+    },
+    {
+      "model": "HR-V Hybrid",
+      "trim": "Advance",
+      "engine": "1.5L Hibrit Otomatik",
+      "transmission": "Otomatik",
+      "fuel": "Hybrid",
+      "priceRaw": "2.730.000 TL",
+      "priceNumeric": 2730000,
+      "brand": "Honda",
+      "modelYear": 2026,
+      "priceListNumeric": 2730000,
+      "engineDisplacement": "1.5L",
+      "isHybrid": true
+    },
+    {
+      "model": "Prelude Hybrid",
+      "trim": "Advance",
+      "engine": "2.0L Hibrit Otomatik",
+      "transmission": "Otomatik",
+      "fuel": "Hybrid",
+      "priceRaw": "5.500.000 TL",
+      "priceNumeric": 5500000,
+      "brand": "Honda",
+      "modelYear": 2026,
+      "priceListNumeric": 5500000,
+      "engineDisplacement": "2.0L",
+      "isHybrid": true
+    }
+  ]
+}

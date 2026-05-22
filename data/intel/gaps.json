@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-21T01:38:59.731Z",
-  "date": "2026-05-21",
+  "generatedAt": "2026-05-22T01:39:23.761Z",
+  "date": "2026-05-22",
   "summary": {
     "totalSegments": 11,
     "totalGaps": 1002,
@@ -11,7 +11,7 @@
     {
       "segment": "SUV-Compact",
       "totalVehicles": 104,
-      "avgPrice": 2857326,
+      "avgPrice": 2866990,
       "minPrice": 1288800,
       "maxPrice": 8295200,
       "brands": [
@@ -44,7 +44,7 @@
     {
       "segment": "Sedan-C",
       "totalVehicles": 68,
-      "avgPrice": 7292228,
+      "avgPrice": 7302375,
       "minPrice": 1499900,
       "maxPrice": 38034000,
       "brands": [
@@ -66,7 +66,7 @@
     {
       "segment": "Hatchback-C",
       "totalVehicles": 64,
-      "avgPrice": 2706940,
+      "avgPrice": 2712096,
       "minPrice": 544900,
       "maxPrice": 6683000,
       "brands": [
@@ -95,7 +95,7 @@
     {
       "segment": "Sedan-D",
       "totalVehicles": 62,
-      "avgPrice": 9845700,
+      "avgPrice": 9860297,
       "minPrice": 3411000,
       "maxPrice": 24324800,
       "brands": [
@@ -116,7 +116,7 @@
     {
       "segment": "SUV-Medium",
       "totalVehicles": 56,
-      "avgPrice": 3779650,
+      "avgPrice": 3784739,
       "minPrice": 2249000,
       "maxPrice": 9241000,
       "brands": [
@@ -144,7 +144,7 @@
     {
       "segment": "SUV-Large",
       "totalVehicles": 52,
-      "avgPrice": 10111254,
+      "avgPrice": 10137110,
       "minPrice": 3290000,
       "maxPrice": 33191000,
       "brands": [
@@ -170,7 +170,7 @@
     {
       "segment": "Hatchback-B",
       "totalVehicles": 38,
-      "avgPrice": 2131391,
+      "avgPrice": 2133759,
       "minPrice": 1238000,
       "maxPrice": 6660000,
       "brands": [
@@ -332,7 +332,7 @@
         "Hyundai",
         "SEAT"
       ],
-      "avgPrice": 1722721,
+      "avgPrice": 1728436,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -349,7 +349,7 @@
         "Škoda",
         "Renault"
       ],
-      "avgPrice": 2168967,
+      "avgPrice": 2185633,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -1666,7 +1666,7 @@
         "SEAT",
         "Kia"
       ],
-      "avgPrice": 2522007,
+      "avgPrice": 2535340,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -2975,7 +2975,7 @@
         "Škoda",
         "SEAT"
       ],
-      "avgPrice": 1882967,
+      "avgPrice": 1922967,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -2993,7 +2993,7 @@
         "Ford",
         "Kia"
       ],
-      "avgPrice": 2448617,
+      "avgPrice": 2483617,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -4332,7 +4332,7 @@
         "Ford",
         "Kia"
       ],
-      "avgPrice": 3379586,
+      "avgPrice": 3392541,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -5633,7 +5633,7 @@
         "Volkswagen",
         "Škoda"
       ],
-      "avgPrice": 4314056,
+      "avgPrice": 4351833,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -5651,7 +5651,7 @@
         "BMW",
         "Mercedes-Benz"
       ],
-      "avgPrice": 11329923,
+      "avgPrice": 11354923,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -5837,7 +5837,7 @@
         "Škoda",
         "Mercedes-Benz"
       ],
-      "avgPrice": 11288600,
+      "avgPrice": 11315267,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -6929,7 +6929,7 @@
       "brands": [
         "Škoda"
       ],
-      "avgPrice": 4288233,
+      "avgPrice": 4466400,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -6946,7 +6946,7 @@
         "Hyundai",
         "Mercedes-Benz"
       ],
-      "avgPrice": 17823738,
+      "avgPrice": 17838738,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -7132,7 +7132,7 @@
         "Škoda",
         "Toyota"
       ],
-      "avgPrice": 10348300,
+      "avgPrice": 10388300,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -8220,7 +8220,7 @@
         "Toyota",
         "Hyundai"
       ],
-      "avgPrice": 2263738,
+      "avgPrice": 2274988,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -8236,7 +8236,7 @@
         "Škoda",
         "Mercedes-Benz"
       ],
-      "avgPrice": 3679657,
+      "avgPrice": 3731086,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -8253,7 +8253,7 @@
         "BMW",
         "Mercedes-Benz"
       ],
-      "avgPrice": 11340537,
+      "avgPrice": 11349426,
       "hasGap": false,
       "opportunityScore": 0
     },

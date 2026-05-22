@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-05-21T01:38:41.996Z",
+  "generatedAt": "2026-05-22T01:39:19.995Z",
   "totalVehicles": 507,
   "overallStats": {
-    "avgPrice": 5025322,
+    "avgPrice": 5034493,
     "minPrice": 544900,
     "maxPrice": 38034000,
-    "medianPrice": 3080000
+    "medianPrice": 3102000
   },
   "brandStats": [
     {
@@ -35,10 +35,10 @@
     {
       "name": "Škoda",
       "vehicleCount": 40,
-      "avgPrice": 4069400,
-      "minPrice": 1834900,
-      "maxPrice": 7104900,
-      "medianPrice": 3702400
+      "avgPrice": 4185638,
+      "minPrice": 1874900,
+      "maxPrice": 7224900,
+      "medianPrice": 3812400
     },
     {
       "name": "Toyota",
@@ -166,13 +166,13 @@
       "fuel": "Benzin",
       "count": 202,
       "percentage": 39.8,
-      "avgPrice": 5235437
+      "avgPrice": 5250262
     },
     {
       "fuel": "Elektrik",
       "count": 115,
       "percentage": 22.7,
-      "avgPrice": 4871210
+      "avgPrice": 4881428
     },
     {
       "fuel": "Hibrit",
@@ -184,7 +184,7 @@
       "fuel": "Dizel",
       "count": 65,
       "percentage": 12.8,
-      "avgPrice": 4571597
+      "avgPrice": 4578982
     },
     {
       "fuel": "Hafif Hibrit",
@@ -222,7 +222,7 @@
       "transmission": "DSG",
       "count": 83,
       "percentage": 16.4,
-      "avgPrice": 3906325
+      "avgPrice": 3948187
     },
     {
       "transmission": "Manuel",
@@ -240,7 +240,7 @@
       "transmission": "Bilinmiyor",
       "count": 21,
       "percentage": 4.1,
-      "avgPrice": 3184552
+      "avgPrice": 3240505
     }
   ],
   "priceSegments": [
@@ -255,15 +255,15 @@
       "segment": "mid",
       "min": 1500000,
       "max": 3000000,
-      "count": 224,
-      "percentage": 44.2
+      "count": 223,
+      "percentage": 44
     },
     {
       "segment": "premium",
       "min": 3000000,
       "max": 5000000,
-      "count": 114,
-      "percentage": 22.5
+      "count": 115,
+      "percentage": 22.7
     },
     {
       "segment": "luxury",
@@ -274,7 +274,7 @@
     }
   ],
   "otvStats": {
-    "avgOtvRate": 109.8,
+    "avgOtvRate": 110,
     "distribution": [
       {
         "rate": 1,
@@ -290,15 +290,15 @@
       },
       {
         "rate": 25,
-        "count": 8,
-        "percentage": 3,
-        "avgPrice": 2246737
+        "count": 7,
+        "percentage": 2.7,
+        "avgPrice": 2214143
       },
       {
         "rate": 55,
-        "count": 18,
-        "percentage": 6.8,
-        "avgPrice": 5025683
+        "count": 19,
+        "percentage": 7.2,
+        "avgPrice": 4945379
       },
       {
         "rate": 70,
@@ -308,27 +308,27 @@
       },
       {
         "rate": 75,
-        "count": 36,
-        "percentage": 13.7,
-        "avgPrice": 6391661
+        "count": 35,
+        "percentage": 13.3,
+        "avgPrice": 6526569
       },
       {
         "rate": 80,
-        "count": 12,
-        "percentage": 4.6,
-        "avgPrice": 2164375
+        "count": 13,
+        "percentage": 4.9,
+        "avgPrice": 2175569
       },
       {
         "rate": 90,
-        "count": 42,
-        "percentage": 16,
-        "avgPrice": 3106707
+        "count": 41,
+        "percentage": 15.6,
+        "avgPrice": 3115166
       },
       {
         "rate": 100,
-        "count": 48,
-        "percentage": 18.3,
-        "avgPrice": 5711681
+        "count": 49,
+        "percentage": 18.6,
+        "avgPrice": 5690308
       },
       {
         "rate": 150,
@@ -340,7 +340,7 @@
         "rate": 170,
         "count": 52,
         "percentage": 19.8,
-        "avgPrice": 8231187
+        "avgPrice": 8251956
       },
       {
         "rate": 220,
@@ -367,7 +367,7 @@
       },
       {
         "brand": "Škoda",
-        "avgOtvRate": 104,
+        "avgOtvRate": 105.1,
         "count": 40
       },
       {
@@ -398,7 +398,7 @@
         "year": "2026",
         "count": 273,
         "percentage": 68.6,
-        "avgPrice": 4746092
+        "avgPrice": 4763123
       },
       {
         "year": "2025",

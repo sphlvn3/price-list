@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-21T01:38:57.191Z",
-  "date": "2026-05-21",
+  "generatedAt": "2026-05-22T01:39:23.531Z",
+  "date": "2026-05-22",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -639,8 +639,8 @@
       "trims": [
         {
           "trim": "60 e-Prestige 204 PS",
-          "price": 2474900,
-          "priceFormatted": "₺2.474.900",
+          "price": 3199900,
+          "priceFormatted": "₺3.199.900",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "60 e-Prestige 204 PS",
@@ -648,8 +648,8 @@
           "fuel": "Elektrik"
         }
       ],
-      "basePrice": 2474900,
-      "topPrice": 2474900,
+      "basePrice": 3199900,
+      "topPrice": 3199900,
       "priceSpread": 0,
       "priceSpreadPercent": 0,
       "trimCount": 1
@@ -662,8 +662,8 @@
       "trims": [
         {
           "trim": "60 e-Sportline 204 PS",
-          "price": 3799900,
-          "priceFormatted": "₺3.799.900",
+          "price": 3949900,
+          "priceFormatted": "₺3.949.900",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "60 e-Sportline 204 PS",
@@ -672,19 +672,19 @@
         },
         {
           "trim": "e-RS 340 PS 4x4",
-          "price": 5199900,
-          "priceFormatted": "₺5.199.900",
+          "price": 5349900,
+          "priceFormatted": "₺5.349.900",
           "stepFromBase": 1400000,
-          "stepPercent": 36.843074817758364,
+          "stepPercent": 35.443935289501,
           "engine": "e-RS 340 PS 4x4",
           "transmission": "",
           "fuel": "Elektrik"
         }
       ],
-      "basePrice": 3799900,
-      "topPrice": 5199900,
+      "basePrice": 3949900,
+      "topPrice": 5349900,
       "priceSpread": 1400000,
-      "priceSpreadPercent": 36.84,
+      "priceSpreadPercent": 35.44,
       "trimCount": 2
     },
     {
@@ -695,8 +695,8 @@
       "trims": [
         {
           "trim": "60 e-Prestige 204 PS",
-          "price": 3699900,
-          "priceFormatted": "₺3.699.900",
+          "price": 3849900,
+          "priceFormatted": "₺3.849.900",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "60 e-Prestige 204 PS",
@@ -704,8 +704,8 @@
           "fuel": "Elektrik"
         }
       ],
-      "basePrice": 3699900,
-      "topPrice": 3699900,
+      "basePrice": 3849900,
+      "topPrice": 3849900,
       "priceSpread": 0,
       "priceSpreadPercent": 0,
       "trimCount": 1
@@ -718,8 +718,8 @@
       "trims": [
         {
           "trim": "Premium 1.0 TSI 115 PS DSG",
-          "price": 1834900,
-          "priceFormatted": "₺1.834.900",
+          "price": 1874900,
+          "priceFormatted": "₺1.874.900",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "Premium 1.0 TSI 115 PS",
@@ -728,19 +728,19 @@
         },
         {
           "trim": "Monte Carlo 1.5 TSI 150 PS DSG",
-          "price": 2219900,
-          "priceFormatted": "₺2.219.900",
-          "stepFromBase": 385000,
-          "stepPercent": 20.982069867567716,
+          "price": 2269900,
+          "priceFormatted": "₺2.269.900",
+          "stepFromBase": 395000,
+          "stepPercent": 21.067790282148383,
           "engine": "Monte Carlo 1.5 TSI 150 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         }
       ],
-      "basePrice": 1834900,
-      "topPrice": 2219900,
-      "priceSpread": 385000,
-      "priceSpreadPercent": 20.98,
+      "basePrice": 1874900,
+      "topPrice": 2269900,
+      "priceSpread": 395000,
+      "priceSpreadPercent": 21.07,
       "trimCount": 2
     },
     {
@@ -751,8 +751,8 @@
       "trims": [
         {
           "trim": "Elite 1.0 TSI 115 PS DSG",
-          "price": 1859900,
-          "priceFormatted": "₺1.859.900",
+          "price": 1979900,
+          "priceFormatted": "₺1.979.900",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "Elite 1.0 TSI 115 PS",
@@ -761,39 +761,39 @@
         },
         {
           "trim": "Premium 1.0 TSI 115 PS DSG",
-          "price": 2149900,
-          "priceFormatted": "₺2.149.900",
-          "stepFromBase": 290000,
-          "stepPercent": 15.59223614172805,
+          "price": 2219900,
+          "priceFormatted": "₺2.219.900",
+          "stepFromBase": 240000,
+          "stepPercent": 12.121824334562351,
           "engine": "Premium 1.0 TSI 115 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         },
         {
           "trim": "Premium 1.5 TSI 150 PS DSG",
-          "price": 2279900,
-          "priceFormatted": "₺2.279.900",
-          "stepFromBase": 420000,
-          "stepPercent": 22.581859239744073,
+          "price": 2349900,
+          "priceFormatted": "₺2.349.900",
+          "stepFromBase": 370000,
+          "stepPercent": 18.687812515783627,
           "engine": "Premium 1.5 TSI 150 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         },
         {
           "trim": "Monte Carlo 1.5 TSI 150 PS DSG",
-          "price": 2589900,
-          "priceFormatted": "₺2.589.900",
-          "stepFromBase": 730000,
-          "stepPercent": 39.249422011936126,
+          "price": 2659900,
+          "priceFormatted": "₺2.659.900",
+          "stepFromBase": 680000,
+          "stepPercent": 34.345168947926666,
           "engine": "Monte Carlo 1.5 TSI 150 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         }
       ],
-      "basePrice": 1859900,
-      "topPrice": 2589900,
-      "priceSpread": 730000,
-      "priceSpreadPercent": 39.25,
+      "basePrice": 1979900,
+      "topPrice": 2659900,
+      "priceSpread": 680000,
+      "priceSpreadPercent": 34.35,
       "trimCount": 4
     },
     {
@@ -804,8 +804,8 @@
       "trims": [
         {
           "trim": "Elite 1.5 TSI mHEV 150 PS DSG",
-          "price": 2644900,
-          "priceFormatted": "₺2.644.900",
+          "price": 2734900,
+          "priceFormatted": "₺2.734.900",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "Elite 1.5 TSI mHEV 150 PS",
@@ -814,69 +814,69 @@
         },
         {
           "trim": "Premium 1.5 TSI mHEV 150 PS DSG",
-          "price": 3004900,
-          "priceFormatted": "₺3.004.900",
+          "price": 3094900,
+          "priceFormatted": "₺3.094.900",
           "stepFromBase": 360000,
-          "stepPercent": 13.611100608718665,
+          "stepPercent": 13.163186953819153,
           "engine": "Premium 1.5 TSI mHEV 150 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         },
         {
           "trim": "Prestige 1.5 TSI mHEV 150 PS DSG",
-          "price": 3304900,
-          "priceFormatted": "₺3.304.900",
+          "price": 3394900,
+          "priceFormatted": "₺3.394.900",
           "stepFromBase": 660000,
-          "stepPercent": 24.953684449317553,
+          "stepPercent": 24.132509415335115,
           "engine": "Prestige 1.5 TSI mHEV 150 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         },
         {
           "trim": "Sportline 1.5 TSI mHEV 150 PS DSG",
-          "price": 3304900,
-          "priceFormatted": "₺3.304.900",
+          "price": 3394900,
+          "priceFormatted": "₺3.394.900",
           "stepFromBase": 660000,
-          "stepPercent": 24.953684449317553,
+          "stepPercent": 24.132509415335115,
           "engine": "Sportline 1.5 TSI mHEV 150 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         },
         {
           "trim": "Combi Sportline 1.5 TSI mHEV 150 PS DSG",
-          "price": 3404900,
-          "priceFormatted": "₺3.404.900",
+          "price": 3494900,
+          "priceFormatted": "₺3.494.900",
           "stepFromBase": 760000,
-          "stepPercent": 28.734545729517187,
+          "stepPercent": 27.78895023584043,
           "engine": "Combi Sportline 1.5 TSI mHEV 150 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         },
         {
           "trim": "RS 2.0 TSI 265 PS DSG",
-          "price": 5434900,
-          "priceFormatted": "₺5.434.900",
-          "stepFromBase": 2790000,
-          "stepPercent": 105.48602971756966,
+          "price": 5554900,
+          "priceFormatted": "₺5.554.900",
+          "stepFromBase": 2820000,
+          "stepPercent": 103.11163113825003,
           "engine": "RS 2.0 TSI 265 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         },
         {
           "trim": "Combi RS 2.0 TSI 265 PS DSG",
-          "price": 5534900,
-          "priceFormatted": "₺5.534.900",
-          "stepFromBase": 2890000,
-          "stepPercent": 109.2668909977693,
+          "price": 5654900,
+          "priceFormatted": "₺5.654.900",
+          "stepFromBase": 2920000,
+          "stepPercent": 106.76807195875536,
           "engine": "Combi RS 2.0 TSI 265 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         }
       ],
-      "basePrice": 2644900,
-      "topPrice": 5534900,
-      "priceSpread": 2890000,
-      "priceSpreadPercent": 109.27,
+      "basePrice": 2734900,
+      "topPrice": 5654900,
+      "priceSpread": 2920000,
+      "priceSpreadPercent": 106.77,
       "trimCount": 7
     },
     {
@@ -897,99 +897,99 @@
         },
         {
           "trim": "Prestige 1.5 TSI  mHEV 150 PS DSG",
-          "price": 4454900,
-          "priceFormatted": "₺4.454.900",
-          "stepFromBase": 680000,
-          "stepPercent": 18.013722217807093,
+          "price": 4539900,
+          "priceFormatted": "₺4.539.900",
+          "stepFromBase": 765000,
+          "stepPercent": 20.26543749503298,
           "engine": "Prestige 1.5 TSI  mHEV 150 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         },
         {
           "trim": "Sportline 1,5 TSI  mHEV 150 PS DSG",
-          "price": 4454900,
-          "priceFormatted": "₺4.454.900",
-          "stepFromBase": 680000,
-          "stepPercent": 18.013722217807093,
+          "price": 4539900,
+          "priceFormatted": "₺4.539.900",
+          "stepFromBase": 765000,
+          "stepPercent": 20.26543749503298,
           "engine": "Sportline 1,5 TSI  mHEV 150 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         },
         {
           "trim": "Combi Prestige 1.5 TSI mHEV 150 PS DSG",
-          "price": 4574900,
-          "priceFormatted": "₺4.574.900",
-          "stepFromBase": 800000,
-          "stepPercent": 21.1926143738907,
+          "price": 4659900,
+          "priceFormatted": "₺4.659.900",
+          "stepFromBase": 885000,
+          "stepPercent": 23.444329651116586,
           "engine": "Combi Prestige 1.5 TSI mHEV 150 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         },
         {
           "trim": "L&K Crystal 1.5 TSI mHEV 150 PS DSG",
-          "price": 4904900,
-          "priceFormatted": "₺4.904.900",
-          "stepFromBase": 1130000,
-          "stepPercent": 29.93456780312061,
+          "price": 4989900,
+          "priceFormatted": "₺4.989.900",
+          "stepFromBase": 1215000,
+          "stepPercent": 32.1862830803465,
           "engine": "L&K Crystal 1.5 TSI mHEV 150 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         },
         {
           "trim": "Combi L&K Crystal 1.5 TSI mHEV 150 PS DSG",
-          "price": 5024900,
-          "priceFormatted": "₺5.024.900",
-          "stepFromBase": 1250000,
-          "stepPercent": 33.113459959204214,
+          "price": 5109900,
+          "priceFormatted": "₺5.109.900",
+          "stepFromBase": 1335000,
+          "stepPercent": 35.365175236430105,
           "engine": "Combi L&K Crystal 1.5 TSI mHEV 150 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         },
         {
           "trim": "L&K Crystal 2.0 TDI 193 PS DSG 4x4",
-          "price": 6854900,
-          "priceFormatted": "₺6.854.900",
-          "stepFromBase": 3080000,
-          "stepPercent": 81.59156533947919,
+          "price": 6974900,
+          "priceFormatted": "₺6.974.900",
+          "stepFromBase": 3200000,
+          "stepPercent": 84.7704574955628,
           "engine": "L&K Crystal 2.0 TDI 193 PS  4x4",
           "transmission": "DSG",
           "fuel": "Dizel"
         },
         {
           "trim": "L&K Crystal 2.0 TSI 265 PS DSG 4x4",
-          "price": 6954900,
-          "priceFormatted": "₺6.954.900",
-          "stepFromBase": 3180000,
-          "stepPercent": 84.24064213621553,
+          "price": 7074900,
+          "priceFormatted": "₺7.074.900",
+          "stepFromBase": 3300000,
+          "stepPercent": 87.41953429229913,
           "engine": "L&K Crystal 2.0 TSI 265 PS  4x4",
           "transmission": "DSG",
           "fuel": "Benzin"
         },
         {
           "trim": "Combi L&K Crystal 2.0 TDI SCR 193 PS DSG 4x4",
-          "price": 6974900,
-          "priceFormatted": "₺6.974.900",
-          "stepFromBase": 3200000,
-          "stepPercent": 84.7704574955628,
+          "price": 7094900,
+          "priceFormatted": "₺7.094.900",
+          "stepFromBase": 3320000,
+          "stepPercent": 87.9493496516464,
           "engine": "Combi L&K Crystal 2.0 TDI SCR 193 PS  4x4",
           "transmission": "DSG",
           "fuel": "Dizel"
         },
         {
           "trim": "Combi L&K Crystal 2.0 TSI 265 PS DSG 4x4",
-          "price": 7074900,
-          "priceFormatted": "₺7.074.900",
-          "stepFromBase": 3300000,
-          "stepPercent": 87.41953429229913,
+          "price": 7194900,
+          "priceFormatted": "₺7.194.900",
+          "stepFromBase": 3420000,
+          "stepPercent": 90.59842644838274,
           "engine": "Combi L&K Crystal 2.0 TSI 265 PS  4x4",
           "transmission": "DSG",
           "fuel": "Benzin"
         }
       ],
       "basePrice": 3774900,
-      "topPrice": 7074900,
-      "priceSpread": 3300000,
-      "priceSpreadPercent": 87.42,
+      "topPrice": 7194900,
+      "priceSpread": 3420000,
+      "priceSpreadPercent": 90.6,
       "trimCount": 10
     },
     {
@@ -1000,8 +1000,8 @@
       "trims": [
         {
           "trim": "Elite 1.0 TSI 115 PS DSG",
-          "price": 2029900,
-          "priceFormatted": "₺2.029.900",
+          "price": 2099900,
+          "priceFormatted": "₺2.099.900",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "Elite 1.0 TSI 115 PS",
@@ -1010,39 +1010,39 @@
         },
         {
           "trim": "Premium 1.0 TSI 115 PS DSG",
-          "price": 2274900,
-          "priceFormatted": "₺2.274.900",
+          "price": 2344900,
+          "priceFormatted": "₺2.344.900",
           "stepFromBase": 245000,
-          "stepPercent": 12.069560076851078,
+          "stepPercent": 11.66722224867851,
           "engine": "Premium 1.0 TSI 115 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         },
         {
           "trim": "Premium 1.5 TSI 150 PS DSG",
-          "price": 2539900,
-          "priceFormatted": "₺2.539.900",
+          "price": 2609900,
+          "priceFormatted": "₺2.609.900",
           "stepFromBase": 510000,
-          "stepPercent": 25.12439036405734,
+          "stepPercent": 24.28687080337159,
           "engine": "Premium 1.5 TSI 150 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         },
         {
           "trim": "Monte Carlo 1.5 TSI 150 PS DSG",
-          "price": 2704900,
-          "priceFormatted": "₺2.704.900",
+          "price": 2774900,
+          "priceFormatted": "₺2.774.900",
           "stepFromBase": 675000,
-          "stepPercent": 33.25286959948766,
+          "stepPercent": 32.144387827991814,
           "engine": "Monte Carlo 1.5 TSI 150 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         }
       ],
-      "basePrice": 2029900,
-      "topPrice": 2704900,
+      "basePrice": 2099900,
+      "topPrice": 2774900,
       "priceSpread": 675000,
-      "priceSpreadPercent": 33.25,
+      "priceSpreadPercent": 32.14,
       "trimCount": 4
     },
     {
@@ -1053,8 +1053,8 @@
       "trims": [
         {
           "trim": "Premium 1.5 TSI 150 PS DSG",
-          "price": 3154900,
-          "priceFormatted": "₺3.154.900",
+          "price": 3249900,
+          "priceFormatted": "₺3.249.900",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "Premium 1.5 TSI 150 PS",
@@ -1063,29 +1063,29 @@
         },
         {
           "trim": "Prestige 1.5 TSI 150 PS DSG",
-          "price": 3474900,
-          "priceFormatted": "₺3.474.900",
+          "price": 3569900,
+          "priceFormatted": "₺3.569.900",
           "stepFromBase": 320000,
-          "stepPercent": 10.142952233034327,
+          "stepPercent": 9.846456814055816,
           "engine": "Prestige 1.5 TSI 150 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         },
         {
           "trim": "Sportline 1.5 TSI 150 PS DSG",
-          "price": 3574900,
-          "priceFormatted": "₺3.574.900",
+          "price": 3669900,
+          "priceFormatted": "₺3.669.900",
           "stepFromBase": 420000,
-          "stepPercent": 13.312624805857553,
+          "stepPercent": 12.92347456844826,
           "engine": "Sportline 1.5 TSI 150 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         }
       ],
-      "basePrice": 3154900,
-      "topPrice": 3574900,
+      "basePrice": 3249900,
+      "topPrice": 3669900,
       "priceSpread": 420000,
-      "priceSpreadPercent": 13.31,
+      "priceSpreadPercent": 12.92,
       "trimCount": 3
     },
     {
@@ -1096,8 +1096,8 @@
       "trims": [
         {
           "trim": "Premium 1.5 TSI mHEV 150 PS DSG",
-          "price": 3704900,
-          "priceFormatted": "₺3.704.900",
+          "price": 3999400,
+          "priceFormatted": "₺3.999.400",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "Premium 1.5 TSI mHEV 150 PS",
@@ -1106,59 +1106,59 @@
         },
         {
           "trim": "Prestige 1.5 TSI  mHEV 150 PS DSG",
-          "price": 4504900,
-          "priceFormatted": "₺4.504.900",
-          "stepFromBase": 800000,
-          "stepPercent": 21.593025452778754,
+          "price": 4624900,
+          "priceFormatted": "₺4.624.900",
+          "stepFromBase": 625500,
+          "stepPercent": 15.639845976896535,
           "engine": "Prestige 1.5 TSI  mHEV 150 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         },
         {
           "trim": "Sportline 1.5 TSI mHEV 150 PS DSG",
-          "price": 4654900,
-          "priceFormatted": "₺4.654.900",
-          "stepFromBase": 950000,
-          "stepPercent": 25.641717725174768,
+          "price": 4774900,
+          "priceFormatted": "₺4.774.900",
+          "stepFromBase": 775500,
+          "stepPercent": 19.390408561284193,
           "engine": "Sportline 1.5 TSI mHEV 150 PS",
           "transmission": "DSG",
           "fuel": "Benzin"
         },
         {
           "trim": "Prestige 2.0 TDI SCR 193 PS DSG 4x4",
-          "price": 6504900,
-          "priceFormatted": "₺6.504.900",
-          "stepFromBase": 2800000,
-          "stepPercent": 75.57558908472564,
+          "price": 6624900,
+          "priceFormatted": "₺6.624.900",
+          "stepFromBase": 2625500,
+          "stepPercent": 65.64734710206531,
           "engine": "Prestige 2.0 TDI SCR 193 PS  4x4",
           "transmission": "DSG",
           "fuel": "Dizel"
         },
         {
           "trim": "Sportline 2.0 TDI SCR 193 PS DSG 4x4",
-          "price": 6754900,
-          "priceFormatted": "₺6.754.900",
-          "stepFromBase": 3050000,
-          "stepPercent": 82.32340953871899,
+          "price": 6874900,
+          "priceFormatted": "₺6.874.900",
+          "stepFromBase": 2875500,
+          "stepPercent": 71.89828474271141,
           "engine": "Sportline 2.0 TDI SCR 193 PS  4x4",
           "transmission": "DSG",
           "fuel": "Dizel"
         },
         {
           "trim": "RS 2.0 TSI 265 PS DSG 4x4",
-          "price": 7104900,
-          "priceFormatted": "₺7.104.900",
-          "stepFromBase": 3400000,
-          "stepPercent": 91.77035817430969,
+          "price": 7224900,
+          "priceFormatted": "₺7.224.900",
+          "stepFromBase": 3225500,
+          "stepPercent": 80.64959743961595,
           "engine": "RS 2.0 TSI 265 PS  4x4",
           "transmission": "DSG",
           "fuel": "Benzin"
         }
       ],
-      "basePrice": 3704900,
-      "topPrice": 7104900,
-      "priceSpread": 3400000,
-      "priceSpreadPercent": 91.77,
+      "basePrice": 3999400,
+      "topPrice": 7224900,
+      "priceSpread": 3225500,
+      "priceSpreadPercent": 80.65,
       "trimCount": 6
     },
     {
@@ -8334,16 +8334,6 @@
           "trimCount": 2
         },
         {
-          "brand": "Škoda",
-          "brandId": "skoda",
-          "model": "Škoda Kamiq",
-          "basePrice": 2029900,
-          "topPrice": 2704900,
-          "basePriceFormatted": "₺2.029.900",
-          "topPriceFormatted": "₺2.704.900",
-          "trimCount": 4
-        },
-        {
           "brand": "Volkswagen",
           "brandId": "volkswagen",
           "model": "Taigo",
@@ -8372,6 +8362,16 @@
           "basePriceFormatted": "₺2.093.900",
           "topPriceFormatted": "₺2.149.900",
           "trimCount": 2
+        },
+        {
+          "brand": "Škoda",
+          "brandId": "skoda",
+          "model": "Škoda Kamiq",
+          "basePrice": 2099900,
+          "topPrice": 2774900,
+          "basePriceFormatted": "₺2.099.900",
+          "topPriceFormatted": "₺2.774.900",
+          "trimCount": 4
         },
         {
           "brand": "Opel",
@@ -8464,16 +8464,6 @@
           "trimCount": 2
         },
         {
-          "brand": "Škoda",
-          "brandId": "skoda",
-          "model": "Yeni Škoda Elroq",
-          "basePrice": 2474900,
-          "topPrice": 2474900,
-          "basePriceFormatted": "₺2.474.900",
-          "topPriceFormatted": "₺2.474.900",
-          "trimCount": 1
-        },
-        {
           "brand": "Opel",
           "brandId": "opel",
           "model": "Astra",
@@ -8524,6 +8514,16 @@
           "trimCount": 2
         },
         {
+          "brand": "Škoda",
+          "brandId": "skoda",
+          "model": "Yeni Škoda Elroq",
+          "basePrice": 3199900,
+          "topPrice": 3199900,
+          "basePriceFormatted": "₺3.199.900",
+          "topPriceFormatted": "₺3.199.900",
+          "trimCount": 1
+        },
+        {
           "brand": "Mercedes-Benz",
           "brandId": "mercedes",
           "model": "A 200",
@@ -8542,16 +8542,6 @@
           "basePriceFormatted": "₺3.475.000",
           "topPriceFormatted": "₺4.838.000",
           "trimCount": 6
-        },
-        {
-          "brand": "Škoda",
-          "brandId": "skoda",
-          "model": "Yeni Škoda Enyaq",
-          "basePrice": 3699900,
-          "topPrice": 3699900,
-          "basePriceFormatted": "₺3.699.900",
-          "topPriceFormatted": "₺3.699.900",
-          "trimCount": 1
         },
         {
           "brand": "BMW",
@@ -8576,11 +8566,21 @@
         {
           "brand": "Škoda",
           "brandId": "skoda",
+          "model": "Yeni Škoda Enyaq",
+          "basePrice": 3849900,
+          "topPrice": 3849900,
+          "basePriceFormatted": "₺3.849.900",
+          "topPriceFormatted": "₺3.849.900",
+          "trimCount": 1
+        },
+        {
+          "brand": "Škoda",
+          "brandId": "skoda",
           "model": "Yeni Škoda Enyaq Coupé",
-          "basePrice": 3799900,
-          "topPrice": 5199900,
-          "basePriceFormatted": "₺3.799.900",
-          "topPriceFormatted": "₺5.199.900",
+          "basePrice": 3949900,
+          "topPrice": 5349900,
+          "basePriceFormatted": "₺3.949.900",
+          "topPriceFormatted": "₺5.349.900",
           "trimCount": 2
         },
         {
@@ -9324,8 +9324,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 8019006,
-      "avgTopPrice": 8279539
+      "avgBasePrice": 8027909,
+      "avgTopPrice": 8288442
     },
     {
       "segment": "SUV",
@@ -9501,16 +9501,6 @@
           "trimCount": 2
         },
         {
-          "brand": "Škoda",
-          "brandId": "skoda",
-          "model": "Škoda Karoq",
-          "basePrice": 3154900,
-          "topPrice": 3574900,
-          "basePriceFormatted": "₺3.154.900",
-          "topPriceFormatted": "₺3.574.900",
-          "trimCount": 3
-        },
-        {
           "brand": "Volkswagen",
           "brandId": "volkswagen",
           "model": "Tiguan",
@@ -9519,6 +9509,16 @@
           "basePriceFormatted": "₺3.223.000",
           "topPriceFormatted": "₺6.272.000",
           "trimCount": 5
+        },
+        {
+          "brand": "Škoda",
+          "brandId": "skoda",
+          "model": "Škoda Karoq",
+          "basePrice": 3249900,
+          "topPrice": 3669900,
+          "basePriceFormatted": "₺3.249.900",
+          "topPriceFormatted": "₺3.669.900",
+          "trimCount": 3
         },
         {
           "brand": "Peugeot",
@@ -9574,10 +9574,10 @@
           "brand": "Škoda",
           "brandId": "skoda",
           "model": "Škoda Kodiaq",
-          "basePrice": 3704900,
-          "topPrice": 7104900,
-          "basePriceFormatted": "₺3.704.900",
-          "topPriceFormatted": "₺7.104.900",
+          "basePrice": 3999400,
+          "topPrice": 7224900,
+          "basePriceFormatted": "₺3.999.400",
+          "topPriceFormatted": "₺7.224.900",
           "trimCount": 6
         },
         {
@@ -9751,8 +9751,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 5722613,
-      "avgTopPrice": 6200567
+      "avgBasePrice": 5731887,
+      "avgTopPrice": 6205686
     },
     {
       "segment": "Sedan",
@@ -9868,16 +9868,6 @@
           "trimCount": 1
         },
         {
-          "brand": "Škoda",
-          "brandId": "skoda",
-          "model": "Škoda Octavia",
-          "basePrice": 2644900,
-          "topPrice": 5534900,
-          "basePriceFormatted": "₺2.644.900",
-          "topPriceFormatted": "₺5.534.900",
-          "trimCount": 7
-        },
-        {
           "brand": "Ford",
           "brandId": "ford",
           "model": "Focus",
@@ -9886,6 +9876,16 @@
           "basePriceFormatted": "₺2.720.500",
           "topPriceFormatted": "₺2.859.900",
           "trimCount": 2
+        },
+        {
+          "brand": "Škoda",
+          "brandId": "skoda",
+          "model": "Škoda Octavia",
+          "basePrice": 2734900,
+          "topPrice": 5654900,
+          "basePriceFormatted": "₺2.734.900",
+          "topPriceFormatted": "₺5.654.900",
+          "trimCount": 7
         },
         {
           "brand": "Toyota",
@@ -9912,9 +9912,9 @@
           "brandId": "skoda",
           "model": "Škoda Superb",
           "basePrice": 3774900,
-          "topPrice": 7074900,
+          "topPrice": 7194900,
           "basePriceFormatted": "₺3.774.900",
-          "topPriceFormatted": "₺7.074.900",
+          "topPriceFormatted": "₺7.194.900",
           "trimCount": 10
         },
         {
@@ -9988,8 +9988,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 5686466,
-      "avgTopPrice": 6411123
+      "avgBasePrice": 5690379,
+      "avgTopPrice": 6421558
     },
     {
       "segment": "Electric",
@@ -10225,21 +10225,11 @@
           "brand": "Škoda",
           "brandId": "skoda",
           "model": "Škoda Fabia",
-          "basePrice": 1834900,
-          "topPrice": 2219900,
-          "basePriceFormatted": "₺1.834.900",
-          "topPriceFormatted": "₺2.219.900",
+          "basePrice": 1874900,
+          "topPrice": 2269900,
+          "basePriceFormatted": "₺1.874.900",
+          "topPriceFormatted": "₺2.269.900",
           "trimCount": 2
-        },
-        {
-          "brand": "Škoda",
-          "brandId": "skoda",
-          "model": "Škoda Scala",
-          "basePrice": 1859900,
-          "topPrice": 2589900,
-          "basePriceFormatted": "₺1.859.900",
-          "topPriceFormatted": "₺2.589.900",
-          "trimCount": 4
         },
         {
           "brand": "Hyundai",
@@ -10250,6 +10240,16 @@
           "basePriceFormatted": "₺1.940.000",
           "topPriceFormatted": "₺2.195.000",
           "trimCount": 2
+        },
+        {
+          "brand": "Škoda",
+          "brandId": "skoda",
+          "model": "Škoda Scala",
+          "basePrice": 1979900,
+          "topPrice": 2659900,
+          "basePriceFormatted": "₺1.979.900",
+          "topPriceFormatted": "₺2.659.900",
+          "trimCount": 4
         },
         {
           "brand": "Toyota",
@@ -10352,8 +10352,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 2486800,
-      "avgTopPrice": 2720506
+      "avgBasePrice": 2496212,
+      "avgTopPrice": 2727565
     },
     {
       "segment": "MPV",
@@ -10446,7 +10446,7 @@
   "summary": {
     "totalModels": 232,
     "avgTrimsPerModel": 2.2,
-    "avgPriceSpread": 363569,
-    "avgPriceSpreadPercent": 12.07
+    "avgPriceSpread": 363291,
+    "avgPriceSpreadPercent": 11.99
   }
 }
