@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-23T01:34:46.288Z",
-  "date": "2026-05-23",
+  "generatedAt": "2026-05-24T01:39:34.197Z",
+  "date": "2026-05-24",
   "summary": {
     "totalSegments": 11,
     "totalGaps": 1002,
@@ -198,7 +198,7 @@
     {
       "segment": "Other",
       "totalVehicles": 31,
-      "avgPrice": 2424468,
+      "avgPrice": 2427097,
       "minPrice": 1190000,
       "maxPrice": 4838000,
       "brands": [

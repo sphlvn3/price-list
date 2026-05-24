@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-23T01:34:46.072Z",
-  "date": "2026-05-23",
+  "generatedAt": "2026-05-24T01:39:33.917Z",
+  "date": "2026-05-24",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -2111,8 +2111,8 @@
       "trims": [
         {
           "trim": "2.2 D 140 HP L4 Kasalı M/T",
-          "price": 1764000,
-          "priceFormatted": "1764000",
+          "price": 1845500,
+          "priceFormatted": "1845500",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "2.2",
@@ -2120,8 +2120,8 @@
           "fuel": "Dizel"
         }
       ],
-      "basePrice": 1764000,
-      "topPrice": 1764000,
+      "basePrice": 1845500,
+      "topPrice": 1845500,
       "priceSpread": 0,
       "priceSpreadPercent": 0,
       "trimCount": 1
@@ -8277,16 +8277,6 @@
           "trimCount": 3
         },
         {
-          "brand": "Toyota",
-          "brandId": "toyota",
-          "model": "Proace Max Kamyonet",
-          "basePrice": 1764000,
-          "topPrice": 1764000,
-          "basePriceFormatted": "₺1.764.000",
-          "topPriceFormatted": "₺1.764.000",
-          "trimCount": 1
-        },
-        {
           "brand": "SEAT",
           "brandId": "seat",
           "model": "YENİ",
@@ -8304,6 +8294,16 @@
           "topPrice": 1834900,
           "basePriceFormatted": "₺1.834.900",
           "topPriceFormatted": "₺1.834.900",
+          "trimCount": 1
+        },
+        {
+          "brand": "Toyota",
+          "brandId": "toyota",
+          "model": "Proace Max Kamyonet",
+          "basePrice": 1845500,
+          "topPrice": 1845500,
+          "basePriceFormatted": "₺1.845.500",
+          "topPriceFormatted": "₺1.845.500",
           "trimCount": 1
         },
         {
@@ -9367,8 +9367,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 7976869,
-      "avgTopPrice": 8235906
+      "avgBasePrice": 7977526,
+      "avgTopPrice": 8236563
     },
     {
       "segment": "SUV",

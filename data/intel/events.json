@@ -1,22 +1,42 @@
 {
-  "generatedAt": "2026-05-23T01:34:45.482Z",
-  "date": "2026-05-23",
-  "previousDate": "2026-05-22",
+  "generatedAt": "2026-05-24T01:39:33.232Z",
+  "date": "2026-05-24",
+  "previousDate": "2026-05-23",
   "dateRange": {
     "start": "2026-01-28",
-    "end": "2026-05-23",
-    "totalDays": 116
+    "end": "2026-05-24",
+    "totalDays": 117
   },
   "summary": {
-    "totalEvents": 1653,
+    "totalEvents": 1654,
     "newVehicles": 334,
     "removedVehicles": 357,
-    "priceIncreases": 815,
+    "priceIncreases": 816,
     "priceDecreases": 147,
-    "avgPriceChange": 97926,
+    "avgPriceChange": 97909,
     "avgPriceChangePercent": 1.66
   },
   "events": [
+    {
+      "id": "toyota-proace-max-kamyonet-2.2-d-140-hp-l4-kasalı-m/t-2.2-price_increase-2026-05-24",
+      "type": "price_increase",
+      "vehicleId": "toyota-proace-max-kamyonet-2.2-d-140-hp-l4-kasalı-m/t-2.2",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "Proace Max Kamyonet",
+      "trim": "2.2 D 140 HP L4 Kasalı M/T",
+      "engine": "2.2",
+      "fuel": "Dizel",
+      "transmission": "Düz",
+      "oldPrice": 1764000,
+      "newPrice": 1845500,
+      "oldPriceFormatted": "1764000",
+      "newPriceFormatted": "1845500",
+      "priceChange": 81500,
+      "priceChangePercent": 4.62,
+      "date": "2026-05-24",
+      "previousDate": "2026-05-23"
+    },
     {
       "id": "dacia-yeni-logan-expression-expression-eco-g-120-auto-new-2026-05-23",
       "type": "new",
@@ -29994,10 +30014,10 @@
       {
         "id": "toyota",
         "name": "Toyota",
-        "changeCount": 111,
-        "avgChange": 70158,
-        "avgChangePercent": 2.86,
-        "increaseCount": 95,
+        "changeCount": 112,
+        "avgChange": 70259,
+        "avgChangePercent": 2.88,
+        "increaseCount": 96,
         "decreaseCount": 16
       },
       {
