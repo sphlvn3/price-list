@@ -1,0 +1,720 @@
+{
+  "collectedAt": "2026-05-30T01:34:35.025Z",
+  "brand": "Ford",
+  "brandId": "ford",
+  "rowCount": 21,
+  "rows": [
+    {
+      "model": "Yeni Puma",
+      "trim": "Titanium",
+      "engine": "1.0L EcoBoost 125PS",
+      "transmission": "Otomatik",
+      "fuel": "Hybrid",
+      "priceRaw": "1.897.100 TL",
+      "priceNumeric": 1897100,
+      "brand": "Ford",
+      "priceListNumeric": 1897100,
+      "modelYear": "2025",
+      "origin": "Romanya",
+      "vehicleCategory": "SUV",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya (Akik Siyah & Kurşun Gri)",
+          "price": 24900
+        },
+        {
+          "name": "Özel Renk (Fantastik Kırmızı & Ada Mavisi)",
+          "price": 47000
+        },
+        {
+          "name": "16'' Çelik Stepne",
+          "price": 5000
+        },
+        {
+          "name": "Teknoloji Paketi",
+          "price": 59600
+        }
+      ],
+      "powerHP": 125,
+      "engineDisplacement": "1.0L",
+      "engineType": "EcoBoost",
+      "isHybrid": true
+    },
+    {
+      "model": "Yeni Puma",
+      "trim": "Titanium",
+      "engine": "1.0L EcoBoost 125PS",
+      "transmission": "Otomatik",
+      "fuel": "Hybrid",
+      "priceRaw": "2.131.500 TL",
+      "priceNumeric": 2131500,
+      "brand": "Ford",
+      "priceListNumeric": 2131500,
+      "modelYear": "2026",
+      "origin": "Romanya",
+      "vehicleCategory": "SUV",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya (Akik Siyah & Kurşun Gri)",
+          "price": 27200
+        },
+        {
+          "name": "Özel Renk (Fantastik Kırmızı & Ada Mavisi)",
+          "price": 51300
+        },
+        {
+          "name": "16'' Çelik Stepne",
+          "price": 5400
+        },
+        {
+          "name": "Teknoloji Paketi",
+          "price": 77900
+        }
+      ],
+      "powerHP": 125,
+      "engineDisplacement": "1.0L",
+      "engineType": "EcoBoost",
+      "isHybrid": true
+    },
+    {
+      "model": "Yeni Puma",
+      "trim": "ST-Line X",
+      "engine": "1.0L EcoBoost 155PS",
+      "transmission": "Otomatik",
+      "fuel": "Hybrid",
+      "priceRaw": "2.138.700 TL",
+      "priceNumeric": 2138700,
+      "brand": "Ford",
+      "priceListNumeric": 2138700,
+      "modelYear": "2025",
+      "origin": "Romanya",
+      "vehicleCategory": "SUV",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya (Akik Siyah & Kurşun Gri)",
+          "price": 24900
+        },
+        {
+          "name": "Özel Renk (Fantastik Kırmızı & Ada Mavisi)",
+          "price": 47000
+        },
+        {
+          "name": "16'' Çelik Stepne",
+          "price": 5000
+        },
+        {
+          "name": "Açılabilir Panoramik Cam Tavan",
+          "price": 64900
+        }
+      ],
+      "powerHP": 155,
+      "engineDisplacement": "1.0L",
+      "engineType": "EcoBoost",
+      "isHybrid": true
+    },
+    {
+      "model": "Yeni Puma",
+      "trim": "ST-Line X",
+      "engine": "1.0L EcoBoost 155PS",
+      "transmission": "Otomatik",
+      "fuel": "Hybrid",
+      "priceRaw": "2.359.500 TL",
+      "priceNumeric": 2359500,
+      "brand": "Ford",
+      "priceListNumeric": 2359500,
+      "modelYear": "2026",
+      "origin": "Romanya",
+      "vehicleCategory": "SUV",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya (Akik Siyah & Kurşun Gri)",
+          "price": 27200
+        },
+        {
+          "name": "Özel Renk (Fantastik Kırmızı & Ada Mavisi)",
+          "price": 51300
+        },
+        {
+          "name": "16'' Çelik Stepne",
+          "price": 5400
+        },
+        {
+          "name": "Açılabilir Panoramik Cam Tavan",
+          "price": 71000
+        }
+      ],
+      "powerHP": 155,
+      "engineDisplacement": "1.0L",
+      "engineType": "EcoBoost",
+      "isHybrid": true
+    },
+    {
+      "model": "Focus",
+      "trim": "Yeni Titanium Stil",
+      "engine": "1.5L EcoBlue 115PS",
+      "transmission": "Otomatik",
+      "fuel": "Dizel",
+      "priceRaw": "2.720.500 TL",
+      "priceNumeric": 2720500,
+      "brand": "Ford",
+      "priceListNumeric": 2863100,
+      "priceCampaignNumeric": 2720500,
+      "modelYear": "2025",
+      "origin": "Almanya",
+      "vehicleCategory": "Sedan",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya",
+          "price": 32400
+        },
+        {
+          "name": "Özel Renk (Manyetik Gri, Fantastik Kırmızı)",
+          "price": 61200
+        },
+        {
+          "name": "Ford Co-Pilot 360 #2",
+          "price": 57600
+        },
+        {
+          "name": "Açılabilir Panoramik Cam Tavan",
+          "price": 108000
+        },
+        {
+          "name": "Kış Paketi",
+          "price": 28500
+        },
+        {
+          "name": "B&O Müzik Sistemi",
+          "price": 32500
+        },
+        {
+          "name": "Stil Paketi",
+          "price": 65000
+        }
+      ],
+      "powerHP": 115,
+      "engineDisplacement": "1.5L",
+      "engineType": "EcoBlue"
+    },
+    {
+      "model": "Focus",
+      "trim": "Yeni Titanium X",
+      "engine": "1.5L EcoBlue 115PS",
+      "transmission": "Otomatik",
+      "fuel": "Dizel",
+      "priceRaw": "2.859.900 TL",
+      "priceNumeric": 2859900,
+      "brand": "Ford",
+      "priceListNumeric": 3009800,
+      "priceCampaignNumeric": 2859900,
+      "modelYear": "2025",
+      "origin": "Almanya",
+      "vehicleCategory": "Sedan",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya",
+          "price": 32400
+        },
+        {
+          "name": "Özel Renk (Manyetik Gri, Fantastik Kırmızı)",
+          "price": 61200
+        },
+        {
+          "name": "Ford Co-Pilot 360 #2",
+          "price": 57600
+        },
+        {
+          "name": "Açılabilir Panoramik Cam Tavan",
+          "price": 108000
+        },
+        {
+          "name": "Kış Paketi",
+          "price": 28500
+        },
+        {
+          "name": "B&O Müzik Sistemi",
+          "price": 32500
+        },
+        {
+          "name": "Stil Paketi",
+          "price": 65000
+        }
+      ],
+      "powerHP": 115,
+      "engineDisplacement": "1.5L",
+      "engineType": "EcoBlue"
+    },
+    {
+      "model": "Kuga",
+      "trim": "Titanium",
+      "engine": "1.5L EcoBoost 186PS",
+      "transmission": "Otomatik",
+      "fuel": "Benzin",
+      "priceRaw": "2.585.600 TL",
+      "priceNumeric": 2585600,
+      "brand": "Ford",
+      "priceListNumeric": 2585600,
+      "modelYear": "2025",
+      "origin": "İspanya",
+      "vehicleCategory": "SUV",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya",
+          "price": 25900
+        },
+        {
+          "name": "Özel Renk",
+          "price": 48900
+        },
+        {
+          "name": "Kış Paketi",
+          "price": 34500
+        }
+      ],
+      "powerHP": 186,
+      "engineDisplacement": "1.5L",
+      "engineType": "EcoBoost"
+    },
+    {
+      "model": "Kuga",
+      "trim": "Titanium",
+      "engine": "1.5L EcoBoost 186PS",
+      "transmission": "Otomatik",
+      "fuel": "Benzin",
+      "priceRaw": "2.740.000 TL",
+      "priceNumeric": 2740000,
+      "brand": "Ford",
+      "priceListNumeric": 2740000,
+      "modelYear": "2026",
+      "origin": "İspanya",
+      "vehicleCategory": "SUV",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya",
+          "price": 27400
+        },
+        {
+          "name": "Özel Renk",
+          "price": 51800
+        },
+        {
+          "name": "Kış Paketi",
+          "price": 36600
+        }
+      ],
+      "powerHP": 186,
+      "engineDisplacement": "1.5L",
+      "engineType": "EcoBoost"
+    },
+    {
+      "model": "Kuga",
+      "trim": "Active X",
+      "engine": "1.5L EcoBoost 186PS",
+      "transmission": "Otomatik",
+      "fuel": "Benzin",
+      "priceRaw": "3.026.300 TL",
+      "priceNumeric": 3026300,
+      "brand": "Ford",
+      "priceListNumeric": 3026300,
+      "modelYear": "2025",
+      "origin": "İspanya",
+      "vehicleCategory": "SUV",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya",
+          "price": 25900
+        },
+        {
+          "name": "Özel Renk",
+          "price": 48900
+        },
+        {
+          "name": "Kış Paketi",
+          "price": 34500
+        }
+      ],
+      "powerHP": 186,
+      "engineDisplacement": "1.5L",
+      "engineType": "EcoBoost"
+    },
+    {
+      "model": "Kuga",
+      "trim": "Active X",
+      "engine": "1.5L EcoBoost 186PS",
+      "transmission": "Otomatik",
+      "fuel": "Benzin",
+      "priceRaw": "3.116.700 TL",
+      "priceNumeric": 3116700,
+      "brand": "Ford",
+      "priceListNumeric": 3116700,
+      "modelYear": "2026",
+      "origin": "İspanya",
+      "vehicleCategory": "SUV",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya",
+          "price": 27400
+        },
+        {
+          "name": "Özel Renk",
+          "price": 51800
+        },
+        {
+          "name": "Kış Paketi",
+          "price": 36600
+        }
+      ],
+      "powerHP": 186,
+      "engineDisplacement": "1.5L",
+      "engineType": "EcoBoost"
+    },
+    {
+      "model": "Kuga",
+      "trim": "ST-Line",
+      "engine": "1.5L EcoBoost 186PS",
+      "transmission": "Otomatik",
+      "fuel": "Benzin",
+      "priceRaw": "3.116.700 TL",
+      "priceNumeric": 3116700,
+      "brand": "Ford",
+      "priceListNumeric": 3116700,
+      "modelYear": "2025",
+      "origin": "İspanya",
+      "vehicleCategory": "SUV",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya",
+          "price": 25900
+        },
+        {
+          "name": "Özel Renk",
+          "price": 48900
+        },
+        {
+          "name": "Kış Paketi",
+          "price": 34500
+        }
+      ],
+      "powerHP": 186,
+      "engineDisplacement": "1.5L",
+      "engineType": "EcoBoost"
+    },
+    {
+      "model": "Kuga",
+      "trim": "ST-Line X",
+      "engine": "1.5L EcoBoost 186PS",
+      "transmission": "Otomatik",
+      "fuel": "Benzin",
+      "priceRaw": "3.305.300 TL",
+      "priceNumeric": 3305300,
+      "brand": "Ford",
+      "priceListNumeric": 3305300,
+      "modelYear": "2025",
+      "origin": "İspanya",
+      "vehicleCategory": "SUV",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya",
+          "price": 25900
+        },
+        {
+          "name": "Özel Renk",
+          "price": 48900
+        },
+        {
+          "name": "Kış Paketi",
+          "price": 34500
+        }
+      ],
+      "powerHP": 186,
+      "engineDisplacement": "1.5L",
+      "engineType": "EcoBoost"
+    },
+    {
+      "model": "Kuga",
+      "trim": "ST-Line X",
+      "engine": "1.5L EcoBoost 186PS",
+      "transmission": "Otomatik",
+      "fuel": "Benzin",
+      "priceRaw": "3.404.200 TL",
+      "priceNumeric": 3404200,
+      "brand": "Ford",
+      "priceListNumeric": 3404200,
+      "modelYear": "2026",
+      "origin": "İspanya",
+      "vehicleCategory": "SUV",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya",
+          "price": 27400
+        },
+        {
+          "name": "Özel Renk",
+          "price": 51800
+        },
+        {
+          "name": "Kış Paketi",
+          "price": 36600
+        }
+      ],
+      "powerHP": 186,
+      "engineDisplacement": "1.5L",
+      "engineType": "EcoBoost"
+    },
+    {
+      "model": "Yeni Journey Courier",
+      "trim": "Deluxe",
+      "engine": "1.0L EcoBoost 125PS",
+      "transmission": "Manuel",
+      "fuel": "Benzin",
+      "priceRaw": "2.324.800 TL",
+      "priceNumeric": 2324800,
+      "brand": "Ford",
+      "priceListNumeric": 2324800,
+      "modelYear": "2025",
+      "origin": "Romanya",
+      "vehicleCategory": "Kombi",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya",
+          "price": 33500
+        },
+        {
+          "name": "Güvenlik Paketi",
+          "price": 31800
+        },
+        {
+          "name": "Yedek Lastik",
+          "price": 18400
+        }
+      ],
+      "powerHP": 125,
+      "engineDisplacement": "1.0L",
+      "engineType": "EcoBoost"
+    },
+    {
+      "model": "Yeni Journey Courier",
+      "trim": "Deluxe",
+      "engine": "1.0L EcoBoost 125PS",
+      "transmission": "Manuel",
+      "fuel": "Benzin",
+      "priceRaw": "2.551.000 TL",
+      "priceNumeric": 2551000,
+      "brand": "Ford",
+      "priceListNumeric": 2551000,
+      "modelYear": "2026",
+      "origin": "Romanya",
+      "vehicleCategory": "Kombi",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya",
+          "price": 34900
+        },
+        {
+          "name": "Güvenlik Paketi",
+          "price": 33000
+        },
+        {
+          "name": "Yedek Lastik",
+          "price": 19200
+        }
+      ],
+      "powerHP": 125,
+      "engineDisplacement": "1.0L",
+      "engineType": "EcoBoost"
+    },
+    {
+      "model": "Yeni Journey Courier",
+      "trim": "Titanium",
+      "engine": "1.0L EcoBoost 125PS",
+      "transmission": "Otomatik",
+      "fuel": "Benzin",
+      "priceRaw": "2.922.000 TL",
+      "priceNumeric": 2922000,
+      "brand": "Ford",
+      "priceListNumeric": 2922000,
+      "modelYear": "2025",
+      "origin": "Romanya",
+      "vehicleCategory": "Kombi",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya",
+          "price": 33500
+        },
+        {
+          "name": "17\" Alaşım Jant",
+          "price": 33500
+        },
+        {
+          "name": "Gelişmiş Güvenlik Paketi",
+          "price": 116200
+        },
+        {
+          "name": "Isıtmalı Ön Cam",
+          "price": 8100
+        }
+      ],
+      "powerHP": 125,
+      "engineDisplacement": "1.0L",
+      "engineType": "EcoBoost"
+    },
+    {
+      "model": "Yeni Journey Courier",
+      "trim": "Titanium",
+      "engine": "1.0L EcoBoost 125PS",
+      "transmission": "Otomatik",
+      "fuel": "Benzin",
+      "priceRaw": "3.038.400 TL",
+      "priceNumeric": 3038400,
+      "brand": "Ford",
+      "priceListNumeric": 3038400,
+      "modelYear": "2026",
+      "origin": "Romanya",
+      "vehicleCategory": "Kombi",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya",
+          "price": 34900
+        },
+        {
+          "name": "17\" Alaşım Jant",
+          "price": 34900
+        },
+        {
+          "name": "Gelişmiş Güvenlik Paketi",
+          "price": 120800
+        },
+        {
+          "name": "Isıtmalı Ön Cam",
+          "price": 8400
+        }
+      ],
+      "powerHP": 125,
+      "engineDisplacement": "1.0L",
+      "engineType": "EcoBoost"
+    },
+    {
+      "model": "PUMA GEN-E",
+      "trim": "Premium",
+      "engine": "123KW",
+      "transmission": "Otomatik",
+      "fuel": "Elektrik",
+      "priceRaw": "1.976.500 TL",
+      "priceNumeric": 1976500,
+      "brand": "Ford",
+      "priceListNumeric": 2016600,
+      "priceCampaignNumeric": 1976500,
+      "modelYear": "2025",
+      "origin": "Romanya",
+      "vehicleCategory": "SUV",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Açılabilir Panoramik Cam Tavan",
+          "price": 42100
+        }
+      ],
+      "powerHP": 165,
+      "powerKW": 123,
+      "isElectric": true
+    },
+    {
+      "model": "PUMA GEN-E",
+      "trim": "Premium",
+      "engine": "123KW",
+      "transmission": "Otomatik",
+      "fuel": "Elektrik",
+      "priceRaw": "2.158.700 TL",
+      "priceNumeric": 2158700,
+      "brand": "Ford",
+      "priceListNumeric": 2202600,
+      "priceCampaignNumeric": 2158700,
+      "modelYear": "2026",
+      "origin": "Romanya",
+      "vehicleCategory": "SUV",
+      "emissionStandard": "Euro 6.2",
+      "optionalEquipment": [
+        {
+          "name": "Açılabilir Panoramik Cam Tavan",
+          "price": 46000
+        }
+      ],
+      "powerHP": 165,
+      "powerKW": 123,
+      "isElectric": true
+    },
+    {
+      "model": "Yeni Journey Courier BEV",
+      "trim": "Titanium",
+      "engine": "100KW",
+      "transmission": "Otomatik",
+      "fuel": "Elektrik",
+      "priceRaw": "2.230.400 TL",
+      "priceNumeric": 2230400,
+      "brand": "Ford",
+      "priceListNumeric": 2230400,
+      "modelYear": "2025",
+      "origin": "Romanya",
+      "vehicleCategory": "Kombi",
+      "emissionStandard": "-",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya",
+          "price": 21400
+        },
+        {
+          "name": "Gelişmiş Güvenlik Paketi",
+          "price": 74000
+        }
+      ],
+      "powerHP": 134,
+      "powerKW": 100,
+      "isElectric": true
+    },
+    {
+      "model": "Yeni Journey Courier BEV",
+      "trim": "Titanium",
+      "engine": "100KW",
+      "transmission": "Otomatik",
+      "fuel": "Elektrik",
+      "priceRaw": "2.319.200 TL",
+      "priceNumeric": 2319200,
+      "brand": "Ford",
+      "priceListNumeric": 2319200,
+      "modelYear": "2026",
+      "origin": "Romanya",
+      "vehicleCategory": "Kombi",
+      "emissionStandard": "-",
+      "optionalEquipment": [
+        {
+          "name": "Metalik Boya",
+          "price": 22200
+        },
+        {
+          "name": "Gelişmiş Güvenlik Paketi",
+          "price": 77000
+        }
+      ],
+      "powerHP": 134,
+      "powerKW": 100,
+      "isElectric": true
+    }
+  ]
+}
