@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-31T01:41:41.615Z",
-  "date": "2026-05-31",
+  "generatedAt": "2026-06-01T01:45:16.675Z",
+  "date": "2026-06-01",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -7342,39 +7342,6 @@
       "trimCount": 1
     },
     {
-      "id": "kia-picanto",
-      "model": "Picanto",
-      "brand": "Kia",
-      "brandId": "kia",
-      "trims": [
-        {
-          "trim": "Feel",
-          "price": 1435000,
-          "priceFormatted": "1.435.000 TL",
-          "stepFromBase": 0,
-          "stepPercent": 0,
-          "engine": "67 PS",
-          "transmission": "Manuel",
-          "fuel": "Benzin"
-        },
-        {
-          "trim": "Cool",
-          "price": 1435000,
-          "priceFormatted": "1.435.000 TL",
-          "stepFromBase": 0,
-          "stepPercent": 0,
-          "engine": "67 PS",
-          "transmission": "Manuel",
-          "fuel": "Benzin"
-        }
-      ],
-      "basePrice": 1435000,
-      "topPrice": 1435000,
-      "priceSpread": 0,
-      "priceSpreadPercent": 0,
-      "trimCount": 2
-    },
-    {
       "id": "kia-cee",
       "model": "CEE",
       "brand": "Kia",
@@ -7398,39 +7365,6 @@
       "trimCount": 1
     },
     {
-      "id": "kia-stonic",
-      "model": "Stonic",
-      "brand": "Kia",
-      "brandId": "kia",
-      "trims": [
-        {
-          "trim": "Cool",
-          "price": 1999000,
-          "priceFormatted": "1.999.000 TL",
-          "stepFromBase": 0,
-          "stepPercent": 0,
-          "engine": "100 PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin"
-        },
-        {
-          "trim": "Cool",
-          "price": 2130000,
-          "priceFormatted": "2.130.000 TL",
-          "stepFromBase": 131000,
-          "stepPercent": 6.55327663831916,
-          "engine": "100 PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin"
-        }
-      ],
-      "basePrice": 1999000,
-      "topPrice": 2130000,
-      "priceSpread": 131000,
-      "priceSpreadPercent": 6.55,
-      "trimCount": 2
-    },
-    {
       "id": "kia-xceed",
       "model": "XCEED",
       "brand": "Kia",
@@ -7452,261 +7386,6 @@
       "priceSpread": 0,
       "priceSpreadPercent": 0,
       "trimCount": 1
-    },
-    {
-      "id": "kia-sportage",
-      "model": "Sportage",
-      "brand": "Kia",
-      "brandId": "kia",
-      "trims": [
-        {
-          "trim": "Live",
-          "price": 2249000,
-          "priceFormatted": "2.249.000 TL",
-          "stepFromBase": 0,
-          "stepPercent": 0,
-          "engine": "150 PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin"
-        },
-        {
-          "trim": "Cool",
-          "price": 2700000,
-          "priceFormatted": "2.700.000 TL",
-          "stepFromBase": 451000,
-          "stepPercent": 20.0533570475767,
-          "engine": "150 PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin"
-        },
-        {
-          "trim": "Elegance",
-          "price": 3045000,
-          "priceFormatted": "3.045.000 TL",
-          "stepFromBase": 796000,
-          "stepPercent": 35.393508225878165,
-          "engine": "150 PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin"
-        },
-        {
-          "trim": "Prestige",
-          "price": 3340000,
-          "priceFormatted": "3.340.000 TL",
-          "stepFromBase": 1091000,
-          "stepPercent": 48.51044908848377,
-          "engine": "150 PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin"
-        },
-        {
-          "trim": "GT-Line",
-          "price": 3650000,
-          "priceFormatted": "3.650.000 TL",
-          "stepFromBase": 1401000,
-          "stepPercent": 62.29435304579813,
-          "engine": "180 PS",
-          "transmission": "Otomatik",
-          "fuel": "Benzin"
-        }
-      ],
-      "basePrice": 2249000,
-      "topPrice": 3650000,
-      "priceSpread": 1401000,
-      "priceSpreadPercent": 62.29,
-      "trimCount": 5
-    },
-    {
-      "id": "kia-sorento",
-      "model": "Sorento",
-      "brand": "Kia",
-      "brandId": "kia",
-      "trims": [
-        {
-          "trim": "Prestige Smart",
-          "price": 5990000,
-          "priceFormatted": "5.990.000 TL",
-          "stepFromBase": 0,
-          "stepPercent": 0,
-          "engine": "239 PS",
-          "transmission": "Otomatik",
-          "fuel": "Hibrit"
-        },
-        {
-          "trim": "Prestige Smart",
-          "price": 6130000,
-          "priceFormatted": "6.130.000 TL",
-          "stepFromBase": 140000,
-          "stepPercent": 2.337228714524207,
-          "engine": "239 PS",
-          "transmission": "Otomatik",
-          "fuel": "Hibrit"
-        },
-        {
-          "trim": "Prestige Smart",
-          "price": 6390000,
-          "priceFormatted": "6.390.000 TL",
-          "stepFromBase": 400000,
-          "stepPercent": 6.67779632721202,
-          "engine": "239 PS",
-          "transmission": "Otomatik",
-          "fuel": "Hibrit"
-        },
-        {
-          "trim": "Prestige Smart",
-          "price": 6530000,
-          "priceFormatted": "6.530.000 TL",
-          "stepFromBase": 540000,
-          "stepPercent": 9.015025041736227,
-          "engine": "239 PS",
-          "transmission": "Otomatik",
-          "fuel": "Hibrit"
-        }
-      ],
-      "basePrice": 5990000,
-      "topPrice": 6530000,
-      "priceSpread": 540000,
-      "priceSpreadPercent": 9.02,
-      "trimCount": 4
-    },
-    {
-      "id": "kia-ev3",
-      "model": "EV3",
-      "brand": "Kia",
-      "brandId": "kia",
-      "trims": [
-        {
-          "trim": "Elegance Standard Range",
-          "price": 2095000,
-          "priceFormatted": "2.095.000 TL",
-          "stepFromBase": 0,
-          "stepPercent": 0,
-          "engine": "150 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik"
-        },
-        {
-          "trim": "Prestige Standard Range",
-          "price": 2345000,
-          "priceFormatted": "2.345.000 TL",
-          "stepFromBase": 250000,
-          "stepPercent": 11.933174224343675,
-          "engine": "150 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik"
-        },
-        {
-          "trim": "Elegance Long Range",
-          "price": 2485000,
-          "priceFormatted": "2.485.000 TL",
-          "stepFromBase": 390000,
-          "stepPercent": 18.615751789976134,
-          "engine": "150 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik"
-        },
-        {
-          "trim": "Prestige Standard Range",
-          "price": 2485000,
-          "priceFormatted": "2.485.000 TL",
-          "stepFromBase": 390000,
-          "stepPercent": 18.615751789976134,
-          "engine": "150 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik"
-        },
-        {
-          "trim": "GT-Line Long Range",
-          "price": 3760000,
-          "priceFormatted": "3.760.000 TL",
-          "stepFromBase": 1665000,
-          "stepPercent": 79.47494033412887,
-          "engine": "150 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik"
-        }
-      ],
-      "basePrice": 2095000,
-      "topPrice": 3760000,
-      "priceSpread": 1665000,
-      "priceSpreadPercent": 79.47,
-      "trimCount": 5
-    },
-    {
-      "id": "kia-ev6-pe",
-      "model": "EV6 PE",
-      "brand": "Kia",
-      "brandId": "kia",
-      "trims": [
-        {
-          "trim": "Elegance Standard Range",
-          "price": 3760000,
-          "priceFormatted": "3.760.000 TL",
-          "stepFromBase": 0,
-          "stepPercent": 0,
-          "engine": "125 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik"
-        }
-      ],
-      "basePrice": 3760000,
-      "topPrice": 3760000,
-      "priceSpread": 0,
-      "priceSpreadPercent": 0,
-      "trimCount": 1
-    },
-    {
-      "id": "kia-ev9",
-      "model": "EV9",
-      "brand": "Kia",
-      "brandId": "kia",
-      "trims": [
-        {
-          "trim": "Prestige",
-          "price": 6360000,
-          "priceFormatted": "6.360.000 TL",
-          "stepFromBase": 0,
-          "stepPercent": 0,
-          "engine": "149 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik"
-        },
-        {
-          "trim": "Prestige",
-          "price": 6540000,
-          "priceFormatted": "6.540.000 TL",
-          "stepFromBase": 180000,
-          "stepPercent": 2.8301886792452833,
-          "engine": "149 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik"
-        },
-        {
-          "trim": "GT-Line",
-          "price": 7690000,
-          "priceFormatted": "7.690.000 TL",
-          "stepFromBase": 1330000,
-          "stepPercent": 20.91194968553459,
-          "engine": "283 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik"
-        },
-        {
-          "trim": "GT-Line",
-          "price": 7870000,
-          "priceFormatted": "7.870.000 TL",
-          "stepFromBase": 1510000,
-          "stepPercent": 23.742138364779876,
-          "engine": "283 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik"
-        }
-      ],
-      "basePrice": 6360000,
-      "topPrice": 7870000,
-      "priceSpread": 1510000,
-      "priceSpreadPercent": 23.74,
-      "trimCount": 4
     },
     {
       "id": "volvo-ex40-black-edition-ultra",
@@ -8167,16 +7846,6 @@
           "trimCount": 4
         },
         {
-          "brand": "Kia",
-          "brandId": "kia",
-          "model": "Picanto",
-          "basePrice": 1435000,
-          "topPrice": 1435000,
-          "basePriceFormatted": "₺1.435.000",
-          "topPriceFormatted": "₺1.435.000",
-          "trimCount": 2
-        },
-        {
           "brand": "Fiat",
           "brandId": "fiat",
           "model": "Grande Panda",
@@ -8364,16 +8033,6 @@
           "topPrice": 2650000,
           "basePriceFormatted": "₺1.988.000",
           "topPriceFormatted": "₺2.650.000",
-          "trimCount": 2
-        },
-        {
-          "brand": "Kia",
-          "brandId": "kia",
-          "model": "Stonic",
-          "basePrice": 1999000,
-          "topPrice": 2130000,
-          "basePriceFormatted": "₺1.999.000",
-          "topPriceFormatted": "₺2.130.000",
           "trimCount": 2
         },
         {
@@ -9367,8 +9026,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 7977526,
-      "avgTopPrice": 8236563
+      "avgBasePrice": 8080158,
+      "avgTopPrice": 8342367
     },
     {
       "segment": "SUV",
@@ -9452,16 +9111,6 @@
           "basePriceFormatted": "₺2.249.000",
           "topPriceFormatted": "₺3.879.200",
           "trimCount": 7
-        },
-        {
-          "brand": "Kia",
-          "brandId": "kia",
-          "model": "Sportage",
-          "basePrice": 2249000,
-          "topPrice": 3650000,
-          "basePriceFormatted": "₺2.249.000",
-          "topPriceFormatted": "₺3.650.000",
-          "trimCount": 5
         },
         {
           "brand": "Hyundai",
@@ -9694,16 +9343,6 @@
           "trimCount": 1
         },
         {
-          "brand": "Kia",
-          "brandId": "kia",
-          "model": "Sorento",
-          "basePrice": 5990000,
-          "topPrice": 6530000,
-          "basePriceFormatted": "₺5.990.000",
-          "topPriceFormatted": "₺6.530.000",
-          "trimCount": 4
-        },
-        {
           "brand": "BMW",
           "brandId": "bmw",
           "model": "Yeni BMW iX3 50 xDrive Ön talep formu",
@@ -9794,8 +9433,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 5731887,
-      "avgTopPrice": 6205686
+      "avgBasePrice": 5812506,
+      "avgTopPrice": 6261470
     },
     {
       "segment": "Sedan",
@@ -10035,193 +9674,6 @@
       "avgTopPrice": 6421558
     },
     {
-      "segment": "Electric",
-      "models": [
-        {
-          "brand": "Citroën",
-          "brandId": "citroen",
-          "model": "Elektrikli ë-C3",
-          "basePrice": 1525000,
-          "topPrice": 1585000,
-          "basePriceFormatted": "₺1.525.000",
-          "topPriceFormatted": "₺1.585.000",
-          "trimCount": 2
-        },
-        {
-          "brand": "Renault",
-          "brandId": "renault",
-          "model": "R5 E-Tech ELEKTRİKLİ",
-          "basePrice": 1885999.99,
-          "topPrice": 2101000,
-          "basePriceFormatted": "₺1.886.000",
-          "topPriceFormatted": "₺2.101.000",
-          "trimCount": 3
-        },
-        {
-          "brand": "Opel",
-          "brandId": "opel",
-          "model": "Frontera Elektrik",
-          "basePrice": 1894000,
-          "topPrice": 2009000,
-          "basePriceFormatted": "₺1.894.000",
-          "topPriceFormatted": "₺2.009.000",
-          "trimCount": 2
-        },
-        {
-          "brand": "Kia",
-          "brandId": "kia",
-          "model": "EV3",
-          "basePrice": 2095000,
-          "topPrice": 3760000,
-          "basePriceFormatted": "₺2.095.000",
-          "topPriceFormatted": "₺3.760.000",
-          "trimCount": 5
-        },
-        {
-          "brand": "Hyundai",
-          "brandId": "hyundai",
-          "model": "KONA Elektrik",
-          "basePrice": 2220000,
-          "topPrice": 2220000,
-          "basePriceFormatted": "₺2.220.000",
-          "topPriceFormatted": "₺2.220.000",
-          "trimCount": 1
-        },
-        {
-          "brand": "Ford",
-          "brandId": "ford",
-          "model": "Yeni Journey Courier BEV",
-          "basePrice": 2230400,
-          "topPrice": 2319200,
-          "basePriceFormatted": "₺2.230.400",
-          "topPriceFormatted": "₺2.319.200",
-          "trimCount": 2
-        },
-        {
-          "brand": "Kia",
-          "brandId": "kia",
-          "model": "Niro EV",
-          "basePrice": 2299000,
-          "topPrice": 2299000,
-          "basePriceFormatted": "₺2.299.000",
-          "topPriceFormatted": "₺2.299.000",
-          "trimCount": 1
-        },
-        {
-          "brand": "Hyundai",
-          "brandId": "hyundai",
-          "model": "IONIQ 6",
-          "basePrice": 2320000,
-          "topPrice": 2320000,
-          "basePriceFormatted": "₺2.320.000",
-          "topPriceFormatted": "₺2.320.000",
-          "trimCount": 1
-        },
-        {
-          "brand": "Hyundai",
-          "brandId": "hyundai",
-          "model": "IONIQ 5",
-          "basePrice": 2484900,
-          "topPrice": 2484900,
-          "basePriceFormatted": "₺2.484.900",
-          "topPriceFormatted": "₺2.484.900",
-          "trimCount": 1
-        },
-        {
-          "brand": "Opel",
-          "brandId": "opel",
-          "model": "Grandland Elektrik",
-          "basePrice": 2485000,
-          "topPrice": 4222000,
-          "basePriceFormatted": "₺2.485.000",
-          "topPriceFormatted": "₺4.222.000",
-          "trimCount": 2
-        },
-        {
-          "brand": "Nissan",
-          "brandId": "nissan",
-          "model": "TOWNSTAR COMBI EV",
-          "basePrice": 2486500,
-          "topPrice": 3147200,
-          "basePriceFormatted": "₺2.486.500",
-          "topPriceFormatted": "₺3.147.200",
-          "trimCount": 2
-        },
-        {
-          "brand": "Volkswagen",
-          "brandId": "volkswagen",
-          "model": "ID.4",
-          "basePrice": 3126000,
-          "topPrice": 3126000,
-          "basePriceFormatted": "₺3.126.000",
-          "topPriceFormatted": "₺3.126.000",
-          "trimCount": 1
-        },
-        {
-          "brand": "Renault",
-          "brandId": "renault",
-          "model": "Scenic E-Tech ELEKTRİKLİ",
-          "basePrice": 3490000,
-          "topPrice": 3490000,
-          "basePriceFormatted": "₺3.490.000",
-          "topPriceFormatted": "₺3.490.000",
-          "trimCount": 1
-        },
-        {
-          "brand": "Kia",
-          "brandId": "kia",
-          "model": "EV6 PE",
-          "basePrice": 3760000,
-          "topPrice": 3760000,
-          "basePriceFormatted": "₺3.760.000",
-          "topPriceFormatted": "₺3.760.000",
-          "trimCount": 1
-        },
-        {
-          "brand": "Volkswagen",
-          "brandId": "volkswagen",
-          "model": "ID.7",
-          "basePrice": 4415000,
-          "topPrice": 4415000,
-          "basePriceFormatted": "₺4.415.000",
-          "topPriceFormatted": "₺4.415.000",
-          "trimCount": 1
-        },
-        {
-          "brand": "Hyundai",
-          "brandId": "hyundai",
-          "model": "IONIQ 9",
-          "basePrice": 5560000,
-          "topPrice": 6660000,
-          "basePriceFormatted": "₺5.560.000",
-          "topPriceFormatted": "₺6.660.000",
-          "trimCount": 2
-        },
-        {
-          "brand": "Hyundai",
-          "brandId": "hyundai",
-          "model": "IONIQ 5 N",
-          "basePrice": 5655000,
-          "topPrice": 5655000,
-          "basePriceFormatted": "₺5.655.000",
-          "topPriceFormatted": "₺5.655.000",
-          "trimCount": 1
-        },
-        {
-          "brand": "Kia",
-          "brandId": "kia",
-          "model": "EV9",
-          "basePrice": 6360000,
-          "topPrice": 7870000,
-          "basePriceFormatted": "₺6.360.000",
-          "topPriceFormatted": "₺7.870.000",
-          "trimCount": 4
-        }
-      ],
-      "avgBasePrice": 3127322,
-      "avgTopPrice": 3524628
-    },
-    {
       "segment": "Hatchback",
       "models": [
         {
@@ -10399,6 +9851,163 @@
       "avgTopPrice": 2727565
     },
     {
+      "segment": "Electric",
+      "models": [
+        {
+          "brand": "Citroën",
+          "brandId": "citroen",
+          "model": "Elektrikli ë-C3",
+          "basePrice": 1525000,
+          "topPrice": 1585000,
+          "basePriceFormatted": "₺1.525.000",
+          "topPriceFormatted": "₺1.585.000",
+          "trimCount": 2
+        },
+        {
+          "brand": "Renault",
+          "brandId": "renault",
+          "model": "R5 E-Tech ELEKTRİKLİ",
+          "basePrice": 1885999.99,
+          "topPrice": 2101000,
+          "basePriceFormatted": "₺1.886.000",
+          "topPriceFormatted": "₺2.101.000",
+          "trimCount": 3
+        },
+        {
+          "brand": "Opel",
+          "brandId": "opel",
+          "model": "Frontera Elektrik",
+          "basePrice": 1894000,
+          "topPrice": 2009000,
+          "basePriceFormatted": "₺1.894.000",
+          "topPriceFormatted": "₺2.009.000",
+          "trimCount": 2
+        },
+        {
+          "brand": "Hyundai",
+          "brandId": "hyundai",
+          "model": "KONA Elektrik",
+          "basePrice": 2220000,
+          "topPrice": 2220000,
+          "basePriceFormatted": "₺2.220.000",
+          "topPriceFormatted": "₺2.220.000",
+          "trimCount": 1
+        },
+        {
+          "brand": "Ford",
+          "brandId": "ford",
+          "model": "Yeni Journey Courier BEV",
+          "basePrice": 2230400,
+          "topPrice": 2319200,
+          "basePriceFormatted": "₺2.230.400",
+          "topPriceFormatted": "₺2.319.200",
+          "trimCount": 2
+        },
+        {
+          "brand": "Kia",
+          "brandId": "kia",
+          "model": "Niro EV",
+          "basePrice": 2299000,
+          "topPrice": 2299000,
+          "basePriceFormatted": "₺2.299.000",
+          "topPriceFormatted": "₺2.299.000",
+          "trimCount": 1
+        },
+        {
+          "brand": "Hyundai",
+          "brandId": "hyundai",
+          "model": "IONIQ 6",
+          "basePrice": 2320000,
+          "topPrice": 2320000,
+          "basePriceFormatted": "₺2.320.000",
+          "topPriceFormatted": "₺2.320.000",
+          "trimCount": 1
+        },
+        {
+          "brand": "Hyundai",
+          "brandId": "hyundai",
+          "model": "IONIQ 5",
+          "basePrice": 2484900,
+          "topPrice": 2484900,
+          "basePriceFormatted": "₺2.484.900",
+          "topPriceFormatted": "₺2.484.900",
+          "trimCount": 1
+        },
+        {
+          "brand": "Opel",
+          "brandId": "opel",
+          "model": "Grandland Elektrik",
+          "basePrice": 2485000,
+          "topPrice": 4222000,
+          "basePriceFormatted": "₺2.485.000",
+          "topPriceFormatted": "₺4.222.000",
+          "trimCount": 2
+        },
+        {
+          "brand": "Nissan",
+          "brandId": "nissan",
+          "model": "TOWNSTAR COMBI EV",
+          "basePrice": 2486500,
+          "topPrice": 3147200,
+          "basePriceFormatted": "₺2.486.500",
+          "topPriceFormatted": "₺3.147.200",
+          "trimCount": 2
+        },
+        {
+          "brand": "Volkswagen",
+          "brandId": "volkswagen",
+          "model": "ID.4",
+          "basePrice": 3126000,
+          "topPrice": 3126000,
+          "basePriceFormatted": "₺3.126.000",
+          "topPriceFormatted": "₺3.126.000",
+          "trimCount": 1
+        },
+        {
+          "brand": "Renault",
+          "brandId": "renault",
+          "model": "Scenic E-Tech ELEKTRİKLİ",
+          "basePrice": 3490000,
+          "topPrice": 3490000,
+          "basePriceFormatted": "₺3.490.000",
+          "topPriceFormatted": "₺3.490.000",
+          "trimCount": 1
+        },
+        {
+          "brand": "Volkswagen",
+          "brandId": "volkswagen",
+          "model": "ID.7",
+          "basePrice": 4415000,
+          "topPrice": 4415000,
+          "basePriceFormatted": "₺4.415.000",
+          "topPriceFormatted": "₺4.415.000",
+          "trimCount": 1
+        },
+        {
+          "brand": "Hyundai",
+          "brandId": "hyundai",
+          "model": "IONIQ 9",
+          "basePrice": 5560000,
+          "topPrice": 6660000,
+          "basePriceFormatted": "₺5.560.000",
+          "topPriceFormatted": "₺6.660.000",
+          "trimCount": 2
+        },
+        {
+          "brand": "Hyundai",
+          "brandId": "hyundai",
+          "model": "IONIQ 5 N",
+          "basePrice": 5655000,
+          "topPrice": 5655000,
+          "basePriceFormatted": "₺5.655.000",
+          "topPriceFormatted": "₺5.655.000",
+          "trimCount": 1
+        }
+      ],
+      "avgBasePrice": 2938453,
+      "avgTopPrice": 3203553
+    },
+    {
       "segment": "MPV",
       "models": [
         {
@@ -10487,9 +10096,9 @@
     }
   ],
   "summary": {
-    "totalModels": 233,
+    "totalModels": 226,
     "avgTrimsPerModel": 2.2,
-    "avgPriceSpread": 362054,
-    "avgPriceSpreadPercent": 11.95
+    "avgPriceSpread": 350051,
+    "avgPriceSpreadPercent": 11.52
   }
 }
