@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-01T01:45:12.344Z",
-  "totalEntries": 486,
+  "generatedAt": "2026-06-02T01:48:07.430Z",
+  "totalEntries": 510,
   "entries": [
     {
       "id": "volkswagen-polo-life-1.0-tsi-95-ps",
@@ -1571,8 +1571,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2965000,
-      "priceFormatted": "2965000",
+      "price": 3024000,
+      "priceFormatted": "3024000",
       "searchText": "toyota corolla cross 1 8 hybrid passion e cvt 1 8 hybrid otomatik"
     },
     {
@@ -1584,8 +1584,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 3435000,
-      "priceFormatted": "3435000",
+      "price": 3504000,
+      "priceFormatted": "3504000",
       "searchText": "toyota corolla cross 1 8 hybrid passion x pack e cvt 1 8 hybrid otomatik"
     },
     {
@@ -1597,8 +1597,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2260000,
-      "priceFormatted": "2260000",
+      "price": 2325000,
+      "priceFormatted": "2325000",
       "searchText": "toyota yeni toyota c hr 1 8 hybrid flame e cvt 1 8 hybrid otomatik"
     },
     {
@@ -1610,9 +1610,22 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2545000,
-      "priceFormatted": "2545000",
+      "price": 2566000,
+      "priceFormatted": "2566000",
       "searchText": "toyota yeni toyota c hr 1 8 hybrid passion e cvt 1 8 hybrid otomatik"
+    },
+    {
+      "id": "toyota-yeni̇-toyota-c-hr-1.8-hybrid-passion-x-sport-e-cvt-1.8",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "YENİ TOYOTA C-HR",
+      "trim": "1.8 Hybrid Passion X-Sport e-CVT",
+      "engine": "1.8",
+      "fuel": "Hybrid",
+      "transmission": "Otomatik",
+      "price": 2950000,
+      "priceFormatted": "2950000",
+      "searchText": "toyota yeni toyota c hr 1 8 hybrid passion x sport e cvt 1 8 hybrid otomatik"
     },
     {
       "id": "toyota-yeni̇-toyota-c-hr-1.8-hybrid-gr-sport-e-cvt-1.8",
@@ -1623,8 +1636,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2975000,
-      "priceFormatted": "2975000",
+      "price": 3055000,
+      "priceFormatted": "3055000",
       "searchText": "toyota yeni toyota c hr 1 8 hybrid gr sport e cvt 1 8 hybrid otomatik"
     },
     {
@@ -1636,8 +1649,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2180000,
-      "priceFormatted": "2180000",
+      "price": 2225000,
+      "priceFormatted": "2225000",
       "searchText": "toyota corolla hatchback hybrid 1 8 hybrid flame e cvt 1 8 hybrid otomatik"
     },
     {
@@ -1649,8 +1662,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2495000,
-      "priceFormatted": "2495000",
+      "price": 2550000,
+      "priceFormatted": "2550000",
       "searchText": "toyota corolla hatchback hybrid 1 8 hybrid passion x pack e cvt 1 8 hybrid otomatik"
     },
     {
@@ -1662,8 +1675,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2495000,
-      "priceFormatted": "2495000",
+      "price": 2550000,
+      "priceFormatted": "2550000",
       "searchText": "toyota yeni corolla hatchback hybrid 1 8 hybrid gr sport e cvt 1 8 hybrid otomatik"
     },
     {
@@ -1675,8 +1688,8 @@
       "engine": "1",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2294000,
-      "priceFormatted": "2294000",
+      "price": 2317000,
+      "priceFormatted": "2317000",
       "searchText": "toyota yaris cross 1 5 hybrid dream 130 hp e cvt 1 hybrid otomatik"
     },
     {
@@ -1688,8 +1701,8 @@
       "engine": "1.5",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2713000,
-      "priceFormatted": "2713000",
+      "price": 2740000,
+      "priceFormatted": "2740000",
       "searchText": "toyota yaris cross 1 5 hybrid flame x pack 130 hp e cvt 1 5 hybrid otomatik"
     },
     {
@@ -1701,8 +1714,8 @@
       "engine": "1.5",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 1995000,
-      "priceFormatted": "1995000",
+      "price": 2025000,
+      "priceFormatted": "2025000",
       "searchText": "toyota yaris 1 5 hybrid flame e cvt 1 5 hybrid otomatik"
     },
     {
@@ -1753,8 +1766,8 @@
       "engine": "",
       "fuel": "Diger",
       "transmission": "",
-      "price": 2710000,
-      "priceFormatted": "2710000",
+      "price": 2550000,
+      "priceFormatted": "2550000",
       "searchText": "toyota hilux 2 4 d 4d 4x2 hi cruiser a t diger"
     },
     {
@@ -1805,8 +1818,8 @@
       "engine": "1.8",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 1575000,
-      "priceFormatted": "1575000",
+      "price": 1707000,
+      "priceFormatted": "1707000",
       "searchText": "toyota proace city 1 5 d 130 hp dream a t 1 8 dizel otomatik"
     },
     {
@@ -1818,8 +1831,8 @@
       "engine": "1.8",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 1758000,
-      "priceFormatted": "1758000",
+      "price": 1885000,
+      "priceFormatted": "1885000",
       "searchText": "toyota proace city 1 5 d 130 hp flame x pack a t 1 8 dizel otomatik"
     },
     {
@@ -1831,8 +1844,8 @@
       "engine": "1.8",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 1850000,
-      "priceFormatted": "1850000",
+      "price": 1975000,
+      "priceFormatted": "1975000",
       "searchText": "toyota proace city 1 5 d 130 hp passion x pack a t 1 8 dizel otomatik"
     },
     {
@@ -1844,8 +1857,8 @@
       "engine": "1.5",
       "fuel": "Dizel",
       "transmission": "Düz",
-      "price": 1190000,
-      "priceFormatted": "1190000",
+      "price": 1339000,
+      "priceFormatted": "1339000",
       "searchText": "toyota proace city cargo 1 5 d 100 hp vision 1 5 dizel duz"
     },
     {
@@ -1857,8 +1870,8 @@
       "engine": "1.5",
       "fuel": "Diger",
       "transmission": "Otomatik",
-      "price": 1244000,
-      "priceFormatted": "1244000",
+      "price": 1393000,
+      "priceFormatted": "1393000",
       "searchText": "toyota proace city cargo 1 5 d 100 hp dream 1 5 diger otomatik"
     },
     {
@@ -1870,8 +1883,8 @@
       "engine": "2",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 2275000,
-      "priceFormatted": "2275000",
+      "price": 2439000,
+      "priceFormatted": "2439000",
       "searchText": "toyota proace verso 2 2 d 180 hp passion a t 2 dizel otomatik"
     },
     {
@@ -1883,22 +1896,9 @@
       "engine": "2",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 2345000,
-      "priceFormatted": "2345000",
+      "price": 2509000,
+      "priceFormatted": "2509000",
       "searchText": "toyota proace verso 2 2 d 180 hp passion x pack a t 2 dizel otomatik"
-    },
-    {
-      "id": "toyota-proace-cargo-2.0-d-145-hp-flame-m/t-2",
-      "brand": "Toyota",
-      "brandId": "toyota",
-      "model": "Proace Cargo",
-      "trim": "2.0 D 145 HP Flame M/T",
-      "engine": "2",
-      "fuel": "Dizel",
-      "transmission": "Düz",
-      "price": 1658000,
-      "priceFormatted": "1658000",
-      "searchText": "toyota proace cargo 2 0 d 145 hp flame m t 2 dizel duz"
     },
     {
       "id": "toyota-proace-max-2.2d-140-hp-m/t-13-m³-2.2",
@@ -1909,8 +1909,8 @@
       "engine": "2.2",
       "fuel": "Dizel",
       "transmission": "Düz",
-      "price": 1691500,
-      "priceFormatted": "1691500",
+      "price": 1824000,
+      "priceFormatted": "1824000",
       "searchText": "toyota proace max 2 2d 140 hp m t 13 m 2 2 dizel duz"
     },
     {
@@ -1922,8 +1922,8 @@
       "engine": "2.2",
       "fuel": "Dizel",
       "transmission": "Düz",
-      "price": 1764000,
-      "priceFormatted": "1764000",
+      "price": 1901500,
+      "priceFormatted": "1901500",
       "searchText": "toyota proace max 2 2d 180 hp m t 15 m 2 2 dizel duz"
     },
     {
@@ -1935,8 +1935,8 @@
       "engine": "2.2",
       "fuel": "Dizel",
       "transmission": "Düz",
-      "price": 1815000,
-      "priceFormatted": "1815000",
+      "price": 1955000,
+      "priceFormatted": "1955000",
       "searchText": "toyota proace max 2 2d 180 hp m t 17 m 2 2 dizel duz"
     },
     {
@@ -1948,8 +1948,8 @@
       "engine": "2.2",
       "fuel": "Dizel",
       "transmission": "Düz",
-      "price": 1845500,
-      "priceFormatted": "1845500",
+      "price": 1901500,
+      "priceFormatted": "1901500",
       "searchText": "toyota proace max kamyonet 2 2 d 140 hp l4 kasal m t 2 2 dizel duz"
     },
     {
@@ -2705,19 +2705,6 @@
       "price": 2490000,
       "priceFormatted": "2.490.000 TL",
       "searchText": "peugeot expert traveller allure 2 2 bluehdi 180 hp dizel otomatik"
-    },
-    {
-      "id": "byd-seal-design-byd-160-kw",
-      "brand": "BYD",
-      "brandId": "byd",
-      "model": "SEAL",
-      "trim": "Design",
-      "engine": "BYD  160 kW",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 2429000,
-      "priceFormatted": "2.429.000 ₺",
-      "searchText": "byd seal design byd 160 kw elektrik otomatik"
     },
     {
       "id": "byd-seal-excellence-byd-390-kw-awd",
@@ -4267,17 +4254,17 @@
       "searchText": "mercedes benz c 200 4matic amg 1 5l 204 hp benzin otomatik"
     },
     {
-      "id": "mercedes-benz-mercedes-amg-c-43-4matic-performance-2.0l-421-hp",
+      "id": "mercedes-benz-c-200-4matic-140th-year-edition-1.5l-204-hp",
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
-      "model": "Mercedes-AMG C 43 4MATIC",
-      "trim": "Performance",
-      "engine": "2.0L 421 HP",
+      "model": "C 200 4MATIC",
+      "trim": "140th Year Edition",
+      "engine": "1.5L 204 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 8451000,
-      "priceFormatted": "8.451.000 TL",
-      "searchText": "mercedes benz mercedes amg c 43 4matic performance 2 0l 421 hp benzin otomatik"
+      "price": 7136000,
+      "priceFormatted": "7.136.000 TL",
+      "searchText": "mercedes benz c 200 4matic 140th year edition 1 5l 204 hp benzin otomatik"
     },
     {
       "id": "mercedes-benz-mercedes-amg-c-63-s-e-performance---2.0l-680-hp",
@@ -4304,6 +4291,19 @@
       "price": 5770000,
       "priceFormatted": "5.770.000 TL",
       "searchText": "mercedes benz c 200 4matic amg 1 5l 204 hp benzin otomatik"
+    },
+    {
+      "id": "mercedes-benz-mercedes-amg-c-43-4matic-performance-2.0l-421-hp",
+      "brand": "Mercedes-Benz",
+      "brandId": "mercedes",
+      "model": "Mercedes-AMG C 43 4MATIC",
+      "trim": "Performance",
+      "engine": "2.0L 421 HP",
+      "fuel": "Benzin",
+      "transmission": "Otomatik",
+      "price": 8451000,
+      "priceFormatted": "8.451.000 TL",
+      "searchText": "mercedes benz mercedes amg c 43 4matic performance 2 0l 421 hp benzin otomatik"
     },
     {
       "id": "mercedes-benz-c-200-4matic-all-terrain---1.5l-204-hp",
@@ -4592,19 +4592,6 @@
       "searchText": "mercedes benz eqe 280 amg 218 hp elektrik otomatik"
     },
     {
-      "id": "mercedes-benz-mercedes-amg-eqe-53-4matic+-performance-625-hp",
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "Mercedes-AMG EQE 53 4MATIC+",
-      "trim": "Performance",
-      "engine": "625 HP",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 8204200,
-      "priceFormatted": "8.204.200 TL",
-      "searchText": "mercedes benz mercedes amg eqe 53 4matic performance 625 hp elektrik otomatik"
-    },
-    {
       "id": "mercedes-benz-eqs-450-4matic-inspiration-360-hp",
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
@@ -4681,19 +4668,6 @@
       "price": 4268000,
       "priceFormatted": "4.268.000 TL",
       "searchText": "mercedes benz gla 200 amg 1 3l 163 hp benzin otomatik"
-    },
-    {
-      "id": "mercedes-benz-glb-200-progressive-1.3l-163-hp",
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "GLB 200",
-      "trim": "Progressive",
-      "engine": "1.3L 163 HP",
-      "fuel": "Benzin",
-      "transmission": "Otomatik",
-      "price": 4586000,
-      "priceFormatted": "4.586.000 TL",
-      "searchText": "mercedes benz glb 200 progressive 1 3l 163 hp benzin otomatik"
     },
     {
       "id": "mercedes-benz-glb-200-amg-1.3l-163-hp",
@@ -5463,6 +5437,19 @@
       "searchText": "nissan qashqai skypack 4x4 1 3 dig t mild hybrid 158ps mild hybrid otomatik"
     },
     {
+      "id": "nissan-qashqai-n-design-1.3-dig-t-mild-hybrid-158ps",
+      "brand": "Nissan",
+      "brandId": "nissan",
+      "model": "QASHQAI",
+      "trim": "N-Design",
+      "engine": "1.3 DIG-T Mild Hybrid 158PS",
+      "fuel": "Mild Hybrid",
+      "transmission": "Otomatik",
+      "price": 3580000,
+      "priceFormatted": "3.580.000 TL",
+      "searchText": "nissan qashqai n design 1 3 dig t mild hybrid 158ps mild hybrid otomatik"
+    },
+    {
       "id": "nissan-qashqai-platinum-1.3-dig-t-mild-hybrid-158ps",
       "brand": "Nissan",
       "brandId": "nissan",
@@ -5679,8 +5666,8 @@
       "engine": "1.3 DIG-T 130PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 1288800,
-      "priceFormatted": "1.288.800 TL",
+      "price": 1314900,
+      "priceFormatted": "1.314.900 TL",
       "searchText": "nissan townstar van visia 1 3 dig t 130ps benzin otomatik"
     },
     {
@@ -5692,8 +5679,8 @@
       "engine": "1.3 DIG-T 130PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 1424000,
-      "priceFormatted": "1.424.000 TL",
+      "price": 1453800,
+      "priceFormatted": "1.453.800 TL",
       "searchText": "nissan townstar van visia 1 3 dig t 130ps benzin otomatik"
     },
     {
@@ -5705,8 +5692,8 @@
       "engine": "1.3 DIG-T 130PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 1551400,
-      "priceFormatted": "1.551.400 TL",
+      "price": 1583800,
+      "priceFormatted": "1.583.800 TL",
       "searchText": "nissan townstar van visia 1 3 dig t 130ps benzin otomatik"
     },
     {
@@ -5718,8 +5705,8 @@
       "engine": "1.3 DIG-T 130PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 1630200,
-      "priceFormatted": "1.630.200 TL",
+      "price": 1663900,
+      "priceFormatted": "1.663.900 TL",
       "searchText": "nissan townstar van tekna 1 3 dig t 130ps benzin otomatik"
     },
     {
@@ -5731,8 +5718,8 @@
       "engine": "",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 2205200,
-      "priceFormatted": "2.205.200 TL",
+      "price": 2249200,
+      "priceFormatted": "2.249.200 TL",
       "searchText": "nissan townstar van tekna elektrik otomatik"
     },
     {
@@ -5744,8 +5731,8 @@
       "engine": "",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 2184100,
-      "priceFormatted": "2.184.100 TL",
+      "price": 2228000,
+      "priceFormatted": "2.228.000 TL",
       "searchText": "nissan townstar van tekna elektrik otomatik"
     },
     {
@@ -5814,6 +5801,19 @@
       "searchText": "honda hr v hybrid advance 1 5l hibrit otomatik hybrid otomatik"
     },
     {
+      "id": "honda-zr-v-hybrid-advance-2.0l-hibrit-otomatik",
+      "brand": "Honda",
+      "brandId": "honda",
+      "model": "ZR-V Hybrid",
+      "trim": "Advance",
+      "engine": "2.0L Hibrit Otomatik",
+      "fuel": "Hybrid",
+      "transmission": "Otomatik",
+      "price": 4970000,
+      "priceFormatted": "4.970.000 TL",
+      "searchText": "honda zr v hybrid advance 2 0l hibrit otomatik hybrid otomatik"
+    },
+    {
       "id": "honda-prelude-hybrid-advance-2.0l-hibrit-otomatik",
       "brand": "Honda",
       "brandId": "honda",
@@ -5825,6 +5825,19 @@
       "price": 5500000,
       "priceFormatted": "5.500.000 TL",
       "searchText": "honda prelude hybrid advance 2 0l hibrit otomatik hybrid otomatik"
+    },
+    {
+      "id": "honda-cr-v-hybrid-advance-2.0l-hibrit-otomatik",
+      "brand": "Honda",
+      "brandId": "honda",
+      "model": "CR-V Hybrid",
+      "trim": "Advance",
+      "engine": "2.0L Hibrit Otomatik",
+      "fuel": "Hybrid",
+      "transmission": "Otomatik",
+      "price": 6160000,
+      "priceFormatted": "6.160.000 TL",
+      "searchText": "honda cr v hybrid advance 2 0l hibrit otomatik hybrid otomatik"
     },
     {
       "id": "seat-yeni̇-style-plus-1.0-tsi-116-ps",
@@ -5944,6 +5957,32 @@
       "searchText": "kia niro ev elegance 150 kw elektrik otomatik"
     },
     {
+      "id": "kia-picanto-feel-67-ps",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "Picanto",
+      "trim": "Feel",
+      "engine": "67 PS",
+      "fuel": "Benzin",
+      "transmission": "Manuel",
+      "price": 1435000,
+      "priceFormatted": "1.435.000 TL",
+      "searchText": "kia picanto feel 67 ps benzin manuel"
+    },
+    {
+      "id": "kia-picanto-cool-67-ps",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "Picanto",
+      "trim": "Cool",
+      "engine": "67 PS",
+      "fuel": "Benzin",
+      "transmission": "Manuel",
+      "price": 1435000,
+      "priceFormatted": "1.435.000 TL",
+      "searchText": "kia picanto cool 67 ps benzin manuel"
+    },
+    {
       "id": "kia-cee-elegance-140-ps",
       "brand": "Kia",
       "brandId": "kia",
@@ -5957,6 +5996,32 @@
       "searchText": "kia cee elegance 140 ps benzin otomatik"
     },
     {
+      "id": "kia-stonic-cool-100-ps",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "Stonic",
+      "trim": "Cool",
+      "engine": "100 PS",
+      "fuel": "Benzin",
+      "transmission": "Otomatik",
+      "price": 1999000,
+      "priceFormatted": "1.999.000 TL",
+      "searchText": "kia stonic cool 100 ps benzin otomatik"
+    },
+    {
+      "id": "kia-stonic-cool-100-ps",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "Stonic",
+      "trim": "Cool",
+      "engine": "100 PS",
+      "fuel": "Benzin",
+      "transmission": "Otomatik",
+      "price": 2130000,
+      "priceFormatted": "2.130.000 TL",
+      "searchText": "kia stonic cool 100 ps benzin otomatik"
+    },
+    {
       "id": "kia-xceed-cool-115-ps",
       "brand": "Kia",
       "brandId": "kia",
@@ -5968,6 +6033,253 @@
       "price": 1960000,
       "priceFormatted": "1.960.000 TL",
       "searchText": "kia xceed cool 115 ps hybrid otomatik"
+    },
+    {
+      "id": "kia-sportage-live-150-ps",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "Sportage",
+      "trim": "Live",
+      "engine": "150 PS",
+      "fuel": "Benzin",
+      "transmission": "Otomatik",
+      "price": 2249000,
+      "priceFormatted": "2.249.000 TL",
+      "searchText": "kia sportage live 150 ps benzin otomatik"
+    },
+    {
+      "id": "kia-sportage-cool-150-ps",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "Sportage",
+      "trim": "Cool",
+      "engine": "150 PS",
+      "fuel": "Benzin",
+      "transmission": "Otomatik",
+      "price": 2700000,
+      "priceFormatted": "2.700.000 TL",
+      "searchText": "kia sportage cool 150 ps benzin otomatik"
+    },
+    {
+      "id": "kia-sportage-elegance-150-ps",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "Sportage",
+      "trim": "Elegance",
+      "engine": "150 PS",
+      "fuel": "Benzin",
+      "transmission": "Otomatik",
+      "price": 3075000,
+      "priceFormatted": "3.075.000 TL",
+      "searchText": "kia sportage elegance 150 ps benzin otomatik"
+    },
+    {
+      "id": "kia-sportage-prestige-150-ps",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "Sportage",
+      "trim": "Prestige",
+      "engine": "150 PS",
+      "fuel": "Benzin",
+      "transmission": "Otomatik",
+      "price": 3340000,
+      "priceFormatted": "3.340.000 TL",
+      "searchText": "kia sportage prestige 150 ps benzin otomatik"
+    },
+    {
+      "id": "kia-sportage-gt-line-180-ps",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "Sportage",
+      "trim": "GT-Line",
+      "engine": "180 PS",
+      "fuel": "Benzin",
+      "transmission": "Otomatik",
+      "price": 3650000,
+      "priceFormatted": "3.650.000 TL",
+      "searchText": "kia sportage gt line 180 ps benzin otomatik"
+    },
+    {
+      "id": "kia-sorento-prestige-smart-239-ps",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "Sorento",
+      "trim": "Prestige Smart",
+      "engine": "239 PS",
+      "fuel": "Hybrid",
+      "transmission": "Otomatik",
+      "price": 5990000,
+      "priceFormatted": "5.990.000 TL",
+      "searchText": "kia sorento prestige smart 239 ps hybrid otomatik"
+    },
+    {
+      "id": "kia-sorento-prestige-smart-239-ps",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "Sorento",
+      "trim": "Prestige Smart",
+      "engine": "239 PS",
+      "fuel": "Hybrid",
+      "transmission": "Otomatik",
+      "price": 6390000,
+      "priceFormatted": "6.390.000 TL",
+      "searchText": "kia sorento prestige smart 239 ps hybrid otomatik"
+    },
+    {
+      "id": "kia-sorento-prestige-smart-239-ps",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "Sorento",
+      "trim": "Prestige Smart",
+      "engine": "239 PS",
+      "fuel": "Hybrid",
+      "transmission": "Otomatik",
+      "price": 6130000,
+      "priceFormatted": "6.130.000 TL",
+      "searchText": "kia sorento prestige smart 239 ps hybrid otomatik"
+    },
+    {
+      "id": "kia-sorento-prestige-smart-239-ps",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "Sorento",
+      "trim": "Prestige Smart",
+      "engine": "239 PS",
+      "fuel": "Hybrid",
+      "transmission": "Otomatik",
+      "price": 6530000,
+      "priceFormatted": "6.530.000 TL",
+      "searchText": "kia sorento prestige smart 239 ps hybrid otomatik"
+    },
+    {
+      "id": "kia-ev3-elegance-standard-range-150-kw",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "EV3",
+      "trim": "Elegance Standard Range",
+      "engine": "150 kW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 2095000,
+      "priceFormatted": "2.095.000 TL",
+      "searchText": "kia ev3 elegance standard range 150 kw elektrik otomatik"
+    },
+    {
+      "id": "kia-ev3-elegance-long-range-150-kw",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "EV3",
+      "trim": "Elegance Long Range",
+      "engine": "150 kW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 2485000,
+      "priceFormatted": "2.485.000 TL",
+      "searchText": "kia ev3 elegance long range 150 kw elektrik otomatik"
+    },
+    {
+      "id": "kia-ev3-prestige-standard-range-150-kw",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "EV3",
+      "trim": "Prestige Standard Range",
+      "engine": "150 kW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 2485000,
+      "priceFormatted": "2.485.000 TL",
+      "searchText": "kia ev3 prestige standard range 150 kw elektrik otomatik"
+    },
+    {
+      "id": "kia-ev3-prestige-standard-range-150-kw",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "EV3",
+      "trim": "Prestige Standard Range",
+      "engine": "150 kW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 2345000,
+      "priceFormatted": "2.345.000 TL",
+      "searchText": "kia ev3 prestige standard range 150 kw elektrik otomatik"
+    },
+    {
+      "id": "kia-ev3-gt-line-long-range-150-kw",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "EV3",
+      "trim": "GT-Line Long Range",
+      "engine": "150 kW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 3760000,
+      "priceFormatted": "3.760.000 TL",
+      "searchText": "kia ev3 gt line long range 150 kw elektrik otomatik"
+    },
+    {
+      "id": "kia-ev6-pe-elegance-standard-range-125-kw",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "EV6 PE",
+      "trim": "Elegance Standard Range",
+      "engine": "125 kW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 3760000,
+      "priceFormatted": "3.760.000 TL",
+      "searchText": "kia ev6 pe elegance standard range 125 kw elektrik otomatik"
+    },
+    {
+      "id": "kia-ev9-prestige-149-kw",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "EV9",
+      "trim": "Prestige",
+      "engine": "149 kW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 6360000,
+      "priceFormatted": "6.360.000 TL",
+      "searchText": "kia ev9 prestige 149 kw elektrik otomatik"
+    },
+    {
+      "id": "kia-ev9-prestige-149-kw",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "EV9",
+      "trim": "Prestige",
+      "engine": "149 kW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 6540000,
+      "priceFormatted": "6.540.000 TL",
+      "searchText": "kia ev9 prestige 149 kw elektrik otomatik"
+    },
+    {
+      "id": "kia-ev9-gt-line-283-kw",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "EV9",
+      "trim": "GT-Line",
+      "engine": "283 kW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 7690000,
+      "priceFormatted": "7.690.000 TL",
+      "searchText": "kia ev9 gt line 283 kw elektrik otomatik"
+    },
+    {
+      "id": "kia-ev9-gt-line-283-kw",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "EV9",
+      "trim": "GT-Line",
+      "engine": "283 kW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 7870000,
+      "priceFormatted": "7.870.000 TL",
+      "searchText": "kia ev9 gt line 283 kw elektrik otomatik"
     },
     {
       "id": "volvo-ex40-black-edition-ultra-single-motor-extended-range-elektrik---150kw/204hp---2.399.540-55%-3.719.287-4.463.144-13.000-4.476.144-150-kw-/-204-hp",

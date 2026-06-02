@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-01T01:45:12.328Z",
-  "totalVehicles": 486,
+  "generatedAt": "2026-06-02T01:48:07.416Z",
+  "totalVehicles": 510,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -2525,7 +2525,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -3367,7 +3367,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -3514,13 +3514,13 @@
           "engine": "1.8",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2965000",
-          "priceNumeric": 2965000,
+          "priceRaw": "3024000",
+          "priceNumeric": 3024000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "Japonya",
-          "priceCampaignNumeric": 2965000,
-          "otvIncentivePrice": 3481500
+          "priceCampaignNumeric": 3024000,
+          "otvIncentivePrice": 3556000
         },
         {
           "model": "COROLLA CROSS",
@@ -3528,13 +3528,13 @@
           "engine": "1.8",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "3435000",
-          "priceNumeric": 3435000,
+          "priceRaw": "3504000",
+          "priceNumeric": 3504000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "Japonya",
-          "priceCampaignNumeric": 3435000,
-          "otvIncentivePrice": 4035000
+          "priceCampaignNumeric": 3504000,
+          "otvIncentivePrice": 4120500
         },
         {
           "model": "YENİ TOYOTA C-HR",
@@ -3542,13 +3542,13 @@
           "engine": "1.8",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2260000",
-          "priceNumeric": 2260000,
+          "priceRaw": "2325000",
+          "priceNumeric": 2325000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "Türkiye",
-          "priceCampaignNumeric": 2260000,
-          "otvIncentivePrice": 2470000
+          "priceCampaignNumeric": 2325000,
+          "otvIncentivePrice": 2542000
         },
         {
           "model": "YENİ TOYOTA C-HR",
@@ -3556,13 +3556,27 @@
           "engine": "1.8",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2545000",
-          "priceNumeric": 2545000,
+          "priceRaw": "2566000",
+          "priceNumeric": 2566000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "Türkiye",
-          "priceCampaignNumeric": 2545000,
-          "otvIncentivePrice": 2853000
+          "priceCampaignNumeric": 2566000,
+          "otvIncentivePrice": 2930000
+        },
+        {
+          "model": "YENİ TOYOTA C-HR",
+          "trim": "1.8 Hybrid Passion X-Sport e-CVT",
+          "engine": "1.8",
+          "transmission": "Otomatik",
+          "fuel": "Hybrid",
+          "priceRaw": "2950000",
+          "priceNumeric": 2950000,
+          "brand": "Toyota",
+          "modelYear": 2026,
+          "origin": "Türkiye",
+          "priceCampaignNumeric": 2950000,
+          "otvIncentivePrice": 3217000
         },
         {
           "model": "YENİ TOYOTA C-HR",
@@ -3570,13 +3584,13 @@
           "engine": "1.8",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2975000",
-          "priceNumeric": 2975000,
+          "priceRaw": "3055000",
+          "priceNumeric": 3055000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "Türkiye",
-          "priceCampaignNumeric": 2975000,
-          "otvIncentivePrice": 3277500
+          "priceCampaignNumeric": 3055000,
+          "otvIncentivePrice": 3365500
         },
         {
           "model": "COROLLA HATCHBACK HYBRID",
@@ -3584,13 +3598,13 @@
           "engine": "1.8",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2180000",
-          "priceNumeric": 2180000,
+          "priceRaw": "2225000",
+          "priceNumeric": 2225000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "İngiltere",
-          "priceCampaignNumeric": 2180000,
-          "otvIncentivePrice": 2725000
+          "priceCampaignNumeric": 2225000,
+          "otvIncentivePrice": 2781000
         },
         {
           "model": "COROLLA HATCHBACK HYBRID",
@@ -3598,13 +3612,13 @@
           "engine": "1.8",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2495000",
-          "priceNumeric": 2495000,
+          "priceRaw": "2550000",
+          "priceNumeric": 2550000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "İngiltere",
-          "priceCampaignNumeric": 2495000,
-          "otvIncentivePrice": 2861000
+          "priceCampaignNumeric": 2550000,
+          "otvIncentivePrice": 2924000
         },
         {
           "model": "YENİ COROLLA HATCHBACK HYBRID",
@@ -3612,13 +3626,13 @@
           "engine": "1.8",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2495000",
-          "priceNumeric": 2495000,
+          "priceRaw": "2550000",
+          "priceNumeric": 2550000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "İngiltere",
-          "priceCampaignNumeric": 2495000,
-          "otvIncentivePrice": 2861000
+          "priceCampaignNumeric": 2550000,
+          "otvIncentivePrice": 2924000
         },
         {
           "model": "YARIS CROSS",
@@ -3626,13 +3640,13 @@
           "engine": "1",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2294000",
-          "priceNumeric": 2294000,
+          "priceRaw": "2317000",
+          "priceNumeric": 2317000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "Fransa",
-          "priceCampaignNumeric": 2294000,
-          "otvIncentivePrice": 2677000
+          "priceCampaignNumeric": 2317000,
+          "otvIncentivePrice": 2704000
         },
         {
           "model": "YARIS CROSS",
@@ -3640,13 +3654,13 @@
           "engine": "1.5",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2713000",
-          "priceNumeric": 2713000,
+          "priceRaw": "2740000",
+          "priceNumeric": 2740000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "Fransa",
-          "priceCampaignNumeric": 2713000,
-          "otvIncentivePrice": 3176000
+          "priceCampaignNumeric": 2740000,
+          "otvIncentivePrice": 3208000
         },
         {
           "model": "YARIS",
@@ -3654,13 +3668,13 @@
           "engine": "1.5",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "1995000",
-          "priceNumeric": 1995000,
+          "priceRaw": "2025000",
+          "priceNumeric": 2025000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "Fransa",
-          "priceCampaignNumeric": 1995000,
-          "otvIncentivePrice": 2211000
+          "priceCampaignNumeric": 2025000,
+          "otvIncentivePrice": 2245000
         },
         {
           "model": "YARIS",
@@ -3674,7 +3688,7 @@
           "modelYear": 2026,
           "origin": "Fransa",
           "priceCampaignNumeric": 2365000,
-          "otvIncentivePrice": 2601000
+          "otvIncentivePrice": 2640000
         },
         {
           "model": "Land Cruiser Prado",
@@ -3710,13 +3724,13 @@
           "engine": "",
           "transmission": "",
           "fuel": "Diger",
-          "priceRaw": "2710000",
-          "priceNumeric": 2710000,
+          "priceRaw": "2550000",
+          "priceNumeric": 2550000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "Tayland",
-          "priceListNumeric": 2866000,
-          "priceCampaignNumeric": 2710000
+          "priceListNumeric": 2952000,
+          "priceCampaignNumeric": 2798000
         },
         {
           "model": "Hilux",
@@ -3766,13 +3780,13 @@
           "engine": "1.8",
           "transmission": "Otomatik",
           "fuel": "Dizel",
-          "priceRaw": "1575000",
-          "priceNumeric": 1575000,
+          "priceRaw": "1707000",
+          "priceNumeric": 1707000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "İspanya",
           "priceListNumeric": 2028000,
-          "priceCampaignNumeric": 1575000
+          "priceCampaignNumeric": 1707000
         },
         {
           "model": "Proace City",
@@ -3780,13 +3794,13 @@
           "engine": "1.8",
           "transmission": "Otomatik",
           "fuel": "Dizel",
-          "priceRaw": "1758000",
-          "priceNumeric": 1758000,
+          "priceRaw": "1885000",
+          "priceNumeric": 1885000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "İspanya",
           "priceListNumeric": 2288000,
-          "priceCampaignNumeric": 1758000
+          "priceCampaignNumeric": 1885000
         },
         {
           "model": "Proace City",
@@ -3794,13 +3808,13 @@
           "engine": "1.8",
           "transmission": "Otomatik",
           "fuel": "Dizel",
-          "priceRaw": "1850000",
-          "priceNumeric": 1850000,
+          "priceRaw": "1975000",
+          "priceNumeric": 1975000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "İspanya",
           "priceListNumeric": 2390500,
-          "priceCampaignNumeric": 1850000
+          "priceCampaignNumeric": 1975000
         },
         {
           "model": "PROACE CITY CARGO",
@@ -3808,13 +3822,13 @@
           "engine": "1.5",
           "transmission": "Düz",
           "fuel": "Dizel",
-          "priceRaw": "1190000",
-          "priceNumeric": 1190000,
+          "priceRaw": "1339000",
+          "priceNumeric": 1339000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "İspanya",
-          "priceListNumeric": 1296000,
-          "priceCampaignNumeric": 1190000
+          "priceListNumeric": 1429000,
+          "priceCampaignNumeric": 1339000
         },
         {
           "model": "PROACE CITY CARGO",
@@ -3822,13 +3836,13 @@
           "engine": "1.5",
           "transmission": "Otomatik",
           "fuel": "Diger",
-          "priceRaw": "1244000",
-          "priceNumeric": 1244000,
+          "priceRaw": "1393000",
+          "priceNumeric": 1393000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "İspanya",
-          "priceListNumeric": 1353000,
-          "priceCampaignNumeric": 1244000
+          "priceListNumeric": 1483000,
+          "priceCampaignNumeric": 1393000
         },
         {
           "model": "Proace Verso",
@@ -3836,13 +3850,13 @@
           "engine": "2",
           "transmission": "Otomatik",
           "fuel": "Dizel",
-          "priceRaw": "2275000",
-          "priceNumeric": 2275000,
+          "priceRaw": "2439000",
+          "priceNumeric": 2439000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "Fransa",
           "priceListNumeric": 2495500,
-          "priceCampaignNumeric": 2380000
+          "priceCampaignNumeric": 2439000
         },
         {
           "model": "Proace Verso",
@@ -3850,27 +3864,13 @@
           "engine": "2",
           "transmission": "Otomatik",
           "fuel": "Dizel",
-          "priceRaw": "2345000",
-          "priceNumeric": 2345000,
+          "priceRaw": "2509000",
+          "priceNumeric": 2509000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "Fransa",
           "priceListNumeric": 2568500,
-          "priceCampaignNumeric": 2450000
-        },
-        {
-          "model": "Proace Cargo",
-          "trim": "2.0 D 145 HP Flame M/T",
-          "engine": "2",
-          "transmission": "Düz",
-          "fuel": "Dizel",
-          "priceRaw": "1658000",
-          "priceNumeric": 1658000,
-          "brand": "Toyota",
-          "modelYear": 2025,
-          "origin": "Fransa",
-          "priceListNumeric": 1708500,
-          "priceCampaignNumeric": 1658000
+          "priceCampaignNumeric": 2509000
         },
         {
           "model": "Proace Max",
@@ -3878,13 +3878,13 @@
           "engine": "2.2",
           "transmission": "Düz",
           "fuel": "Dizel",
-          "priceRaw": "1691500",
-          "priceNumeric": 1691500,
+          "priceRaw": "1824000",
+          "priceNumeric": 1824000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "İtalya",
-          "priceListNumeric": 1857000,
-          "priceCampaignNumeric": 1691500
+          "priceListNumeric": 1950000,
+          "priceCampaignNumeric": 1824000
         },
         {
           "model": "Proace Max",
@@ -3892,13 +3892,13 @@
           "engine": "2.2",
           "transmission": "Düz",
           "fuel": "Dizel",
-          "priceRaw": "1764000",
-          "priceNumeric": 1764000,
+          "priceRaw": "1901500",
+          "priceNumeric": 1901500,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "İtalya",
-          "priceListNumeric": 1929000,
-          "priceCampaignNumeric": 1764000
+          "priceListNumeric": 2025500,
+          "priceCampaignNumeric": 1901500
         },
         {
           "model": "Proace Max",
@@ -3906,13 +3906,13 @@
           "engine": "2.2",
           "transmission": "Düz",
           "fuel": "Dizel",
-          "priceRaw": "1815000",
-          "priceNumeric": 1815000,
+          "priceRaw": "1955000",
+          "priceNumeric": 1955000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "İtalya",
-          "priceListNumeric": 1980000,
-          "priceCampaignNumeric": 1815000
+          "priceListNumeric": 2079000,
+          "priceCampaignNumeric": 1955000
         },
         {
           "model": "Proace Max Kamyonet",
@@ -3920,19 +3920,19 @@
           "engine": "2.2",
           "transmission": "Düz",
           "fuel": "Dizel",
-          "priceRaw": "1845500",
-          "priceNumeric": 1845500,
+          "priceRaw": "1901500",
+          "priceNumeric": 1901500,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "İtalya",
           "priceListNumeric": 2059000,
-          "priceCampaignNumeric": 1845500
+          "priceCampaignNumeric": 1901500
         }
       ]
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
         {
           "model": "i20",
@@ -4365,7 +4365,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
         {
           "model": "E-208",
@@ -4767,28 +4767,8 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
-        {
-          "model": "SEAL",
-          "trim": "Design",
-          "engine": "BYD  160 kW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik",
-          "priceRaw": "2.429.000 ₺",
-          "priceNumeric": 2429000,
-          "brand": "BYD",
-          "otvRate": 25,
-          "priceListNumeric": 2489000,
-          "priceCampaignNumeric": 2429000,
-          "modelYear": 2026,
-          "powerKW": 160,
-          "isElectric": true,
-          "driveType": "RWD",
-          "batteryCapacity": 61.4,
-          "wltpRange": 460,
-          "fuelConsumption": "13.3 kWh/100km"
-        },
         {
           "model": "SEAL",
           "trim": "Excellence",
@@ -4870,7 +4850,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5094,7 +5074,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5576,7 +5556,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -6617,7 +6597,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
         {
           "model": "A 200",
@@ -6685,21 +6665,20 @@
           "driveType": "AWD"
         },
         {
-          "model": "Mercedes-AMG C 43 4MATIC",
-          "trim": "Performance",
-          "engine": "2.0L 421 HP",
+          "model": "C 200 4MATIC",
+          "trim": "140th Year Edition",
+          "engine": "1.5L 204 HP",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "8.451.000 TL",
-          "priceNumeric": 8451000,
+          "priceRaw": "7.136.000 TL",
+          "priceNumeric": 7136000,
           "brand": "Mercedes-Benz",
-          "otvRate": 170,
+          "otvRate": 100,
           "modelYear": "2026",
-          "priceListNumeric": 2608333,
-          "powerHP": 421,
-          "engineDisplacement": "2.0L",
-          "driveType": "AWD",
-          "isAMG": true
+          "priceListNumeric": 2933333,
+          "powerHP": 204,
+          "engineDisplacement": "1.5L",
+          "driveType": "AWD"
         },
         {
           "model": "Mercedes-AMG C 63 S E PERFORMANCE",
@@ -6733,6 +6712,23 @@
           "powerHP": 204,
           "engineDisplacement": "1.5L",
           "driveType": "AWD"
+        },
+        {
+          "model": "Mercedes-AMG C 43 4MATIC",
+          "trim": "Performance",
+          "engine": "2.0L 421 HP",
+          "transmission": "Otomatik",
+          "fuel": "Benzin",
+          "priceRaw": "8.451.000 TL",
+          "priceNumeric": 8451000,
+          "brand": "Mercedes-Benz",
+          "otvRate": 170,
+          "modelYear": "2026",
+          "priceListNumeric": 2608333,
+          "powerHP": 421,
+          "engineDisplacement": "2.0L",
+          "driveType": "AWD",
+          "isAMG": true
         },
         {
           "model": "C 200 4MATIC All-Terrain",
@@ -7086,23 +7082,6 @@
           "isElectric": true
         },
         {
-          "model": "Mercedes-AMG EQE 53 4MATIC+",
-          "trim": "Performance",
-          "engine": "625 HP",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik",
-          "priceRaw": "8.204.200 TL",
-          "priceNumeric": 8204200,
-          "brand": "Mercedes-Benz",
-          "otvRate": 75,
-          "modelYear": "2025",
-          "priceListNumeric": 3906762,
-          "powerHP": 625,
-          "isElectric": true,
-          "driveType": "AWD",
-          "isAMG": true
-        },
-        {
           "model": "EQS 450 4MATIC",
           "trim": "Inspiration",
           "engine": "360 HP",
@@ -7192,21 +7171,6 @@
           "otvRate": 90,
           "modelYear": "2025",
           "priceListNumeric": 1871930,
-          "powerHP": 163,
-          "engineDisplacement": "1.3L"
-        },
-        {
-          "model": "GLB 200",
-          "trim": "Progressive",
-          "engine": "1.3L 163 HP",
-          "transmission": "Otomatik",
-          "fuel": "Benzin",
-          "priceRaw": "4.586.000 TL",
-          "priceNumeric": 4586000,
-          "brand": "Mercedes-Benz",
-          "otvRate": 90,
-          "modelYear": "2025",
-          "priceListNumeric": 2011404,
           "powerHP": 163,
           "engineDisplacement": "1.3L"
         },
@@ -7580,7 +7544,7 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
         {
           "model": "Yeni Puma",
@@ -8298,7 +8262,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -8649,7 +8613,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -8701,6 +8665,25 @@
           "modelYear": 2026,
           "priceListNumeric": 3335400,
           "priceCampaignNumeric": 2833400,
+          "powerHP": 158,
+          "engineDisplacement": "1.3L",
+          "engineType": "DIG-T",
+          "transmissionType": "Auto",
+          "isHybrid": true,
+          "isMildHybrid": true
+        },
+        {
+          "model": "QASHQAI",
+          "trim": "N-Design",
+          "engine": "1.3 DIG-T Mild Hybrid 158PS",
+          "transmission": "Otomatik",
+          "fuel": "Mild Hybrid",
+          "priceRaw": "3.580.000 TL",
+          "priceNumeric": 3580000,
+          "brand": "Nissan",
+          "modelYear": 2026,
+          "priceListNumeric": 3580000,
+          "priceCampaignNumeric": 3580000,
           "powerHP": 158,
           "engineDisplacement": "1.3L",
           "engineType": "DIG-T",
@@ -8826,7 +8809,7 @@
           "priceNumeric": 3762300,
           "brand": "Nissan",
           "modelYear": 2026,
-          "priceListNumeric": 3862300,
+          "priceListNumeric": 4065000,
           "priceCampaignNumeric": 3762300,
           "powerHP": 190,
           "engineType": "e-POWER",
@@ -8993,11 +8976,11 @@
           "engine": "1.3 DIG-T 130PS",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "1.288.800 TL",
-          "priceNumeric": 1288800,
+          "priceRaw": "1.314.900 TL",
+          "priceNumeric": 1314900,
           "brand": "Nissan",
           "modelYear": 2026,
-          "priceListNumeric": 1288800,
+          "priceListNumeric": 1314900,
           "powerHP": 130,
           "engineDisplacement": "1.3L",
           "engineType": "DIG-T",
@@ -9009,12 +8992,12 @@
           "engine": "1.3 DIG-T 130PS",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "1.424.000 TL",
-          "priceNumeric": 1424000,
+          "priceRaw": "1.453.800 TL",
+          "priceNumeric": 1453800,
           "brand": "Nissan",
           "modelYear": 2026,
-          "priceListNumeric": 1474000,
-          "priceCampaignNumeric": 1424000,
+          "priceListNumeric": 1503800,
+          "priceCampaignNumeric": 1453800,
           "powerHP": 130,
           "engineDisplacement": "1.3L",
           "engineType": "DIG-T",
@@ -9026,12 +9009,12 @@
           "engine": "1.3 DIG-T 130PS",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "1.551.400 TL",
-          "priceNumeric": 1551400,
+          "priceRaw": "1.583.800 TL",
+          "priceNumeric": 1583800,
           "brand": "Nissan",
           "modelYear": 2026,
-          "priceListNumeric": 1601400,
-          "priceCampaignNumeric": 1551400,
+          "priceListNumeric": 1633800,
+          "priceCampaignNumeric": 1583800,
           "powerHP": 130,
           "engineDisplacement": "1.3L",
           "engineType": "DIG-T"
@@ -9042,12 +9025,12 @@
           "engine": "1.3 DIG-T 130PS",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "1.630.200 TL",
-          "priceNumeric": 1630200,
+          "priceRaw": "1.663.900 TL",
+          "priceNumeric": 1663900,
           "brand": "Nissan",
           "modelYear": 2026,
-          "priceListNumeric": 1680200,
-          "priceCampaignNumeric": 1630200,
+          "priceListNumeric": 1713900,
+          "priceCampaignNumeric": 1663900,
           "powerHP": 130,
           "engineDisplacement": "1.3L",
           "engineType": "DIG-T"
@@ -9058,11 +9041,11 @@
           "engine": "",
           "transmission": "Otomatik",
           "fuel": "Elektrik",
-          "priceRaw": "2.205.200 TL",
-          "priceNumeric": 2205200,
+          "priceRaw": "2.249.200 TL",
+          "priceNumeric": 2249200,
           "brand": "Nissan",
           "modelYear": 2026,
-          "priceListNumeric": 2205200,
+          "priceListNumeric": 2249200,
           "isElectric": true
         },
         {
@@ -9071,11 +9054,11 @@
           "engine": "",
           "transmission": "Otomatik",
           "fuel": "Elektrik",
-          "priceRaw": "2.184.100 TL",
-          "priceNumeric": 2184100,
+          "priceRaw": "2.228.000 TL",
+          "priceNumeric": 2228000,
           "brand": "Nissan",
           "modelYear": 2026,
-          "priceListNumeric": 2184100,
+          "priceListNumeric": 2228000,
           "isElectric": true
         },
         {
@@ -9108,7 +9091,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
         {
           "model": "Jazz Hybrid",
@@ -9134,7 +9117,7 @@
           "priceNumeric": 2389000,
           "brand": "Honda",
           "modelYear": 2026,
-          "priceListNumeric": 2595000,
+          "priceListNumeric": 2659000,
           "priceCampaignNumeric": 2389000,
           "engineDisplacement": "1.5L",
           "isHybrid": true
@@ -9149,8 +9132,23 @@
           "priceNumeric": 2730000,
           "brand": "Honda",
           "modelYear": 2026,
-          "priceListNumeric": 2730000,
+          "priceListNumeric": 2810000,
+          "priceCampaignNumeric": 2730000,
           "engineDisplacement": "1.5L",
+          "isHybrid": true
+        },
+        {
+          "model": "ZR-V Hybrid",
+          "trim": "Advance",
+          "engine": "2.0L Hibrit Otomatik",
+          "transmission": "Otomatik",
+          "fuel": "Hybrid",
+          "priceRaw": "4.970.000 TL",
+          "priceNumeric": 4970000,
+          "brand": "Honda",
+          "modelYear": 2026,
+          "priceListNumeric": 4970000,
+          "engineDisplacement": "2.0L",
           "isHybrid": true
         },
         {
@@ -9166,12 +9164,26 @@
           "priceListNumeric": 5500000,
           "engineDisplacement": "2.0L",
           "isHybrid": true
+        },
+        {
+          "model": "CR-V Hybrid",
+          "trim": "Advance",
+          "engine": "2.0L Hibrit Otomatik",
+          "transmission": "Otomatik",
+          "fuel": "Hybrid",
+          "priceRaw": "6.160.000 TL",
+          "priceNumeric": 6160000,
+          "brand": "Honda",
+          "modelYear": 2026,
+          "priceListNumeric": 6160000,
+          "engineDisplacement": "2.0L",
+          "isHybrid": true
         }
       ]
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
         {
           "model": "YENİ",
@@ -9291,7 +9303,7 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
         {
           "model": "Niro EV",
@@ -9310,6 +9322,36 @@
           "isElectric": true
         },
         {
+          "model": "Picanto",
+          "trim": "Feel",
+          "engine": "67 PS",
+          "transmission": "Manuel",
+          "fuel": "Benzin",
+          "priceRaw": "1.435.000 TL",
+          "priceNumeric": 1435000,
+          "brand": "Kia",
+          "priceListNumeric": 678832.86,
+          "priceCampaignNumeric": 1435000,
+          "powerHP": 67,
+          "engineDisplacement": "1.0L",
+          "modelYear": 2026
+        },
+        {
+          "model": "Picanto",
+          "trim": "Cool",
+          "engine": "67 PS",
+          "transmission": "Manuel",
+          "fuel": "Benzin",
+          "priceRaw": "1.435.000 TL",
+          "priceNumeric": 1435000,
+          "brand": "Kia",
+          "priceListNumeric": 649778.92,
+          "priceCampaignNumeric": 1335000,
+          "powerHP": 67,
+          "engineDisplacement": "1.0L",
+          "modelYear": 2026
+        },
+        {
           "model": "CEE",
           "trim": "Elegance",
           "engine": "140 PS",
@@ -9326,6 +9368,38 @@
           "modelYear": 2025
         },
         {
+          "model": "Stonic",
+          "trim": "Cool",
+          "engine": "100 PS",
+          "transmission": "Otomatik",
+          "fuel": "Benzin",
+          "priceRaw": "1.999.000 TL",
+          "priceNumeric": 1999000,
+          "brand": "Kia",
+          "priceListNumeric": 921087.5,
+          "priceCampaignNumeric": 1999000,
+          "powerHP": 100,
+          "engineDisplacement": "1.0L",
+          "transmissionType": "DCT",
+          "modelYear": 2025
+        },
+        {
+          "model": "Stonic",
+          "trim": "Cool",
+          "engine": "100 PS",
+          "transmission": "Otomatik",
+          "fuel": "Benzin",
+          "priceRaw": "2.130.000 TL",
+          "priceNumeric": 2130000,
+          "brand": "Kia",
+          "priceListNumeric": 981735.65,
+          "priceCampaignNumeric": 2130000,
+          "powerHP": 100,
+          "engineDisplacement": "1.0L",
+          "transmissionType": "DCT",
+          "modelYear": 2026
+        },
+        {
           "model": "XCEED",
           "trim": "Cool",
           "engine": "115 PS",
@@ -9334,19 +9408,341 @@
           "priceRaw": "1.960.000 TL",
           "priceNumeric": 1960000,
           "brand": "Kia",
-          "priceListNumeric": 871690,
-          "priceCampaignNumeric": 1840000,
+          "priceListNumeric": 897880.48,
+          "priceCampaignNumeric": 1895000,
           "powerHP": 115,
           "engineDisplacement": "1.0L",
           "transmissionType": "DCT",
           "modelYear": 2026,
           "isHybrid": true
+        },
+        {
+          "model": "Sportage",
+          "trim": "Live",
+          "engine": "150 PS",
+          "transmission": "Otomatik",
+          "fuel": "Benzin",
+          "priceRaw": "2.249.000 TL",
+          "priceNumeric": 2249000,
+          "brand": "Kia",
+          "priceListNumeric": 998604.63,
+          "priceCampaignNumeric": 2169000,
+          "powerHP": 150,
+          "engineDisplacement": "1.6L",
+          "transmissionType": "DCT",
+          "modelYear": 2026
+        },
+        {
+          "model": "Sportage",
+          "trim": "Cool",
+          "engine": "150 PS",
+          "transmission": "Otomatik",
+          "fuel": "Benzin",
+          "priceRaw": "2.700.000 TL",
+          "priceNumeric": 2700000,
+          "brand": "Kia",
+          "priceListNumeric": 1113151.75,
+          "priceCampaignNumeric": 2550000,
+          "powerHP": 150,
+          "engineDisplacement": "1.6L",
+          "transmissionType": "DCT",
+          "modelYear": 2026,
+          "otvRate": 1
+        },
+        {
+          "model": "Sportage",
+          "trim": "Elegance",
+          "engine": "150 PS",
+          "transmission": "Otomatik",
+          "fuel": "Benzin",
+          "priceRaw": "3.075.000 TL",
+          "priceNumeric": 3075000,
+          "brand": "Kia",
+          "priceListNumeric": 1277625.44,
+          "priceCampaignNumeric": 2925000,
+          "powerHP": 150,
+          "engineDisplacement": "1.6L",
+          "transmissionType": "DCT",
+          "modelYear": 2026,
+          "otvRate": 1
+        },
+        {
+          "model": "Sportage",
+          "trim": "Prestige",
+          "engine": "150 PS",
+          "transmission": "Otomatik",
+          "fuel": "Benzin",
+          "priceRaw": "3.340.000 TL",
+          "priceNumeric": 3340000,
+          "brand": "Kia",
+          "priceListNumeric": 1415783.33,
+          "priceCampaignNumeric": 3240000,
+          "powerHP": 150,
+          "engineDisplacement": "1.6L",
+          "transmissionType": "DCT",
+          "modelYear": 2026,
+          "otvRate": 1
+        },
+        {
+          "model": "Sportage",
+          "trim": "GT-Line",
+          "engine": "180 PS",
+          "transmission": "Otomatik",
+          "fuel": "Benzin",
+          "priceRaw": "3.650.000 TL",
+          "priceNumeric": 3650000,
+          "brand": "Kia",
+          "priceListNumeric": 1529818.42,
+          "priceCampaignNumeric": 3500000,
+          "powerHP": 180,
+          "engineDisplacement": "1.6L",
+          "transmissionType": "DCT",
+          "modelYear": 2026,
+          "otvRate": 1
+        },
+        {
+          "model": "Sorento",
+          "trim": "Prestige Smart",
+          "engine": "239 PS",
+          "transmission": "Otomatik",
+          "fuel": "Hybrid",
+          "priceRaw": "5.990.000 TL",
+          "priceNumeric": 5990000,
+          "brand": "Kia",
+          "priceListNumeric": 2449160.83,
+          "priceCampaignNumeric": 5890000,
+          "powerHP": 239,
+          "engineDisplacement": "1.6L",
+          "transmissionType": "AT",
+          "modelYear": 2025,
+          "otvRate": 2,
+          "isHybrid": true
+        },
+        {
+          "model": "Sorento",
+          "trim": "Prestige Smart",
+          "engine": "239 PS",
+          "transmission": "Otomatik",
+          "fuel": "Hybrid",
+          "priceRaw": "6.390.000 TL",
+          "priceNumeric": 6390000,
+          "brand": "Kia",
+          "priceListNumeric": 2574160.83,
+          "priceCampaignNumeric": 6190000,
+          "powerHP": 239,
+          "engineDisplacement": "1.6L",
+          "transmissionType": "AT",
+          "modelYear": 2026,
+          "otvRate": 2,
+          "isHybrid": true
+        },
+        {
+          "model": "Sorento",
+          "trim": "Prestige Smart",
+          "engine": "239 PS",
+          "transmission": "Otomatik",
+          "fuel": "Hybrid",
+          "priceRaw": "6.130.000 TL",
+          "priceNumeric": 6130000,
+          "brand": "Kia",
+          "priceListNumeric": 2507494.17,
+          "priceCampaignNumeric": 6030000,
+          "powerHP": 239,
+          "engineDisplacement": "1.6L",
+          "transmissionType": "AT",
+          "modelYear": 2025,
+          "otvRate": 2,
+          "isHybrid": true
+        },
+        {
+          "model": "Sorento",
+          "trim": "Prestige Smart",
+          "engine": "239 PS",
+          "transmission": "Otomatik",
+          "fuel": "Hybrid",
+          "priceRaw": "6.530.000 TL",
+          "priceNumeric": 6530000,
+          "brand": "Kia",
+          "priceListNumeric": 2632494.17,
+          "priceCampaignNumeric": 6330000,
+          "powerHP": 239,
+          "engineDisplacement": "1.6L",
+          "transmissionType": "AT",
+          "modelYear": 2026,
+          "otvRate": 2,
+          "isHybrid": true
+        },
+        {
+          "model": "EV3",
+          "trim": "Elegance Standard Range",
+          "engine": "150 kW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "2.095.000 TL",
+          "priceNumeric": 2095000,
+          "brand": "Kia",
+          "priceListNumeric": 1388481.91,
+          "priceCampaignNumeric": 2095000,
+          "powerKW": 150,
+          "transmissionType": "AT",
+          "modelYear": 2025,
+          "isElectric": true
+        },
+        {
+          "model": "EV3",
+          "trim": "Elegance Long Range",
+          "engine": "150 kW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "2.485.000 TL",
+          "priceNumeric": 2485000,
+          "brand": "Kia",
+          "priceListNumeric": 1648481.91,
+          "priceCampaignNumeric": 2485000,
+          "powerKW": 150,
+          "transmissionType": "AT",
+          "modelYear": 2026,
+          "isElectric": true
+        },
+        {
+          "model": "EV3",
+          "trim": "Prestige Standard Range",
+          "engine": "150 kW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "2.485.000 TL",
+          "priceNumeric": 2485000,
+          "brand": "Kia",
+          "priceListNumeric": 1648481.91,
+          "priceCampaignNumeric": 2485000,
+          "powerKW": 150,
+          "transmissionType": "AT",
+          "modelYear": 2026,
+          "isElectric": true
+        },
+        {
+          "model": "EV3",
+          "trim": "Prestige Standard Range",
+          "engine": "150 kW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "2.345.000 TL",
+          "priceNumeric": 2345000,
+          "brand": "Kia",
+          "priceListNumeric": 1555148.58,
+          "priceCampaignNumeric": 2345000,
+          "powerKW": 150,
+          "transmissionType": "AT",
+          "modelYear": 2025,
+          "isElectric": true
+        },
+        {
+          "model": "EV3",
+          "trim": "GT-Line Long Range",
+          "engine": "150 kW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "3.760.000 TL",
+          "priceNumeric": 3760000,
+          "brand": "Kia",
+          "priceListNumeric": 2014904.77,
+          "priceCampaignNumeric": 3760000,
+          "powerKW": 150,
+          "transmissionType": "AT",
+          "modelYear": 2026,
+          "otvRate": 1,
+          "isElectric": true
+        },
+        {
+          "model": "EV6 PE",
+          "trim": "Elegance Standard Range",
+          "engine": "125 kW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "3.760.000 TL",
+          "priceNumeric": 3760000,
+          "brand": "Kia",
+          "priceListNumeric": 2014904.77,
+          "priceCampaignNumeric": 3760000,
+          "powerKW": 125,
+          "transmissionType": "AT",
+          "modelYear": 2026,
+          "otvRate": 1,
+          "isElectric": true
+        },
+        {
+          "model": "EV9",
+          "trim": "Prestige",
+          "engine": "149 kW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "6.360.000 TL",
+          "priceNumeric": 6360000,
+          "brand": "Kia",
+          "priceListNumeric": 3278345.63,
+          "priceCampaignNumeric": 6110000,
+          "powerKW": 149,
+          "transmissionType": "AT",
+          "modelYear": 2025,
+          "otvRate": 1,
+          "isElectric": true
+        },
+        {
+          "model": "EV9",
+          "trim": "Prestige",
+          "engine": "149 kW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "6.540.000 TL",
+          "priceNumeric": 6540000,
+          "brand": "Kia",
+          "priceListNumeric": 3375119.82,
+          "priceCampaignNumeric": 6290000,
+          "powerKW": 149,
+          "transmissionType": "AT",
+          "modelYear": 2026,
+          "otvRate": 1,
+          "isElectric": true
+        },
+        {
+          "model": "EV9",
+          "trim": "GT-Line",
+          "engine": "283 kW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "7.690.000 TL",
+          "priceNumeric": 7690000,
+          "brand": "Kia",
+          "priceListNumeric": 3525026.55,
+          "priceCampaignNumeric": 7440000,
+          "powerKW": 283,
+          "transmissionType": "AT",
+          "modelYear": 2025,
+          "otvRate": 2,
+          "isElectric": true
+        },
+        {
+          "model": "EV9",
+          "trim": "GT-Line",
+          "engine": "283 kW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "7.870.000 TL",
+          "priceNumeric": 7870000,
+          "brand": "Kia",
+          "priceListNumeric": 3610740.83,
+          "priceCampaignNumeric": 7620000,
+          "powerKW": 283,
+          "transmissionType": "AT",
+          "modelYear": 2026,
+          "otvRate": 2,
+          "isElectric": true
         }
       ]
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
         {
           "model": "EX40 Black Edition Ultra",
@@ -9485,7 +9881,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "vehicles": [
         {
           "model": "Egea Sedan",
