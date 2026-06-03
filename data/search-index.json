@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T01:48:07.430Z",
+  "generatedAt": "2026-06-03T01:52:55.982Z",
   "totalEntries": 510,
   "entries": [
     {
@@ -1194,8 +1194,8 @@
       "engine": "evolution 1.0 TCe X-Tronic 90 hp",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 1735000,
-      "priceFormatted": "₺1.735.000,00",
+      "price": 1750000,
+      "priceFormatted": "₺1.750.000,00",
       "searchText": "renault clio evolution evolution 1 0 tce x tronic 90 hp benzin otomatik"
     },
     {
@@ -1220,8 +1220,8 @@
       "engine": "evolution Eco-G 120 hp",
       "fuel": "LPG",
       "transmission": "Manuel",
-      "price": 1824999.99,
-      "priceFormatted": "₺1.824.999,99",
+      "price": 1865000,
+      "priceFormatted": "₺1.865.000,00",
       "searchText": "renault duster evolution evolution eco g 120 hp lpg manuel"
     },
     {
@@ -1246,8 +1246,8 @@
       "engine": "evolution hybrid 4x4 LPG 150 hp",
       "fuel": "LPG",
       "transmission": "Otomatik",
-      "price": 2714999.99,
-      "priceFormatted": "₺2.714.999,99",
+      "price": 2805000,
+      "priceFormatted": "₺2.805.000,00",
       "searchText": "renault duster evolution evolution hybrid 4x4 lpg 150 hp lpg otomatik"
     },
     {
@@ -1272,8 +1272,8 @@
       "engine": "techno Full hybrid E-Tech 160 hp",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2529999.99,
-      "priceFormatted": "₺2.529.999,99",
+      "price": 2570000.01,
+      "priceFormatted": "₺2.570.000,01",
       "searchText": "renault duster techno techno full hybrid e tech 160 hp benzin otomatik"
     },
     {
@@ -1285,8 +1285,8 @@
       "engine": "techno hybrid 4x4 LPG 150 hp",
       "fuel": "LPG",
       "transmission": "Otomatik",
-      "price": 2750000,
-      "priceFormatted": "₺2.750.000,00",
+      "price": 2840000,
+      "priceFormatted": "₺2.840.000,00",
       "searchText": "renault duster techno techno hybrid 4x4 lpg 150 hp lpg otomatik"
     },
     {
@@ -1389,8 +1389,8 @@
       "engine": "techno mild hybrid 150 hp auto",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2625999.99,
-      "priceFormatted": "₺2.625.999,99",
+      "price": 2699000.01,
+      "priceFormatted": "₺2.699.000,01",
       "searchText": "renault austral techno techno mild hybrid 150 hp auto benzin otomatik"
     },
     {
@@ -1402,8 +1402,8 @@
       "engine": "esprit alpine mild hybrid 150 hp auto",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 3055999.99,
-      "priceFormatted": "₺3.055.999,99",
+      "price": 3129999.99,
+      "priceFormatted": "₺3.129.999,99",
       "searchText": "renault austral esprit alpine esprit alpine mild hybrid 150 hp auto benzin otomatik"
     },
     {
@@ -3430,8 +3430,8 @@
       "engine": "1.5L 156+20 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 4337400,
-      "priceFormatted": "4.337.400 TL",
+      "price": 4387900,
+      "priceFormatted": "4.387.900 TL",
       "searchText": "bmw bmw 220i active tourer luxury line 1 5l 156 20 hp mild hybrid otomatik"
     },
     {
@@ -3443,8 +3443,8 @@
       "engine": "1.5L 156+20 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 4568900,
-      "priceFormatted": "4.568.900 TL",
+      "price": 4622100,
+      "priceFormatted": "4.622.100 TL",
       "searchText": "bmw bmw 220i active tourer m sport 1 5l 156 20 hp mild hybrid otomatik"
     },
     {
@@ -3454,11 +3454,11 @@
       "model": "BMW 230e xDrive Active Tourer",
       "trim": "Luxury Line",
       "engine": "1.5L 150+177 HP",
-      "fuel": "Mild Hybrid",
+      "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 4977000,
-      "priceFormatted": "4.977.000 TL",
-      "searchText": "bmw bmw 230e xdrive active tourer luxury line 1 5l 150 177 hp mild hybrid otomatik"
+      "price": 5031800,
+      "priceFormatted": "5.031.800 TL",
+      "searchText": "bmw bmw 230e xdrive active tourer luxury line 1 5l 150 177 hp plug in hybrid otomatik"
     },
     {
       "id": "bmw-bmw-230e-xdrive-active-tourer-m-sport-1.5l-150+177-hp",
@@ -3467,11 +3467,11 @@
       "model": "BMW 230e xDrive Active Tourer",
       "trim": "M Sport",
       "engine": "1.5L 150+177 HP",
-      "fuel": "Mild Hybrid",
+      "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 5313200,
-      "priceFormatted": "5.313.200 TL",
-      "searchText": "bmw bmw 230e xdrive active tourer m sport 1 5l 150 177 hp mild hybrid otomatik"
+      "price": 5371800,
+      "priceFormatted": "5.371.800 TL",
+      "searchText": "bmw bmw 230e xdrive active tourer m sport 1 5l 150 177 hp plug in hybrid otomatik"
     },
     {
       "id": "bmw-bmw-320i-sedan-sport-line-1.6l-170-hp",
@@ -3482,8 +3482,8 @@
       "engine": "1.6L 170 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 5464000,
-      "priceFormatted": "5.464.000 TL",
+      "price": 5529000,
+      "priceFormatted": "5.529.000 TL",
       "searchText": "bmw bmw 320i sedan sport line 1 6l 170 hp benzin otomatik"
     },
     {
@@ -3495,8 +3495,8 @@
       "engine": "1.6L 170 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 5920300,
-      "priceFormatted": "5.920.300 TL",
+      "price": 5990700,
+      "priceFormatted": "5.990.700 TL",
       "searchText": "bmw bmw 320i sedan m sport 1 6l 170 hp benzin otomatik"
     },
     {
@@ -3508,8 +3508,8 @@
       "engine": "1.6L 170 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 6836800,
-      "priceFormatted": "6.836.800 TL",
+      "price": 6905900,
+      "priceFormatted": "6.905.900 TL",
       "searchText": "bmw bmw 420i coupe m sport 1 6l 170 hp benzin otomatik"
     },
     {
@@ -3521,8 +3521,8 @@
       "engine": "1.6L 170 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 7635300,
-      "priceFormatted": "7.635.300 TL",
+      "price": 7712500,
+      "priceFormatted": "7.712.500 TL",
       "searchText": "bmw bmw 420i coupe edition m sport 1 6l 170 hp benzin otomatik"
     },
     {
@@ -3534,8 +3534,8 @@
       "engine": "2.0L 245 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 9905500,
-      "priceFormatted": "9.905.500 TL",
+      "price": 10004800,
+      "priceFormatted": "10.004.800 TL",
       "searchText": "bmw bmw 430i xdrive cabrio m sport 2 0l 245 hp benzin otomatik"
     },
     {
@@ -3547,8 +3547,8 @@
       "engine": "1.6L 170 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 6511700,
-      "priceFormatted": "6.511.700 TL",
+      "price": 6586700,
+      "priceFormatted": "6.586.700 TL",
       "searchText": "bmw bmw 420i gran coupe m sport 1 6l 170 hp benzin otomatik"
     },
     {
@@ -3560,8 +3560,8 @@
       "engine": "1.6L 170 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 7312600,
-      "priceFormatted": "7.312.600 TL",
+      "price": 7396900,
+      "priceFormatted": "7.396.900 TL",
       "searchText": "bmw bmw 420i gran coupe edition m sport 1 6l 170 hp benzin otomatik"
     },
     {
@@ -3573,8 +3573,8 @@
       "engine": "218 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 5373800,
-      "priceFormatted": "5.373.800 TL",
+      "price": 5430800,
+      "priceFormatted": "5.430.800 TL",
       "searchText": "bmw bmw i4 edrive40 sport line 218 hp elektrik otomatik"
     },
     {
@@ -3586,8 +3586,8 @@
       "engine": "218 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 5969100,
-      "priceFormatted": "5.969.100 TL",
+      "price": 6032400,
+      "priceFormatted": "6.032.400 TL",
       "searchText": "bmw bmw i4 edrive40 m sport 218 hp elektrik otomatik"
     },
     {
@@ -3599,8 +3599,8 @@
       "engine": "218 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 6574100,
-      "priceFormatted": "6.574.100 TL",
+      "price": 6643800,
+      "priceFormatted": "6.643.800 TL",
       "searchText": "bmw bmw i4 edrive40 edition m sport 218 hp elektrik otomatik"
     },
     {
@@ -3638,8 +3638,8 @@
       "engine": "2.0L 197+11 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 11134900,
-      "priceFormatted": "11.134.900 TL",
+      "price": 11254800,
+      "priceFormatted": "11.254.800 TL",
       "searchText": "bmw bmw 520d xdrive sedan m sport 2 0l 197 11 hp mild hybrid otomatik"
     },
     {
@@ -3651,8 +3651,8 @@
       "engine": "2.0L 197+11 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 12255400,
-      "priceFormatted": "12.255.400 TL",
+      "price": 12387400,
+      "priceFormatted": "12.387.400 TL",
       "searchText": "bmw bmw 520d xdrive sedan edition m sport 2 0l 197 11 hp mild hybrid otomatik"
     },
     {
@@ -3664,8 +3664,8 @@
       "engine": "218 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 7092500,
-      "priceFormatted": "7.092.500 TL",
+      "price": 7168200,
+      "priceFormatted": "7.168.200 TL",
       "searchText": "bmw bmw i5 edrive40 m sport 218 hp elektrik otomatik"
     },
     {
@@ -3677,8 +3677,8 @@
       "engine": "218 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 7533800,
-      "priceFormatted": "7.533.800 TL",
+      "price": 7614200,
+      "priceFormatted": "7.614.200 TL",
       "searchText": "bmw bmw i5 edrive40 edition m sport 218 hp elektrik otomatik"
     },
     {
@@ -3690,8 +3690,8 @@
       "engine": "394 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 7909500,
-      "priceFormatted": "7.909.500 TL",
+      "price": 7997000,
+      "priceFormatted": "7.997.000 TL",
       "searchText": "bmw bmw i5 xdrive40 m sport 394 hp elektrik otomatik"
     },
     {
@@ -3703,8 +3703,8 @@
       "engine": "394 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 8320600,
-      "priceFormatted": "8.320.600 TL",
+      "price": 8412700,
+      "priceFormatted": "8.412.700 TL",
       "searchText": "bmw bmw i5 xdrive40 edition m sport 394 hp elektrik otomatik"
     },
     {
@@ -3716,8 +3716,8 @@
       "engine": "394 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 8078000,
-      "priceFormatted": "8.078.000 TL",
+      "price": 8159300,
+      "priceFormatted": "8.159.300 TL",
       "searchText": "bmw bmw i5 xdrive40 touring m sport 394 hp elektrik otomatik"
     },
     {
@@ -3729,8 +3729,8 @@
       "engine": "394 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 8489800,
-      "priceFormatted": "8.489.800 TL",
+      "price": 8575300,
+      "priceFormatted": "8.575.300 TL",
       "searchText": "bmw bmw i5 xdrive40 touring edition m sport 394 hp elektrik otomatik"
     },
     {
@@ -3742,8 +3742,8 @@
       "engine": "601 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 9729100,
-      "priceFormatted": "9.729.100 TL",
+      "price": 9840100,
+      "priceFormatted": "9.840.100 TL",
       "searchText": "bmw bmw i5 m60 xdrive m 601 hp elektrik otomatik"
     },
     {
@@ -3755,8 +3755,8 @@
       "engine": "601 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 9821800,
-      "priceFormatted": "9.821.800 TL",
+      "price": 9929500,
+      "priceFormatted": "9.929.500 TL",
       "searchText": "bmw bmw i5 m60 xdrive touring m 601 hp elektrik otomatik"
     },
     {
@@ -3768,8 +3768,8 @@
       "engine": "3.0L 286+18 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 20590400,
-      "priceFormatted": "20.590.400 TL",
+      "price": 20818200,
+      "priceFormatted": "20.818.200 TL",
       "searchText": "bmw bmw 740d xdrive sedan pure excellence 3 0l 286 18 hp mild hybrid otomatik"
     },
     {
@@ -3781,8 +3781,8 @@
       "engine": "3.0L 286+18 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 21631300,
-      "priceFormatted": "21.631.300 TL",
+      "price": 21870500,
+      "priceFormatted": "21.870.500 TL",
       "searchText": "bmw bmw 740d xdrive sedan m excellence 3 0l 286 18 hp mild hybrid otomatik"
     },
     {
@@ -3794,8 +3794,8 @@
       "engine": "544 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 14016800,
-      "priceFormatted": "14.016.800 TL",
+      "price": 14188000,
+      "priceFormatted": "14.188.000 TL",
       "searchText": "bmw bmw i7 xdrive60 pure excellence 544 hp elektrik otomatik"
     },
     {
@@ -3807,8 +3807,8 @@
       "engine": "544 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 14531700,
-      "priceFormatted": "14.531.700 TL",
+      "price": 14709200,
+      "priceFormatted": "14.709.200 TL",
       "searchText": "bmw bmw i7 xdrive60 m excellence 544 hp elektrik otomatik"
     },
     {
@@ -3820,8 +3820,8 @@
       "engine": "659 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 15615000,
-      "priceFormatted": "15.615.000 TL",
+      "price": 15799000,
+      "priceFormatted": "15.799.000 TL",
       "searchText": "bmw bmw i7 m70 m 659 hp elektrik otomatik"
     },
     {
@@ -4002,8 +4002,8 @@
       "engine": "3.0L 340+12 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 22164200,
-      "priceFormatted": "22.164.200 TL",
+      "price": 22405500,
+      "priceFormatted": "22.405.500 TL",
       "searchText": "bmw bmw x7 xdrive40d m excellence 3 0l 340 12 hp mild hybrid otomatik"
     },
     {
@@ -4015,8 +4015,8 @@
       "engine": "2.0L 258 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 8384800,
-      "priceFormatted": "8.384.800 TL",
+      "price": 8470700,
+      "priceFormatted": "8.470.700 TL",
       "searchText": "bmw bmw z4 sdrive30i m sport 2 0l 258 hp benzin otomatik"
     },
     {
@@ -4028,8 +4028,8 @@
       "engine": "3.0L 480 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 14469200,
-      "priceFormatted": "14.469.200 TL",
+      "price": 14622000,
+      "priceFormatted": "14.622.000 TL",
       "searchText": "bmw bmw m2 m 3 0l 480 hp benzin otomatik"
     },
     {
@@ -4041,8 +4041,8 @@
       "engine": "3.0L 530 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 18244800,
-      "priceFormatted": "18.244.800 TL",
+      "price": 18443500,
+      "priceFormatted": "18.443.500 TL",
       "searchText": "bmw bmw m3 sedan competition m xdrive m 3 0l 530 hp benzin otomatik"
     },
     {
@@ -4054,8 +4054,8 @@
       "engine": "3.0L 530 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 18527900,
-      "priceFormatted": "18.527.900 TL",
+      "price": 18727900,
+      "priceFormatted": "18.727.900 TL",
       "searchText": "bmw bmw m3 touring m xdrive m 3 0l 530 hp benzin otomatik"
     },
     {
@@ -4067,8 +4067,8 @@
       "engine": "3.0L 530 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 18938200,
-      "priceFormatted": "18.938.200 TL",
+      "price": 19158700,
+      "priceFormatted": "19.158.700 TL",
       "searchText": "bmw bmw m4 competition coupe m xdrive m 3 0l 530 hp benzin otomatik"
     },
     {
@@ -4080,8 +4080,8 @@
       "engine": "3.0L 530 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 19311200,
-      "priceFormatted": "19.311.200 TL",
+      "price": 19536100,
+      "priceFormatted": "19.536.100 TL",
       "searchText": "bmw bmw m4 competition cabrio m xdrive m 3 0l 530 hp benzin otomatik"
     },
     {
@@ -4093,8 +4093,8 @@
       "engine": "4.4L 585+197 HP",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 23948800,
-      "priceFormatted": "23.948.800 TL",
+      "price": 24233800,
+      "priceFormatted": "24.233.800 TL",
       "searchText": "bmw bmw m5 sedan m 4 4l 585 197 hp plug in hybrid otomatik"
     },
     {
@@ -4106,8 +4106,8 @@
       "engine": "4.4L 585+197 HP",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 24324800,
-      "priceFormatted": "24.324.800 TL",
+      "price": 24573500,
+      "priceFormatted": "24.573.500 TL",
       "searchText": "bmw bmw m5 touring m 4 4l 585 197 hp plug in hybrid otomatik"
     },
     {
@@ -4119,8 +4119,8 @@
       "engine": "4.4L 625+12 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 23929300,
-      "priceFormatted": "23.929.300 TL",
+      "price": 24208500,
+      "priceFormatted": "24.208.500 TL",
       "searchText": "bmw bmw x5 m competition m 4 4l 625 12 hp mild hybrid otomatik"
     },
     {
@@ -4132,8 +4132,8 @@
       "engine": "4.4L 625+12 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 24283500,
-      "priceFormatted": "24.283.500 TL",
+      "price": 24566900,
+      "priceFormatted": "24.566.900 TL",
       "searchText": "bmw bmw x6 m competition m 4 4l 625 12 hp mild hybrid otomatik"
     },
     {
@@ -4145,8 +4145,8 @@
       "engine": "2.0L 300 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 8217300,
-      "priceFormatted": "8.217.300 TL",
+      "price": 8299700,
+      "priceFormatted": "8.299.700 TL",
       "searchText": "bmw bmw x1 m35i xdrive m 2 0l 300 hp benzin otomatik"
     },
     {
@@ -4158,8 +4158,8 @@
       "engine": "2.0L 300 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 8295200,
-      "priceFormatted": "8.295.200 TL",
+      "price": 8379900,
+      "priceFormatted": "8.379.900 TL",
       "searchText": "bmw bmw x2 m35i xdrive m 2 0l 300 hp benzin otomatik"
     },
     {
@@ -4171,8 +4171,8 @@
       "engine": "659 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 10973200,
-      "priceFormatted": "10.973.200 TL",
+      "price": 11095800,
+      "priceFormatted": "11.095.800 TL",
       "searchText": "bmw yeni bmw ix m70 xdrive m 659 hp elektrik otomatik"
     },
     {
@@ -4184,8 +4184,8 @@
       "engine": "218 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 6469800,
-      "priceFormatted": "6.469.800 TL",
+      "price": 6538400,
+      "priceFormatted": "6.538.400 TL",
       "searchText": "bmw yeni bmw ix3 50 xdrive on talep formu m sport 218 hp elektrik otomatik"
     },
     {
@@ -4197,8 +4197,8 @@
       "engine": "544 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 10233700,
-      "priceFormatted": "10.233.700 TL",
+      "price": 10343600,
+      "priceFormatted": "10.343.600 TL",
       "searchText": "bmw yeni bmw ix xdrive60 m sport 544 hp elektrik otomatik"
     },
     {
@@ -5367,8 +5367,8 @@
       "engine": "extreme Eco-G 120 - 5 koltuklu",
       "fuel": "LPG",
       "transmission": "Manuel",
-      "price": 1645000,
-      "priceFormatted": "₺1.645.000,00",
+      "price": 1665000,
+      "priceFormatted": "₺1.665.000,00",
       "searchText": "dacia yeni jogger extreme extreme eco g 120 5 koltuklu lpg manuel"
     },
     {
@@ -5380,8 +5380,8 @@
       "engine": "extreme Eco-G 120 - 7 koltuklu",
       "fuel": "LPG",
       "transmission": "Manuel",
-      "price": 1675000,
-      "priceFormatted": "₺1.675.000,00",
+      "price": 1694999.99,
+      "priceFormatted": "₺1.694.999,99",
       "searchText": "dacia yeni jogger extreme extreme eco g 120 7 koltuklu lpg manuel"
     },
     {
@@ -5393,8 +5393,8 @@
       "engine": "extreme Eco-G 120 auto - 7 koltuklu",
       "fuel": "LPG",
       "transmission": "Otomatik",
-      "price": 1795000,
-      "priceFormatted": "₺1.795.000,00",
+      "price": 1815000,
+      "priceFormatted": "₺1.815.000,00",
       "searchText": "dacia yeni jogger extreme extreme eco g 120 auto 7 koltuklu lpg otomatik"
     },
     {

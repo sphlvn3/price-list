@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-02T01:48:11.802Z",
-  "date": "2026-06-02",
+  "generatedAt": "2026-06-03T01:52:59.454Z",
+  "date": "2026-06-03",
   "summary": {
     "totalSegments": 11,
-    "totalGaps": 1003,
+    "totalGaps": 1002,
     "totalOpportunities": 20,
     "avgOpportunityScore": 22.35
   },
@@ -11,9 +11,9 @@
     {
       "segment": "SUV-Compact",
       "totalVehicles": 106,
-      "avgPrice": 2883348,
+      "avgPrice": 2884924,
       "minPrice": 1314900,
-      "maxPrice": 8295200,
+      "maxPrice": 8379900,
       "brands": [
         "Volkswagen",
         "Škoda",
@@ -44,7 +44,7 @@
     {
       "segment": "Sedan-C",
       "totalVehicles": 69,
-      "avgPrice": 7302210,
+      "avgPrice": 7312794,
       "minPrice": 1499900,
       "maxPrice": 38034000,
       "brands": [
@@ -66,7 +66,7 @@
     {
       "segment": "Hatchback-C",
       "totalVehicles": 63,
-      "avgPrice": 2716590,
+      "avgPrice": 2720036,
       "minPrice": 544900,
       "maxPrice": 6683000,
       "brands": [
@@ -89,15 +89,16 @@
         "Elektrik",
         "Hibrit",
         "Dizel",
-        "Hafif Hibrit"
+        "Hafif Hibrit",
+        "Plug-in Hibrit"
       ]
     },
     {
       "segment": "Sedan-D",
       "totalVehicles": 61,
-      "avgPrice": 9887446,
+      "avgPrice": 9944879,
       "minPrice": 3411000,
-      "maxPrice": 24324800,
+      "maxPrice": 24573500,
       "brands": [
         "Volkswagen",
         "Škoda",
@@ -116,7 +117,7 @@
     {
       "segment": "SUV-Medium",
       "totalVehicles": 57,
-      "avgPrice": 3826937,
+      "avgPrice": 3829516,
       "minPrice": 2249000,
       "maxPrice": 9241000,
       "brands": [
@@ -145,7 +146,7 @@
     {
       "segment": "SUV-Large",
       "totalVehicles": 52,
-      "avgPrice": 10137110,
+      "avgPrice": 10158360,
       "minPrice": 3290000,
       "maxPrice": 33191000,
       "brands": [
@@ -171,7 +172,7 @@
     {
       "segment": "Hatchback-B",
       "totalVehicles": 40,
-      "avgPrice": 2114646,
+      "avgPrice": 2115021,
       "minPrice": 1238000,
       "maxPrice": 6660000,
       "brands": [
@@ -199,7 +200,7 @@
     {
       "segment": "Other",
       "totalVehicles": 30,
-      "avgPrice": 2501933,
+      "avgPrice": 2510600,
       "minPrice": 1339000,
       "maxPrice": 4838000,
       "brands": [
@@ -220,7 +221,7 @@
     {
       "segment": "MPV",
       "totalVehicles": 23,
-      "avgPrice": 1869022,
+      "avgPrice": 1871630,
       "minPrice": 1383000,
       "maxPrice": 3490000,
       "brands": [
@@ -268,9 +269,9 @@
     {
       "segment": "Coupe",
       "totalVehicles": 1,
-      "avgPrice": 8384800,
-      "minPrice": 8384800,
-      "maxPrice": 8384800,
+      "avgPrice": 8470700,
+      "minPrice": 8470700,
+      "maxPrice": 8470700,
       "brands": [
         "BMW"
       ],
@@ -333,7 +334,7 @@
         "Hyundai",
         "SEAT"
       ],
-      "avgPrice": 1728436,
+      "avgPrice": 1730579,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -1697,7 +1698,7 @@
       "brands": [
         "BMW"
       ],
-      "avgPrice": 8256250,
+      "avgPrice": 8339800,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -3574,11 +3575,11 @@
       "priceRange": "3M-5M",
       "priceRangeMin": 3000000,
       "priceRangeMax": 5000000,
-      "vehicleCount": 7,
+      "vehicleCount": 6,
       "brands": [
         "BMW"
       ],
-      "avgPrice": 4353071,
+      "avgPrice": 4266367,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -3589,195 +3590,195 @@
       "priceRange": "5M+",
       "priceRangeMin": 5000000,
       "priceRangeMax": 100000000,
-      "vehicleCount": 1,
+      "vehicleCount": 0,
+      "brands": [],
+      "avgPrice": 0,
+      "hasGap": true,
+      "opportunityScore": 24.44
+    },
+    {
+      "segment": "Hatchback-C",
+      "fuel": "Hafif Hibrit",
+      "transmission": "Manuel",
+      "priceRange": "0-500K",
+      "priceRangeMin": 0,
+      "priceRangeMax": 500000,
+      "vehicleCount": 0,
+      "brands": [],
+      "avgPrice": 0,
+      "hasGap": true,
+      "opportunityScore": 16.44
+    },
+    {
+      "segment": "Hatchback-C",
+      "fuel": "Hafif Hibrit",
+      "transmission": "Manuel",
+      "priceRange": "500K-1M",
+      "priceRangeMin": 500000,
+      "priceRangeMax": 1000000,
+      "vehicleCount": 0,
+      "brands": [],
+      "avgPrice": 0,
+      "hasGap": true,
+      "opportunityScore": 19.44
+    },
+    {
+      "segment": "Hatchback-C",
+      "fuel": "Hafif Hibrit",
+      "transmission": "Manuel",
+      "priceRange": "1M-1.5M",
+      "priceRangeMin": 1000000,
+      "priceRangeMax": 1500000,
+      "vehicleCount": 0,
+      "brands": [],
+      "avgPrice": 0,
+      "hasGap": true,
+      "opportunityScore": 19.44
+    },
+    {
+      "segment": "Hatchback-C",
+      "fuel": "Hafif Hibrit",
+      "transmission": "Manuel",
+      "priceRange": "1.5M-2M",
+      "priceRangeMin": 1500000,
+      "priceRangeMax": 2000000,
+      "vehicleCount": 0,
+      "brands": [],
+      "avgPrice": 0,
+      "hasGap": true,
+      "opportunityScore": 19.44
+    },
+    {
+      "segment": "Hatchback-C",
+      "fuel": "Hafif Hibrit",
+      "transmission": "Manuel",
+      "priceRange": "2M-3M",
+      "priceRangeMin": 2000000,
+      "priceRangeMax": 3000000,
+      "vehicleCount": 0,
+      "brands": [],
+      "avgPrice": 0,
+      "hasGap": true,
+      "opportunityScore": 19.44
+    },
+    {
+      "segment": "Hatchback-C",
+      "fuel": "Hafif Hibrit",
+      "transmission": "Manuel",
+      "priceRange": "3M-5M",
+      "priceRangeMin": 3000000,
+      "priceRangeMax": 5000000,
+      "vehicleCount": 0,
+      "brands": [],
+      "avgPrice": 0,
+      "hasGap": true,
+      "opportunityScore": 16.44
+    },
+    {
+      "segment": "Hatchback-C",
+      "fuel": "Hafif Hibrit",
+      "transmission": "Manuel",
+      "priceRange": "5M+",
+      "priceRangeMin": 5000000,
+      "priceRangeMax": 100000000,
+      "vehicleCount": 0,
+      "brands": [],
+      "avgPrice": 0,
+      "hasGap": true,
+      "opportunityScore": 16.44
+    },
+    {
+      "segment": "Hatchback-C",
+      "fuel": "Plug-in Hibrit",
+      "transmission": "Otomatik",
+      "priceRange": "0-500K",
+      "priceRangeMin": 0,
+      "priceRangeMax": 500000,
+      "vehicleCount": 0,
+      "brands": [],
+      "avgPrice": 0,
+      "hasGap": true,
+      "opportunityScore": 24.44
+    },
+    {
+      "segment": "Hatchback-C",
+      "fuel": "Plug-in Hibrit",
+      "transmission": "Otomatik",
+      "priceRange": "500K-1M",
+      "priceRangeMin": 500000,
+      "priceRangeMax": 1000000,
+      "vehicleCount": 0,
+      "brands": [],
+      "avgPrice": 0,
+      "hasGap": true,
+      "opportunityScore": 27.44
+    },
+    {
+      "segment": "Hatchback-C",
+      "fuel": "Plug-in Hibrit",
+      "transmission": "Otomatik",
+      "priceRange": "1M-1.5M",
+      "priceRangeMin": 1000000,
+      "priceRangeMax": 1500000,
+      "vehicleCount": 0,
+      "brands": [],
+      "avgPrice": 0,
+      "hasGap": true,
+      "opportunityScore": 27.44
+    },
+    {
+      "segment": "Hatchback-C",
+      "fuel": "Plug-in Hibrit",
+      "transmission": "Otomatik",
+      "priceRange": "1.5M-2M",
+      "priceRangeMin": 1500000,
+      "priceRangeMax": 2000000,
+      "vehicleCount": 0,
+      "brands": [],
+      "avgPrice": 0,
+      "hasGap": true,
+      "opportunityScore": 27.44
+    },
+    {
+      "segment": "Hatchback-C",
+      "fuel": "Plug-in Hibrit",
+      "transmission": "Otomatik",
+      "priceRange": "2M-3M",
+      "priceRangeMin": 2000000,
+      "priceRangeMax": 3000000,
+      "vehicleCount": 0,
+      "brands": [],
+      "avgPrice": 0,
+      "hasGap": true,
+      "opportunityScore": 27.44
+    },
+    {
+      "segment": "Hatchback-C",
+      "fuel": "Plug-in Hibrit",
+      "transmission": "Otomatik",
+      "priceRange": "3M-5M",
+      "priceRangeMin": 3000000,
+      "priceRangeMax": 5000000,
+      "vehicleCount": 0,
+      "brands": [],
+      "avgPrice": 0,
+      "hasGap": true,
+      "opportunityScore": 24.44
+    },
+    {
+      "segment": "Hatchback-C",
+      "fuel": "Plug-in Hibrit",
+      "transmission": "Otomatik",
+      "priceRange": "5M+",
+      "priceRangeMin": 5000000,
+      "priceRangeMax": 100000000,
+      "vehicleCount": 2,
       "brands": [
         "BMW"
       ],
-      "avgPrice": 5313200,
-      "hasGap": true,
-      "opportunityScore": 24.44
-    },
-    {
-      "segment": "Hatchback-C",
-      "fuel": "Hafif Hibrit",
-      "transmission": "Manuel",
-      "priceRange": "0-500K",
-      "priceRangeMin": 0,
-      "priceRangeMax": 500000,
-      "vehicleCount": 0,
-      "brands": [],
-      "avgPrice": 0,
-      "hasGap": true,
-      "opportunityScore": 16.44
-    },
-    {
-      "segment": "Hatchback-C",
-      "fuel": "Hafif Hibrit",
-      "transmission": "Manuel",
-      "priceRange": "500K-1M",
-      "priceRangeMin": 500000,
-      "priceRangeMax": 1000000,
-      "vehicleCount": 0,
-      "brands": [],
-      "avgPrice": 0,
-      "hasGap": true,
-      "opportunityScore": 19.44
-    },
-    {
-      "segment": "Hatchback-C",
-      "fuel": "Hafif Hibrit",
-      "transmission": "Manuel",
-      "priceRange": "1M-1.5M",
-      "priceRangeMin": 1000000,
-      "priceRangeMax": 1500000,
-      "vehicleCount": 0,
-      "brands": [],
-      "avgPrice": 0,
-      "hasGap": true,
-      "opportunityScore": 19.44
-    },
-    {
-      "segment": "Hatchback-C",
-      "fuel": "Hafif Hibrit",
-      "transmission": "Manuel",
-      "priceRange": "1.5M-2M",
-      "priceRangeMin": 1500000,
-      "priceRangeMax": 2000000,
-      "vehicleCount": 0,
-      "brands": [],
-      "avgPrice": 0,
-      "hasGap": true,
-      "opportunityScore": 19.44
-    },
-    {
-      "segment": "Hatchback-C",
-      "fuel": "Hafif Hibrit",
-      "transmission": "Manuel",
-      "priceRange": "2M-3M",
-      "priceRangeMin": 2000000,
-      "priceRangeMax": 3000000,
-      "vehicleCount": 0,
-      "brands": [],
-      "avgPrice": 0,
-      "hasGap": true,
-      "opportunityScore": 19.44
-    },
-    {
-      "segment": "Hatchback-C",
-      "fuel": "Hafif Hibrit",
-      "transmission": "Manuel",
-      "priceRange": "3M-5M",
-      "priceRangeMin": 3000000,
-      "priceRangeMax": 5000000,
-      "vehicleCount": 0,
-      "brands": [],
-      "avgPrice": 0,
-      "hasGap": true,
-      "opportunityScore": 16.44
-    },
-    {
-      "segment": "Hatchback-C",
-      "fuel": "Hafif Hibrit",
-      "transmission": "Manuel",
-      "priceRange": "5M+",
-      "priceRangeMin": 5000000,
-      "priceRangeMax": 100000000,
-      "vehicleCount": 0,
-      "brands": [],
-      "avgPrice": 0,
-      "hasGap": true,
-      "opportunityScore": 16.44
-    },
-    {
-      "segment": "Hatchback-C",
-      "fuel": "Plug-in Hibrit",
-      "transmission": "Otomatik",
-      "priceRange": "0-500K",
-      "priceRangeMin": 0,
-      "priceRangeMax": 500000,
-      "vehicleCount": 0,
-      "brands": [],
-      "avgPrice": 0,
-      "hasGap": true,
-      "opportunityScore": 24.44
-    },
-    {
-      "segment": "Hatchback-C",
-      "fuel": "Plug-in Hibrit",
-      "transmission": "Otomatik",
-      "priceRange": "500K-1M",
-      "priceRangeMin": 500000,
-      "priceRangeMax": 1000000,
-      "vehicleCount": 0,
-      "brands": [],
-      "avgPrice": 0,
-      "hasGap": true,
-      "opportunityScore": 27.44
-    },
-    {
-      "segment": "Hatchback-C",
-      "fuel": "Plug-in Hibrit",
-      "transmission": "Otomatik",
-      "priceRange": "1M-1.5M",
-      "priceRangeMin": 1000000,
-      "priceRangeMax": 1500000,
-      "vehicleCount": 0,
-      "brands": [],
-      "avgPrice": 0,
-      "hasGap": true,
-      "opportunityScore": 27.44
-    },
-    {
-      "segment": "Hatchback-C",
-      "fuel": "Plug-in Hibrit",
-      "transmission": "Otomatik",
-      "priceRange": "1.5M-2M",
-      "priceRangeMin": 1500000,
-      "priceRangeMax": 2000000,
-      "vehicleCount": 0,
-      "brands": [],
-      "avgPrice": 0,
-      "hasGap": true,
-      "opportunityScore": 27.44
-    },
-    {
-      "segment": "Hatchback-C",
-      "fuel": "Plug-in Hibrit",
-      "transmission": "Otomatik",
-      "priceRange": "2M-3M",
-      "priceRangeMin": 2000000,
-      "priceRangeMax": 3000000,
-      "vehicleCount": 0,
-      "brands": [],
-      "avgPrice": 0,
-      "hasGap": true,
-      "opportunityScore": 27.44
-    },
-    {
-      "segment": "Hatchback-C",
-      "fuel": "Plug-in Hibrit",
-      "transmission": "Otomatik",
-      "priceRange": "3M-5M",
-      "priceRangeMin": 3000000,
-      "priceRangeMax": 5000000,
-      "vehicleCount": 0,
-      "brands": [],
-      "avgPrice": 0,
-      "hasGap": true,
-      "opportunityScore": 24.44
-    },
-    {
-      "segment": "Hatchback-C",
-      "fuel": "Plug-in Hibrit",
-      "transmission": "Otomatik",
-      "priceRange": "5M+",
-      "priceRangeMin": 5000000,
-      "priceRangeMax": 100000000,
-      "vehicleCount": 0,
-      "brands": [],
-      "avgPrice": 0,
-      "hasGap": true,
-      "opportunityScore": 24.44
+      "avgPrice": 5201800,
+      "hasGap": false,
+      "opportunityScore": 0
     },
     {
       "segment": "Hatchback-C",
@@ -4312,7 +4313,7 @@
         "Ford",
         "Kia"
       ],
-      "avgPrice": 2564178,
+      "avgPrice": 2572289,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -4332,7 +4333,7 @@
         "Ford",
         "Kia"
       ],
-      "avgPrice": 3393905,
+      "avgPrice": 3397268,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -5653,7 +5654,7 @@
         "BMW",
         "Mercedes-Benz"
       ],
-      "avgPrice": 11354923,
+      "avgPrice": 11431608,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -6205,7 +6206,7 @@
       "brands": [
         "BMW"
       ],
-      "avgPrice": 13852367,
+      "avgPrice": 13972183,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -6391,7 +6392,7 @@
       "brands": [
         "BMW"
       ],
-      "avgPrice": 24136800,
+      "avgPrice": 24403650,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -6578,7 +6579,7 @@
         "BMW",
         "Mercedes-Benz"
       ],
-      "avgPrice": 9459206,
+      "avgPrice": 9532965,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -7505,7 +7506,7 @@
       "brands": [
         "BMW"
       ],
-      "avgPrice": 21183700,
+      "avgPrice": 21344480,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -7877,7 +7878,7 @@
         "Mercedes-Benz",
         "Kia"
       ],
-      "avgPrice": 9569522,
+      "avgPrice": 9602978,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -8255,7 +8256,7 @@
         "BMW",
         "Mercedes-Benz"
       ],
-      "avgPrice": 11198946,
+      "avgPrice": 11218243,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -9187,7 +9188,7 @@
         "BMW",
         "Mercedes-Benz"
       ],
-      "avgPrice": 11535000,
+      "avgPrice": 11562143,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -10627,7 +10628,7 @@
       "brands": [
         "Dacia"
       ],
-      "avgPrice": 1795000,
+      "avgPrice": 1815000,
       "hasGap": true,
       "opportunityScore": 24.3
     },
@@ -10720,7 +10721,7 @@
       "brands": [
         "Dacia"
       ],
-      "avgPrice": 1660000,
+      "avgPrice": 1680000,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -12126,7 +12127,7 @@
       "brands": [
         "BMW"
       ],
-      "avgPrice": 8384800,
+      "avgPrice": 8470700,
       "hasGap": true,
       "opportunityScore": 27.08
     },
