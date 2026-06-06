@@ -130,15 +130,21 @@ export default defineConfig({
               },
             },
           },
-          // Vehicle data - can use stale-while-revalidate (historical data doesn't change)
+          // Vehicle data - NetworkFirst so today's (re)collected prices are never
+          // served stale while online; cache is only a short-lived offline fallback.
+          // (StaleWhileRevalidate showed yesterday's prices for the same date URL.)
           {
             urlPattern: /\/api\/v1\/vehicles\?.*$/,
-            handler: 'StaleWhileRevalidate',
+            handler: 'NetworkFirst',
             options: {
               cacheName: 'vehicle-data-cache',
+              networkTimeoutSeconds: 4,
               expiration: {
                 maxEntries: 200,
-                maxAgeSeconds: 60 * 60 * 24 * 7, // 7 days
+                maxAgeSeconds: 60 * 60 * 24, // 1 day offline fallback
+              },
+              cacheableResponse: {
+                statuses: [0, 200],
               },
             },
           },

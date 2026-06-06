@@ -344,8 +344,8 @@ export const useAppStore = create<AppState>()(
         });
       },
 
-      // Intel Mode
-      intelModeEnabled: false,
+      // Intel Mode — on by default (not persisted, so it always starts enabled)
+      intelModeEnabled: true,
 
       setIntelModeEnabled: (enabled) => {
         set({ intelModeEnabled: enabled });
@@ -433,7 +433,7 @@ export const useAppStore = create<AppState>()(
         theme: state.theme,
         hasSeenIntro: state.hasSeenIntro,
         priceAlerts: state.priceAlerts,
-        intelModeEnabled: state.intelModeEnabled,
+        // intelModeEnabled intentionally NOT persisted — always defaults to on
         alertRules: state.alertRules,
         customSegmentMappings: state.customSegmentMappings,
       }),

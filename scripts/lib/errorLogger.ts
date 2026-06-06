@@ -81,6 +81,31 @@ class ErrorLoggerClass {
   }
 
   /**
+   * Load errors previously written to errors.json into memory.
+   *
+   * Call this at the start of pipeline stages that run AFTER the collector
+   * (e.g. generateArtifacts, healthCheck) so their saveErrors() appends to the
+   * collector's errors instead of overwriting them with an empty list.
+   */
+  loadExisting(): void {
+    try {
+      if (!fs.existsSync(this.outputPath)) return;
+      const parsed = JSON.parse(fs.readFileSync(this.outputPath, 'utf-8')) as Partial<ErrorLog>;
+      if (!Array.isArray(parsed.errors)) return;
+      const existingIds = new Set(this.errors.map(e => e.id));
+      for (const err of parsed.errors) {
+        if (err && err.id && !existingIds.has(err.id)) {
+          this.errors.push(err);
+          existingIds.add(err.id);
+        }
+      }
+      if (parsed.clearedAt) this.clearedAt = parsed.clearedAt;
+    } catch {
+      // Corrupt/unreadable file: start fresh rather than crash the stage.
+    }
+  }
+
+  /**
    * Log an error
    */
   logError(input: LogErrorInput): void {

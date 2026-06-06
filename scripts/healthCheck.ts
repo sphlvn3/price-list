@@ -57,6 +57,10 @@ async function main(): Promise<void> {
   console.log('='.repeat(60));
   console.log('');
 
+  // Preserve errors logged by earlier pipeline stages (collector, artifacts)
+  // so this final stage appends to them instead of overwriting errors.json.
+  ErrorLogger.loadExisting();
+
   const dataDir = path.join(process.cwd(), 'data');
   const indexPath = path.join(dataDir, 'index.json');
 
@@ -202,6 +206,70 @@ async function main(): Promise<void> {
         brandReport.issues.push(`${missingFields.length} rows with missing data`);
         report.warnings.push(`${brandInfo.name}: ${missingFields.length} rows with missing data`);
         if (brandReport.status === 'ok') brandReport.status = 'warning';
+      }
+
+      // Detect malformed rows: a marketing badge captured as the model (e.g. "YENİ"),
+      // or specs/prices mashed into the model/trim field (broken column parsing).
+      // Normalize for the badge test so Turkish "İ"/"I" fold to "i" (JS /i flag won't).
+      const normBadge = (s: string) => s.trim().replace(/[İI]/g, 'i').toLowerCase();
+      const looksLikeBadge = (s: string) => /^(yeni|new|all[- ]?new|t[uü]m)$/.test(normBadge(s));
+      // A model/trim must never contain a full price, a percentage, or a combined
+      // kW/hp power block — those only appear when columns get mashed into one field.
+      // (Plain "130 HP" in a trim is legitimate, so it is intentionally NOT flagged.)
+      const looksMangled = (s: string) =>
+        !!s && (
+          /\d{1,3}[.,]\d{3}[.,]\d{3}/.test(s) ||        // contains a full price
+          /%/.test(s) ||                                 // contains a percentage (ÖTV etc.)
+          /\d+\s*k?w\s*\/\s*\d+\s*hp/i.test(s)           // contains a combined kW/hp block
+        );
+      const malformedRows = storedData.rows.filter((r: any) =>
+        looksLikeBadge(String(r.model || '')) ||
+        looksMangled(String(r.model || '')) ||
+        looksMangled(String(r.trim || ''))
+      );
+      if (malformedRows.length > 0) {
+        brandReport.issues.push(`${malformedRows.length} malformed rows (badge/mangled fields)`);
+        report.warnings.push(`${brandInfo.name}: ${malformedRows.length} malformed rows`);
+        if (brandReport.status === 'ok') brandReport.status = 'warning';
+        ErrorLogger.logWarning({
+          category: 'DATA_QUALITY_ERROR',
+          source: 'health',
+          brand: brandInfo.name,
+          brandId: brandId,
+          code: 'MALFORMED_ROWS',
+          message: `${malformedRows.length} malformed rows in ${brandInfo.name}`,
+          details: {
+            count: malformedRows.length,
+            sample: malformedRows.slice(0, 3).map((r: any) => ({ model: r.model, trim: r.trim })),
+          },
+        });
+      }
+
+      // Detect a sudden collapse in row count vs the previous collection day.
+      const prevDate = (brandInfo.availableDates || [])
+        .filter(d => d < brandInfo.latestDate)
+        .sort()
+        .pop();
+      if (prevDate) {
+        const [py, pm, pd] = prevDate.split('-');
+        const prevPath = path.join(dataDir, py, pm, brandId, `${pd}.json`);
+        if (fs.existsSync(prevPath)) {
+          const prev = safeParseJSON<StoredData>(prevPath, { collectedAt: '', brand: '', brandId: '', rowCount: 0, rows: [] }, 'health');
+          if (prev.rowCount >= 5 && storedData.rowCount < prev.rowCount * 0.6) {
+            brandReport.issues.push(`Row count dropped ${prev.rowCount}->${storedData.rowCount}`);
+            report.warnings.push(`${brandInfo.name}: row count dropped ${prev.rowCount}->${storedData.rowCount}`);
+            if (brandReport.status === 'ok') brandReport.status = 'warning';
+            ErrorLogger.logWarning({
+              category: 'DATA_QUALITY_ERROR',
+              source: 'health',
+              brand: brandInfo.name,
+              brandId: brandId,
+              code: 'ROW_COUNT_DROP',
+              message: `${brandInfo.name} row count dropped from ${prev.rowCount} to ${storedData.rowCount}`,
+              details: { previous: prev.rowCount, current: storedData.rowCount },
+            });
+          }
+        }
       }
     }
 

@@ -196,8 +196,9 @@ export default function InsightsPage() {
       .filter((v) => v.segmentAvg > v.price)
       .reduce((sum, v) => sum + (v.segmentAvg - v.price), 0);
 
-    const avgDealScore =
-      filteredVehicles.reduce((sum, v) => sum + v.dealScore, 0) / filteredVehicles.length;
+    const avgDealScore = filteredVehicles.length
+      ? filteredVehicles.reduce((sum, v) => sum + v.dealScore, 0) / filteredVehicles.length
+      : 0;
 
     const dealsOver70 = filteredVehicles.filter((v) => v.dealScore >= 70).length;
     const dealsOver80 = filteredVehicles.filter((v) => v.dealScore >= 80).length;

@@ -69,6 +69,9 @@ func (r *VehicleRepository) GetIndex(ctx context.Context) (*models.IndexData, er
 			TotalRecords:   result.TotalRecords,
 		}
 	}
+	if err := cursor.Err(); err != nil {
+		return nil, err
+	}
 
 	return &models.IndexData{
 		LastUpdated: time.Now().UTC().Format(time.RFC3339),
@@ -113,6 +116,9 @@ func (r *VehicleRepository) GetLatest(ctx context.Context) (*models.LatestData, 
 			Vehicles: doc.Rows,
 		}
 		totalVehicles += len(doc.Rows)
+	}
+	if err := cursor.Err(); err != nil {
+		return nil, err
 	}
 
 	return &models.LatestData{

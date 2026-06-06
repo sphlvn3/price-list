@@ -214,7 +214,8 @@ export default function StatisticsPage() {
       }
     });
 
-    return averages.sort((a, b) => a.average - b.average);
+    // Descending by average so the chart shows highest-priced brands at the top.
+    return averages.sort((a, b) => b.average - a.average);
   }, [allData]);
 
   // Brand model counts
@@ -1021,7 +1022,7 @@ export default function StatisticsPage() {
               style={{ borderRadius: tokens.borderRadius.lg }}
               bodyStyle={{ maxHeight: 300, overflow: 'auto' }}
             >
-              {brandAverages.sort((a, b) => a.brand.localeCompare(b.brand, 'tr')).map((item) => (
+              {[...brandAverages].sort((a, b) => a.brand.localeCompare(b.brand, 'tr')).map((item) => (
                 <div
                   key={item.brand}
                   style={{

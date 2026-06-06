@@ -1192,6 +1192,25 @@ const parseFiatData = (pdfData: PDFExtractResult, brand: string): PriceListRow[]
     /(\d+\.\d+\s*(?:e-?)?Hybrid\s*\d+\s*HP)/i,
   ];
 
+  // The Fiat price-list PDF is sometimes published as an image-only/scanned file
+  // with no embedded text layer. Text extractors (pdf.js-extract, pdf-parse) then
+  // return nothing, so detect it explicitly and surface a specific error instead of
+  // a silent empty parse that just falls back to stale data with no explanation.
+  const totalItems = pdfData.pages.reduce((sum, p) => sum + (p.content?.length || 0), 0);
+  if (totalItems === 0) {
+    ErrorLogger.logError({
+      category: 'PARSE_ERROR',
+      source: 'collection',
+      brand,
+      brandId: 'fiat',
+      code: 'IMAGE_BASED_PDF',
+      message: `${brand} PDF has no extractable text (image-based/scanned). OCR or an alternative data source is required.`,
+      recovered: true,
+      recoveryMethod: 'Falls back to previous data',
+    });
+    return vehicles; // empty -> caller falls back to previous data
+  }
+
   try {
     for (const page of pdfData.pages) {
       const items = page.content as PDFItem[];
@@ -3397,9 +3416,13 @@ const parseSeatData = (html: string, brand: string): PriceListRow[] => {
       const priceListNumeric = listPriceMatch ? parsePrice(listPriceMatch[0] + ' TL') : undefined;
 
       // Parse model name to extract components
-      // Example: "Ibiza 1.0 EcoTSI 115 PS DSG Style" or "Leon 1.5 eHybrid 204 PS DSG FR"
-      const parts = modelName.split(/\s+/);
-      const model = parts[0]; // Ibiza, Arona, Leon, Ateca
+      // Example: "Ibiza 1.0 EcoTSI 115 PS DSG Style" or "YENİ IBIZA 1.0 TSI 116 PS DSG Style Plus"
+      // Strip a leading marketing prefix ("YENİ"/"YENI"/"NEW") so the badge isn't
+      // captured as the model, and normalize casing (LEON -> Leon) so duplicates merge.
+      // ([iİ] is explicit because the JS /i flag does not fold the Turkish dotted İ.)
+      const cleanedName = modelName.replace(/^\s*(yen[iİ]|new)\s+/i, '').trim();
+      const rawModel = cleanedName.split(/\s+/)[0] || '';
+      const model = rawModel.charAt(0).toUpperCase() + rawModel.slice(1).toLowerCase(); // Ibiza, Arona, Leon, Ateca
 
       // Find engine and power info
       let engine = '';
@@ -3407,24 +3430,24 @@ const parseSeatData = (html: string, brand: string): PriceListRow[] => {
       let transmission = 'Manuel';
 
       // Find engine spec (e.g., "1.0 EcoTSI 115 PS" or "1.5 eHybrid 204 PS" or "1.5 EcoTSI ACT 150 PS")
-      const engineMatch = modelName.match(/(\d+\.\d+)\s+([\w-]+(?:\s+[\w-]+)?)\s+(\d+)\s*PS/i);
+      const engineMatch = cleanedName.match(/(\d+\.\d+)\s+([\w-]+(?:\s+[\w-]+)?)\s+(\d+)\s*PS/i);
       if (engineMatch) {
         engine = `${engineMatch[1]} ${engineMatch[2]} ${engineMatch[3]} PS`;
       }
 
       // Check for transmission
-      if (modelName.includes('DSG')) {
+      if (cleanedName.includes('DSG')) {
         transmission = 'Otomatik (DSG)';
-      } else if (modelName.match(/\bAT\b|Otomatik/i)) {
+      } else if (cleanedName.match(/\bAT\b|Otomatik/i)) {
         transmission = 'Otomatik';
       }
 
       // Extract trim (everything after PS and transmission)
-      const trimMatch = modelName.match(/PS\s+(?:DSG\s+)?(.+?)(?:'[^']+')?$/i);
+      const trimMatch = cleanedName.match(/PS\s+(?:DSG\s+)?(.+?)(?:'[^']+')?$/i);
       if (trimMatch) {
         trim = trimMatch[1].replace(/DSG\s*/i, '').trim();
         // Handle Dark Edition or other quoted suffixes
-        const quotedMatch = modelName.match(/'([^']+)'/);
+        const quotedMatch = cleanedName.match(/'([^']+)'/);
         if (quotedMatch) {
           trim += ' ' + quotedMatch[1];
         }
@@ -3738,136 +3761,109 @@ const parseVolvoData = (pdfResult: PDFExtractResult, brand: string): PriceListRo
       rows[y].push({ x: item.x, str: item.str });
     });
 
-    // Sort rows by Y
+    // Sort rows by Y (top to bottom)
     const sortedYs = Object.keys(rows).map(Number).sort((a, b) => a - b);
 
-    // Find data rows (skip header rows - they're before Y=300)
-    const dataYs = sortedYs.filter(y => y >= 310);
+    // As of the MY27 list each vehicle is ONE row (previously specs + model were on
+    // two separate rows). Columns, left to right:
+    //   "MODEL, TRIM" | FUEL | DISPLACEMENT | POWER | TRANSMISSION |
+    //   net price | ÖTV% | ÖTV-incl | KDV-incl | registration | TURNKEY (last)
+    const fuelKeywords = ['Elektrik/Benzin', 'Elektrik', 'Benzin', 'Dizel'];
 
-    // Process pairs of rows (specs + model name)
-    for (let i = 0; i < dataYs.length - 1; i++) {
-      const specsY = dataYs[i];
-      const modelY = dataYs[i + 1];
+    for (const y of sortedYs) {
+      const cells = rows[y].sort((a, b) => a.x - b.x).map(c => c.str.trim()).filter(Boolean);
+      if (cells.length === 0) continue;
 
-      // Check if these are adjacent (within 5 units)
-      if (modelY - specsY > 25) continue;
+      // A data row starts with a Volvo model code (EX30, EX40, EC40, XC60, V60, S90...).
+      // This also excludes header/footer/legal rows without relying on Y thresholds.
+      if (!/^(EX|EC|XC|V|S|C)\d{2}\b/i.test(cells[0])) continue;
 
-      // Get specs row text (sorted by X)
-      const specsRow = rows[specsY].sort((a, b) => a.x - b.x).map(c => c.str);
-      const specsText = specsRow.join(' ');
+      // The fuel cell separates "MODEL, TRIM" (before it) from the spec/price columns.
+      let fuelIdx = -1;
+      let fuelVal = '';
+      for (let k = 0; k < cells.length; k++) {
+        const match = fuelKeywords.find(fk => cells[k] === fk || cells[k].startsWith(fk));
+        if (match) { fuelIdx = k; fuelVal = match; break; }
+      }
 
-      // Get model row text
-      const modelRow = rows[modelY].sort((a, b) => a.x - b.x).map(c => c.str);
-      const modelText = modelRow.join(' ').trim();
+      const modelTrim = (fuelIdx > 0 ? cells.slice(0, fuelIdx) : [cells[0]])
+        .join(' ').replace(/\s+/g, ' ').trim();
+      const rowText = cells.join(' ');
 
-      // Skip if model text looks like specs or headers
-      if (!modelText || modelText.includes('MODEL') || modelText.includes('YAKIT')) continue;
+      // Model = vehicle code (first token); trim = the remainder (drop a leading comma).
+      const model = modelTrim.split(/\s+/)[0];
+      const trim = modelTrim.slice(model.length).replace(/^[\s,]+/, '').trim();
 
-      // Parse model name (e.g., "EX30, SINGLE MOTOR EXTENDED RANGE, ULTRA")
-      const modelParts = modelText.split(',').map(p => p.trim());
-      if (modelParts.length < 2) continue;
-
-      const model = modelParts[0]; // EX30
-      const trim = modelParts.slice(1).join(', '); // SINGLE MOTOR EXTENDED RANGE, ULTRA
-
-      // Extract fuel type from specs and model name
-      let fuel = 'Benzin';
-      const combinedText = (specsText + ' ' + modelText).toLowerCase();
-      // Check for hybrid first (PLUG-IN HYBRID, MILD HYBRID in model name)
-      if (combinedText.includes('plug-in hybrid') || combinedText.includes('plug-in-hybrid')) {
+      // Fuel: the fuel column reads "Benzin" even for mild hybrids, so consult the trim.
+      let fuel: string;
+      if (fuelVal === 'Elektrik/Benzin' || /plug-in hybrid/i.test(modelTrim)) {
         fuel = 'Plug-in Hibrit';
-      } else if (combinedText.includes('mild hybrid') || combinedText.includes('hybrid') || combinedText.includes('hibrit')) {
+      } else if (/mild hybrid|hibrit|hybrid/i.test(modelTrim)) {
         fuel = 'Hibrit';
-      } else if (specsText.toLowerCase().includes('elektrik')) {
+      } else if (fuelVal === 'Elektrik') {
         fuel = 'Elektrik';
-      } else if (specsText.toLowerCase().includes('dizel')) {
+      } else if (fuelVal === 'Dizel') {
         fuel = 'Dizel';
+      } else {
+        fuel = 'Benzin';
       }
 
-      // Extract power (e.g., "150kW/204hp" or "197 hp")
+      // Engine = displacement ("1.969 cc.") + power ("150kW/204hp" or "250 hp"/"250+156 hp").
       let engine = '';
-      const powerMatch = specsText.match(/(\d+)\s*kW\s*\/\s*(\d+)\s*hp/i) ||
-        specsText.match(/(\d+)\s*KW\s*\/\s*(\d+)\s*hp/i) ||
-        specsText.match(/(\d+)\s*hp/i);
+      const powerMatch = rowText.match(/(\d+)\s*kW\s*\/\s*(\d+)\s*hp/i) || rowText.match(/(\d+(?:\+\d+)?)\s*hp/i);
       if (powerMatch) {
-        if (powerMatch[2]) {
-          engine = `${powerMatch[1]} kW / ${powerMatch[2]} hp`;
-        } else {
-          engine = `${powerMatch[1]} hp`;
-        }
+        engine = powerMatch[2] ? `${powerMatch[1]} kW / ${powerMatch[2]} hp` : `${powerMatch[1]} hp`;
       }
+      const ccMatch = rowText.match(/(\d[.,]\d{3})\s*cc/i);
+      if (ccMatch) engine = `${ccMatch[1]} cc ${engine}`.trim();
 
-      // Extract engine capacity if available (e.g., "1.969 cc.")
-      const ccMatch = specsText.match(/(\d[\d.]+)\s*cc/i);
-      if (ccMatch) {
-        engine = `${ccMatch[1]} cc ${engine}`.trim();
-      }
-
-      // Extract transmission
       let transmission = 'Otomatik';
-      if (specsText.toLowerCase().includes('geartronic') ||
-        specsText.toLowerCase().includes('ileri') ||
-        specsText.toLowerCase().includes('otomatik')) {
-        transmission = 'Otomatik';
-      } else if (specsText.toLowerCase().includes('manuel')) {
-        transmission = 'Manuel';
-      }
+      if (/manuel/i.test(rowText)) transmission = 'Manuel';
 
-      // Find all prices in the row
-      const priceMatches = specsText.match(/(\d{1,2}[.,]\d{3}[.,]\d{3})/g);
-      if (!priceMatches || priceMatches.length === 0) continue;
+      // Prices: strip the displacement first (it looks like a price, e.g. "1.969 cc"),
+      // then the LAST money token is the turnkey price (TAVSİYE EDİLEN ANAHTAR TESLİM).
+      const priceText = rowText.replace(/\d[\d.,]*\s*cc\.?/gi, ' ');
+      const priceTokens = priceText.match(/\d{1,3}(?:\.\d{3})+/g) || [];
+      const prices = priceTokens.map(p => parsePrice(p + ' TL')).filter(p => isValidPrice(p));
+      if (prices.length === 0) continue;
+      const priceNumeric = prices[prices.length - 1];
 
-      // Parse all prices
-      const allPrices = priceMatches.map(p => parsePrice(p + ' TL')).filter(p => isValidPrice(p));
-      if (allPrices.length === 0) continue;
+      // ÖTV rate (e.g. "55%").
+      const otvMatch = rowText.match(/(\d{1,3})\s*%/);
+      const otvRate = otvMatch ? parseInt(otvMatch[1], 10) : undefined;
 
-      // The last price is the "TAVSİYE EDİLEN ANAHTAR TESLİM FİYAT" (turnkey price)
-      // First valid price might be list price if there are multiple
-      const priceNumeric = allPrices[allPrices.length - 1];
-      const priceListNumeric = allPrices.length > 1 ? allPrices[0] : undefined;
+      // Skip duplicates (e.g. Bright/Dark variants that resolve to the same row).
+      if (vehicles.find(v => v.model === model && v.trim === trim && v.priceNumeric === priceNumeric)) continue;
 
-      // Check for duplicate
-      const exists = vehicles.find(
-        v => v.model === model && v.trim === trim && v.priceNumeric === priceNumeric
-      );
-
-      // Parse extended fields
       const engineDetails = parseVolvoEngineDetails(engine);
       const trimDetails = parseVolvoTrimDetails(trim, model);
+      const isElectric = fuel === 'Elektrik';
+      const isHybrid = fuel === 'Hibrit';
 
-      // Detect electric/hybrid from fuel (handle both Turkish and English values)
-      const isElectric = fuel === 'Elektrik' || fuel.toLowerCase() === 'electric';
-      const isHybrid = fuel === 'Hibrit' || fuel === 'Hybrid'; // Only true for mild hybrid (not plug-in)
-
-      if (!exists) {
-        vehicles.push({
-          model,
-          trim,
-          engine: engine || '-',
-          transmission,
-          fuel,
-          priceRaw: priceNumeric.toLocaleString('tr-TR') + ' TL',
-          priceNumeric,
-          brand,
-          ...(volvoPdfYear && { modelYear: volvoPdfYear }),
-          ...(priceListNumeric && { priceListNumeric }),
-          // Extended fields - engine
-          ...(engineDetails.powerKW && { powerKW: engineDetails.powerKW }),
-          ...(engineDetails.powerHP && { powerHP: engineDetails.powerHP }),
-          ...(engineDetails.engineDisplacement && { engineDisplacement: engineDetails.engineDisplacement }),
-          // Extended fields - trim
-          ...(trimDetails.driveType && { driveType: trimDetails.driveType }),
-          ...(trimDetails.hasLongRange && { hasLongRange: trimDetails.hasLongRange }),
-          ...(trimDetails.isMildHybrid && { isMildHybrid: trimDetails.isMildHybrid }),
-          ...(trimDetails.isPlugInHybrid && { isPlugInHybrid: trimDetails.isPlugInHybrid }),
-          // Extended fields - fuel type flags
-          ...(isElectric && { isElectric }),
-          ...(isHybrid && { isHybrid }),
-        });
-      }
-
-      // Skip the model row in next iteration
-      i++;
+      vehicles.push({
+        model,
+        trim,
+        engine: engine || '-',
+        transmission,
+        fuel,
+        priceRaw: priceNumeric.toLocaleString('tr-TR') + ' TL',
+        priceNumeric,
+        brand,
+        ...(volvoPdfYear && { modelYear: volvoPdfYear }),
+        ...(otvRate !== undefined && { otvRate }),
+        // Extended fields - engine
+        ...(engineDetails.powerKW && { powerKW: engineDetails.powerKW }),
+        ...(engineDetails.powerHP && { powerHP: engineDetails.powerHP }),
+        ...(engineDetails.engineDisplacement && { engineDisplacement: engineDetails.engineDisplacement }),
+        // Extended fields - trim
+        ...(trimDetails.driveType && { driveType: trimDetails.driveType }),
+        ...(trimDetails.hasLongRange && { hasLongRange: trimDetails.hasLongRange }),
+        ...(trimDetails.isMildHybrid && { isMildHybrid: trimDetails.isMildHybrid }),
+        ...(trimDetails.isPlugInHybrid && { isPlugInHybrid: trimDetails.isPlugInHybrid }),
+        // Extended fields - fuel type flags
+        ...(isElectric && { isElectric }),
+        ...(isHybrid && { isHybrid }),
+      });
     }
   } catch (error) {
     console.error('Volvo PDF parse error:', error);
@@ -4653,10 +4649,23 @@ async function fetchMultiUrlBrand(brand: BrandConfig): Promise<PriceListRow[]> {
 const pendingMongoSaves: Promise<void>[] = [];
 
 // Save data to file and MongoDB
+// Canonical collection date parts in the Turkish market timezone (Europe/Istanbul),
+// so the labeled date (index/dateStr) and the file path always agree regardless of
+// the runner's timezone (GitHub Actions runs in UTC). Previously dateStr used UTC
+// while the file path used the runner's local time, which could disagree by a day.
+function istanbulDateParts(date: Date): { year: string; month: string; day: string } {
+  const parts = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Europe/Istanbul',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  }).formatToParts(date);
+  const get = (type: string) => parts.find(p => p.type === type)!.value;
+  return { year: get('year'), month: get('month'), day: get('day') };
+}
+
 function saveData(brandId: string, date: Date, data: StoredData): void {
-  const year = date.getFullYear().toString();
-  const month = (date.getMonth() + 1).toString().padStart(2, '0');
-  const day = date.getDate().toString().padStart(2, '0');
+  const { year, month, day } = istanbulDateParts(date);
 
   const dirPath = path.join(process.cwd(), 'data', year, month, brandId);
   const filePath = path.join(dirPath, `${day}.json`);
@@ -4784,7 +4793,8 @@ async function collectAllBrands(): Promise<void> {
   console.log('='.repeat(60));
 
   const now = new Date();
-  const dateStr = now.toISOString().split('T')[0]; // YYYY-MM-DD
+  const { year: cy, month: cm, day: cd } = istanbulDateParts(now);
+  const dateStr = `${cy}-${cm}-${cd}`; // YYYY-MM-DD in Europe/Istanbul (Turkish market day)
 
   console.log(`Collection date: ${dateStr}`);
   console.log(`Brands to collect: ${BRANDS.length}`);
@@ -4793,7 +4803,21 @@ async function collectAllBrands(): Promise<void> {
   const index = loadIndex();
   const results: CollectionResult[] = [];
 
-  for (const brand of BRANDS) {
+  // Optional filter for testing/targeted re-collection:
+  //   COLLECT_BRANDS=volvo,seat npx tsx scripts/collect.ts
+  // or: npx tsx scripts/collect.ts volvo seat
+  const brandFilter = (process.env.COLLECT_BRANDS || process.argv.slice(2).join(','))
+    .split(',')
+    .map(s => s.trim().toLowerCase())
+    .filter(Boolean);
+  const brandsToCollect = brandFilter.length > 0
+    ? BRANDS.filter(b => brandFilter.includes(b.id.toLowerCase()))
+    : BRANDS;
+  if (brandFilter.length > 0) {
+    console.log(`Filter active: collecting ${brandsToCollect.map(b => b.id).join(', ') || '(none matched)'}`);
+  }
+
+  for (const brand of brandsToCollect) {
     const brandStart = Date.now();
     console.log(`[${brand.name}] Starting collection...`);
 

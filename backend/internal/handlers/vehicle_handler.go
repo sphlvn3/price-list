@@ -54,6 +54,9 @@ func (h *VehicleHandler) GetTrend(c *gin.Context) {
 	days := 0
 	if d := c.Query("days"); d != "" {
 		if parsed, err := strconv.Atoi(d); err == nil && parsed > 0 {
+			if parsed > 3650 {
+				parsed = 3650 // cap at ~10 years to bound the query (avoid abuse)
+			}
 			days = parsed
 			limit = parsed // allow up to `days` data points
 		}

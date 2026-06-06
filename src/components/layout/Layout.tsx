@@ -16,6 +16,7 @@ import PriceChangeAlert from '../tracking/PriceChangeAlert';
 import TrackedVehiclesDrawer from '../tracking/TrackedVehiclesDrawer';
 import { OfflineBanner, InstallPrompt } from '../../pwa';
 import { CommandPalette } from '../search';
+import { ErrorBoundary } from '../errors';
 import { useCommandPalette } from '../../hooks/useCommandPalette';
 import { fetchFreshJson, fetchDedup, DATA_URLS } from '../../utils/fetchData';
 import QuickCompareFAB from '../common/QuickCompareFAB';
@@ -219,7 +220,11 @@ export default function Layout() {
                 </div>
               }
             >
-              <Outlet />
+              {/* Isolate page crashes: a render error shows the fallback in the
+                  content area (nav/footer stay usable) and resets on navigation. */}
+              <ErrorBoundary key={location.pathname}>
+                <Outlet />
+              </ErrorBoundary>
             </Suspense>
           </motion.div>
         </AnimatePresence>

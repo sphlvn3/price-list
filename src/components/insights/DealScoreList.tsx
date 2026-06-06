@@ -93,7 +93,7 @@ export default function DealScoreList({ vehicles }: DealScoreListProps) {
 
   const getDifferenceText = (vehicle: VehicleWithScore): string => {
     const diff = vehicle.segmentAvg - vehicle.price;
-    const percent = Math.round((diff / vehicle.segmentAvg) * 100);
+    const percent = vehicle.segmentAvg ? Math.round((diff / vehicle.segmentAvg) * 100) : 0;
     if (diff > 0) {
       return `${percent}% ${t('insights.belowAvg', 'below segment avg')}`;
     }

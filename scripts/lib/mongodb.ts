@@ -6,6 +6,9 @@ import { MongoClient, Db } from 'mongodb';
 
 let client: MongoClient | null = null;
 let db: Db | null = null;
+// In-flight connection promise so concurrent callers share a single connect()
+// instead of each opening its own socket (was logging "Connected to Atlas" N times).
+let connecting: Promise<Db | null> | null = null;
 
 function buildUri(): string {
   const user = process.env.MONGO_USER || process.env.PUSER || process.env.puser || '';
@@ -21,26 +24,39 @@ function buildUri(): string {
 
 export async function connectMongo(): Promise<Db | null> {
   if (db) return db;
+  // If a connect is already in flight, await the same promise (prevents the race
+  // where parallel saves each see db === null and open duplicate connections).
+  if (connecting) return connecting;
 
-  const uri = buildUri();
-  if (!uri) {
-    console.log('[MongoDB] No credentials found, skipping MongoDB writes');
-    return null;
-  }
+  connecting = (async (): Promise<Db | null> => {
+    const uri = buildUri();
+    if (!uri) {
+      console.log('[MongoDB] No credentials found, skipping MongoDB writes');
+      return null;
+    }
+
+    try {
+      client = new MongoClient(uri, {
+        connectTimeoutMS: 10_000,
+        socketTimeoutMS: 30_000,
+        serverSelectionTimeoutMS: 10_000,
+      });
+      await client.connect();
+      db = client.db(process.env.MONGO_DATABASE || 'pricelist');
+      console.log('[MongoDB] Connected to Atlas');
+      return db;
+    } catch (err) {
+      console.error('[MongoDB] Connection failed:', err);
+      client = null;
+      return null;
+    }
+  })();
 
   try {
-    client = new MongoClient(uri, {
-      connectTimeoutMS: 10_000,
-      socketTimeoutMS: 30_000,
-      serverSelectionTimeoutMS: 10_000,
-    });
-    await client.connect();
-    db = client.db(process.env.MONGO_DATABASE || 'pricelist');
-    console.log('[MongoDB] Connected to Atlas');
-    return db;
-  } catch (err) {
-    console.error('[MongoDB] Connection failed:', err);
-    return null;
+    return await connecting;
+  } finally {
+    // Allow a fresh attempt next time if this one failed (db stays null).
+    connecting = null;
   }
 }
 
@@ -49,6 +65,7 @@ export async function disconnectMongo(): Promise<void> {
     await client.close();
     client = null;
     db = null;
+    connecting = null;
     console.log('[MongoDB] Disconnected');
   }
 }

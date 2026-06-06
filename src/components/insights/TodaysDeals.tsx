@@ -90,6 +90,7 @@ export default function TodaysDeals({ vehicles }: TodaysDealsProps) {
   };
 
   const getSavingsPercent = (vehicle: VehicleWithScore): number => {
+    if (!vehicle.segmentAvg) return 0; // avoid NaN/Infinity when segment avg is missing
     return Math.round((getSavingsAmount(vehicle) / vehicle.segmentAvg) * 100);
   };
 

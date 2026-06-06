@@ -398,6 +398,9 @@ export default function PriceListPage() {
           }
 
           const storedData: StoredData = await response.json();
+          if (!storedData || !Array.isArray(storedData.rows)) {
+            throw new Error(t('errors.noData'));
+          }
 
           if (!signal.aborted) {
             setFetchState({
@@ -836,14 +839,20 @@ export default function PriceListPage() {
         // priceListNumeric may contain net prices (before taxes) which would cause display/filter mismatch
         const displayPrice = record.priceNumeric;
         const formattedPrice = isMobile
-          ? (displayPrice / 1000000).toFixed(1) + 'M'
+          ? (displayPrice / 1000000).toFixed(2).replace('.', ',') + 'M'
           : displayPrice.toLocaleString('tr-TR') + ' TL';
 
-        const hasDiscount = record.priceListNumeric && record.priceCampaignNumeric &&
-          record.priceListNumeric > record.priceCampaignNumeric;
+        // Discount = list price vs the actual selling price. Prefer an explicit
+        // campaign price, otherwise fall back to the displayed (turnkey) price so a
+        // discount still shows when the brand doesn't provide priceCampaignNumeric.
+        // The `priceListNumeric > sellingPrice` guard keeps brands whose
+        // priceListNumeric is a NET (pre-tax, lower) figure from showing a fake discount.
+        const sellingPrice = record.priceCampaignNumeric ?? displayPrice;
+        const hasDiscount = record.priceListNumeric != null && sellingPrice != null &&
+          record.priceListNumeric > sellingPrice;
 
         const discountPercent = hasDiscount
-          ? Math.round(((record.priceListNumeric! - record.priceCampaignNumeric!) / record.priceListNumeric!) * 100)
+          ? Math.round(((record.priceListNumeric! - sellingPrice) / record.priceListNumeric!) * 100)
           : 0;
 
         return (

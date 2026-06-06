@@ -23,8 +23,9 @@ async function main(): Promise<void> {
   console.log('='.repeat(60));
   console.log('');
 
-  // Clear previous errors at start of each run
-  ErrorLogger.clearErrors();
+  // Append to the collector's errors (don't wipe them) — the collector is the
+  // first pipeline stage and resets errors.json; later stages accumulate.
+  ErrorLogger.loadExisting();
 
   const startTime = Date.now();
   const results: { name: string; success: boolean; error?: string }[] = [];
