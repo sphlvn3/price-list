@@ -1163,6 +1163,93 @@ function getFiatOrigin(model: string): string | undefined {
   return undefined;
 }
 
+// Fiat OCR parser - parses the text produced by OCR'ing the image-based Fiat PDF.
+// Layout per row: [engine prefix] <Trim> <displacement/EV specs> <Transmission x2>
+//   <Fuel> <list price TL> [<campaign price TL> | -]
+// Model section headers ("EGEA SEDAN 2026 MODEL YILI") may appear before OR after
+// their rows, so rows are buffered and flushed when a header is seen.
+const parseFiatOcr = (text: string, brand: string): PriceListRow[] => {
+  const vehicles: PriceListRow[] = [];
+  const TRIMS = ['Topolino Plus', 'Topolino', 'La Prima', 'Dolcevita', 'Limited', 'Lounge', 'Street', 'Urban', 'Easy', 'Icon', 'Pop', 'Cross', 'Cabrio'];
+  const titleCase = (s: string) => s.toLowerCase().replace(/\b\w/g, c => c.toUpperCase());
+  const toNum = (s: string) => parseInt(s.replace(/\./g, ''), 10);
+
+  const cleanModel = (h: string): string => {
+    let m = h.replace(/\bMODEL\s*YIL[Iı].*$/i, '').replace(/\b20\d{2}\b/g, '');
+    m = m.replace(/[|—]/g, ' ').replace(/\b(Zan|gen[çc]|s—e|aa+|az)\b/gi, '').replace(/\s+/g, ' ').trim();
+    m = m.replace(/5[O0]{2}E/i, '500E');
+    if (/^500E$/i.test(m)) return '500e';
+    if (/^600$/.test(m)) return '600';
+    return titleCase(m);
+  };
+
+  type Pending = Omit<PriceListRow, 'model' | 'brand'> & { modelYear?: number };
+  let buffer: Pending[] = [];
+  let lastModel = 'Fiat';
+  let lastYear: number | undefined;
+
+  const flush = (model: string, year?: number) => {
+    for (const r of buffer) {
+      const mdl = /topolino/i.test(r.trim) ? 'Topolino' : model;
+      vehicles.push({ model: mdl, brand, ...r, ...((year || lastYear) && { modelYear: year || lastYear }) });
+    }
+    buffer = [];
+  };
+
+  for (const raw of text.split('\n')) {
+    const line = raw.trim();
+    if (!line) continue;
+
+    if (/MODEL\s*YIL/i.test(line)) {
+      const ym = line.match(/\b(20\d{2})\b/);
+      const year = ym ? parseInt(ym[1], 10) : undefined;
+      const model = cleanModel(line);
+      flush(model, year);
+      lastModel = model;
+      if (year) lastYear = year;
+      continue;
+    }
+
+    const fuelM = line.match(/\b(Dizel|Benzin|Elektrikli|Hibrit)\b/i);
+    const transM = line.match(/\b(Otomatik|Manuel)\b/i);
+    const priceTokens = line.match(/\d{1,3}(?:\.\d{3})+/g);
+    if (!fuelM || !transM || !priceTokens) continue; // skips option/color rows
+
+    const prices = priceTokens.map(toNum).filter(isValidPrice);
+    if (!prices.length) continue;
+    const list = prices[0];
+    const campaign = prices.length > 1 ? prices[1] : undefined;
+    const priceNumeric = campaign ?? list;
+
+    const trimHit = TRIMS.find(t => new RegExp('\\b' + t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b', 'i').test(line));
+
+    // Engine: EV "NN Kw/NNN Hp ... NN Kwh" or ICE displacement "1.6"/"1.2".
+    let engine = '';
+    const ev = line.match(/(\d+)\s*Kw\s*\/\s*(\d+)\s*Hp/i);
+    const kwh = line.match(/([\d.]+)\s*Kwh/i);
+    const disp = line.match(/\b(\d\.\d)\b/);
+    if (ev) engine = `${ev[1]} kW/${ev[2]} HP`;
+    else if (disp) engine = disp[1];
+    if (kwh) engine = `${engine} ${kwh[1]} kWh`.trim();
+
+    const fuel = normalizeFuel(fuelM[1]);
+
+    buffer.push({
+      trim: trimHit ? titleCase(trimHit) : '',
+      engine,
+      transmission: titleCase(transM[1]),
+      fuel,
+      priceRaw: priceNumeric.toLocaleString('tr-TR') + ' TL',
+      priceNumeric,
+      ...(campaign && isValidPrice(list) && { priceListNumeric: list }),
+      ...(campaign && { priceCampaignNumeric: campaign }),
+    });
+  }
+  flush(lastModel, lastYear);
+
+  return vehicles;
+};
+
 // Fiat parser - parses PDF data
 const parseFiatData = (pdfData: PDFExtractResult, brand: string): PriceListRow[] => {
   const vehicles: PriceListRow[] = [];
@@ -1192,10 +1279,14 @@ const parseFiatData = (pdfData: PDFExtractResult, brand: string): PriceListRow[]
     /(\d+\.\d+\s*(?:e-?)?Hybrid\s*\d+\s*HP)/i,
   ];
 
-  // The Fiat price-list PDF is sometimes published as an image-only/scanned file
-  // with no embedded text layer. Text extractors (pdf.js-extract, pdf-parse) then
-  // return nothing, so detect it explicitly and surface a specific error instead of
-  // a silent empty parse that just falls back to stale data with no explanation.
+  // The Fiat price-list PDF is image-based (no embedded text layer). When that's the
+  // case extractPdfFromResponse attaches OCR'd text; parse that instead.
+  const ocrText = (pdfData as any)._ocrText as string | undefined;
+  if (ocrText) {
+    return parseFiatOcr(ocrText, brand);
+  }
+
+  // No text layer and no OCR result -> surface a specific error and fall back.
   const totalItems = pdfData.pages.reduce((sum, p) => sum + (p.content?.length || 0), 0);
   if (totalItems === 0) {
     ErrorLogger.logError({
@@ -1204,7 +1295,7 @@ const parseFiatData = (pdfData: PDFExtractResult, brand: string): PriceListRow[]
       brand,
       brandId: 'fiat',
       code: 'IMAGE_BASED_PDF',
-      message: `${brand} PDF has no extractable text (image-based/scanned). OCR or an alternative data source is required.`,
+      message: `${brand} PDF has no extractable text and OCR produced nothing.`,
       recovered: true,
       recoveryMethod: 'Falls back to previous data',
     });
@@ -4213,7 +4304,10 @@ async function fetchFordUrl(url: string): Promise<any> {
 
 // Fetch Fiat PDF with special headers and retry (server may block cloud IPs)
 async function fetchFiatPdf(url: string): Promise<any> {
-  const maxRetries = 2;
+  // The published Fiat PDF is currently image-based (no extractable text) AND the
+  // origin throttles cloud IPs, so the fetch hangs in CI. Use one quick attempt with
+  // a short timeout instead of long retries — we fall back to previous data anyway.
+  const maxRetries = 1;
   let lastError: Error | null = null;
 
   // Try direct connection first
@@ -4246,7 +4340,7 @@ async function fetchFiatPdf(url: string): Promise<any> {
           'Cache-Control': 'no-cache',
           'Pragma': 'no-cache',
         },
-      });
+      }, 20_000);
 
       // Log response details
       console.log(`    Response status: ${response.status} ${response.statusText}`);
@@ -4273,7 +4367,7 @@ async function fetchFiatPdf(url: string): Promise<any> {
     { name: 'codetabs', url: `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}` },
   ];
 
-  const retriesPerProxy = 2;
+  const retriesPerProxy = 1;
 
   for (const proxy of proxyServices) {
     console.log(`    Trying proxy: ${proxy.name}...`);
@@ -4293,7 +4387,7 @@ async function fetchFiatPdf(url: string): Promise<any> {
           headers: {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
           },
-        });
+        }, 12_000);
 
         console.log(`      Response: ${response.status} ${response.statusText}`);
 
@@ -4325,10 +4419,50 @@ async function extractPdfFromResponse(response: Response, brand: string): Promis
   const pdfData = await promiseWithTimeout(pdfExtract.extract(tempPath, {}), 60_000, `PDF extract (${brand})`);
   console.log(`    PDF extracted: ${pdfData.pages?.length || 0} pages`);
 
+  // The Fiat PDF is image-based (no text layer). When the text extractor returns
+  // nothing, OCR the rendered pages so we still get real data instead of falling back.
+  const totalItems = (pdfData.pages || []).reduce((s, p) => s + (p.content?.length || 0), 0);
+  if (totalItems === 0 && brand === 'fiat') {
+    try {
+      console.log('    No text layer — running OCR (image-based PDF)...');
+      const ocrText = await promiseWithTimeout(ocrPdfToText(tempPath), 90_000, `OCR (${brand})`);
+      (pdfData as any)._ocrText = ocrText;
+      console.log(`    OCR produced ${ocrText.length} chars`);
+    } catch (err) {
+      console.log(`    OCR failed: ${err instanceof Error ? err.message : String(err)}`);
+    }
+  }
+
   // Clean up temp file
   try { fs.unlinkSync(tempPath); } catch { }
 
   return pdfData;
+}
+
+// OCR an image-based PDF: render each page to a bitmap (mupdf, WASM) and run
+// Tesseract (tesseract.js, WASM, Turkish). Both deps are imported lazily so a
+// normal run never loads the OCR/WASM machinery. Returns the combined page text.
+async function ocrPdfToText(pdfPath: string): Promise<string> {
+  const mupdf: any = await import('mupdf');
+  const { createWorker } = await import('tesseract.js');
+
+  const doc = mupdf.Document.openDocument(fs.readFileSync(pdfPath), 'application/pdf');
+  const pageCount = doc.countPages();
+  const worker = await createWorker('tur');
+  try {
+    let out = '';
+    for (let i = 0; i < pageCount; i++) {
+      const pix = doc.loadPage(i).toPixmap(mupdf.Matrix.scale(3, 3), mupdf.ColorSpace.DeviceRGB, false);
+      const imgPath = path.join('/tmp', `fiat-ocr-${process.pid}-${i}.png`);
+      fs.writeFileSync(imgPath, pix.asPNG());
+      const { data: { text } } = await worker.recognize(imgPath);
+      out += '\n' + text;
+      try { fs.unlinkSync(imgPath); } catch { }
+    }
+    return out;
+  } finally {
+    await worker.terminate();
+  }
 }
 
 // Helper to log fetch errors
@@ -4406,7 +4540,7 @@ async function fetchPeugeotPdf(url: string): Promise<any> {
     { name: 'codetabs', url: `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(url)}` },
   ];
 
-  const retriesPerProxy = 2;
+  const retriesPerProxy = 1;
 
   for (const proxy of proxyServices) {
     console.log(`    Trying proxy: ${proxy.name}...`);
@@ -4425,7 +4559,7 @@ async function fetchPeugeotPdf(url: string): Promise<any> {
           headers: {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
           },
-        });
+        }, 12_000);
 
         console.log(`      Response: ${response.status} ${response.statusText}`);
 

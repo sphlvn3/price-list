@@ -36,3 +36,6 @@ data
 
 # Symlink to data folder (tracked as symlink)
 # public/data -> ../data
+
+# Tesseract OCR language data (downloaded at runtime by the Fiat OCR step)
+*.traineddata
