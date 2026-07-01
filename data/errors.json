@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-30T01:38:54.627Z",
-  "clearedAt": "2026-06-30T01:38:21.712Z",
+  "generatedAt": "2026-07-01T01:43:48.325Z",
+  "clearedAt": "2026-07-01T01:43:07.783Z",
   "errors": [
     {
-      "id": "err_1782783525332_45b5u70",
-      "timestamp": "2026-06-30T01:38:45.332Z",
+      "id": "err_1782870216613_uzjvr1z",
+      "timestamp": "2026-07-01T01:43:36.613Z",
       "severity": "error",
       "category": "HTTP_ERROR",
       "source": "collection",
@@ -15,14 +15,14 @@
       "details": {
         "error": "fetch failed",
         "url": "https://www.borusanotomotiv.com/bmw/stage2/fiyat-listesi/static-fiyat-listesi-v2.aspx",
-        "elapsed": 10154,
+        "elapsed": 10479,
         "isTimeout": false
       },
       "recovered": false
     },
     {
-      "id": "err_1782783525334_51i8fbl",
-      "timestamp": "2026-06-30T01:38:45.334Z",
+      "id": "err_1782870216615_8u6snbb",
+      "timestamp": "2026-07-01T01:43:36.615Z",
       "severity": "warning",
       "category": "DATA_QUALITY_ERROR",
       "source": "collection",
