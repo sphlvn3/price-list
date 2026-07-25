@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T16:31:40.348Z",
-  "date": "2026-07-24",
+  "generatedAt": "2026-07-25T03:58:41.687Z",
+  "date": "2026-07-25",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -5012,7 +5012,7 @@
           "priceFormatted": "24.233.800 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
-          "engine": "4.4L 585+197 HP",
+          "engine": "4.4L 544+197 HP",
           "transmission": "Otomatik",
           "fuel": "Plug-in Hibrit"
         }
@@ -5035,7 +5035,7 @@
           "priceFormatted": "24.573.500 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
-          "engine": "4.4L 585+197 HP",
+          "engine": "4.4L 544+197 HP",
           "transmission": "Otomatik",
           "fuel": "Plug-in Hibrit"
         }
@@ -6651,11 +6651,21 @@
       "brandId": "dacia",
       "trims": [
         {
+          "trim": "Essential",
+          "price": 1440000,
+          "priceFormatted": "₺1.440.000,00",
+          "stepFromBase": 0,
+          "stepPercent": 0,
+          "engine": "essential TCe 100",
+          "transmission": "Manuel",
+          "fuel": "Benzin"
+        },
+        {
           "trim": "Expression",
           "price": 1709000.01,
           "priceFormatted": "₺1.709.000,01",
-          "stepFromBase": 0,
-          "stepPercent": 0,
+          "stepFromBase": 269000.01,
+          "stepPercent": 18.68055625,
           "engine": "expression Eco-G 120 auto",
           "transmission": "Otomatik",
           "fuel": "LPG"
@@ -6664,18 +6674,18 @@
           "trim": "Journey",
           "price": 1784000,
           "priceFormatted": "₺1.784.000,00",
-          "stepFromBase": 74999.98999999999,
-          "stepPercent": 4.3885306940401945,
+          "stepFromBase": 344000,
+          "stepPercent": 23.88888888888889,
           "engine": "journey Eco-G 120 auto",
           "transmission": "Otomatik",
           "fuel": "LPG"
         }
       ],
-      "basePrice": 1709000.01,
+      "basePrice": 1440000,
       "topPrice": 1784000,
-      "priceSpread": 74999.98999999999,
-      "priceSpreadPercent": 4.39,
-      "trimCount": 2
+      "priceSpread": 344000,
+      "priceSpreadPercent": 23.89,
+      "trimCount": 3
     },
     {
       "id": "dacia-yeni-jogger",
@@ -8460,6 +8470,16 @@
           "trimCount": 2
         },
         {
+          "brand": "Dacia",
+          "brandId": "dacia",
+          "model": "Yeni Logan",
+          "basePrice": 1440000,
+          "topPrice": 1784000,
+          "basePriceFormatted": "₺1.440.000",
+          "topPriceFormatted": "₺1.784.000",
+          "trimCount": 3
+        },
+        {
           "brand": "Hyundai",
           "brandId": "hyundai",
           "model": "INSTER",
@@ -8518,16 +8538,6 @@
           "basePriceFormatted": "₺1.700.000",
           "topPriceFormatted": "₺1.700.000",
           "trimCount": 1
-        },
-        {
-          "brand": "Dacia",
-          "brandId": "dacia",
-          "model": "Yeni Logan",
-          "basePrice": 1709000.01,
-          "topPrice": 1784000,
-          "basePriceFormatted": "₺1.709.000",
-          "topPriceFormatted": "₺1.784.000",
-          "trimCount": 2
         },
         {
           "brand": "Toyota",
@@ -9650,7 +9660,7 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 8005121,
+      "avgBasePrice": 8002952,
       "avgTopPrice": 8237278
     },
     {
@@ -10782,7 +10792,7 @@
   "summary": {
     "totalModels": 234,
     "avgTrimsPerModel": 2.3,
-    "avgPriceSpread": 374295,
-    "avgPriceSpreadPercent": 12.99
+    "avgPriceSpread": 375445,
+    "avgPriceSpreadPercent": 13.07
   }
 }

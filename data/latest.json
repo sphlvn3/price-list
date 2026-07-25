@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-24T16:31:37.907Z",
-  "totalVehicles": 536,
+  "generatedAt": "2026-07-25T03:58:39.116Z",
+  "totalVehicles": 537,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -2559,7 +2559,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -3383,7 +3383,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -3962,7 +3962,7 @@
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "i20",
@@ -4395,7 +4395,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "E-208",
@@ -4796,7 +4796,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "SEAL",
@@ -4879,7 +4879,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5117,7 +5117,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5669,7 +5669,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -5786,7 +5786,7 @@
           "priceRaw": "5.031.800 TL",
           "priceNumeric": 5031800,
           "brand": "BMW",
-          "fuelConsumption": "11,9",
+          "fuelConsumption": "2,9",
           "otvRate": 100,
           "powerHP": 150,
           "powerHPSecondary": 177,
@@ -5804,7 +5804,7 @@
           "priceRaw": "5.371.800 TL",
           "priceNumeric": 5371800,
           "brand": "BMW",
-          "fuelConsumption": "11,9",
+          "fuelConsumption": "2,9",
           "otvRate": 100,
           "powerHP": 150,
           "powerHPSecondary": 177,
@@ -6498,7 +6498,7 @@
           "priceRaw": "14.622.000 TL",
           "priceNumeric": 14622000,
           "brand": "BMW",
-          "fuelConsumption": "10",
+          "fuelConsumption": "10,4",
           "otvRate": 220,
           "powerHP": 480,
           "engineDisplacement": "3.0L"
@@ -6512,7 +6512,7 @@
           "priceRaw": "18.443.500 TL",
           "priceNumeric": 18443500,
           "brand": "BMW",
-          "fuelConsumption": "10,2",
+          "fuelConsumption": "10,3",
           "otvRate": 220,
           "powerHP": 530,
           "engineDisplacement": "3.0L",
@@ -6527,7 +6527,7 @@
           "priceRaw": "18.727.900 TL",
           "priceNumeric": 18727900,
           "brand": "BMW",
-          "fuelConsumption": "10,4",
+          "fuelConsumption": "10,6",
           "otvRate": 220,
           "powerHP": 530,
           "engineDisplacement": "3.0L",
@@ -6542,7 +6542,7 @@
           "priceRaw": "19.158.700 TL",
           "priceNumeric": 19158700,
           "brand": "BMW",
-          "fuelConsumption": "10,1",
+          "fuelConsumption": "10,2",
           "otvRate": 220,
           "powerHP": 530,
           "engineDisplacement": "3.0L",
@@ -6557,7 +6557,7 @@
           "priceRaw": "19.536.100 TL",
           "priceNumeric": 19536100,
           "brand": "BMW",
-          "fuelConsumption": "10,3",
+          "fuelConsumption": "10,5",
           "otvRate": 220,
           "powerHP": 530,
           "engineDisplacement": "3.0L",
@@ -6566,15 +6566,15 @@
         {
           "model": "BMW M5 Sedan",
           "trim": "M",
-          "engine": "4.4L 585+197 HP",
+          "engine": "4.4L 544+197 HP",
           "transmission": "Otomatik",
           "fuel": "Plug-in Hybrid",
           "priceRaw": "24.233.800 TL",
           "priceNumeric": 24233800,
           "brand": "BMW",
-          "fuelConsumption": "1,9",
+          "fuelConsumption": "5,1",
           "otvRate": 220,
-          "powerHP": 585,
+          "powerHP": 544,
           "powerHPSecondary": 197,
           "engineDisplacement": "4.4L",
           "isHybrid": true,
@@ -6583,15 +6583,15 @@
         {
           "model": "BMW M5 Touring",
           "trim": "M",
-          "engine": "4.4L 585+197 HP",
+          "engine": "4.4L 544+197 HP",
           "transmission": "Otomatik",
           "fuel": "Plug-in Hybrid",
           "priceRaw": "24.573.500 TL",
           "priceNumeric": 24573500,
           "brand": "BMW",
-          "fuelConsumption": "2.0",
+          "fuelConsumption": "5,4",
           "otvRate": 220,
-          "powerHP": 585,
+          "powerHP": 544,
           "powerHPSecondary": 197,
           "engineDisplacement": "4.4L",
           "isHybrid": true,
@@ -6710,7 +6710,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "A 200",
@@ -7437,7 +7437,7 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "Puma",
@@ -8543,7 +8543,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -8729,6 +8729,34 @@
         },
         {
           "model": "Yeni Logan",
+          "trim": "Essential",
+          "engine": "essential TCe 100",
+          "transmission": "Manuel",
+          "fuel": "Benzin",
+          "priceRaw": "₺1.440.000,00",
+          "priceNumeric": 1440000,
+          "brand": "Dacia",
+          "modelYear": "2026",
+          "otvRate": 75,
+          "netPrice": 658932.38,
+          "otvAmount": 494199.29,
+          "kdvAmount": 230626.33,
+          "optionalEquipment": [
+            {
+              "name": "Metalik Renk",
+              "price": 13000
+            },
+            {
+              "name": "Yedek Lastik",
+              "price": 12000
+            }
+          ],
+          "vehicleCategory": "Binek",
+          "powerHP": 100,
+          "engineType": "TCe"
+        },
+        {
+          "model": "Yeni Logan",
           "trim": "Expression",
           "engine": "expression Eco-G 120 auto",
           "transmission": "Otomatik",
@@ -8894,7 +8922,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -9338,7 +9366,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "Jazz Hybrid",
@@ -9430,7 +9458,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "Ibiza",
@@ -9536,7 +9564,7 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "Niro EV",
@@ -9991,7 +10019,7 @@
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "EX30",
@@ -10556,7 +10584,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "vehicles": [
         {
           "model": "Egea Sedan",

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T16:31:37.912Z",
-  "totalEntries": 536,
+  "generatedAt": "2026-07-25T03:58:39.121Z",
+  "totalEntries": 537,
   "entries": [
     {
       "id": "volkswagen-polo-life-1.0-tsi-95-ps",
@@ -4202,30 +4202,30 @@
       "searchText": "bmw bmw m4 competition cabrio m xdrive m 3 0l 530 hp benzin otomatik"
     },
     {
-      "id": "bmw-bmw-m5-sedan-m-4.4l-585+197-hp",
+      "id": "bmw-bmw-m5-sedan-m-4.4l-544+197-hp",
       "brand": "BMW",
       "brandId": "bmw",
       "model": "BMW M5 Sedan",
       "trim": "M",
-      "engine": "4.4L 585+197 HP",
+      "engine": "4.4L 544+197 HP",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
       "price": 24233800,
       "priceFormatted": "24.233.800 TL",
-      "searchText": "bmw bmw m5 sedan m 4 4l 585 197 hp plug in hybrid otomatik"
+      "searchText": "bmw bmw m5 sedan m 4 4l 544 197 hp plug in hybrid otomatik"
     },
     {
-      "id": "bmw-bmw-m5-touring-m-4.4l-585+197-hp",
+      "id": "bmw-bmw-m5-touring-m-4.4l-544+197-hp",
       "brand": "BMW",
       "brandId": "bmw",
       "model": "BMW M5 Touring",
       "trim": "M",
-      "engine": "4.4L 585+197 HP",
+      "engine": "4.4L 544+197 HP",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
       "price": 24573500,
       "priceFormatted": "24.573.500 TL",
-      "searchText": "bmw bmw m5 touring m 4 4l 585 197 hp plug in hybrid otomatik"
+      "searchText": "bmw bmw m5 touring m 4 4l 544 197 hp plug in hybrid otomatik"
     },
     {
       "id": "bmw-bmw-x5-m-competition-m-4.4l-625+12-hp",
@@ -5357,6 +5357,19 @@
       "price": 1820999.99,
       "priceFormatted": "₺1.820.999,99",
       "searchText": "dacia yeni sandero stepway extreme stepway extreme eco g 120 auto lpg otomatik"
+    },
+    {
+      "id": "dacia-yeni-logan-essential-essential-tce-100",
+      "brand": "Dacia",
+      "brandId": "dacia",
+      "model": "Yeni Logan",
+      "trim": "Essential",
+      "engine": "essential TCe 100",
+      "fuel": "Benzin",
+      "transmission": "Manuel",
+      "price": 1440000,
+      "priceFormatted": "₺1.440.000,00",
+      "searchText": "dacia yeni logan essential essential tce 100 benzin manuel"
     },
     {
       "id": "dacia-yeni-logan-expression-expression-eco-g-120-auto",

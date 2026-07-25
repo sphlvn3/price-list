@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-24T16:31:37.920Z",
-  "totalVehicles": 536,
+  "generatedAt": "2026-07-25T03:58:39.129Z",
+  "totalVehicles": 537,
   "overallStats": {
-    "avgPrice": 5096339,
+    "avgPrice": 5089530,
     "minPrice": 585000,
     "maxPrice": 38034000,
-    "medianPrice": 3159650
+    "medianPrice": 3156000
   },
   "brandStats": [
     {
@@ -130,11 +130,11 @@
     },
     {
       "name": "Dacia",
-      "vehicleCount": 12,
-      "avgPrice": 1604833,
+      "vehicleCount": 13,
+      "avgPrice": 1592154,
       "minPrice": 1238000,
       "maxPrice": 1830000,
-      "medianPrice": 1709500.005
+      "medianPrice": 1709000.01
     },
     {
       "name": "SEAT",
@@ -164,9 +164,9 @@
   "fuelStats": [
     {
       "fuel": "Benzin",
-      "count": 196,
-      "percentage": 36.6,
-      "avgPrice": 5134023
+      "count": 197,
+      "percentage": 36.7,
+      "avgPrice": 5115272
     },
     {
       "fuel": "Elektrik",
@@ -215,7 +215,7 @@
     {
       "transmission": "Otomatik",
       "count": 370,
-      "percentage": 69,
+      "percentage": 68.9,
       "avgPrice": 5969374
     },
     {
@@ -226,9 +226,9 @@
     },
     {
       "transmission": "Manuel",
-      "count": 40,
-      "percentage": 7.5,
-      "avgPrice": 1732053
+      "count": 41,
+      "percentage": 7.6,
+      "avgPrice": 1724929
     },
     {
       "transmission": "DCT",
@@ -248,33 +248,33 @@
       "segment": "budget",
       "min": 0,
       "max": 1500000,
-      "count": 25,
-      "percentage": 4.7
+      "count": 26,
+      "percentage": 4.8
     },
     {
       "segment": "mid",
       "min": 1500000,
       "max": 3000000,
       "count": 227,
-      "percentage": 42.4
+      "percentage": 42.3
     },
     {
       "segment": "premium",
       "min": 3000000,
       "max": 5000000,
       "count": 127,
-      "percentage": 23.7
+      "percentage": 23.6
     },
     {
       "segment": "luxury",
       "min": 5000000,
       "max": 0,
       "count": 157,
-      "percentage": 29.3
+      "percentage": 29.2
     }
   ],
   "otvStats": {
-    "avgOtvRate": 113.6,
+    "avgOtvRate": 113.4,
     "distribution": [
       {
         "rate": 1,
@@ -308,14 +308,14 @@
       },
       {
         "rate": 75,
-        "count": 38,
-        "percentage": 13.3,
-        "avgPrice": 6129912
+        "count": 39,
+        "percentage": 13.6,
+        "avgPrice": 6009658
       },
       {
         "rate": 80,
         "count": 15,
-        "percentage": 5.3,
+        "percentage": 5.2,
         "avgPrice": 2286160
       },
       {
@@ -333,19 +333,19 @@
       {
         "rate": 150,
         "count": 1,
-        "percentage": 0.4,
+        "percentage": 0.3,
         "avgPrice": 4924000
       },
       {
         "rate": 170,
         "count": 72,
-        "percentage": 25.3,
+        "percentage": 25.2,
         "avgPrice": 8667602
       },
       {
         "rate": 220,
         "count": 27,
-        "percentage": 9.5,
+        "percentage": 9.4,
         "avgPrice": 22415863
       }
     ],
@@ -388,7 +388,7 @@
       {
         "brand": "Dacia",
         "avgOtvRate": 73.8,
-        "count": 12
+        "count": 13
       },
       {
         "brand": "BYD",
@@ -401,9 +401,9 @@
     "distribution": [
       {
         "year": "2026",
-        "count": 324,
+        "count": 325,
         "percentage": 74,
-        "avgPrice": 4948311
+        "avgPrice": 4937517
       },
       {
         "year": "2025",
@@ -433,12 +433,12 @@
       },
       {
         "fuel": "Benzin",
-        "avgConsumption": 8.5,
+        "avgConsumption": 8.6,
         "count": 15
       },
       {
         "fuel": "Plug-in Hibrit",
-        "avgConsumption": 5.6,
+        "avgConsumption": 3.7,
         "count": 6
       }
     ]
