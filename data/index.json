@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T04:30:34.470Z",
+  "lastUpdated": "2026-07-27T04:32:12.643Z",
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
@@ -3298,6 +3298,7 @@
     "fiat": {
       "name": "Fiat",
       "availableDates": [
+        "2026-07-27",
         "2026-07-25",
         "2026-07-24",
         "2026-06-11",
@@ -3431,7 +3432,7 @@
         "2026-01-29",
         "2026-01-28"
       ],
-      "latestDate": "2026-07-25",
+      "latestDate": "2026-07-27",
       "totalRecords": 18
     }
   }
