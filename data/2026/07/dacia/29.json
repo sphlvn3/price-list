@@ -1,0 +1,381 @@
+{
+  "collectedAt": "2026-07-29T03:57:48.403Z",
+  "brand": "Dacia",
+  "brandId": "dacia",
+  "rowCount": 13,
+  "rows": [
+    {
+      "model": "Yeni Sandero",
+      "trim": "Essential",
+      "engine": "essential TCe 100",
+      "transmission": "Manuel",
+      "fuel": "Benzin",
+      "priceRaw": "₺1.238.000,00",
+      "priceNumeric": 1238000,
+      "brand": "Dacia",
+      "modelYear": "2025",
+      "otvRate": 70,
+      "netPrice": 579881.37,
+      "otvAmount": 405916.96,
+      "kdvAmount": 197159.67,
+      "optionalEquipment": [
+        {
+          "name": "Yedek Lastik",
+          "price": 12000
+        },
+        {
+          "name": "Metalik Renk",
+          "price": 13000
+        },
+        {
+          "name": "Konfor Paketi:Kol dayamalı orta yüksek konsol,suni deri direksiyon,10'' Multimedya,köpekbalığı anten",
+          "price": 55000
+        }
+      ],
+      "vehicleCategory": "Binek",
+      "powerHP": 100,
+      "engineType": "TCe"
+    },
+    {
+      "model": "Yeni Sandero",
+      "trim": "Essential",
+      "engine": "essential TCe 100",
+      "transmission": "Manuel",
+      "fuel": "Benzin",
+      "priceRaw": "₺1.298.999,99",
+      "priceNumeric": 1298999.99,
+      "brand": "Dacia",
+      "modelYear": "2026",
+      "otvRate": 70,
+      "netPrice": 609783.33,
+      "otvAmount": 426848.33,
+      "kdvAmount": 207326.33,
+      "optionalEquipment": [
+        {
+          "name": "Yedek Lastik",
+          "price": 12000
+        },
+        {
+          "name": "Metalik Renk",
+          "price": 13000
+        },
+        {
+          "name": "Konfor Paketi:Kol dayamalı orta yüksek konsol,suni deri direksiyon,10'' Multimedya,köpekbalığı anten",
+          "price": 55000
+        }
+      ],
+      "vehicleCategory": "Binek",
+      "powerHP": 100,
+      "engineType": "TCe"
+    },
+    {
+      "model": "Yeni Sandero",
+      "trim": "Expression",
+      "engine": "expression TCe 100",
+      "transmission": "Manuel",
+      "fuel": "Benzin",
+      "priceRaw": "₺1.338.000,00",
+      "priceNumeric": 1338000,
+      "brand": "Dacia",
+      "modelYear": "2025",
+      "otvRate": 70,
+      "netPrice": 628900.98,
+      "otvAmount": 440230.69,
+      "kdvAmount": 213826.33,
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 13000
+        },
+        {
+          "name": "Yedek Lastik",
+          "price": 12000
+        }
+      ],
+      "vehicleCategory": "Binek",
+      "powerHP": 100,
+      "engineType": "TCe"
+    },
+    {
+      "model": "Yeni Sandero",
+      "trim": "Expression",
+      "engine": "expression TCe 100",
+      "transmission": "Manuel",
+      "fuel": "Benzin",
+      "priceRaw": "₺1.433.000,01",
+      "priceNumeric": 1433000.01,
+      "brand": "Dacia",
+      "modelYear": "2026",
+      "otvRate": 75,
+      "netPrice": 655599.05,
+      "otvAmount": 491699.29,
+      "kdvAmount": 229459.67,
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 13000
+        },
+        {
+          "name": "Yedek Lastik",
+          "price": 12000
+        }
+      ],
+      "vehicleCategory": "Binek",
+      "powerHP": 100,
+      "engineType": "TCe"
+    },
+    {
+      "model": "Yeni Sandero Stepway",
+      "trim": "Expression",
+      "engine": "stepway expression Eco-G 120 auto",
+      "transmission": "Otomatik",
+      "fuel": "LPG",
+      "priceRaw": "₺1.756.000,00",
+      "priceNumeric": 1756000,
+      "brand": "Dacia",
+      "modelYear": "2026",
+      "otvRate": 75,
+      "netPrice": 809408.57,
+      "otvAmount": 607056.43,
+      "kdvAmount": 283293,
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 13000
+        },
+        {
+          "name": "16'' Tamia Aluminyum Jantlar",
+          "price": 32000
+        }
+      ],
+      "vehicleCategory": "Binek",
+      "powerHP": 120
+    },
+    {
+      "model": "Yeni Sandero Stepway",
+      "trim": "Extreme",
+      "engine": "stepway extreme Eco-G 120 auto",
+      "transmission": "Otomatik",
+      "fuel": "LPG",
+      "priceRaw": "₺1.820.999,99",
+      "priceNumeric": 1820999.99,
+      "brand": "Dacia",
+      "modelYear": "2026",
+      "otvRate": 75,
+      "netPrice": 840360.95,
+      "otvAmount": 630270.71,
+      "kdvAmount": 294126.33,
+      "optionalEquipment": [
+        {
+          "name": "Elektrikli Cam Tavan",
+          "price": 58000
+        },
+        {
+          "name": "Metalik Renk",
+          "price": 13000
+        },
+        {
+          "name": "Sürüş Paketi: Elektrikli katlanabilir yan aynalar, otomatik kısa/uzun farlar, çoklu görüş kamerası",
+          "price": 45000
+        },
+        {
+          "name": "Kablosuz Şarj",
+          "price": 8000
+        }
+      ],
+      "vehicleCategory": "Binek",
+      "powerHP": 120
+    },
+    {
+      "model": "Yeni Logan",
+      "trim": "Essential",
+      "engine": "essential TCe 100",
+      "transmission": "Manuel",
+      "fuel": "Benzin",
+      "priceRaw": "₺1.440.000,00",
+      "priceNumeric": 1440000,
+      "brand": "Dacia",
+      "modelYear": "2026",
+      "otvRate": 75,
+      "netPrice": 658932.38,
+      "otvAmount": 494199.29,
+      "kdvAmount": 230626.33,
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 13000
+        },
+        {
+          "name": "Yedek Lastik",
+          "price": 12000
+        }
+      ],
+      "vehicleCategory": "Binek",
+      "powerHP": 100,
+      "engineType": "TCe"
+    },
+    {
+      "model": "Yeni Logan",
+      "trim": "Expression",
+      "engine": "expression Eco-G 120 auto",
+      "transmission": "Otomatik",
+      "fuel": "LPG",
+      "priceRaw": "₺1.709.000,01",
+      "priceNumeric": 1709000.01,
+      "brand": "Dacia",
+      "modelYear": "2026",
+      "otvRate": 75,
+      "netPrice": 787027.62,
+      "otvAmount": 590270.72,
+      "kdvAmount": 275459.67,
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 13000
+        }
+      ],
+      "vehicleCategory": "Binek",
+      "powerHP": 120
+    },
+    {
+      "model": "Yeni Logan",
+      "trim": "Journey",
+      "engine": "journey Eco-G 120 auto",
+      "transmission": "Otomatik",
+      "fuel": "LPG",
+      "priceRaw": "₺1.784.000,00",
+      "priceNumeric": 1784000,
+      "brand": "Dacia",
+      "modelYear": "2026",
+      "otvRate": 75,
+      "netPrice": 822741.9,
+      "otvAmount": 617056.43,
+      "kdvAmount": 287959.67,
+      "optionalEquipment": [
+        {
+          "name": "Kablosuz Şarj",
+          "price": 8000
+        },
+        {
+          "name": "Metalik Renk",
+          "price": 13000
+        },
+        {
+          "name": "Sürüş Paketi: Elektrikli katlanabilir yan aynalar, otomatik kısa/uzun farlar, çoklu görüş kamerası",
+          "price": 35000
+        }
+      ],
+      "vehicleCategory": "Binek",
+      "powerHP": 120
+    },
+    {
+      "model": "Yeni Jogger",
+      "trim": "Extreme",
+      "engine": "extreme TCe 110 - 7 koltuklu",
+      "transmission": "Manuel",
+      "fuel": "Benzin",
+      "priceRaw": "₺1.600.000,01",
+      "priceNumeric": 1600000.01,
+      "brand": "Dacia",
+      "modelYear": "2026",
+      "otvRate": 75,
+      "netPrice": 735122.86,
+      "otvAmount": 551342.15,
+      "kdvAmount": 257293,
+      "optionalEquipment": [
+        {
+          "name": "Yedek Lastik",
+          "price": 14000
+        },
+        {
+          "name": "Metalik Renk",
+          "price": 15000
+        },
+        {
+          "name": "Sürüş Paketi: Elektrikli katlanabilir yan aynalar, otomatik kısa/uzun farlar, çoklu görüş kamerası",
+          "price": 45000
+        }
+      ],
+      "vehicleCategory": "Binek",
+      "powerHP": 110,
+      "engineType": "TCe"
+    },
+    {
+      "model": "Yeni Jogger",
+      "trim": "Extreme",
+      "engine": "extreme Eco-G 120 - 5 koltuklu",
+      "transmission": "Manuel",
+      "fuel": "LPG",
+      "priceRaw": "₺1.710.000,00",
+      "priceNumeric": 1710000,
+      "brand": "Dacia",
+      "modelYear": "2026",
+      "otvRate": 75,
+      "netPrice": 787503.81,
+      "otvAmount": 590627.86,
+      "kdvAmount": 275626.33,
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 15000
+        },
+        {
+          "name": "Sürüş Paketi: Elektrikli katlanabilir yan aynalar, otomatik kısa/uzun farlar, çoklu görüş kamerası",
+          "price": 45000
+        }
+      ],
+      "vehicleCategory": "Binek",
+      "powerHP": 120
+    },
+    {
+      "model": "Yeni Jogger",
+      "trim": "Extreme",
+      "engine": "extreme Eco-G 120 - 7 koltuklu",
+      "transmission": "Manuel",
+      "fuel": "LPG",
+      "priceRaw": "₺1.739.999,99",
+      "priceNumeric": 1739999.99,
+      "brand": "Dacia",
+      "modelYear": "2026",
+      "otvRate": 75,
+      "netPrice": 801789.52,
+      "otvAmount": 601342.14,
+      "kdvAmount": 280626.33,
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 15000
+        }
+      ],
+      "vehicleCategory": "Binek",
+      "powerHP": 120
+    },
+    {
+      "model": "Yeni Jogger",
+      "trim": "Extreme",
+      "engine": "extreme Eco-G 120 auto - 7 koltuklu",
+      "transmission": "Otomatik",
+      "fuel": "LPG",
+      "priceRaw": "₺1.830.000,00",
+      "priceNumeric": 1830000,
+      "brand": "Dacia",
+      "modelYear": "2026",
+      "otvRate": 75,
+      "netPrice": 844646.67,
+      "otvAmount": 633485,
+      "kdvAmount": 295626.33,
+      "optionalEquipment": [
+        {
+          "name": "Metalik Renk",
+          "price": 15000
+        },
+        {
+          "name": "Sürüş Paketi: Elektrikli katlanabilir yan aynalar, otomatik kısa/uzun farlar, çoklu görüş kamerası",
+          "price": 45000
+        }
+      ],
+      "vehicleCategory": "Binek",
+      "powerHP": 120
+    }
+  ]
+}
