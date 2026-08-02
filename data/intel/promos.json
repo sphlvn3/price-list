@@ -1,75 +1,262 @@
 {
-  "generatedAt": "2026-07-28T07:45:57.132Z",
-  "date": "2026-07-28",
+  "generatedAt": "2026-08-02T04:26:51.868Z",
+  "date": "2026-08-02",
   "summary": {
-    "totalPriceDrops": 9,
-    "totalRecentDrops": 7,
-    "avgDropPercent": 6,
-    "maxDropPercent": 9.25,
-    "brandsWithDrops": 4
+    "totalPriceDrops": 7,
+    "totalRecentDrops": 9,
+    "avgDropPercent": 7.75,
+    "maxDropPercent": 9.75,
+    "brandsWithDrops": 3
   },
   "priceDrops": [
     {
-      "id": "mercedes-c-200-4matic-amg-1.5l-204-hp",
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "C 200 4MATIC",
-      "trim": "AMG",
-      "engine": "1.5L 204 HP",
+      "id": "toyota-corolla-1.5-flame-x-pack-multidrive-s-1.5",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "COROLLA",
+      "trim": "1.5 Flame X-Pack Multidrive S",
+      "engine": "1.5",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "currentPrice": 5770000,
-      "currentPriceFormatted": "₺5.770.000",
-      "peakPrice": 6358000,
-      "peakPriceFormatted": "₺6.358.000",
-      "peakDate": "2026-06-29",
-      "dropAmount": 588000,
-      "dropPercent": 9.25,
+      "currentPrice": 1999000,
+      "currentPriceFormatted": "₺1.999.000",
+      "peakPrice": 2215000,
+      "peakPriceFormatted": "₺2.215.000",
+      "peakDate": "2026-07-04",
+      "dropAmount": 216000,
+      "dropPercent": 9.75,
       "daysSincePeak": 29,
       "priceHistory": [
         {
           "date": "2026-07-24",
-          "price": 6358000
-        },
-        {
-          "date": "2026-07-24",
-          "price": 5770000
+          "price": 2215000
         },
         {
           "date": "2026-07-25",
-          "price": 6358000
-        },
-        {
-          "date": "2026-07-25",
-          "price": 5770000
+          "price": 2215000
         },
         {
           "date": "2026-07-26",
-          "price": 6358000
-        },
-        {
-          "date": "2026-07-26",
-          "price": 5770000
+          "price": 2215000
         },
         {
           "date": "2026-07-27",
-          "price": 6358000
-        },
-        {
-          "date": "2026-07-27",
-          "price": 5770000
+          "price": 2215000
         },
         {
           "date": "2026-07-28",
-          "price": 6358000
+          "price": 2215000
         },
         {
-          "date": "2026-07-28",
-          "price": 5770000
+          "date": "2026-07-29",
+          "price": 2215000
+        },
+        {
+          "date": "2026-07-30",
+          "price": 2215000
+        },
+        {
+          "date": "2026-07-31",
+          "price": 2215000
+        },
+        {
+          "date": "2026-08-01",
+          "price": 2215000
+        },
+        {
+          "date": "2026-08-02",
+          "price": 1999000
         }
       ],
-      "listPrice": 2649167,
-      "otvRate": 100
+      "listPrice": 2963000,
+      "campaignPrice": 1999000,
+      "campaignDiscount": 32.5
+    },
+    {
+      "id": "toyota-corolla-1.5-dream-x-pack-multidrive-s-1.5",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "COROLLA",
+      "trim": "1.5 Dream X-Pack Multidrive S",
+      "engine": "1.5",
+      "fuel": "Benzin",
+      "transmission": "Otomatik",
+      "currentPrice": 1950000,
+      "currentPriceFormatted": "₺1.950.000",
+      "peakPrice": 2160000,
+      "peakPriceFormatted": "₺2.160.000",
+      "peakDate": "2026-07-04",
+      "dropAmount": 210000,
+      "dropPercent": 9.72,
+      "daysSincePeak": 29,
+      "priceHistory": [
+        {
+          "date": "2026-07-24",
+          "price": 2160000
+        },
+        {
+          "date": "2026-07-25",
+          "price": 2160000
+        },
+        {
+          "date": "2026-07-26",
+          "price": 2160000
+        },
+        {
+          "date": "2026-07-27",
+          "price": 2160000
+        },
+        {
+          "date": "2026-07-28",
+          "price": 2160000
+        },
+        {
+          "date": "2026-07-29",
+          "price": 2160000
+        },
+        {
+          "date": "2026-07-30",
+          "price": 2160000
+        },
+        {
+          "date": "2026-07-31",
+          "price": 2160000
+        },
+        {
+          "date": "2026-08-01",
+          "price": 2160000
+        },
+        {
+          "date": "2026-08-02",
+          "price": 1950000
+        }
+      ],
+      "listPrice": 2753000,
+      "campaignPrice": 1950000,
+      "campaignDiscount": 29.2
+    },
+    {
+      "id": "toyota-corolla-1.8-hybrid-flame-x-pack-e-cvt-1.8",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "COROLLA",
+      "trim": "1.8 Hybrid Flame X-Pack e-CVT",
+      "engine": "1.8",
+      "fuel": "Hibrit",
+      "transmission": "Otomatik",
+      "currentPrice": 2500000,
+      "currentPriceFormatted": "₺2.500.000",
+      "peakPrice": 2717000,
+      "peakPriceFormatted": "₺2.717.000",
+      "peakDate": "2026-07-04",
+      "dropAmount": 217000,
+      "dropPercent": 7.99,
+      "daysSincePeak": 29,
+      "priceHistory": [
+        {
+          "date": "2026-07-24",
+          "price": 2717000
+        },
+        {
+          "date": "2026-07-25",
+          "price": 2717000
+        },
+        {
+          "date": "2026-07-26",
+          "price": 2717000
+        },
+        {
+          "date": "2026-07-27",
+          "price": 2717000
+        },
+        {
+          "date": "2026-07-28",
+          "price": 2717000
+        },
+        {
+          "date": "2026-07-29",
+          "price": 2717000
+        },
+        {
+          "date": "2026-07-30",
+          "price": 2717000
+        },
+        {
+          "date": "2026-07-31",
+          "price": 2717000
+        },
+        {
+          "date": "2026-08-01",
+          "price": 2717000
+        },
+        {
+          "date": "2026-08-02",
+          "price": 2500000
+        }
+      ],
+      "campaignPrice": 2500000
+    },
+    {
+      "id": "kia-stonic-cool-100-ps",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "Stonic",
+      "trim": "Cool",
+      "engine": "100 PS",
+      "fuel": "Benzin",
+      "transmission": "Otomatik",
+      "currentPrice": 1960000,
+      "currentPriceFormatted": "₺1.960.000",
+      "peakPrice": 2130000,
+      "peakPriceFormatted": "₺2.130.000",
+      "peakDate": "2026-07-04",
+      "dropAmount": 170000,
+      "dropPercent": 7.98,
+      "daysSincePeak": 29,
+      "priceHistory": [
+        {
+          "date": "2026-07-27",
+          "price": 2130000
+        },
+        {
+          "date": "2026-07-28",
+          "price": 1999000
+        },
+        {
+          "date": "2026-07-28",
+          "price": 2130000
+        },
+        {
+          "date": "2026-07-29",
+          "price": 1999000
+        },
+        {
+          "date": "2026-07-29",
+          "price": 2130000
+        },
+        {
+          "date": "2026-07-30",
+          "price": 1999000
+        },
+        {
+          "date": "2026-07-30",
+          "price": 2130000
+        },
+        {
+          "date": "2026-07-31",
+          "price": 1999000
+        },
+        {
+          "date": "2026-07-31",
+          "price": 2130000
+        },
+        {
+          "date": "2026-08-02",
+          "price": 1960000
+        }
+      ],
+      "listPrice": 866928.1,
+      "campaignPrice": 1830000
     },
     {
       "id": "fiat-topolino-topolino-6-kw/8-hp---5.5kwh",
@@ -84,10 +271,10 @@
       "currentPriceFormatted": "₺544.900",
       "peakPrice": 584900,
       "peakPriceFormatted": "₺584.900",
-      "peakDate": "2026-05-17",
+      "peakDate": "2026-05-18",
       "dropAmount": 40000,
       "dropPercent": 6.84,
-      "daysSincePeak": 19,
+      "daysSincePeak": 18,
       "priceHistory": [
         {
           "date": "2026-06-01",
@@ -147,10 +334,10 @@
       "currentPriceFormatted": "₺589.900",
       "peakPrice": 629900,
       "peakPriceFormatted": "₺629.900",
-      "peakDate": "2026-05-17",
+      "peakDate": "2026-05-18",
       "dropAmount": 40000,
       "dropPercent": 6.35,
-      "daysSincePeak": 19,
+      "daysSincePeak": 18,
       "priceHistory": [
         {
           "date": "2026-06-01",
@@ -210,36 +397,12 @@
       "currentPriceFormatted": "₺2.345.000",
       "peakPrice": 2485000,
       "peakPriceFormatted": "₺2.485.000",
-      "peakDate": "2026-06-29",
+      "peakDate": "2026-07-04",
       "dropAmount": 140000,
       "dropPercent": 5.63,
-      "daysSincePeak": 29,
+      "daysSincePeak": 27,
       "priceHistory": [
         {
-          "date": "2026-07-24",
-          "price": 2485000
-        },
-        {
-          "date": "2026-07-24",
-          "price": 2345000
-        },
-        {
-          "date": "2026-07-25",
-          "price": 2485000
-        },
-        {
-          "date": "2026-07-25",
-          "price": 2345000
-        },
-        {
-          "date": "2026-07-26",
-          "price": 2485000
-        },
-        {
-          "date": "2026-07-26",
-          "price": 2345000
-        },
-        {
           "date": "2026-07-27",
           "price": 2485000
         },
@@ -253,343 +416,102 @@
         },
         {
           "date": "2026-07-28",
+          "price": 2345000
+        },
+        {
+          "date": "2026-07-29",
+          "price": 2485000
+        },
+        {
+          "date": "2026-07-29",
+          "price": 2345000
+        },
+        {
+          "date": "2026-07-30",
+          "price": 2485000
+        },
+        {
+          "date": "2026-07-30",
+          "price": 2345000
+        },
+        {
+          "date": "2026-07-31",
+          "price": 2485000
+        },
+        {
+          "date": "2026-07-31",
           "price": 2345000
         }
       ],
       "listPrice": 1648481.91,
       "campaignPrice": 2485000
-    },
-    {
-      "id": "toyota-proace-max-2.2d-140-hp-m/t-13-m³-2.2",
-      "brand": "Toyota",
-      "brandId": "toyota",
-      "model": "Proace Max",
-      "trim": "2.2D 140 HP M/T 13 M³",
-      "engine": "2.2",
-      "fuel": "Dizel",
-      "transmission": "Düz",
-      "currentPrice": 1726500,
-      "currentPriceFormatted": "₺1.726.500",
-      "peakPrice": 1824000,
-      "peakPriceFormatted": "₺1.824.000",
-      "peakDate": "2026-06-29",
-      "dropAmount": 97500,
-      "dropPercent": 5.35,
-      "daysSincePeak": 29,
-      "priceHistory": [
-        {
-          "date": "2026-07-19",
-          "price": 1726500
-        },
-        {
-          "date": "2026-07-20",
-          "price": 1726500
-        },
-        {
-          "date": "2026-07-21",
-          "price": 1726500
-        },
-        {
-          "date": "2026-07-22",
-          "price": 1726500
-        },
-        {
-          "date": "2026-07-23",
-          "price": 1726500
-        },
-        {
-          "date": "2026-07-24",
-          "price": 1726500
-        },
-        {
-          "date": "2026-07-25",
-          "price": 1726500
-        },
-        {
-          "date": "2026-07-26",
-          "price": 1726500
-        },
-        {
-          "date": "2026-07-27",
-          "price": 1726500
-        },
-        {
-          "date": "2026-07-28",
-          "price": 1726500
-        }
-      ],
-      "listPrice": 1950000,
-      "campaignPrice": 1726500,
-      "campaignDiscount": 11.5
-    },
-    {
-      "id": "toyota-proace-verso-2.2-d-180-hp-passion-a/t-2",
-      "brand": "Toyota",
-      "brandId": "toyota",
-      "model": "Proace Verso",
-      "trim": "2.2 D 180 HP Passion A/T",
-      "engine": "2",
-      "fuel": "Dizel",
-      "transmission": "Otomatik",
-      "currentPrice": 2312500,
-      "currentPriceFormatted": "₺2.312.500",
-      "peakPrice": 2439000,
-      "peakPriceFormatted": "₺2.439.000",
-      "peakDate": "2026-06-29",
-      "dropAmount": 126500,
-      "dropPercent": 5.19,
-      "daysSincePeak": 29,
-      "priceHistory": [
-        {
-          "date": "2026-07-19",
-          "price": 2312500
-        },
-        {
-          "date": "2026-07-20",
-          "price": 2312500
-        },
-        {
-          "date": "2026-07-21",
-          "price": 2312500
-        },
-        {
-          "date": "2026-07-22",
-          "price": 2312500
-        },
-        {
-          "date": "2026-07-23",
-          "price": 2312500
-        },
-        {
-          "date": "2026-07-24",
-          "price": 2312500
-        },
-        {
-          "date": "2026-07-25",
-          "price": 2312500
-        },
-        {
-          "date": "2026-07-26",
-          "price": 2312500
-        },
-        {
-          "date": "2026-07-27",
-          "price": 2312500
-        },
-        {
-          "date": "2026-07-28",
-          "price": 2312500
-        }
-      ],
-      "listPrice": 2495500,
-      "campaignPrice": 2312500,
-      "campaignDiscount": 7.3
-    },
-    {
-      "id": "toyota-proace-max-2.2d-180-hp-m/t-15-m³-2.2",
-      "brand": "Toyota",
-      "brandId": "toyota",
-      "model": "Proace Max",
-      "trim": "2.2D 180 HP M/T 15 M³",
-      "engine": "2.2",
-      "fuel": "Dizel",
-      "transmission": "Düz",
-      "currentPrice": 1804000,
-      "currentPriceFormatted": "₺1.804.000",
-      "peakPrice": 1901500,
-      "peakPriceFormatted": "₺1.901.500",
-      "peakDate": "2026-06-29",
-      "dropAmount": 97500,
-      "dropPercent": 5.13,
-      "daysSincePeak": 29,
-      "priceHistory": [
-        {
-          "date": "2026-07-19",
-          "price": 1804000
-        },
-        {
-          "date": "2026-07-20",
-          "price": 1804000
-        },
-        {
-          "date": "2026-07-21",
-          "price": 1804000
-        },
-        {
-          "date": "2026-07-22",
-          "price": 1804000
-        },
-        {
-          "date": "2026-07-23",
-          "price": 1804000
-        },
-        {
-          "date": "2026-07-24",
-          "price": 1804000
-        },
-        {
-          "date": "2026-07-25",
-          "price": 1804000
-        },
-        {
-          "date": "2026-07-26",
-          "price": 1804000
-        },
-        {
-          "date": "2026-07-27",
-          "price": 1804000
-        },
-        {
-          "date": "2026-07-28",
-          "price": 1804000
-        }
-      ],
-      "listPrice": 2025500,
-      "campaignPrice": 1804000,
-      "campaignDiscount": 10.9
-    },
-    {
-      "id": "toyota-proace-max-kamyonet-2.2-d-140-hp-l4-kasalı-m/t-2.2",
-      "brand": "Toyota",
-      "brandId": "toyota",
-      "model": "Proace Max Kamyonet",
-      "trim": "2.2 D 140 HP L4 Kasalı M/T",
-      "engine": "2.2",
-      "fuel": "Dizel",
-      "transmission": "Düz",
-      "currentPrice": 1804000,
-      "currentPriceFormatted": "₺1.804.000",
-      "peakPrice": 1901500,
-      "peakPriceFormatted": "₺1.901.500",
-      "peakDate": "2026-06-29",
-      "dropAmount": 97500,
-      "dropPercent": 5.13,
-      "daysSincePeak": 29,
-      "priceHistory": [
-        {
-          "date": "2026-07-19",
-          "price": 1804000
-        },
-        {
-          "date": "2026-07-20",
-          "price": 1804000
-        },
-        {
-          "date": "2026-07-21",
-          "price": 1804000
-        },
-        {
-          "date": "2026-07-22",
-          "price": 1804000
-        },
-        {
-          "date": "2026-07-23",
-          "price": 1804000
-        },
-        {
-          "date": "2026-07-24",
-          "price": 1804000
-        },
-        {
-          "date": "2026-07-25",
-          "price": 1804000
-        },
-        {
-          "date": "2026-07-26",
-          "price": 1804000
-        },
-        {
-          "date": "2026-07-27",
-          "price": 1804000
-        },
-        {
-          "date": "2026-07-28",
-          "price": 1804000
-        }
-      ],
-      "listPrice": 2059000,
-      "campaignPrice": 1804000,
-      "campaignDiscount": 12.4
-    },
-    {
-      "id": "toyota-proace-verso-2.2-d-180-hp-passion-x-pack-a/t-2",
-      "brand": "Toyota",
-      "brandId": "toyota",
-      "model": "Proace Verso",
-      "trim": "2.2 D 180 HP Passion X-Pack A/T",
-      "engine": "2",
-      "fuel": "Dizel",
-      "transmission": "Otomatik",
-      "currentPrice": 2380500,
-      "currentPriceFormatted": "₺2.380.500",
-      "peakPrice": 2509000,
-      "peakPriceFormatted": "₺2.509.000",
-      "peakDate": "2026-06-29",
-      "dropAmount": 128500,
-      "dropPercent": 5.12,
-      "daysSincePeak": 29,
-      "priceHistory": [
-        {
-          "date": "2026-07-19",
-          "price": 2380500
-        },
-        {
-          "date": "2026-07-20",
-          "price": 2380500
-        },
-        {
-          "date": "2026-07-21",
-          "price": 2380500
-        },
-        {
-          "date": "2026-07-22",
-          "price": 2380500
-        },
-        {
-          "date": "2026-07-23",
-          "price": 2380500
-        },
-        {
-          "date": "2026-07-24",
-          "price": 2380500
-        },
-        {
-          "date": "2026-07-25",
-          "price": 2380500
-        },
-        {
-          "date": "2026-07-26",
-          "price": 2380500
-        },
-        {
-          "date": "2026-07-27",
-          "price": 2380500
-        },
-        {
-          "date": "2026-07-28",
-          "price": 2380500
-        }
-      ],
-      "listPrice": 2568500,
-      "campaignPrice": 2380500,
-      "campaignDiscount": 7.3
     }
   ],
   "recentDrops": [
     {
-      "id": "mercedes-c-200-4matic-amg-1.5l-204-hp-recent",
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "C 200 4MATIC",
-      "trim": "AMG",
-      "engine": "1.5L 204 HP",
-      "currentPrice": 5770000,
-      "previousPrice": 6358000,
-      "dropAmount": 588000,
-      "dropPercent": 9.25,
-      "date": "2026-07-28",
-      "previousDate": "2026-07-28",
-      "listPrice": 2649167
+      "id": "toyota-corolla-1.5-flame-x-pack-multidrive-s-1.5-recent",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "COROLLA",
+      "trim": "1.5 Flame X-Pack Multidrive S",
+      "engine": "1.5",
+      "currentPrice": 1999000,
+      "previousPrice": 2215000,
+      "dropAmount": 216000,
+      "dropPercent": 9.75,
+      "date": "2026-08-02",
+      "previousDate": "2026-08-01",
+      "listPrice": 2963000,
+      "campaignPrice": 1999000,
+      "campaignDiscount": 32.5
+    },
+    {
+      "id": "toyota-corolla-1.5-dream-x-pack-multidrive-s-1.5-recent",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "COROLLA",
+      "trim": "1.5 Dream X-Pack Multidrive S",
+      "engine": "1.5",
+      "currentPrice": 1950000,
+      "previousPrice": 2160000,
+      "dropAmount": 210000,
+      "dropPercent": 9.72,
+      "date": "2026-08-02",
+      "previousDate": "2026-08-01",
+      "listPrice": 2753000,
+      "campaignPrice": 1950000,
+      "campaignDiscount": 29.2
+    },
+    {
+      "id": "toyota-corolla-1.8-hybrid-flame-x-pack-e-cvt-1.8-recent",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "COROLLA",
+      "trim": "1.8 Hybrid Flame X-Pack e-CVT",
+      "engine": "1.8",
+      "currentPrice": 2500000,
+      "previousPrice": 2717000,
+      "dropAmount": 217000,
+      "dropPercent": 7.99,
+      "date": "2026-08-02",
+      "previousDate": "2026-08-01",
+      "campaignPrice": 2500000
+    },
+    {
+      "id": "kia-stonic-cool-100-ps-recent",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "Stonic",
+      "trim": "Cool",
+      "engine": "100 PS",
+      "currentPrice": 1960000,
+      "previousPrice": 2130000,
+      "dropAmount": 170000,
+      "dropPercent": 7.98,
+      "date": "2026-08-02",
+      "previousDate": "2026-07-31",
+      "listPrice": 866928.1,
+      "campaignPrice": 1830000
     },
     {
       "id": "fiat-topolino-topolino-6-kw/8-hp---5.5kwh-recent",
@@ -636,25 +558,10 @@
       "previousPrice": 2485000,
       "dropAmount": 140000,
       "dropPercent": 5.63,
-      "date": "2026-07-28",
-      "previousDate": "2026-07-28",
+      "date": "2026-07-31",
+      "previousDate": "2026-07-31",
       "listPrice": 1648481.91,
       "campaignPrice": 2485000
-    },
-    {
-      "id": "mercedes-cla-220-4matic-amg-1.5l-190-hp-recent",
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "CLA 220 4MATIC",
-      "trim": "AMG",
-      "engine": "1.5L 190 HP",
-      "currentPrice": 4643000,
-      "previousPrice": 4873000,
-      "dropAmount": 230000,
-      "dropPercent": 4.72,
-      "date": "2026-07-28",
-      "previousDate": "2026-07-28",
-      "listPrice": 2030417
     },
     {
       "id": "fiat-grande-panda-elektrikli-la-prima-83-kw/113-hp-44-kwh-recent",
@@ -667,8 +574,8 @@
       "previousPrice": 1440000,
       "dropAmount": 50000,
       "dropPercent": 3.47,
-      "date": "2026-07-28",
-      "previousDate": "2026-07-28",
+      "date": "2026-08-02",
+      "previousDate": "2026-08-02",
       "listPrice": 1584900,
       "campaignPrice": 1440000,
       "campaignDiscount": 9.1
@@ -695,26 +602,20 @@
     {
       "brandId": "toyota",
       "brand": "Toyota",
-      "dropCount": 5,
-      "avgDropPercent": 5.18
+      "dropCount": 3,
+      "avgDropPercent": 9.15
+    },
+    {
+      "brandId": "kia",
+      "brand": "Kia",
+      "dropCount": 2,
+      "avgDropPercent": 6.81
     },
     {
       "brandId": "fiat",
       "brand": "Fiat",
       "dropCount": 2,
       "avgDropPercent": 6.59
-    },
-    {
-      "brandId": "mercedes",
-      "brand": "Mercedes-Benz",
-      "dropCount": 1,
-      "avgDropPercent": 9.25
-    },
-    {
-      "brandId": "kia",
-      "brand": "Kia",
-      "dropCount": 1,
-      "avgDropPercent": 5.63
     }
   ]
 }
