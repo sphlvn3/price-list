@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-06T03:59:45.121Z",
+  "generatedAt": "2026-08-07T03:44:38.238Z",
   "totalVehicles": 529,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -2553,7 +2553,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -3430,7 +3430,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -4023,7 +4023,7 @@
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "i20",
@@ -4456,7 +4456,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "E-208",
@@ -4857,7 +4857,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "SEAL",
@@ -4940,7 +4940,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5178,7 +5178,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5714,7 +5714,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -5727,6 +5727,7 @@
           "brand": "BMW",
           "fuelConsumption": "5,9",
           "otvRate": 90,
+          "monthlyLease": 86071,
           "powerHP": 156,
           "powerHPSecondary": 20,
           "engineDisplacement": "1.5L",
@@ -5744,6 +5745,7 @@
           "brand": "BMW",
           "fuelConsumption": "5,9",
           "otvRate": 100,
+          "monthlyLease": 98979,
           "powerHP": 156,
           "powerHPSecondary": 20,
           "engineDisplacement": "1.5L",
@@ -5761,6 +5763,7 @@
           "brand": "BMW",
           "fuelConsumption": "5,7",
           "otvRate": 100,
+          "monthlyLease": 89713,
           "powerHP": 156,
           "powerHPSecondary": 20,
           "engineDisplacement": "1.5L",
@@ -5778,6 +5781,7 @@
           "brand": "BMW",
           "fuelConsumption": "5,7",
           "otvRate": 100,
+          "monthlyLease": 95654,
           "powerHP": 156,
           "powerHPSecondary": 20,
           "engineDisplacement": "1.5L",
@@ -5879,6 +5883,7 @@
           "brand": "BMW",
           "fuelConsumption": "7,6",
           "otvRate": 100,
+          "monthlyLease": 102498,
           "powerHP": 170,
           "engineDisplacement": "1.6L"
         },
@@ -5936,6 +5941,7 @@
           "brand": "BMW",
           "fuelConsumption": "7,8",
           "otvRate": 100,
+          "monthlyLease": 179778,
           "powerHP": 170,
           "engineDisplacement": "1.6L"
         },
@@ -6007,6 +6013,7 @@
           "modelYear": 2023,
           "fuelConsumption": "7,0",
           "otvRate": 100,
+          "monthlyLease": 165143,
           "powerHP": 190,
           "powerHPSecondary": 11,
           "engineDisplacement": "1.6L",
@@ -6081,6 +6088,7 @@
           "modelYear": 2023,
           "fuelConsumption": "17,9",
           "otvRate": 55,
+          "monthlyLease": 156008,
           "powerHP": 218,
           "isElectric": true
         },
@@ -6208,6 +6216,7 @@
           "brand": "BMW",
           "fuelConsumption": "20,0",
           "otvRate": 75,
+          "monthlyLease": 483812,
           "powerHP": 544,
           "isElectric": true,
           "driveType": "AWD"
@@ -6288,6 +6297,7 @@
           "brand": "BMW",
           "fuelConsumption": "6,1",
           "otvRate": 100,
+          "monthlyLease": 91223,
           "powerHP": 156,
           "powerHPSecondary": 20,
           "engineDisplacement": "1.5L",
@@ -6306,6 +6316,7 @@
           "brand": "BMW",
           "fuelConsumption": "6,1",
           "otvRate": 100,
+          "monthlyLease": 106351,
           "powerHP": 156,
           "powerHPSecondary": 20,
           "engineDisplacement": "1.5L",
@@ -6338,6 +6349,7 @@
           "brand": "BMW",
           "fuelConsumption": "16,0",
           "otvRate": 55,
+          "monthlyLease": 121427,
           "powerHP": 204,
           "isElectric": true
         },
@@ -6352,6 +6364,7 @@
           "brand": "BMW",
           "fuelConsumption": "16,0",
           "otvRate": 55,
+          "monthlyLease": 125977,
           "powerHP": 204,
           "isElectric": true
         },
@@ -6696,7 +6709,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "A 200",
@@ -7391,7 +7404,7 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "Puma",
@@ -8497,7 +8510,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -8725,6 +8738,10 @@
           "kdvAmount": 275459.67,
           "optionalEquipment": [
             {
+              "name": "Özel Renk",
+              "price": 13000
+            },
+            {
               "name": "Metalik Renk",
               "price": 13000
             }
@@ -8750,6 +8767,10 @@
             {
               "name": "Kablosuz Şarj",
               "price": 8000
+            },
+            {
+              "name": "Özel Renk",
+              "price": 13000
             },
             {
               "name": "Metalik Renk",
@@ -8899,7 +8920,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -9343,7 +9364,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "Jazz Hybrid",
@@ -9449,7 +9470,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "Ibiza",
@@ -9555,7 +9576,7 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "Picanto",
@@ -9908,7 +9929,7 @@
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "EX30",
@@ -10473,7 +10494,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "vehicles": [
         {
           "model": "Egea Sedan",
