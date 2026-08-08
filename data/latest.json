@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-07T03:44:38.238Z",
+  "generatedAt": "2026-08-08T02:57:59.469Z",
   "totalVehicles": 529,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -2553,7 +2553,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -3430,7 +3430,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -4023,7 +4023,7 @@
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "i20",
@@ -4456,7 +4456,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "E-208",
@@ -4857,7 +4857,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "SEAL",
@@ -4940,7 +4940,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5178,7 +5178,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5714,7 +5714,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -6709,7 +6709,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "A 200",
@@ -7404,7 +7404,7 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "Puma",
@@ -8510,7 +8510,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -8920,7 +8920,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -9364,7 +9364,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "Jazz Hybrid",
@@ -9470,7 +9470,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "Ibiza",
@@ -9576,7 +9576,7 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "Picanto",
@@ -9929,7 +9929,7 @@
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "EX30",
@@ -10494,7 +10494,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "vehicles": [
         {
           "model": "Egea Sedan",
