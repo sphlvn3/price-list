@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-08T02:57:59.484Z",
+  "generatedAt": "2026-08-09T03:06:03.751Z",
   "totalVehicles": 529,
   "overallStats": {
-    "avgPrice": 5071193,
+    "avgPrice": 5071305,
     "minPrice": 590000,
     "maxPrice": 38034000,
     "medianPrice": 3126000
@@ -75,10 +75,10 @@
     {
       "name": "Ford",
       "vehicleCount": 29,
-      "avgPrice": 2846283,
+      "avgPrice": 2848331,
       "minPrice": 1897100,
       "maxPrice": 4330000,
-      "medianPrice": 2720500
+      "medianPrice": 2745700
     },
     {
       "name": "Renault",
@@ -166,7 +166,7 @@
       "fuel": "Benzin",
       "count": 192,
       "percentage": 36.3,
-      "avgPrice": 5148493
+      "avgPrice": 5148803
     },
     {
       "fuel": "Elektrik",
@@ -216,7 +216,7 @@
       "transmission": "Otomatik",
       "count": 361,
       "percentage": 68.2,
-      "avgPrice": 5962773
+      "avgPrice": 5962863
     },
     {
       "transmission": "DSG",
@@ -228,7 +228,7 @@
       "transmission": "Manuel",
       "count": 42,
       "percentage": 7.9,
-      "avgPrice": 1733621
+      "avgPrice": 1734267
     },
     {
       "transmission": "DCT",
@@ -403,7 +403,7 @@
         "year": "2026",
         "count": 330,
         "percentage": 76.2,
-        "avgPrice": 4909628
+        "avgPrice": 4909808
       },
       {
         "year": "2025",

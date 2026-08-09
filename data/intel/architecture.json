@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T02:58:01.929Z",
-  "date": "2026-08-08",
+  "generatedAt": "2026-08-09T03:06:06.217Z",
+  "date": "2026-08-09",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -6424,10 +6424,10 @@
         },
         {
           "trim": "Deluxe",
-          "price": 2718600,
-          "priceFormatted": "2.718.600 TL",
-          "stepFromBase": 393800,
-          "stepPercent": 16.93909153475568,
+          "price": 2745700,
+          "priceFormatted": "2.745.700 TL",
+          "stepFromBase": 420900,
+          "stepPercent": 18.104783207157602,
           "engine": "1.0L EcoBoost 125PS",
           "transmission": "Manuel",
           "fuel": "Benzin"
@@ -6444,19 +6444,19 @@
         },
         {
           "trim": "Titanium",
-          "price": 3238100,
-          "priceFormatted": "3.238.100 TL",
-          "stepFromBase": 913300,
-          "stepPercent": 39.28509979353063,
+          "price": 3270400,
+          "priceFormatted": "3.270.400 TL",
+          "stepFromBase": 945600,
+          "stepPercent": 40.674466620784585,
           "engine": "1.0L EcoBoost 125PS",
           "transmission": "Otomatik",
           "fuel": "Benzin"
         }
       ],
       "basePrice": 2324800,
-      "topPrice": 3238100,
-      "priceSpread": 913300,
-      "priceSpreadPercent": 39.29,
+      "topPrice": 3270400,
+      "priceSpread": 945600,
+      "priceSpreadPercent": 40.67,
       "trimCount": 4
     },
     {
@@ -8645,9 +8645,9 @@
           "brandId": "ford",
           "model": "Tourneo Courier Journey",
           "basePrice": 2324800,
-          "topPrice": 3238100,
+          "topPrice": 3270400,
           "basePriceFormatted": "₺2.324.800",
-          "topPriceFormatted": "₺3.238.100",
+          "topPriceFormatted": "₺3.270.400",
           "trimCount": 4
         },
         {
@@ -9512,7 +9512,7 @@
         }
       ],
       "avgBasePrice": 8068573,
-      "avgTopPrice": 8299511
+      "avgTopPrice": 8299778
     },
     {
       "segment": "SUV",
@@ -10643,7 +10643,7 @@
   "summary": {
     "totalModels": 231,
     "avgTrimsPerModel": 2.3,
-    "avgPriceSpread": 376498,
-    "avgPriceSpreadPercent": 13.16
+    "avgPriceSpread": 376638,
+    "avgPriceSpreadPercent": 13.17
   }
 }

@@ -1,22 +1,62 @@
 {
-  "generatedAt": "2026-08-08T02:58:01.556Z",
-  "date": "2026-08-08",
-  "previousDate": "2026-08-07",
+  "generatedAt": "2026-08-09T03:06:05.845Z",
+  "date": "2026-08-09",
+  "previousDate": "2026-08-08",
   "dateRange": {
     "start": "2026-01-28",
-    "end": "2026-08-08",
-    "totalDays": 193
+    "end": "2026-08-09",
+    "totalDays": 194
   },
   "summary": {
-    "totalEvents": 2271,
+    "totalEvents": 2273,
     "newVehicles": 497,
     "removedVehicles": 482,
-    "priceIncreases": 1119,
+    "priceIncreases": 1121,
     "priceDecreases": 173,
-    "avgPriceChange": 100428,
+    "avgPriceChange": 100319,
     "avgPriceChangePercent": 1.74
   },
   "events": [
+    {
+      "id": "ford-tourneo-courier-journey-deluxe-1.0l-ecoboost-125ps-price_increase-2026-08-09",
+      "type": "price_increase",
+      "vehicleId": "ford-tourneo-courier-journey-deluxe-1.0l-ecoboost-125ps",
+      "brand": "Ford",
+      "brandId": "ford",
+      "model": "Tourneo Courier Journey",
+      "trim": "Deluxe",
+      "engine": "1.0L EcoBoost 125PS",
+      "fuel": "Benzin",
+      "transmission": "Manuel",
+      "oldPrice": 2718600,
+      "newPrice": 2745700,
+      "oldPriceFormatted": "2.718.600 TL",
+      "newPriceFormatted": "2.745.700 TL",
+      "priceChange": 27100,
+      "priceChangePercent": 1,
+      "date": "2026-08-09",
+      "previousDate": "2026-08-08"
+    },
+    {
+      "id": "ford-tourneo-courier-journey-titanium-1.0l-ecoboost-125ps-price_increase-2026-08-09",
+      "type": "price_increase",
+      "vehicleId": "ford-tourneo-courier-journey-titanium-1.0l-ecoboost-125ps",
+      "brand": "Ford",
+      "brandId": "ford",
+      "model": "Tourneo Courier Journey",
+      "trim": "Titanium",
+      "engine": "1.0L EcoBoost 125PS",
+      "fuel": "Benzin",
+      "transmission": "Otomatik",
+      "oldPrice": 3238100,
+      "newPrice": 3270400,
+      "oldPriceFormatted": "3.238.100 TL",
+      "newPriceFormatted": "3.270.400 TL",
+      "priceChange": 32300,
+      "priceChangePercent": 1,
+      "date": "2026-08-09",
+      "previousDate": "2026-08-08"
+    },
     {
       "id": "opel-grandland-edition-hybrid-1.2-145-(136hp)³-price_decrease-2026-08-05",
       "type": "price_decrease",
@@ -41118,6 +41158,15 @@
         "decreaseCount": 0
       },
       {
+        "id": "ford",
+        "name": "Ford",
+        "changeCount": 40,
+        "avgChange": 100038,
+        "avgChangePercent": 4.06,
+        "increaseCount": 37,
+        "decreaseCount": 3
+      },
+      {
         "id": "hyundai",
         "name": "Hyundai",
         "changeCount": 38,
@@ -41125,15 +41174,6 @@
         "avgChangePercent": 2.13,
         "increaseCount": 32,
         "decreaseCount": 6
-      },
-      {
-        "id": "ford",
-        "name": "Ford",
-        "changeCount": 38,
-        "avgChange": 103739,
-        "avgChangePercent": 4.22,
-        "increaseCount": 35,
-        "decreaseCount": 3
       },
       {
         "id": "seat",

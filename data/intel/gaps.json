@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08T02:58:02.066Z",
-  "date": "2026-08-08",
+  "generatedAt": "2026-08-09T03:06:06.352Z",
+  "date": "2026-08-09",
   "summary": {
     "totalSegments": 10,
     "totalGaps": 902,
@@ -221,7 +221,7 @@
     {
       "segment": "MPV",
       "totalVehicles": 29,
-      "avgPrice": 2007793,
+      "avgPrice": 2009841,
       "minPrice": 1383000,
       "maxPrice": 3490000,
       "brands": [
@@ -9533,7 +9533,7 @@
       "brands": [
         "Ford"
       ],
-      "avgPrice": 3238100,
+      "avgPrice": 3270400,
       "hasGap": true,
       "opportunityScore": 29.19
     },
@@ -9615,7 +9615,7 @@
       "brands": [
         "Ford"
       ],
-      "avgPrice": 2521700,
+      "avgPrice": 2535250,
       "hasGap": false,
       "opportunityScore": 0
     },

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-08T02:57:59.469Z",
+  "generatedAt": "2026-08-09T03:06:03.737Z",
   "totalVehicles": 529,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -2553,7 +2553,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -3430,7 +3430,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -4023,7 +4023,7 @@
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "i20",
@@ -4456,7 +4456,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "E-208",
@@ -4857,7 +4857,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "SEAL",
@@ -4940,7 +4940,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5178,7 +5178,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5714,7 +5714,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -6709,7 +6709,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "A 200",
@@ -7404,7 +7404,7 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "Puma",
@@ -8310,10 +8310,10 @@
           "engine": "1.0L EcoBoost 125PS",
           "transmission": "Manuel",
           "fuel": "Benzin",
-          "priceRaw": "2.718.600 TL",
-          "priceNumeric": 2718600,
+          "priceRaw": "2.745.700 TL",
+          "priceNumeric": 2745700,
           "brand": "Ford",
-          "priceListNumeric": 2718600,
+          "priceListNumeric": 2745700,
           "modelYear": "2026",
           "origin": "Romanya",
           "vehicleCategory": "Kombi",
@@ -8321,15 +8321,15 @@
           "optionalEquipment": [
             {
               "name": "Metalik Boya",
-              "price": 37200
+              "price": 37500
             },
             {
               "name": "Güvenlik Paketi",
-              "price": 35200
+              "price": 35600
             },
             {
               "name": "Yedek Lastik",
-              "price": 20400
+              "price": 20600
             }
           ],
           "powerHP": 125,
@@ -8378,10 +8378,10 @@
           "engine": "1.0L EcoBoost 125PS",
           "transmission": "Otomatik",
           "fuel": "Benzin",
-          "priceRaw": "3.238.100 TL",
-          "priceNumeric": 3238100,
+          "priceRaw": "3.270.400 TL",
+          "priceNumeric": 3270400,
           "brand": "Ford",
-          "priceListNumeric": 3238100,
+          "priceListNumeric": 3270400,
           "modelYear": "2026",
           "origin": "Romanya",
           "vehicleCategory": "Kombi",
@@ -8389,15 +8389,15 @@
           "optionalEquipment": [
             {
               "name": "Metalik Boya",
-              "price": 37200
+              "price": 37500
             },
             {
               "name": "17\" Alaşım Jant",
-              "price": 37200
+              "price": 37500
             },
             {
               "name": "Gelişmiş Güvenlik Paketi",
-              "price": 128800
+              "price": 130100
             },
             {
               "name": "Isıtmalı Ön Cam",
@@ -8510,7 +8510,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -8920,7 +8920,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -9364,7 +9364,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "Jazz Hybrid",
@@ -9470,7 +9470,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "Ibiza",
@@ -9576,7 +9576,7 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "Picanto",
@@ -9929,7 +9929,7 @@
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "EX30",
@@ -10494,7 +10494,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "vehicles": [
         {
           "model": "Egea Sedan",
