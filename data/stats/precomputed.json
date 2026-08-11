@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-09T03:06:03.751Z",
+  "generatedAt": "2026-08-11T03:01:19.150Z",
   "totalVehicles": 529,
   "overallStats": {
-    "avgPrice": 5071305,
+    "avgPrice": 5070743,
     "minPrice": 590000,
     "maxPrice": 38034000,
     "medianPrice": 3126000
@@ -91,10 +91,10 @@
     {
       "name": "Nissan",
       "vehicleCount": 26,
-      "avgPrice": 3078046,
-      "minPrice": 1367500,
+      "avgPrice": 3066608,
+      "minPrice": 1380000,
       "maxPrice": 5515600,
-      "medianPrice": 3017650
+      "medianPrice": 3030650
     },
     {
       "name": "Peugeot",
@@ -166,7 +166,7 @@
       "fuel": "Benzin",
       "count": 192,
       "percentage": 36.3,
-      "avgPrice": 5148803
+      "avgPrice": 5149330
     },
     {
       "fuel": "Elektrik",
@@ -178,7 +178,7 @@
       "fuel": "Hibrit",
       "count": 80,
       "percentage": 15.1,
-      "avgPrice": 3958931
+      "avgPrice": 3957456
     },
     {
       "fuel": "Dizel",
@@ -190,7 +190,7 @@
       "fuel": "Hafif Hibrit",
       "count": 32,
       "percentage": 6,
-      "avgPrice": 9034019
+      "avgPrice": 9025250
     },
     {
       "fuel": "Plug-in Hibrit",
@@ -216,7 +216,7 @@
       "transmission": "Otomatik",
       "count": 361,
       "percentage": 68.2,
-      "avgPrice": 5962863
+      "avgPrice": 5962039
     },
     {
       "transmission": "DSG",
@@ -403,7 +403,7 @@
         "year": "2026",
         "count": 330,
         "percentage": 76.2,
-        "avgPrice": 4909808
+        "avgPrice": 4908907
       },
       {
         "year": "2025",
