@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-11T03:01:19.150Z",
-  "totalVehicles": 529,
+  "generatedAt": "2026-08-12T03:19:56.698Z",
+  "totalVehicles": 532,
   "overallStats": {
-    "avgPrice": 5070743,
+    "avgPrice": 5058644,
     "minPrice": 590000,
     "maxPrice": 38034000,
-    "medianPrice": 3126000
+    "medianPrice": 3121350
   },
   "brandStats": [
     {
@@ -74,11 +74,11 @@
     },
     {
       "name": "Ford",
-      "vehicleCount": 29,
-      "avgPrice": 2848331,
+      "vehicleCount": 32,
+      "avgPrice": 2855528,
       "minPrice": 1897100,
       "maxPrice": 4330000,
-      "medianPrice": 2745700
+      "medianPrice": 2763300
     },
     {
       "name": "Renault",
@@ -165,19 +165,19 @@
     {
       "fuel": "Benzin",
       "count": 192,
-      "percentage": 36.3,
+      "percentage": 36.1,
       "avgPrice": 5149330
     },
     {
       "fuel": "Elektrik",
-      "count": 120,
-      "percentage": 22.7,
-      "avgPrice": 4683385
+      "count": 123,
+      "percentage": 23.1,
+      "avgPrice": 4640500
     },
     {
       "fuel": "Hibrit",
       "count": 80,
-      "percentage": 15.1,
+      "percentage": 15,
       "avgPrice": 3957456
     },
     {
@@ -195,7 +195,7 @@
     {
       "fuel": "Plug-in Hibrit",
       "count": 22,
-      "percentage": 4.2,
+      "percentage": 4.1,
       "avgPrice": 9599049
     },
     {
@@ -214,14 +214,14 @@
   "transmissionStats": [
     {
       "transmission": "Otomatik",
-      "count": 361,
-      "percentage": 68.2,
-      "avgPrice": 5962039
+      "count": 364,
+      "percentage": 68.4,
+      "avgPrice": 5937009
     },
     {
       "transmission": "DSG",
       "count": 83,
-      "percentage": 15.7,
+      "percentage": 15.6,
       "avgPrice": 3998636
     },
     {
@@ -233,13 +233,13 @@
     {
       "transmission": "DCT",
       "count": 22,
-      "percentage": 4.2,
+      "percentage": 4.1,
       "avgPrice": 2552136
     },
     {
       "transmission": "Bilinmiyor",
       "count": 21,
-      "percentage": 4,
+      "percentage": 3.9,
       "avgPrice": 3297814
     }
   ],
@@ -255,22 +255,22 @@
       "segment": "mid",
       "min": 1500000,
       "max": 3000000,
-      "count": 231,
-      "percentage": 43.7
+      "count": 232,
+      "percentage": 43.6
     },
     {
       "segment": "premium",
       "min": 3000000,
       "max": 5000000,
-      "count": 125,
-      "percentage": 23.6
+      "count": 127,
+      "percentage": 23.9
     },
     {
       "segment": "luxury",
       "min": 5000000,
       "max": 0,
       "count": 150,
-      "percentage": 28.4
+      "percentage": 28.2
     }
   ],
   "otvStats": {
@@ -401,14 +401,14 @@
     "distribution": [
       {
         "year": "2026",
-        "count": 330,
-        "percentage": 76.2,
-        "avgPrice": 4908907
+        "count": 333,
+        "percentage": 76.4,
+        "avgPrice": 4891035
       },
       {
         "year": "2025",
         "count": 95,
-        "percentage": 21.9,
+        "percentage": 21.8,
         "avgPrice": 3554779
       },
       {

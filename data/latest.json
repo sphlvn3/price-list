@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-11T03:01:19.137Z",
-  "totalVehicles": 529,
+  "generatedAt": "2026-08-12T03:19:56.684Z",
+  "totalVehicles": 532,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -2553,7 +2553,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -3430,7 +3430,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -4023,7 +4023,7 @@
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "i20",
@@ -4456,7 +4456,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "E-208",
@@ -4857,7 +4857,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "SEAL",
@@ -4940,7 +4940,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5178,7 +5178,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5714,7 +5714,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -6709,7 +6709,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "A 200",
@@ -7404,7 +7404,7 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "Puma",
@@ -7695,6 +7695,50 @@
         {
           "model": "Explorer",
           "trim": "Premium",
+          "engine": "140KW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "3.104.800 TL",
+          "priceNumeric": 3104800,
+          "brand": "Ford",
+          "priceListNumeric": 3104800,
+          "modelYear": "2026",
+          "origin": "Almanya",
+          "vehicleCategory": "SUV",
+          "emissionStandard": "-",
+          "optionalEquipment": [
+            {
+              "name": "Özel Renk (Düş Mavisi & Mercan Kırmızı)",
+              "price": 25600
+            },
+            {
+              "name": "21' Alüminyum Alaşımlı Jant",
+              "price": 25600
+            },
+            {
+              "name": "Isı Pompası",
+              "price": 112600
+            },
+            {
+              "name": "Sürüş Destek Paketi Premium",
+              "price": 92100
+            },
+            {
+              "name": "B&O Ses Sistemi Premium",
+              "price": 32700
+            },
+            {
+              "name": "Metalik Renk",
+              "price": 10300
+            }
+          ],
+          "powerHP": 188,
+          "powerKW": 140,
+          "isElectric": true
+        },
+        {
+          "model": "Explorer",
+          "trim": "Premium",
           "engine": "250 KW AWD",
           "transmission": "Otomatik",
           "fuel": "Elektrik",
@@ -7873,6 +7917,50 @@
           "isElectric": true
         },
         {
+          "model": "Explorer",
+          "trim": "Select",
+          "engine": "140KW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "2.298.900 TL",
+          "priceNumeric": 2298900,
+          "brand": "Ford",
+          "priceListNumeric": 2298900,
+          "modelYear": "2026",
+          "origin": "Almanya",
+          "vehicleCategory": "SUV",
+          "emissionStandard": "-",
+          "optionalEquipment": [
+            {
+              "name": "Özel Renk (Düş Mavisi & Mercan Kırmızı)",
+              "price": 25600
+            },
+            {
+              "name": "21' Alüminyum Alaşımlı Jant",
+              "price": 25600
+            },
+            {
+              "name": "Isı Pompası",
+              "price": 112600
+            },
+            {
+              "name": "Sürüş Destek Paketi Select",
+              "price": 107500
+            },
+            {
+              "name": "B&O Ses Sistemi Premium",
+              "price": 32700
+            },
+            {
+              "name": "Metalik Renk",
+              "price": 10300
+            }
+          ],
+          "powerHP": 188,
+          "powerKW": 140,
+          "isElectric": true
+        },
+        {
           "model": "Capri",
           "trim": "Premium",
           "engine": "125KW",
@@ -7958,6 +8046,50 @@
           ],
           "powerHP": 168,
           "powerKW": 125,
+          "isElectric": true
+        },
+        {
+          "model": "Capri",
+          "trim": "Premium",
+          "engine": "140KW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "3.371.600 TL",
+          "priceNumeric": 3371600,
+          "brand": "Ford",
+          "priceListNumeric": 3371600,
+          "modelYear": "2026",
+          "origin": "Almanya",
+          "vehicleCategory": "SUV",
+          "emissionStandard": "-",
+          "optionalEquipment": [
+            {
+              "name": "Metalik Renk (Akik Siyah & Manyetik Gri)",
+              "price": 12700
+            },
+            {
+              "name": "Özel Renk (Düş Mavisi & Mercan Kırmızı)",
+              "price": 32400
+            },
+            {
+              "name": "21' Alüminyum Alaşımlı Jant",
+              "price": 31800
+            },
+            {
+              "name": "Isı Pompası",
+              "price": 139600
+            },
+            {
+              "name": "Sürüş Destek Paketi Premium",
+              "price": 114200
+            },
+            {
+              "name": "B&O Ses Sistemi Premium",
+              "price": 40500
+            }
+          ],
+          "powerHP": 188,
+          "powerKW": 140,
           "isElectric": true
         },
         {
@@ -8510,7 +8642,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -8920,7 +9052,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -9364,7 +9496,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "Jazz Hybrid",
@@ -9470,7 +9602,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "Ibiza",
@@ -9576,7 +9708,7 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "Picanto",
@@ -9929,7 +10061,7 @@
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "EX30",
@@ -10494,7 +10626,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "vehicles": [
         {
           "model": "Egea Sedan",

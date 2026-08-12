@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-11T03:01:21.185Z",
-  "date": "2026-08-11",
-  "previousDate": "2026-08-10",
+  "generatedAt": "2026-08-12T03:19:58.746Z",
+  "date": "2026-08-12",
+  "previousDate": "2026-08-11",
   "dateRange": {
     "start": "2026-01-28",
-    "end": "2026-08-11",
-    "totalDays": 196
+    "end": "2026-08-12",
+    "totalDays": 197
   },
   "summary": {
-    "totalEvents": 2290,
-    "newVehicles": 497,
+    "totalEvents": 2293,
+    "newVehicles": 500,
     "removedVehicles": 482,
     "priceIncreases": 1135,
     "priceDecreases": 176,
@@ -17,6 +17,51 @@
     "avgPriceChangePercent": 1.71
   },
   "events": [
+    {
+      "id": "ford-explorer-premium-140kw-new-2026-08-12",
+      "type": "new",
+      "vehicleId": "ford-explorer-premium-140kw",
+      "brand": "Ford",
+      "brandId": "ford",
+      "model": "Explorer",
+      "trim": "Premium",
+      "engine": "140KW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "newPrice": 3104800,
+      "newPriceFormatted": "3.104.800 TL",
+      "date": "2026-08-12"
+    },
+    {
+      "id": "ford-explorer-select-140kw-new-2026-08-12",
+      "type": "new",
+      "vehicleId": "ford-explorer-select-140kw",
+      "brand": "Ford",
+      "brandId": "ford",
+      "model": "Explorer",
+      "trim": "Select",
+      "engine": "140KW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "newPrice": 2298900,
+      "newPriceFormatted": "2.298.900 TL",
+      "date": "2026-08-12"
+    },
+    {
+      "id": "ford-capri-premium-140kw-new-2026-08-12",
+      "type": "new",
+      "vehicleId": "ford-capri-premium-140kw",
+      "brand": "Ford",
+      "brandId": "ford",
+      "model": "Capri",
+      "trim": "Premium",
+      "engine": "140KW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "newPrice": 3371600,
+      "newPriceFormatted": "3.371.600 TL",
+      "date": "2026-08-12"
+    },
     {
       "id": "nissan-qashqai-designpack-1.3-dig-t-mild-hybrid-158ps-price_increase-2026-08-11",
       "type": "price_increase",

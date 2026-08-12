@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-11T03:01:21.705Z",
-  "date": "2026-08-11",
+  "generatedAt": "2026-08-12T03:19:59.267Z",
+  "date": "2026-08-12",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -6224,6 +6224,16 @@
           "fuel": "Elektrik"
         },
         {
+          "trim": "Select",
+          "price": 2298900,
+          "priceFormatted": "2.298.900 TL",
+          "stepFromBase": 204800,
+          "stepPercent": 9.779857695430017,
+          "engine": "140KW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik"
+        },
+        {
           "trim": "Premium",
           "price": 2305100,
           "priceFormatted": "2.305.100 TL",
@@ -6240,6 +6250,16 @@
           "stepFromBase": 363200,
           "stepPercent": 17.343966381739172,
           "engine": "125KW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik"
+        },
+        {
+          "trim": "Premium",
+          "price": 3104800,
+          "priceFormatted": "3.104.800 TL",
+          "stepFromBase": 1010700,
+          "stepPercent": 48.264170765483975,
+          "engine": "140KW",
           "transmission": "Otomatik",
           "fuel": "Elektrik"
         },
@@ -6268,7 +6288,7 @@
       "topPrice": 4217200,
       "priceSpread": 2123100,
       "priceSpreadPercent": 101.38,
-      "trimCount": 6
+      "trimCount": 8
     },
     {
       "id": "ford-capri",
@@ -6298,6 +6318,16 @@
         },
         {
           "trim": "Premium",
+          "price": 3371600,
+          "priceFormatted": "3.371.600 TL",
+          "stepFromBase": 939900,
+          "stepPercent": 38.65197187153021,
+          "engine": "140KW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik"
+        },
+        {
+          "trim": "Premium",
           "price": 4063100,
           "priceFormatted": "4.063.100 TL",
           "stepFromBase": 1631400,
@@ -6321,7 +6351,7 @@
       "topPrice": 4330000,
       "priceSpread": 1898300,
       "priceSpreadPercent": 78.06,
-      "trimCount": 4
+      "trimCount": 5
     },
     {
       "id": "ford-kuga",
@@ -8688,7 +8718,7 @@
           "topPrice": 4330000,
           "basePriceFormatted": "₺2.431.700",
           "topPriceFormatted": "₺4.330.000",
-          "trimCount": 4
+          "trimCount": 5
         },
         {
           "brand": "Citroën",
@@ -9565,7 +9595,7 @@
           "topPrice": 4217200,
           "basePriceFormatted": "₺2.094.100",
           "topPriceFormatted": "₺4.217.200",
-          "trimCount": 6
+          "trimCount": 8
         },
         {
           "brand": "Citroën",

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-11T03:01:19.142Z",
-  "totalEntries": 529,
+  "generatedAt": "2026-08-12T03:19:56.690Z",
+  "totalEntries": 532,
   "entries": [
     {
       "id": "volkswagen-polo-life-1.0-tsi-95-ps",
@@ -4956,6 +4956,19 @@
       "searchText": "ford explorer premium 125kw elektrik otomatik"
     },
     {
+      "id": "ford-explorer-premium-140kw",
+      "brand": "Ford",
+      "brandId": "ford",
+      "model": "Explorer",
+      "trim": "Premium",
+      "engine": "140KW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 3104800,
+      "priceFormatted": "3.104.800 TL",
+      "searchText": "ford explorer premium 140kw elektrik otomatik"
+    },
+    {
       "id": "ford-explorer-premium-250-kw-awd",
       "brand": "Ford",
       "brandId": "ford",
@@ -5008,6 +5021,19 @@
       "searchText": "ford explorer select 125kw elektrik otomatik"
     },
     {
+      "id": "ford-explorer-select-140kw",
+      "brand": "Ford",
+      "brandId": "ford",
+      "model": "Explorer",
+      "trim": "Select",
+      "engine": "140KW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 2298900,
+      "priceFormatted": "2.298.900 TL",
+      "searchText": "ford explorer select 140kw elektrik otomatik"
+    },
+    {
       "id": "ford-capri-premium-125kw",
       "brand": "Ford",
       "brandId": "ford",
@@ -5032,6 +5058,19 @@
       "price": 3211600,
       "priceFormatted": "3.211.600 TL",
       "searchText": "ford capri premium 125kw elektrik otomatik"
+    },
+    {
+      "id": "ford-capri-premium-140kw",
+      "brand": "Ford",
+      "brandId": "ford",
+      "model": "Capri",
+      "trim": "Premium",
+      "engine": "140KW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 3371600,
+      "priceFormatted": "3.371.600 TL",
+      "searchText": "ford capri premium 140kw elektrik otomatik"
     },
     {
       "id": "ford-capri-premium-250-kw-awd",
