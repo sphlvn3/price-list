@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-12T03:19:56.684Z",
-  "totalVehicles": 532,
+  "generatedAt": "2026-08-15T02:17:01.336Z",
+  "totalVehicles": 534,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -2553,7 +2553,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -3430,7 +3430,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -4023,7 +4023,7 @@
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
         {
           "model": "i20",
@@ -4456,7 +4456,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
         {
           "model": "E-208",
@@ -4470,21 +4470,6 @@
           "modelYear": 2026,
           "priceListNumeric": 1999500,
           "powerKW": 100,
-          "isElectric": true,
-          "vehicleCategory": "Binek"
-        },
-        {
-          "model": "E-308",
-          "trim": "Gt",
-          "engine": "115 kW",
-          "transmission": "",
-          "fuel": "Elektrik",
-          "priceRaw": "2.381.000 TL",
-          "priceNumeric": 2381000,
-          "brand": "Peugeot",
-          "modelYear": 2026,
-          "priceListNumeric": 2381000,
-          "powerKW": 115,
           "isElectric": true,
           "vehicleCategory": "Binek"
         },
@@ -4857,7 +4842,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
         {
           "model": "SEAL",
@@ -4940,7 +4925,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5178,7 +5163,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5714,7 +5699,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -6709,7 +6694,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
         {
           "model": "A 200",
@@ -7404,7 +7389,7 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
         {
           "model": "Puma",
@@ -8642,7 +8627,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -9052,7 +9037,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -9496,7 +9481,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
         {
           "model": "Jazz Hybrid",
@@ -9602,7 +9587,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
         {
           "model": "Ibiza",
@@ -9708,8 +9693,58 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
+        {
+          "model": "EV2",
+          "trim": "Cool",
+          "engine": "107,8 kW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "1.719.000 TL",
+          "priceNumeric": 1719000,
+          "brand": "Kia",
+          "priceListNumeric": 1059210.67,
+          "priceCampaignNumeric": 1599000,
+          "powerKW": 107,
+          "transmissionType": "AT",
+          "modelYear": 2026,
+          "otvRate": 264,
+          "isElectric": true
+        },
+        {
+          "model": "EV2",
+          "trim": "Elegance",
+          "engine": "107,8 kW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "1.919.000 TL",
+          "priceNumeric": 1919000,
+          "brand": "Kia",
+          "priceListNumeric": 1192544,
+          "priceCampaignNumeric": 1799000,
+          "powerKW": 107,
+          "transmissionType": "AT",
+          "modelYear": 2026,
+          "otvRate": 298,
+          "isElectric": true
+        },
+        {
+          "model": "EV2",
+          "trim": "Elegance Long Range",
+          "engine": "99,5 kW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik",
+          "priceRaw": "2.129.000 TL",
+          "priceNumeric": 2129000,
+          "brand": "Kia",
+          "priceListNumeric": 1313562.67,
+          "priceCampaignNumeric": 1979000,
+          "powerKW": 99,
+          "transmissionType": "AT",
+          "modelYear": 2026,
+          "isElectric": true
+        },
         {
           "model": "Picanto",
           "trim": "Feel",
@@ -10061,7 +10096,7 @@
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
         {
           "model": "EX30",
@@ -10626,7 +10661,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "vehicles": [
         {
           "model": "Egea Sedan",

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T03:19:59.267Z",
-  "date": "2026-08-12",
+  "generatedAt": "2026-08-15T02:17:05.997Z",
+  "date": "2026-08-15",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -2727,29 +2727,6 @@
       ],
       "basePrice": 1999500,
       "topPrice": 1999500,
-      "priceSpread": 0,
-      "priceSpreadPercent": 0,
-      "trimCount": 1
-    },
-    {
-      "id": "peugeot-e-308",
-      "model": "E-308",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "trims": [
-        {
-          "trim": "Gt",
-          "price": 2381000,
-          "priceFormatted": "2.381.000 TL",
-          "stepFromBase": 0,
-          "stepPercent": 0,
-          "engine": "115 kW",
-          "transmission": "",
-          "fuel": "Elektrik"
-        }
-      ],
-      "basePrice": 2381000,
-      "topPrice": 2381000,
       "priceSpread": 0,
       "priceSpreadPercent": 0,
       "trimCount": 1
@@ -7310,6 +7287,49 @@
       "trimCount": 2
     },
     {
+      "id": "kia-ev2",
+      "model": "EV2",
+      "brand": "Kia",
+      "brandId": "kia",
+      "trims": [
+        {
+          "trim": "Cool",
+          "price": 1719000,
+          "priceFormatted": "1.719.000 TL",
+          "stepFromBase": 0,
+          "stepPercent": 0,
+          "engine": "107,8 kW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik"
+        },
+        {
+          "trim": "Elegance",
+          "price": 1919000,
+          "priceFormatted": "1.919.000 TL",
+          "stepFromBase": 200000,
+          "stepPercent": 11.634671320535194,
+          "engine": "107,8 kW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik"
+        },
+        {
+          "trim": "Elegance Long Range",
+          "price": 2129000,
+          "priceFormatted": "2.129.000 TL",
+          "stepFromBase": 410000,
+          "stepPercent": 23.85107620709715,
+          "engine": "99,5 kW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik"
+        }
+      ],
+      "basePrice": 1719000,
+      "topPrice": 2129000,
+      "priceSpread": 410000,
+      "priceSpreadPercent": 23.85,
+      "trimCount": 3
+    },
+    {
       "id": "kia-picanto",
       "model": "Picanto",
       "brand": "Kia",
@@ -10085,16 +10105,6 @@
           "trimCount": 1
         },
         {
-          "brand": "Peugeot",
-          "brandId": "peugeot",
-          "model": "E-308",
-          "basePrice": 2381000,
-          "topPrice": 2381000,
-          "basePriceFormatted": "₺2.381.000",
-          "topPriceFormatted": "₺2.381.000",
-          "trimCount": 1
-        },
-        {
           "brand": "Renault",
           "brandId": "renault",
           "model": "Megane E-Tech ELEKTRİKLİ",
@@ -10235,8 +10245,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 5759975,
-      "avgTopPrice": 6550179
+      "avgBasePrice": 5913565,
+      "avgTopPrice": 6739687
     },
     {
       "segment": "Electric",
@@ -10260,6 +10270,16 @@
           "basePriceFormatted": "₺1.595.000",
           "topPriceFormatted": "₺1.660.000",
           "trimCount": 2
+        },
+        {
+          "brand": "Kia",
+          "brandId": "kia",
+          "model": "EV2",
+          "basePrice": 1719000,
+          "topPrice": 2129000,
+          "basePriceFormatted": "₺1.719.000",
+          "topPriceFormatted": "₺2.129.000",
+          "trimCount": 3
         },
         {
           "brand": "Renault",
@@ -10422,8 +10442,8 @@
           "trimCount": 2
         }
       ],
-      "avgBasePrice": 3111411,
-      "avgTopPrice": 3479839
+      "avgBasePrice": 3038126,
+      "avgTopPrice": 3408742
     },
     {
       "segment": "Hatchback",
@@ -10673,7 +10693,7 @@
   "summary": {
     "totalModels": 231,
     "avgTrimsPerModel": 2.3,
-    "avgPriceSpread": 375497,
-    "avgPriceSpreadPercent": 13.11
+    "avgPriceSpread": 377272,
+    "avgPriceSpreadPercent": 13.22
   }
 }

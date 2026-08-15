@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-12T03:19:56.690Z",
-  "totalEntries": 532,
+  "generatedAt": "2026-08-15T02:17:01.344Z",
+  "totalEntries": 534,
   "entries": [
     {
       "id": "volkswagen-polo-life-1.0-tsi-95-ps",
@@ -2484,19 +2484,6 @@
       "price": 1999500,
       "priceFormatted": "1.999.500 TL",
       "searchText": "peugeot e 208 gt 100 kw elektrik"
-    },
-    {
-      "id": "peugeot-e-308-gt-115-kw",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "E-308",
-      "trim": "Gt",
-      "engine": "115 kW",
-      "fuel": "Elektrik",
-      "transmission": "",
-      "price": 2381000,
-      "priceFormatted": "2.381.000 TL",
-      "searchText": "peugeot e 308 gt 115 kw elektrik"
     },
     {
       "id": "peugeot-2008-allure-1.2-hybrid-145-hp",
@@ -5968,6 +5955,45 @@
       "price": 2919150,
       "priceFormatted": "2.919.150 TL",
       "searchText": "seat ateca fr dark edition 1 5 ecotsi act 150 ps benzin otomatik dsg"
+    },
+    {
+      "id": "kia-ev2-cool-107,8-kw",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "EV2",
+      "trim": "Cool",
+      "engine": "107,8 kW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 1719000,
+      "priceFormatted": "1.719.000 TL",
+      "searchText": "kia ev2 cool 107 8 kw elektrik otomatik"
+    },
+    {
+      "id": "kia-ev2-elegance-107,8-kw",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "EV2",
+      "trim": "Elegance",
+      "engine": "107,8 kW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 1919000,
+      "priceFormatted": "1.919.000 TL",
+      "searchText": "kia ev2 elegance 107 8 kw elektrik otomatik"
+    },
+    {
+      "id": "kia-ev2-elegance-long-range-99,5-kw",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "EV2",
+      "trim": "Elegance Long Range",
+      "engine": "99,5 kW",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 2129000,
+      "priceFormatted": "2.129.000 TL",
+      "searchText": "kia ev2 elegance long range 99 5 kw elektrik otomatik"
     },
     {
       "id": "kia-picanto-feel-67-ps",
