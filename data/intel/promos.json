@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-15T02:17:06.494Z",
-  "date": "2026-08-15",
+  "generatedAt": "2026-08-16T02:24:32.615Z",
+  "date": "2026-08-16",
   "summary": {
     "totalPriceDrops": 11,
     "totalRecentDrops": 5,
@@ -22,15 +22,11 @@
       "currentPriceFormatted": "₺1.999.000",
       "peakPrice": 2215000,
       "peakPriceFormatted": "₺2.215.000",
-      "peakDate": "2026-07-17",
+      "peakDate": "2026-07-18",
       "dropAmount": 216000,
       "dropPercent": 9.75,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-08-06",
-          "price": 1999000
-        },
         {
           "date": "2026-08-07",
           "price": 1999000
@@ -65,6 +61,10 @@
         },
         {
           "date": "2026-08-15",
+          "price": 1999000
+        },
+        {
+          "date": "2026-08-16",
           "price": 1999000
         }
       ],
@@ -85,15 +85,11 @@
       "currentPriceFormatted": "₺1.950.000",
       "peakPrice": 2160000,
       "peakPriceFormatted": "₺2.160.000",
-      "peakDate": "2026-07-17",
+      "peakDate": "2026-07-18",
       "dropAmount": 210000,
       "dropPercent": 9.72,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-08-06",
-          "price": 1950000
-        },
         {
           "date": "2026-08-07",
           "price": 1950000
@@ -128,6 +124,10 @@
         },
         {
           "date": "2026-08-15",
+          "price": 1950000
+        },
+        {
+          "date": "2026-08-16",
           "price": 1950000
         }
       ],
@@ -148,15 +148,11 @@
       "currentPriceFormatted": "₺2.850.000",
       "peakPrice": 3102000,
       "peakPriceFormatted": "₺3.102.000",
-      "peakDate": "2026-07-17",
+      "peakDate": "2026-07-18",
       "dropAmount": 252000,
       "dropPercent": 8.12,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-08-06",
-          "price": 2850000
-        },
         {
           "date": "2026-08-07",
           "price": 2850000
@@ -191,6 +187,10 @@
         },
         {
           "date": "2026-08-15",
+          "price": 2850000
+        },
+        {
+          "date": "2026-08-16",
           "price": 2850000
         }
       ],
@@ -209,15 +209,11 @@
       "currentPriceFormatted": "₺2.500.000",
       "peakPrice": 2717000,
       "peakPriceFormatted": "₺2.717.000",
-      "peakDate": "2026-07-17",
+      "peakDate": "2026-07-18",
       "dropAmount": 217000,
       "dropPercent": 7.99,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-08-06",
-          "price": 2500000
-        },
         {
           "date": "2026-08-07",
           "price": 2500000
@@ -252,6 +248,10 @@
         },
         {
           "date": "2026-08-15",
+          "price": 2500000
+        },
+        {
+          "date": "2026-08-16",
           "price": 2500000
         }
       ],
@@ -270,15 +270,11 @@
       "currentPriceFormatted": "₺1.960.000",
       "peakPrice": 2130000,
       "peakPriceFormatted": "₺2.130.000",
-      "peakDate": "2026-07-17",
+      "peakDate": "2026-07-18",
       "dropAmount": 170000,
       "dropPercent": 7.98,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-08-06",
-          "price": 1960000
-        },
         {
           "date": "2026-08-07",
           "price": 1960000
@@ -313,6 +309,10 @@
         },
         {
           "date": "2026-08-15",
+          "price": 1960000
+        },
+        {
+          "date": "2026-08-16",
           "price": 1960000
         }
       ],
@@ -332,10 +332,10 @@
       "currentPriceFormatted": "₺544.900",
       "peakPrice": 584900,
       "peakPriceFormatted": "₺584.900",
-      "peakDate": "2026-05-25",
+      "peakDate": "2026-05-26",
       "dropAmount": 40000,
       "dropPercent": 6.84,
-      "daysSincePeak": 11,
+      "daysSincePeak": 10,
       "priceHistory": [
         {
           "date": "2026-06-01",
@@ -395,10 +395,10 @@
       "currentPriceFormatted": "₺589.900",
       "peakPrice": 629900,
       "peakPriceFormatted": "₺629.900",
-      "peakDate": "2026-05-25",
+      "peakDate": "2026-05-26",
       "dropAmount": 40000,
       "dropPercent": 6.35,
-      "daysSincePeak": 11,
+      "daysSincePeak": 10,
       "priceHistory": [
         {
           "date": "2026-06-01",
@@ -461,12 +461,8 @@
       "peakDate": "2026-08-02",
       "dropAmount": 237200,
       "dropPercent": 6.18,
-      "daysSincePeak": 13,
+      "daysSincePeak": 14,
       "priceHistory": [
-        {
-          "date": "2026-08-06",
-          "price": 3836400
-        },
         {
           "date": "2026-08-07",
           "price": 3836400
@@ -501,6 +497,10 @@
         },
         {
           "date": "2026-08-15",
+          "price": 3599200
+        },
+        {
+          "date": "2026-08-16",
           "price": 3599200
         }
       ],
@@ -524,12 +524,8 @@
       "peakDate": "2026-08-02",
       "dropAmount": 244500,
       "dropPercent": 6.18,
-      "daysSincePeak": 13,
+      "daysSincePeak": 14,
       "priceHistory": [
-        {
-          "date": "2026-08-06",
-          "price": 3954500
-        },
         {
           "date": "2026-08-07",
           "price": 3954500
@@ -564,6 +560,10 @@
         },
         {
           "date": "2026-08-15",
+          "price": 3710000
+        },
+        {
+          "date": "2026-08-16",
           "price": 3710000
         }
       ],
@@ -587,12 +587,8 @@
       "peakDate": "2026-08-02",
       "dropAmount": 260100,
       "dropPercent": 6.03,
-      "daysSincePeak": 13,
+      "daysSincePeak": 14,
       "priceHistory": [
-        {
-          "date": "2026-08-06",
-          "price": 4313100
-        },
         {
           "date": "2026-08-07",
           "price": 4313100
@@ -628,6 +624,10 @@
         {
           "date": "2026-08-15",
           "price": 4053000
+        },
+        {
+          "date": "2026-08-16",
+          "price": 4053000
         }
       ],
       "listPrice": 4453000,
@@ -647,10 +647,10 @@
       "currentPriceFormatted": "₺2.345.000",
       "peakPrice": 2485000,
       "peakPriceFormatted": "₺2.485.000",
-      "peakDate": "2026-07-17",
+      "peakDate": "2026-07-18",
       "dropAmount": 140000,
       "dropPercent": 5.63,
-      "daysSincePeak": 14,
+      "daysSincePeak": 13,
       "priceHistory": [
         {
           "date": "2026-07-27",
@@ -759,8 +759,8 @@
       "previousPrice": 1440000,
       "dropAmount": 50000,
       "dropPercent": 3.47,
-      "date": "2026-08-15",
-      "previousDate": "2026-08-15",
+      "date": "2026-08-16",
+      "previousDate": "2026-08-16",
       "listPrice": 1584900,
       "campaignPrice": 1440000,
       "campaignDiscount": 9.1
