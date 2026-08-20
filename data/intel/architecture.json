@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T02:12:09.696Z",
-  "date": "2026-08-18",
+  "generatedAt": "2026-08-20T02:17:17.335Z",
+  "date": "2026-08-20",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -1879,7 +1879,7 @@
       "brandId": "toyota",
       "trims": [
         {
-          "trim": "Land Cruiser Prado 2.8 L D-4D Mild Hybrid Power 8 A/T",
+          "trim": "Land Cruiser Prado 2.8 D-4D Mild Hybrid Power 8 A/T",
           "price": 13100000,
           "priceFormatted": "13100000",
           "stepFromBase": 0,
@@ -1912,9 +1912,9 @@
       "brandId": "toyota",
       "trims": [
         {
-          "trim": "2.4 D-4D 4x2 Hi-Cruiser A/T**",
-          "price": 2678000,
-          "priceFormatted": "2678000",
+          "trim": "2.8 D-4D Mild Hybrid Power 4X4 Adventure A/T",
+          "price": 3990000,
+          "priceFormatted": "3990000",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "",
@@ -1922,41 +1922,31 @@
           "fuel": "Diger"
         },
         {
-          "trim": "2.4 D-4D 4x4 Adventure A/T",
-          "price": 4182000,
-          "priceFormatted": "4182000",
-          "stepFromBase": 1504000,
-          "stepPercent": 56.1613144137416,
+          "trim": "2.8 D-4D Mild Hybrid Power 4X4 Hi-Cruiser A/T",
+          "price": 4390000,
+          "priceFormatted": "4390000",
+          "stepFromBase": 400000,
+          "stepPercent": 10.025062656641603,
           "engine": "",
           "transmission": "",
           "fuel": "Diger"
         },
         {
-          "trim": "2.4 D-4D 4x4 Invincible A/T",
-          "price": 4490000,
-          "priceFormatted": "4490000",
-          "stepFromBase": 1812000,
-          "stepPercent": 67.6624346527259,
-          "engine": "",
-          "transmission": "",
-          "fuel": "Diger"
-        },
-        {
-          "trim": "2.8 D-4D 4x4 GR SPORT A/T",
-          "price": 5409500,
-          "priceFormatted": "5409500",
-          "stepFromBase": 2731500,
-          "stepPercent": 101.99775952203136,
+          "trim": "2.8 D-4D Mild Hybrid Power 4x4 Invincible A/T",
+          "price": 4590000,
+          "priceFormatted": "4590000",
+          "stepFromBase": 600000,
+          "stepPercent": 15.037593984962406,
           "engine": "",
           "transmission": "",
           "fuel": "Diger"
         }
       ],
-      "basePrice": 2678000,
-      "topPrice": 5409500,
-      "priceSpread": 2731500,
-      "priceSpreadPercent": 102,
-      "trimCount": 4
+      "basePrice": 3990000,
+      "topPrice": 4590000,
+      "priceSpread": 600000,
+      "priceSpreadPercent": 15.04,
+      "trimCount": 3
     },
     {
       "id": "toyota-proace-city",
@@ -10693,7 +10683,7 @@
   "summary": {
     "totalModels": 231,
     "avgTrimsPerModel": 2.3,
-    "avgPriceSpread": 377272,
-    "avgPriceSpreadPercent": 13.22
+    "avgPriceSpread": 368044,
+    "avgPriceSpreadPercent": 12.84
   }
 }

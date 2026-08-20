@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-18T02:12:07.119Z",
-  "totalVehicles": 534,
+  "generatedAt": "2026-08-20T02:17:12.437Z",
+  "totalVehicles": 533,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -2166,7 +2166,7 @@
           "brand": "Škoda",
           "modelYear": "2026",
           "priceListNumeric": 2519900,
-          "priceCampaignNumeric": 2049100,
+          "priceCampaignNumeric": 1999900,
           "otvRate": 90,
           "netPrice": 1100155.66,
           "otvAmount": 990140.09,
@@ -2553,7 +2553,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -3430,7 +3430,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -3741,7 +3741,7 @@
         },
         {
           "model": "Land Cruiser Prado",
-          "trim": "Land Cruiser Prado 2.8 L D-4D Mild Hybrid Power 8 A/T",
+          "trim": "Land Cruiser Prado 2.8 D-4D Mild Hybrid Power 8 A/T",
           "engine": "2.8",
           "transmission": "Otomatik",
           "fuel": "Dizel",
@@ -3769,59 +3769,45 @@
         },
         {
           "model": "Hilux",
-          "trim": "2.4 D-4D 4x2 Hi-Cruiser A/T**",
+          "trim": "2.8 D-4D Mild Hybrid Power 4X4 Adventure A/T",
           "engine": "",
           "transmission": "",
           "fuel": "Diger",
-          "priceRaw": "2678000",
-          "priceNumeric": 2678000,
+          "priceRaw": "3990000",
+          "priceNumeric": 3990000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "Tayland",
-          "priceListNumeric": 3100000,
-          "priceCampaignNumeric": 2918000
+          "priceListNumeric": 4200000,
+          "priceCampaignNumeric": 3990000
         },
         {
           "model": "Hilux",
-          "trim": "2.4 D-4D 4x4 Adventure A/T",
+          "trim": "2.8 D-4D Mild Hybrid Power 4X4 Hi-Cruiser A/T",
           "engine": "",
           "transmission": "",
           "fuel": "Diger",
-          "priceRaw": "4182000",
-          "priceNumeric": 4182000,
+          "priceRaw": "4390000",
+          "priceNumeric": 4390000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "Tayland",
-          "priceListNumeric": 4300000,
-          "priceCampaignNumeric": 4182000
+          "priceListNumeric": 4850000,
+          "priceCampaignNumeric": 4390000
         },
         {
           "model": "Hilux",
-          "trim": "2.4 D-4D 4x4 Invincible A/T",
+          "trim": "2.8 D-4D Mild Hybrid Power 4x4 Invincible A/T",
           "engine": "",
           "transmission": "",
           "fuel": "Diger",
-          "priceRaw": "4490000",
-          "priceNumeric": 4490000,
+          "priceRaw": "4590000",
+          "priceNumeric": 4590000,
           "brand": "Toyota",
           "modelYear": 2026,
           "origin": "Tayland",
-          "priceListNumeric": 5003000,
-          "priceCampaignNumeric": 4490000
-        },
-        {
-          "model": "Hilux",
-          "trim": "2.8 D-4D 4x4 GR SPORT A/T",
-          "engine": "",
-          "transmission": "",
-          "fuel": "Diger",
-          "priceRaw": "5409500",
-          "priceNumeric": 5409500,
-          "brand": "Toyota",
-          "modelYear": 2026,
-          "origin": "Tayland",
-          "priceListNumeric": 5787500,
-          "priceCampaignNumeric": 5409500
+          "priceListNumeric": 5350000,
+          "priceCampaignNumeric": 4590000
         },
         {
           "model": "Proace City",
@@ -4023,7 +4009,7 @@
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "i20",
@@ -4456,7 +4442,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "E-208",
@@ -4842,7 +4828,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "SEAL",
@@ -4925,7 +4911,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5163,7 +5149,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5699,7 +5685,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -6694,7 +6680,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "A 200",
@@ -7389,7 +7375,7 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "Puma",
@@ -8627,7 +8613,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -9037,7 +9023,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -9481,7 +9467,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "Jazz Hybrid",
@@ -9587,7 +9573,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "Ibiza",
@@ -9693,7 +9679,7 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "EV2",
@@ -10096,7 +10082,7 @@
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "EX30",
@@ -10661,7 +10647,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-08-18",
+      "date": "2026-08-20",
       "vehicles": [
         {
           "model": "Egea Sedan",

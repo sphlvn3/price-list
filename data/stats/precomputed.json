@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-18T02:12:07.133Z",
-  "totalVehicles": 534,
+  "generatedAt": "2026-08-20T02:17:12.450Z",
+  "totalVehicles": 533,
   "overallStats": {
-    "avgPrice": 5046038,
+    "avgPrice": 5048396,
     "minPrice": 590000,
     "maxPrice": 38034000,
-    "medianPrice": 3110850
+    "medianPrice": 3116700
   },
   "brandStats": [
     {
@@ -33,20 +33,20 @@
       "medianPrice": 10672000
     },
     {
-      "name": "Toyota",
-      "vehicleCount": 42,
-      "avgPrice": 2978107,
-      "minPrice": 1289000,
-      "maxPrice": 14700000,
-      "medianPrice": 2341000
-    },
-    {
       "name": "Škoda",
       "vehicleCount": 41,
       "avgPrice": 4235876,
       "minPrice": 1969900,
       "maxPrice": 7399900,
       "medianPrice": 3774900
+    },
+    {
+      "name": "Toyota",
+      "vehicleCount": 41,
+      "avgPrice": 2958317,
+      "minPrice": 1289000,
+      "maxPrice": 14700000,
+      "medianPrice": 2317000
     },
     {
       "name": "Citroën",
@@ -171,7 +171,7 @@
     {
       "fuel": "Elektrik",
       "count": 125,
-      "percentage": 23.4,
+      "percentage": 23.5,
       "avgPrice": 4593340
     },
     {
@@ -206,22 +206,22 @@
     },
     {
       "fuel": "Diger",
-      "count": 5,
-      "percentage": 0.9,
-      "avgPrice": 3620500
+      "count": 4,
+      "percentage": 0.8,
+      "avgPrice": 3578250
     }
   ],
   "transmissionStats": [
     {
       "transmission": "Otomatik",
       "count": 367,
-      "percentage": 68.7,
+      "percentage": 68.9,
       "avgPrice": 5904192
     },
     {
       "transmission": "DSG",
       "count": 83,
-      "percentage": 15.5,
+      "percentage": 15.6,
       "avgPrice": 3998636
     },
     {
@@ -238,9 +238,9 @@
     },
     {
       "transmission": "Bilinmiyor",
-      "count": 20,
-      "percentage": 3.7,
-      "avgPrice": 3343655
+      "count": 19,
+      "percentage": 3.6,
+      "avgPrice": 3320189
     }
   ],
   "priceSegments": [
@@ -255,22 +255,22 @@
       "segment": "mid",
       "min": 1500000,
       "max": 3000000,
-      "count": 234,
-      "percentage": 43.8
+      "count": 233,
+      "percentage": 43.7
     },
     {
       "segment": "premium",
       "min": 3000000,
       "max": 5000000,
-      "count": 127,
-      "percentage": 23.8
+      "count": 128,
+      "percentage": 24
     },
     {
       "segment": "luxury",
       "min": 5000000,
       "max": 0,
-      "count": 150,
-      "percentage": 28.1
+      "count": 149,
+      "percentage": 28
     }
   ],
   "otvStats": {
@@ -413,9 +413,9 @@
     "distribution": [
       {
         "year": "2026",
-        "count": 335,
-        "percentage": 76.5,
-        "avgPrice": 4871942
+        "count": 334,
+        "percentage": 76.4,
+        "avgPrice": 4875183
       },
       {
         "year": "2025",

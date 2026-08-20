@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-18T02:12:07.125Z",
-  "totalEntries": 534,
+  "generatedAt": "2026-08-20T02:17:12.442Z",
+  "totalEntries": 533,
   "entries": [
     {
       "id": "volkswagen-polo-life-1.0-tsi-95-ps",
@@ -1758,17 +1758,17 @@
       "searchText": "toyota yaris 1 5 hybrid passion x pack siyah tavan e cvt 1 5 hybrid otomatik"
     },
     {
-      "id": "toyota-land-cruiser-prado-land-cruiser-prado-2.8-l-d-4d-mild-hybrid-power-8-a/t-2.8",
+      "id": "toyota-land-cruiser-prado-land-cruiser-prado-2.8-d-4d-mild-hybrid-power-8-a/t-2.8",
       "brand": "Toyota",
       "brandId": "toyota",
       "model": "Land Cruiser Prado",
-      "trim": "Land Cruiser Prado 2.8 L D-4D Mild Hybrid Power 8 A/T",
+      "trim": "Land Cruiser Prado 2.8 D-4D Mild Hybrid Power 8 A/T",
       "engine": "2.8",
       "fuel": "Dizel",
       "transmission": "Otomatik",
       "price": 13100000,
       "priceFormatted": "13100000",
-      "searchText": "toyota land cruiser prado land cruiser prado 2 8 l d 4d mild hybrid power 8 a t 2 8 dizel otomatik"
+      "searchText": "toyota land cruiser prado land cruiser prado 2 8 d 4d mild hybrid power 8 a t 2 8 dizel otomatik"
     },
     {
       "id": "toyota-land-cruiser-prado-land-cruiser-prado-2.8-l-d-4d-mild-hybrid-power-8-a/t-2.8",
@@ -1784,56 +1784,43 @@
       "searchText": "toyota land cruiser prado land cruiser prado 2 8 l d 4d mild hybrid power 8 a t 2 8 dizel otomatik"
     },
     {
-      "id": "toyota-hilux-2.4-d-4d-4x2-hi-cruiser-a/t**-",
+      "id": "toyota-hilux-2.8-d-4d-mild-hybrid-power-4x4-adventure-a/t-",
       "brand": "Toyota",
       "brandId": "toyota",
       "model": "Hilux",
-      "trim": "2.4 D-4D 4x2 Hi-Cruiser A/T**",
+      "trim": "2.8 D-4D Mild Hybrid Power 4X4 Adventure A/T",
       "engine": "",
       "fuel": "Diger",
       "transmission": "",
-      "price": 2678000,
-      "priceFormatted": "2678000",
-      "searchText": "toyota hilux 2 4 d 4d 4x2 hi cruiser a t diger"
+      "price": 3990000,
+      "priceFormatted": "3990000",
+      "searchText": "toyota hilux 2 8 d 4d mild hybrid power 4x4 adventure a t diger"
     },
     {
-      "id": "toyota-hilux-2.4-d-4d-4x4-adventure-a/t-",
+      "id": "toyota-hilux-2.8-d-4d-mild-hybrid-power-4x4-hi-cruiser-a/t-",
       "brand": "Toyota",
       "brandId": "toyota",
       "model": "Hilux",
-      "trim": "2.4 D-4D 4x4 Adventure A/T",
+      "trim": "2.8 D-4D Mild Hybrid Power 4X4 Hi-Cruiser A/T",
       "engine": "",
       "fuel": "Diger",
       "transmission": "",
-      "price": 4182000,
-      "priceFormatted": "4182000",
-      "searchText": "toyota hilux 2 4 d 4d 4x4 adventure a t diger"
+      "price": 4390000,
+      "priceFormatted": "4390000",
+      "searchText": "toyota hilux 2 8 d 4d mild hybrid power 4x4 hi cruiser a t diger"
     },
     {
-      "id": "toyota-hilux-2.4-d-4d-4x4-invincible-a/t-",
+      "id": "toyota-hilux-2.8-d-4d-mild-hybrid-power-4x4-invincible-a/t-",
       "brand": "Toyota",
       "brandId": "toyota",
       "model": "Hilux",
-      "trim": "2.4 D-4D 4x4 Invincible A/T",
+      "trim": "2.8 D-4D Mild Hybrid Power 4x4 Invincible A/T",
       "engine": "",
       "fuel": "Diger",
       "transmission": "",
-      "price": 4490000,
-      "priceFormatted": "4490000",
-      "searchText": "toyota hilux 2 4 d 4d 4x4 invincible a t diger"
-    },
-    {
-      "id": "toyota-hilux-2.8-d-4d-4x4-gr-sport-a/t-",
-      "brand": "Toyota",
-      "brandId": "toyota",
-      "model": "Hilux",
-      "trim": "2.8 D-4D 4x4 GR SPORT A/T",
-      "engine": "",
-      "fuel": "Diger",
-      "transmission": "",
-      "price": 5409500,
-      "priceFormatted": "5409500",
-      "searchText": "toyota hilux 2 8 d 4d 4x4 gr sport a t diger"
+      "price": 4590000,
+      "priceFormatted": "4590000",
+      "searchText": "toyota hilux 2 8 d 4d mild hybrid power 4x4 invincible a t diger"
     },
     {
       "id": "toyota-proace-city-1.5-d-130-hp-dream-a/t-1.8",
