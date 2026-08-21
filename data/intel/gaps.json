@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T02:17:17.530Z",
-  "date": "2026-08-20",
+  "generatedAt": "2026-08-21T02:19:37.145Z",
+  "date": "2026-08-21",
   "summary": {
     "totalSegments": 10,
     "totalGaps": 901,
@@ -11,8 +11,8 @@
     {
       "segment": "SUV-Compact",
       "totalVehicles": 109,
-      "avgPrice": 2939009,
-      "minPrice": 1380000,
+      "avgPrice": 2943687,
+      "minPrice": 1415000,
       "maxPrice": 8430700,
       "brands": [
         "Volkswagen",
@@ -1615,7 +1615,7 @@
       "brands": [
         "Nissan"
       ],
-      "avgPrice": 1380000,
+      "avgPrice": 1415000,
       "hasGap": true,
       "opportunityScore": 38.18
     },
@@ -1633,7 +1633,7 @@
         "SEAT",
         "Kia"
       ],
-      "avgPrice": 1788955,
+      "avgPrice": 1801785,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -1653,7 +1653,7 @@
         "Nissan",
         "SEAT"
       ],
-      "avgPrice": 2611308,
+      "avgPrice": 2613092,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -2052,7 +2052,7 @@
         "Nissan",
         "Honda"
       ],
-      "avgPrice": 3723300,
+      "avgPrice": 3737580,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -2223,7 +2223,7 @@
       "brands": [
         "Nissan"
       ],
-      "avgPrice": 2630133,
+      "avgPrice": 2643367,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -2239,7 +2239,7 @@
         "BMW",
         "Nissan"
       ],
-      "avgPrice": 3888700,
+      "avgPrice": 3910400,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -13340,7 +13340,7 @@
       "brands": [
         "Nissan"
       ],
-      "avgPrice": 1380000,
+      "avgPrice": 1415000,
       "hasGap": true,
       "opportunityScore": 38.18
     },
