@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T02:19:36.904Z",
-  "date": "2026-08-21",
+  "generatedAt": "2026-08-22T05:01:28.192Z",
+  "date": "2026-08-22",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -1348,23 +1348,13 @@
           "engine": "Techno EV60 220 hp",
           "transmission": "Otomatik",
           "fuel": "Elektrik"
-        },
-        {
-          "trim": "Esprit Alpine",
-          "price": 2485999.99,
-          "priceFormatted": "₺2.485.999,99",
-          "stepFromBase": 99999.98000000045,
-          "stepPercent": 4.191113980758134,
-          "engine": "Esprit Alpine EV60 220 hp",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik"
         }
       ],
       "basePrice": 2386000.01,
-      "topPrice": 2485999.99,
-      "priceSpread": 99999.98000000045,
-      "priceSpreadPercent": 4.19,
-      "trimCount": 2
+      "topPrice": 2386000.01,
+      "priceSpread": 0,
+      "priceSpreadPercent": 0,
+      "trimCount": 1
     },
     {
       "id": "renault-megane-sedan",
@@ -10099,10 +10089,10 @@
           "brandId": "renault",
           "model": "Megane E-Tech ELEKTRİKLİ",
           "basePrice": 2386000.01,
-          "topPrice": 2485999.99,
+          "topPrice": 2386000.01,
           "basePriceFormatted": "₺2.386.000",
-          "topPriceFormatted": "₺2.486.000",
-          "trimCount": 2
+          "topPriceFormatted": "₺2.386.000",
+          "trimCount": 1
         },
         {
           "brand": "Toyota",
@@ -10236,7 +10226,7 @@
         }
       ],
       "avgBasePrice": 5913565,
-      "avgTopPrice": 6739687
+      "avgTopPrice": 6735142
     },
     {
       "segment": "Electric",
@@ -10683,7 +10673,7 @@
   "summary": {
     "totalModels": 231,
     "avgTrimsPerModel": 2.3,
-    "avgPriceSpread": 368116,
-    "avgPriceSpreadPercent": 12.83
+    "avgPriceSpread": 367683,
+    "avgPriceSpreadPercent": 12.81
   }
 }

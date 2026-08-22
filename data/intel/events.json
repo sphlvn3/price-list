@@ -1,22 +1,38 @@
 {
-  "generatedAt": "2026-08-21T02:19:36.353Z",
-  "date": "2026-08-21",
-  "previousDate": "2026-08-20",
+  "generatedAt": "2026-08-22T05:01:15.149Z",
+  "date": "2026-08-22",
+  "previousDate": "2026-08-21",
   "dateRange": {
     "start": "2026-01-28",
-    "end": "2026-08-21",
-    "totalDays": 206
+    "end": "2026-08-22",
+    "totalDays": 207
   },
   "summary": {
-    "totalEvents": 2321,
+    "totalEvents": 2322,
     "newVehicles": 507,
-    "removedVehicles": 487,
+    "removedVehicles": 488,
     "priceIncreases": 1151,
     "priceDecreases": 176,
     "avgPriceChange": 97908,
     "avgPriceChangePercent": 1.7
   },
   "events": [
+    {
+      "id": "renault-megane-e-tech-elektri̇kli̇-esprit-alpine-esprit-alpine-ev60-220-hp-removed-2026-08-22",
+      "type": "removed",
+      "vehicleId": "renault-megane-e-tech-elektri̇kli̇-esprit-alpine-esprit-alpine-ev60-220-hp",
+      "brand": "Renault",
+      "brandId": "renault",
+      "model": "Megane E-Tech ELEKTRİKLİ",
+      "trim": "Esprit Alpine",
+      "engine": "Esprit Alpine EV60 220 hp",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "oldPrice": 2485999.99,
+      "oldPriceFormatted": "₺2.485.999,99",
+      "date": "2026-08-22",
+      "previousDate": "2026-08-21"
+    },
     {
       "id": "nissan-qashqai-skypack-1.3-dig-t-mild-hybrid-158ps-price_increase-2026-08-21",
       "type": "price_increase",

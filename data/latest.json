@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-21T02:19:34.064Z",
-  "totalVehicles": 533,
+  "generatedAt": "2026-08-22T05:01:10.059Z",
+  "totalVehicles": 532,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -2553,7 +2553,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -2953,35 +2953,6 @@
             {
               "name": "20'' Elmas Kesim Alüminyum Alaşım Jantlar",
               "price": 23000
-            }
-          ],
-          "vehicleCategory": "Binek",
-          "powerHP": 220,
-          "engineType": "EV",
-          "isElectric": true
-        },
-        {
-          "model": "Megane E-Tech ELEKTRİKLİ",
-          "trim": "Esprit Alpine",
-          "engine": "Esprit Alpine EV60 220 hp",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik",
-          "priceRaw": "₺2.485.999,99",
-          "priceNumeric": 2485999.99,
-          "brand": "Renault",
-          "modelYear": "2026",
-          "otvRate": 25,
-          "netPrice": 1624791.33,
-          "otvAmount": 406197.83,
-          "kdvAmount": 406197.83,
-          "optionalEquipment": [
-            {
-              "name": "Metalik Renk",
-              "price": 13000
-            },
-            {
-              "name": "Çift Renk Tavan",
-              "price": 12000
             }
           ],
           "vehicleCategory": "Binek",
@@ -3430,7 +3401,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -4009,7 +3980,7 @@
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "i20",
@@ -4442,7 +4413,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "E-208",
@@ -4828,7 +4799,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "SEAL",
@@ -4911,7 +4882,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5149,7 +5120,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5685,7 +5656,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -6680,7 +6651,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "A 200",
@@ -7375,7 +7346,7 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "Puma",
@@ -8613,7 +8584,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -9023,7 +8994,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -9467,7 +9438,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "Jazz Hybrid",
@@ -9573,7 +9544,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "Ibiza",
@@ -9679,7 +9650,7 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "EV2",
@@ -10082,7 +10053,7 @@
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "EX30",
@@ -10647,7 +10618,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "vehicles": [
         {
           "model": "Egea Sedan",
