@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-23T02:26:20.346Z",
+  "generatedAt": "2026-08-25T02:13:49.355Z",
   "totalVehicles": 532,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -2553,7 +2553,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -3401,7 +3401,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -3980,7 +3980,7 @@
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "i20",
@@ -4413,7 +4413,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "E-208",
@@ -4421,11 +4421,11 @@
           "engine": "100 kW",
           "transmission": "",
           "fuel": "Elektrik",
-          "priceRaw": "1.999.500 TL",
-          "priceNumeric": 1999500,
+          "priceRaw": "2.039.500 TL",
+          "priceNumeric": 2039500,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 1999500,
+          "priceListNumeric": 2039500,
           "powerKW": 100,
           "isElectric": true,
           "vehicleCategory": "Binek"
@@ -4487,11 +4487,11 @@
           "engine": "115 kW",
           "transmission": "",
           "fuel": "Elektrik",
-          "priceRaw": "2.308.500 TL",
-          "priceNumeric": 2308500,
+          "priceRaw": "2.355.000 TL",
+          "priceNumeric": 2355000,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 2308500,
+          "priceListNumeric": 2355000,
           "powerKW": 115,
           "isElectric": true,
           "vehicleCategory": "Binek"
@@ -4502,12 +4502,12 @@
           "engine": "1.2 Hybrid 145 HP",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2.330.000 TL",
-          "priceNumeric": 2330000,
+          "priceRaw": "2.370.000 TL",
+          "priceNumeric": 2370000,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 2580000,
-          "priceCampaignNumeric": 2330000,
+          "priceListNumeric": 2632000,
+          "priceCampaignNumeric": 2370000,
           "powerHP": 145,
           "engineDisplacement": "1.2L",
           "engineType": "Hybrid",
@@ -4521,11 +4521,11 @@
           "engine": "1.2 Hybrid 145 HP",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2.695.000 TL",
-          "priceNumeric": 2695000,
+          "priceRaw": "2.747.000 TL",
+          "priceNumeric": 2747000,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 2695000,
+          "priceListNumeric": 2747000,
           "powerHP": 145,
           "engineDisplacement": "1.2L",
           "engineType": "Hybrid",
@@ -4540,12 +4540,12 @@
           "engine": "1.2 Hybrid 145 HP",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2.745.000 TL",
-          "priceNumeric": 2745000,
+          "priceRaw": "2.800.000 TL",
+          "priceNumeric": 2800000,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 2910000,
-          "priceCampaignNumeric": 2745000,
+          "priceListNumeric": 2968500,
+          "priceCampaignNumeric": 2800000,
           "powerHP": 145,
           "engineDisplacement": "1.2L",
           "engineType": "Hybrid",
@@ -4559,12 +4559,12 @@
           "engine": "1.2 Hybrid 145 HP",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "2.649.000 TL",
-          "priceNumeric": 2649000,
+          "priceRaw": "2.702.000 TL",
+          "priceNumeric": 2702000,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 2851000,
-          "priceCampaignNumeric": 2649000,
+          "priceListNumeric": 2908500,
+          "priceCampaignNumeric": 2702000,
           "powerHP": 145,
           "engineDisplacement": "1.2L",
           "engineType": "Hybrid",
@@ -4578,11 +4578,11 @@
           "engine": "1.2 Hybrid 145 HP",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "3.259.000 TL",
-          "priceNumeric": 3259000,
+          "priceRaw": "3.324.500 TL",
+          "priceNumeric": 3324500,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 3259000,
+          "priceListNumeric": 3324500,
           "powerHP": 145,
           "engineDisplacement": "1.2L",
           "engineType": "Hybrid",
@@ -4596,11 +4596,11 @@
           "engine": "157 kW",
           "transmission": "",
           "fuel": "Elektrik",
-          "priceRaw": "3.318.000 TL",
-          "priceNumeric": 3318000,
+          "priceRaw": "3.384.500 TL",
+          "priceNumeric": 3384500,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 3318000,
+          "priceListNumeric": 3384500,
           "powerKW": 157,
           "powerHP": 210,
           "isElectric": true,
@@ -4612,11 +4612,11 @@
           "engine": "157 kW",
           "transmission": "",
           "fuel": "Elektrik",
-          "priceRaw": "3.514.500 TL",
-          "priceNumeric": 3514500,
+          "priceRaw": "3.585.000 TL",
+          "priceNumeric": 3585000,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 3514500,
+          "priceListNumeric": 3585000,
           "powerKW": 157,
           "powerHP": 210,
           "isElectric": true,
@@ -4628,11 +4628,11 @@
           "engine": "1.2 Hybrid 145 HP",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "3.290.000 TL",
-          "priceNumeric": 3290000,
+          "priceRaw": "3.357.000 TL",
+          "priceNumeric": 3357000,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 3290000,
+          "priceListNumeric": 3357000,
           "powerHP": 145,
           "engineDisplacement": "1.2L",
           "engineType": "Hybrid",
@@ -4646,11 +4646,11 @@
           "engine": "1.2 Hybrid 145 HP",
           "transmission": "Otomatik",
           "fuel": "Hybrid",
-          "priceRaw": "3.600.000 TL",
-          "priceNumeric": 3600000,
+          "priceRaw": "3.674.000 TL",
+          "priceNumeric": 3674000,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 3600000,
+          "priceListNumeric": 3674000,
           "powerHP": 145,
           "engineDisplacement": "1.2L",
           "engineType": "Hybrid",
@@ -4664,11 +4664,11 @@
           "engine": "157 kW",
           "transmission": "",
           "fuel": "Elektrik",
-          "priceRaw": "3.502.000 TL",
-          "priceNumeric": 3502000,
+          "priceRaw": "3.573.500 TL",
+          "priceNumeric": 3573500,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 3502000,
+          "priceListNumeric": 3573500,
           "powerKW": 157,
           "powerHP": 210,
           "isElectric": true,
@@ -4680,11 +4680,11 @@
           "engine": "157 kW",
           "transmission": "",
           "fuel": "Elektrik",
-          "priceRaw": "3.644.000 TL",
-          "priceNumeric": 3644000,
+          "priceRaw": "3.717.000 TL",
+          "priceNumeric": 3717000,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 3644000,
+          "priceListNumeric": 3717000,
           "powerKW": 157,
           "powerHP": 210,
           "isElectric": true,
@@ -4696,11 +4696,11 @@
           "engine": "1.5 BlueHDi 130 HP",
           "transmission": "Manuel",
           "fuel": "Dizel",
-          "priceRaw": "1.624.000 TL",
-          "priceNumeric": 1624000,
+          "priceRaw": "1.656.500 TL",
+          "priceNumeric": 1656500,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 1624000,
+          "priceListNumeric": 1656500,
           "powerHP": 130,
           "engineDisplacement": "1.5L",
           "engineType": "BlueHDi",
@@ -4713,11 +4713,11 @@
           "engine": "1.5 BlueHDi 130 HP",
           "transmission": "Otomatik",
           "fuel": "Dizel",
-          "priceRaw": "1.905.500 TL",
-          "priceNumeric": 1905500,
+          "priceRaw": "1.944.000 TL",
+          "priceNumeric": 1944000,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 1905500,
+          "priceListNumeric": 1944000,
           "powerHP": 130,
           "engineDisplacement": "1.5L",
           "engineType": "BlueHDi",
@@ -4730,11 +4730,11 @@
           "engine": "1.5 BlueHDi 130 HP",
           "transmission": "Otomatik",
           "fuel": "Dizel",
-          "priceRaw": "2.077.000 TL",
-          "priceNumeric": 2077000,
+          "priceRaw": "2.119.000 TL",
+          "priceNumeric": 2119000,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 2077000,
+          "priceListNumeric": 2119000,
           "powerHP": 130,
           "engineDisplacement": "1.5L",
           "engineType": "BlueHDi",
@@ -4747,11 +4747,11 @@
           "engine": "1.5 BlueHDi 130 HP",
           "transmission": "Manuel",
           "fuel": "Dizel",
-          "priceRaw": "1.383.000 TL",
-          "priceNumeric": 1383000,
+          "priceRaw": "1.411.000 TL",
+          "priceNumeric": 1411000,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 1383000,
+          "priceListNumeric": 1411000,
           "powerHP": 130,
           "engineDisplacement": "1.5L",
           "engineType": "BlueHDi",
@@ -4764,11 +4764,11 @@
           "engine": "1.5 BlueHDi 130 HP",
           "transmission": "Otomatik",
           "fuel": "Dizel",
-          "priceRaw": "1.510.000 TL",
-          "priceNumeric": 1510000,
+          "priceRaw": "1.538.000 TL",
+          "priceNumeric": 1538000,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 1510000,
+          "priceListNumeric": 1538000,
           "powerHP": 130,
           "engineDisplacement": "1.5L",
           "engineType": "BlueHDi",
@@ -4781,11 +4781,11 @@
           "engine": "2.2 BlueHDi 180 HP",
           "transmission": "Otomatik",
           "fuel": "Dizel",
-          "priceRaw": "2.490.000 TL",
-          "priceNumeric": 2490000,
+          "priceRaw": "2.540.000 TL",
+          "priceNumeric": 2540000,
           "brand": "Peugeot",
           "modelYear": 2026,
-          "priceListNumeric": 2490000,
+          "priceListNumeric": 2540000,
           "powerHP": 180,
           "engineDisplacement": "2.2L",
           "engineType": "BlueHDi",
@@ -4799,7 +4799,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "SEAL",
@@ -4882,7 +4882,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5120,7 +5120,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5656,7 +5656,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -6651,7 +6651,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "A 200",
@@ -7346,7 +7346,7 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "Puma",
@@ -8584,7 +8584,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -8994,7 +8994,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -9438,7 +9438,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "Jazz Hybrid",
@@ -9544,7 +9544,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "Ibiza",
@@ -9650,7 +9650,7 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "EV2",
@@ -10053,7 +10053,7 @@
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "EX30",
@@ -10618,7 +10618,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "vehicles": [
         {
           "model": "Egea Sedan",

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-23T02:26:20.362Z",
+  "generatedAt": "2026-08-25T02:13:49.369Z",
   "totalVehicles": 532,
   "overallStats": {
-    "avgPrice": 5054171,
+    "avgPrice": 5056038,
     "minPrice": 590000,
     "maxPrice": 38034000,
     "medianPrice": 3121350
@@ -107,10 +107,10 @@
     {
       "name": "Peugeot",
       "vehicleCount": 22,
-      "avgPrice": 2589932,
-      "minPrice": 1383000,
-      "maxPrice": 3644000,
-      "medianPrice": 2535000
+      "avgPrice": 2635091,
+      "minPrice": 1411000,
+      "maxPrice": 3717000,
+      "medianPrice": 2560000
     },
     {
       "name": "Fiat",
@@ -172,19 +172,19 @@
       "fuel": "Elektrik",
       "count": 124,
       "percentage": 23.3,
-      "avgPrice": 4610335
+      "avgPrice": 4613302
     },
     {
       "fuel": "Hibrit",
       "count": 80,
       "percentage": 15,
-      "avgPrice": 3959241
+      "avgPrice": 3964323
     },
     {
       "fuel": "Dizel",
       "count": 69,
       "percentage": 13,
-      "avgPrice": 4074558
+      "avgPrice": 4077732
     },
     {
       "fuel": "Hafif Hibrit",
@@ -216,7 +216,7 @@
       "transmission": "Otomatik",
       "count": 366,
       "percentage": 68.8,
-      "avgPrice": 5914924
+      "avgPrice": 5916468
     },
     {
       "transmission": "DSG",
@@ -228,7 +228,7 @@
       "transmission": "Manuel",
       "count": 42,
       "percentage": 7.9,
-      "avgPrice": 1734267
+      "avgPrice": 1735707
     },
     {
       "transmission": "DCT",
@@ -240,7 +240,7 @@
       "transmission": "Bilinmiyor",
       "count": 19,
       "percentage": 3.6,
-      "avgPrice": 3320189
+      "avgPrice": 3339558
     }
   ],
   "priceSegments": [
@@ -415,7 +415,7 @@
         "year": "2026",
         "count": 333,
         "percentage": 76.4,
-        "avgPrice": 4883889
+        "avgPrice": 4886872
       },
       {
         "year": "2025",

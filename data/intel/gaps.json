@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T02:26:39.241Z",
-  "date": "2026-08-23",
+  "generatedAt": "2026-08-25T02:13:52.220Z",
+  "date": "2026-08-25",
   "summary": {
     "totalSegments": 10,
     "totalGaps": 901,
@@ -11,7 +11,7 @@
     {
       "segment": "SUV-Compact",
       "totalVehicles": 109,
-      "avgPrice": 2943687,
+      "avgPrice": 2944114,
       "minPrice": 1415000,
       "maxPrice": 8430700,
       "brands": [
@@ -44,7 +44,7 @@
     {
       "segment": "SUV-Large",
       "totalVehicles": 74,
-      "avgPrice": 9777668,
+      "avgPrice": 9781527,
       "minPrice": 2094100,
       "maxPrice": 33191000,
       "brands": [
@@ -93,7 +93,7 @@
     {
       "segment": "Hatchback-C",
       "totalVehicles": 60,
-      "avgPrice": 2837184,
+      "avgPrice": 2839634,
       "minPrice": 590000,
       "maxPrice": 6683000,
       "brands": [
@@ -123,7 +123,7 @@
     {
       "segment": "SUV-Medium",
       "totalVehicles": 58,
-      "avgPrice": 3759788,
+      "avgPrice": 3764193,
       "minPrice": 2249000,
       "maxPrice": 9241000,
       "brands": [
@@ -173,7 +173,7 @@
     {
       "segment": "Hatchback-B",
       "totalVehicles": 40,
-      "avgPrice": 2131323,
+      "avgPrice": 2132323,
       "minPrice": 1238000,
       "maxPrice": 6660000,
       "brands": [
@@ -221,8 +221,8 @@
     {
       "segment": "MPV",
       "totalVehicles": 29,
-      "avgPrice": 2009841,
-      "minPrice": 1383000,
+      "avgPrice": 2017393,
+      "minPrice": 1411000,
       "maxPrice": 3490000,
       "brands": [
         "Renault",
@@ -3362,7 +3362,7 @@
         "Citroën",
         "SEAT"
       ],
-      "avgPrice": 2411794,
+      "avgPrice": 2428128,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -4681,7 +4681,7 @@
         "Opel",
         "Citroën"
       ],
-      "avgPrice": 2792250,
+      "avgPrice": 2805500,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -4698,7 +4698,7 @@
         "Peugeot",
         "Opel"
       ],
-      "avgPrice": 3362667,
+      "avgPrice": 3384500,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -7292,7 +7292,7 @@
       "brands": [
         "Peugeot"
       ],
-      "avgPrice": 3445000,
+      "avgPrice": 3515500,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -9697,7 +9697,7 @@
         "Peugeot",
         "Citroën"
       ],
-      "avgPrice": 1760214,
+      "avgPrice": 1769714,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -9713,7 +9713,7 @@
         "Peugeot",
         "Citroën"
       ],
-      "avgPrice": 2400667,
+      "avgPrice": 2431333,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -9781,7 +9781,7 @@
         "Peugeot",
         "Citroën"
       ],
-      "avgPrice": 1407500,
+      "avgPrice": 1421500,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -9797,7 +9797,7 @@
         "Peugeot",
         "Citroën"
       ],
-      "avgPrice": 1670667,
+      "avgPrice": 1676083,
       "hasGap": false,
       "opportunityScore": 0
     },

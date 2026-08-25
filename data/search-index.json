@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T02:26:20.353Z",
+  "generatedAt": "2026-08-25T02:13:49.361Z",
   "totalEntries": 532,
   "entries": [
     {
@@ -2455,8 +2455,8 @@
       "engine": "100 kW",
       "fuel": "Elektrik",
       "transmission": "",
-      "price": 1999500,
-      "priceFormatted": "1.999.500 TL",
+      "price": 2039500,
+      "priceFormatted": "2.039.500 TL",
       "searchText": "peugeot e 208 gt 100 kw elektrik"
     },
     {
@@ -2507,8 +2507,8 @@
       "engine": "115 kW",
       "fuel": "Elektrik",
       "transmission": "",
-      "price": 2308500,
-      "priceFormatted": "2.308.500 TL",
+      "price": 2355000,
+      "priceFormatted": "2.355.000 TL",
       "searchText": "peugeot e 2008 gt 115 kw elektrik"
     },
     {
@@ -2520,8 +2520,8 @@
       "engine": "1.2 Hybrid 145 HP",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2330000,
-      "priceFormatted": "2.330.000 TL",
+      "price": 2370000,
+      "priceFormatted": "2.370.000 TL",
       "searchText": "peugeot 408 allure 1 2 hybrid 145 hp hybrid otomatik"
     },
     {
@@ -2533,8 +2533,8 @@
       "engine": "1.2 Hybrid 145 HP",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2695000,
-      "priceFormatted": "2.695.000 TL",
+      "price": 2747000,
+      "priceFormatted": "2.747.000 TL",
       "searchText": "peugeot 408 allure 1 2 hybrid 145 hp hybrid otomatik"
     },
     {
@@ -2546,8 +2546,8 @@
       "engine": "1.2 Hybrid 145 HP",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2745000,
-      "priceFormatted": "2.745.000 TL",
+      "price": 2800000,
+      "priceFormatted": "2.800.000 TL",
       "searchText": "peugeot 408 gt 1 2 hybrid 145 hp hybrid otomatik"
     },
     {
@@ -2559,8 +2559,8 @@
       "engine": "1.2 Hybrid 145 HP",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2649000,
-      "priceFormatted": "2.649.000 TL",
+      "price": 2702000,
+      "priceFormatted": "2.702.000 TL",
       "searchText": "peugeot 3008 allure 1 2 hybrid 145 hp hybrid otomatik"
     },
     {
@@ -2572,8 +2572,8 @@
       "engine": "1.2 Hybrid 145 HP",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 3259000,
-      "priceFormatted": "3.259.000 TL",
+      "price": 3324500,
+      "priceFormatted": "3.324.500 TL",
       "searchText": "peugeot 3008 gt 1 2 hybrid 145 hp hybrid otomatik"
     },
     {
@@ -2585,8 +2585,8 @@
       "engine": "157 kW",
       "fuel": "Elektrik",
       "transmission": "",
-      "price": 3318000,
-      "priceFormatted": "3.318.000 TL",
+      "price": 3384500,
+      "priceFormatted": "3.384.500 TL",
       "searchText": "peugeot e 3008 allure 157 kw elektrik"
     },
     {
@@ -2598,8 +2598,8 @@
       "engine": "157 kW",
       "fuel": "Elektrik",
       "transmission": "",
-      "price": 3514500,
-      "priceFormatted": "3.514.500 TL",
+      "price": 3585000,
+      "priceFormatted": "3.585.000 TL",
       "searchText": "peugeot e 3008 gt 157 kw elektrik"
     },
     {
@@ -2611,8 +2611,8 @@
       "engine": "1.2 Hybrid 145 HP",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 3290000,
-      "priceFormatted": "3.290.000 TL",
+      "price": 3357000,
+      "priceFormatted": "3.357.000 TL",
       "searchText": "peugeot 5008 allure 1 2 hybrid 145 hp hybrid otomatik"
     },
     {
@@ -2624,8 +2624,8 @@
       "engine": "1.2 Hybrid 145 HP",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 3600000,
-      "priceFormatted": "3.600.000 TL",
+      "price": 3674000,
+      "priceFormatted": "3.674.000 TL",
       "searchText": "peugeot 5008 gt 1 2 hybrid 145 hp hybrid otomatik"
     },
     {
@@ -2637,8 +2637,8 @@
       "engine": "157 kW",
       "fuel": "Elektrik",
       "transmission": "",
-      "price": 3502000,
-      "priceFormatted": "3.502.000 TL",
+      "price": 3573500,
+      "priceFormatted": "3.573.500 TL",
       "searchText": "peugeot e 5008 allure 157 kw elektrik"
     },
     {
@@ -2650,8 +2650,8 @@
       "engine": "157 kW",
       "fuel": "Elektrik",
       "transmission": "",
-      "price": 3644000,
-      "priceFormatted": "3.644.000 TL",
+      "price": 3717000,
+      "priceFormatted": "3.717.000 TL",
       "searchText": "peugeot e 5008 gt 157 kw elektrik"
     },
     {
@@ -2663,8 +2663,8 @@
       "engine": "1.5 BlueHDi 130 HP",
       "fuel": "Dizel",
       "transmission": "Manuel",
-      "price": 1624000,
-      "priceFormatted": "1.624.000 TL",
+      "price": 1656500,
+      "priceFormatted": "1.656.500 TL",
       "searchText": "peugeot rifter allure 1 5 bluehdi 130 hp dizel manuel"
     },
     {
@@ -2676,8 +2676,8 @@
       "engine": "1.5 BlueHDi 130 HP",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 1905500,
-      "priceFormatted": "1.905.500 TL",
+      "price": 1944000,
+      "priceFormatted": "1.944.000 TL",
       "searchText": "peugeot rifter allure 1 5 bluehdi 130 hp dizel otomatik"
     },
     {
@@ -2689,8 +2689,8 @@
       "engine": "1.5 BlueHDi 130 HP",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 2077000,
-      "priceFormatted": "2.077.000 TL",
+      "price": 2119000,
+      "priceFormatted": "2.119.000 TL",
       "searchText": "peugeot rifter gt 1 5 bluehdi 130 hp dizel otomatik"
     },
     {
@@ -2702,8 +2702,8 @@
       "engine": "1.5 BlueHDi 130 HP",
       "fuel": "Dizel",
       "transmission": "Manuel",
-      "price": 1383000,
-      "priceFormatted": "1.383.000 TL",
+      "price": 1411000,
+      "priceFormatted": "1.411.000 TL",
       "searchText": "peugeot partner van comfort 1 5 bluehdi 130 hp dizel manuel"
     },
     {
@@ -2715,8 +2715,8 @@
       "engine": "1.5 BlueHDi 130 HP",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 1510000,
-      "priceFormatted": "1.510.000 TL",
+      "price": 1538000,
+      "priceFormatted": "1.538.000 TL",
       "searchText": "peugeot partner van comfort 1 5 bluehdi 130 hp dizel otomatik"
     },
     {
@@ -2728,8 +2728,8 @@
       "engine": "2.2 BlueHDi 180 HP",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 2490000,
-      "priceFormatted": "2.490.000 TL",
+      "price": 2540000,
+      "priceFormatted": "2.540.000 TL",
       "searchText": "peugeot expert traveller allure 2 2 bluehdi 180 hp dizel otomatik"
     },
     {
