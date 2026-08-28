@@ -1,154 +1,166 @@
 {
-  "generatedAt": "2026-08-28T12:22:05.139Z",
-  "date": "2026-08-28",
-  "totalBrands": 18,
-  "successful": 18,
-  "failed": 0,
-  "usedFallback": 2,
-  "details": [
+  "timestamp": "2026-08-28T12:29:27.523Z",
+  "status": "healthy",
+  "summary": {
+    "totalBrands": 19,
+    "totalVehicles": 532,
+    "lastUpdate": "2026-08-28T12:29:22.385Z",
+    "dataDate": "2026-08-28"
+  },
+  "brands": [
     {
-      "brand": "volkswagen",
-      "success": true,
-      "count": 46,
-      "error": null,
-      "usedFallback": false,
-      "elapsed": 5676
+      "id": "volkswagen",
+      "name": "Volkswagen",
+      "status": "ok",
+      "vehicleCount": 46,
+      "latestDate": "2026-08-28",
+      "issues": []
     },
     {
-      "brand": "skoda",
-      "success": true,
-      "count": 41,
-      "error": null,
-      "usedFallback": false,
-      "elapsed": 1172
+      "id": "skoda",
+      "name": "Škoda",
+      "status": "ok",
+      "vehicleCount": 41,
+      "latestDate": "2026-08-28",
+      "issues": []
     },
     {
-      "brand": "renault",
-      "success": true,
-      "count": 25,
-      "error": null,
-      "usedFallback": true,
-      "elapsed": 128
+      "id": "renault",
+      "name": "Renault",
+      "status": "ok",
+      "vehicleCount": 25,
+      "latestDate": "2026-08-28",
+      "issues": []
     },
     {
-      "brand": "toyota",
-      "success": true,
-      "count": 41,
-      "error": null,
-      "usedFallback": false,
-      "elapsed": 640
+      "id": "toyota",
+      "name": "Toyota",
+      "status": "ok",
+      "vehicleCount": 41,
+      "latestDate": "2026-08-28",
+      "issues": []
     },
     {
-      "brand": "hyundai",
-      "success": true,
-      "count": 35,
-      "error": null,
-      "usedFallback": false,
-      "elapsed": 1083
+      "id": "hyundai",
+      "name": "Hyundai",
+      "status": "ok",
+      "vehicleCount": 35,
+      "latestDate": "2026-08-28",
+      "issues": []
     },
     {
-      "brand": "peugeot",
-      "success": true,
-      "count": 22,
-      "error": null,
-      "usedFallback": false,
-      "elapsed": 2852
+      "id": "peugeot",
+      "name": "Peugeot",
+      "status": "ok",
+      "vehicleCount": 22,
+      "latestDate": "2026-08-28",
+      "issues": []
     },
     {
-      "brand": "byd",
-      "success": true,
-      "count": 4,
-      "error": null,
-      "usedFallback": false,
-      "elapsed": 910
+      "id": "byd",
+      "name": "BYD",
+      "status": "ok",
+      "vehicleCount": 4,
+      "latestDate": "2026-08-28",
+      "issues": []
     },
     {
-      "brand": "opel",
-      "success": true,
-      "count": 16,
-      "error": null,
-      "usedFallback": false,
-      "elapsed": 3181
+      "id": "opel",
+      "name": "Opel",
+      "status": "ok",
+      "vehicleCount": 16,
+      "latestDate": "2026-08-28",
+      "issues": []
     },
     {
-      "brand": "citroen",
-      "success": true,
-      "count": 36,
-      "error": null,
-      "usedFallback": false,
-      "elapsed": 1289
+      "id": "citroen",
+      "name": "Citroën",
+      "status": "ok",
+      "vehicleCount": 36,
+      "latestDate": "2026-08-28",
+      "issues": []
     },
     {
-      "brand": "bmw",
-      "success": true,
-      "count": 61,
-      "error": null,
-      "usedFallback": false,
-      "elapsed": 2064
+      "id": "bmw",
+      "name": "BMW",
+      "status": "ok",
+      "vehicleCount": 61,
+      "latestDate": "2026-08-28",
+      "issues": []
     },
     {
-      "brand": "mercedes",
-      "success": true,
-      "count": 43,
-      "error": null,
-      "usedFallback": false,
-      "elapsed": 7891
+      "id": "mercedes",
+      "name": "Mercedes-Benz",
+      "status": "ok",
+      "vehicleCount": 43,
+      "latestDate": "2026-08-28",
+      "issues": []
     },
     {
-      "brand": "ford",
-      "success": true,
-      "count": 32,
-      "error": null,
-      "usedFallback": false,
-      "elapsed": 2965
+      "id": "ford",
+      "name": "Ford",
+      "status": "ok",
+      "vehicleCount": 32,
+      "latestDate": "2026-08-28",
+      "issues": []
     },
     {
-      "brand": "dacia",
-      "success": true,
-      "count": 14,
-      "error": null,
-      "usedFallback": true,
-      "elapsed": 98
+      "id": "dacia",
+      "name": "Dacia",
+      "status": "ok",
+      "vehicleCount": 14,
+      "latestDate": "2026-08-28",
+      "issues": []
     },
     {
-      "brand": "nissan",
-      "success": true,
-      "count": 26,
-      "error": null,
-      "usedFallback": false,
-      "elapsed": 2391
+      "id": "nissan",
+      "name": "Nissan",
+      "status": "ok",
+      "vehicleCount": 26,
+      "latestDate": "2026-08-28",
+      "issues": []
     },
     {
-      "brand": "honda",
-      "success": true,
-      "count": 7,
-      "error": null,
-      "usedFallback": false,
-      "elapsed": 220
+      "id": "honda",
+      "name": "Honda",
+      "status": "ok",
+      "vehicleCount": 7,
+      "latestDate": "2026-08-28",
+      "issues": []
     },
     {
-      "brand": "seat",
-      "success": true,
-      "count": 7,
-      "error": null,
-      "usedFallback": false,
-      "elapsed": 1689
+      "id": "seat",
+      "name": "SEAT",
+      "status": "ok",
+      "vehicleCount": 7,
+      "latestDate": "2026-08-28",
+      "issues": []
     },
     {
-      "brand": "kia",
-      "success": true,
-      "count": 24,
-      "error": null,
-      "usedFallback": false,
-      "elapsed": 319
+      "id": "kia",
+      "name": "Kia",
+      "status": "ok",
+      "vehicleCount": 24,
+      "latestDate": "2026-08-28",
+      "issues": []
     },
     {
-      "brand": "volvo",
-      "success": true,
-      "count": 34,
-      "error": null,
-      "usedFallback": false,
-      "elapsed": 1306
+      "id": "volvo",
+      "name": "Volvo",
+      "status": "ok",
+      "vehicleCount": 34,
+      "latestDate": "2026-08-28",
+      "issues": []
+    },
+    {
+      "id": "fiat",
+      "name": "Fiat",
+      "status": "ok",
+      "vehicleCount": 18,
+      "latestDate": "2026-08-28",
+      "issues": []
     }
-  ]
+  ],
+  "issues": [],
+  "warnings": []
 }
