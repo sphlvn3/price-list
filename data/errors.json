@@ -1,11 +1,51 @@
 {
-  "generatedAt": "2026-08-29T18:37:38.506Z",
-  "clearedAt": "2026-08-29T18:36:54.669Z",
-  "errors": [],
+  "generatedAt": "2026-08-30T06:03:56.366Z",
+  "clearedAt": "2026-08-30T06:03:21.807Z",
+  "errors": [
+    {
+      "id": "err_1788069826526_i41a87g",
+      "timestamp": "2026-08-30T06:03:46.526Z",
+      "severity": "error",
+      "category": "HTTP_ERROR",
+      "source": "collection",
+      "brand": "BMW",
+      "brandId": "bmw",
+      "code": "COLLECTION_FAILED",
+      "message": "Failed to collect BMW: fetch failed",
+      "details": {
+        "error": "fetch failed",
+        "url": "https://www.borusanotomotiv.com/bmw/stage2/fiyat-listesi/static-fiyat-listesi-v2.aspx",
+        "elapsed": 10328,
+        "isTimeout": false
+      },
+      "recovered": false
+    },
+    {
+      "id": "err_1788069826528_yweh0zr",
+      "timestamp": "2026-08-30T06:03:46.528Z",
+      "severity": "warning",
+      "category": "DATA_QUALITY_ERROR",
+      "source": "collection",
+      "brand": "BMW",
+      "brandId": "bmw",
+      "code": "USING_FALLBACK_DATA",
+      "message": "Using fallback data for BMW (61 rows)",
+      "recovered": true,
+      "recoveryMethod": "Used previous day data"
+    }
+  ],
   "summary": {
-    "total": 0,
-    "byCategory": {},
-    "bySeverity": {},
-    "bySource": {}
+    "total": 2,
+    "byCategory": {
+      "HTTP_ERROR": 1,
+      "DATA_QUALITY_ERROR": 1
+    },
+    "bySeverity": {
+      "error": 1,
+      "warning": 1
+    },
+    "bySource": {
+      "collection": 2
+    }
   }
 }
