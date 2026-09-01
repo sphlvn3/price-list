@@ -1,0 +1,41 @@
+{
+  "collectedAt": "2026-09-01T05:50:50.636Z",
+  "brand": "Kia",
+  "brandId": "kia",
+  "rowCount": 2,
+  "rows": [
+    {
+      "model": "XCEED",
+      "trim": "Cool",
+      "engine": "115 PS",
+      "transmission": "Otomatik",
+      "fuel": "Hybrid",
+      "priceRaw": "1.960.000 TL",
+      "priceNumeric": 1960000,
+      "brand": "Kia",
+      "priceListNumeric": 897880.48,
+      "priceCampaignNumeric": 1895000,
+      "powerHP": 115,
+      "engineDisplacement": "1.0L",
+      "transmissionType": "DCT",
+      "modelYear": 2026,
+      "isHybrid": true
+    },
+    {
+      "model": "Niro EV",
+      "trim": "Elegance",
+      "engine": "150 kW",
+      "transmission": "Otomatik",
+      "fuel": "Elektrik",
+      "priceRaw": "2.299.000 TL",
+      "priceNumeric": 2299000,
+      "brand": "Kia",
+      "priceListNumeric": 1457815.25,
+      "priceCampaignNumeric": 2199000,
+      "powerKW": 150,
+      "transmissionType": "AT",
+      "modelYear": 2026,
+      "isElectric": true
+    }
+  ]
+}
