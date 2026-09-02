@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-29T18:37:19.177Z",
-  "totalEntries": 532,
+  "generatedAt": "2026-09-02T15:31:05.186Z",
+  "totalEntries": 526,
   "entries": [
     {
       "id": "volkswagen-polo-life-1.0-tsi-95-ps",
@@ -1160,19 +1160,6 @@
       "searchText": "renault yeni clio esprit alpine esprit alpine tce edc 115 hp benzin otomatik"
     },
     {
-      "id": "renault-r5-e-tech-elektri̇kli̇-techno-techno-ev40-120hp",
-      "brand": "Renault",
-      "brandId": "renault",
-      "model": "R5 E-Tech ELEKTRİKLİ",
-      "trim": "Techno",
-      "engine": "Techno EV40 120hp",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 1885999.99,
-      "priceFormatted": "₺1.885.999,99",
-      "searchText": "renault r5 e tech elektrikli techno techno ev40 120hp elektrik otomatik"
-    },
-    {
       "id": "renault-r5-e-tech-elektri̇kli̇-techno-techno-ev52-150hp",
       "brand": "Renault",
       "brandId": "renault",
@@ -1233,8 +1220,8 @@
       "engine": "evolution hybrid 4x4 150 hp",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2750000,
-      "priceFormatted": "₺2.750.000,00",
+      "price": 2850000,
+      "priceFormatted": "₺2.850.000,00",
       "searchText": "renault duster evolution evolution hybrid 4x4 150 hp benzin otomatik"
     },
     {
@@ -1259,8 +1246,8 @@
       "engine": "techno Full hybrid E-Tech 160 hp",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2570000.01,
-      "priceFormatted": "₺2.570.000,01",
+      "price": 2725000,
+      "priceFormatted": "₺2.725.000,00",
       "searchText": "renault duster techno techno full hybrid e tech 160 hp benzin otomatik"
     },
     {
@@ -1272,8 +1259,8 @@
       "engine": "techno hybrid 4x4 150 hp",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2799999.99,
-      "priceFormatted": "₺2.799.999,99",
+      "price": 2919999.99,
+      "priceFormatted": "₺2.919.999,99",
       "searchText": "renault duster techno techno hybrid 4x4 150 hp benzin otomatik"
     },
     {
@@ -1363,8 +1350,8 @@
       "engine": "techno Turbo TCe EDC 145 hp",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2699000.01,
-      "priceFormatted": "₺2.699.000,01",
+      "price": 2898999.99,
+      "priceFormatted": "₺2.898.999,99",
       "searchText": "renault boreal techno techno turbo tce edc 145 hp benzin otomatik"
     },
     {
@@ -1415,8 +1402,8 @@
       "engine": "esprit alpine mild hybrid 150 hp auto",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 3129999.99,
-      "priceFormatted": "₺3.129.999,99",
+      "price": 3220000,
+      "priceFormatted": "₺3.220.000,00",
       "searchText": "renault austral esprit alpine esprit alpine mild hybrid 150 hp auto benzin otomatik"
     },
     {
@@ -1480,8 +1467,8 @@
       "engine": "1.5",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2040000,
-      "priceFormatted": "2040000",
+      "price": 2150000,
+      "priceFormatted": "2150000",
       "searchText": "toyota corolla 1 5 dream multidrive s 1 5 benzin otomatik"
     },
     {
@@ -1493,8 +1480,8 @@
       "engine": "1.5",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 1950000,
-      "priceFormatted": "1950000",
+      "price": 2275000,
+      "priceFormatted": "2275000",
       "searchText": "toyota corolla 1 5 dream x pack multidrive s 1 5 benzin otomatik"
     },
     {
@@ -1506,8 +1493,8 @@
       "engine": "1.5",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 1999000,
-      "priceFormatted": "1999000",
+      "price": 2335000,
+      "priceFormatted": "2335000",
       "searchText": "toyota corolla 1 5 flame x pack multidrive s 1 5 benzin otomatik"
     },
     {
@@ -1519,8 +1506,8 @@
       "engine": "1.5",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2525000,
-      "priceFormatted": "2525000",
+      "price": 2630000,
+      "priceFormatted": "2630000",
       "searchText": "toyota corolla 1 5 passion x pack multidrive s 1 5 benzin otomatik"
     },
     {
@@ -1532,8 +1519,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Düz Vites",
-      "price": 2906000,
-      "priceFormatted": "2906000",
+      "price": 2968000,
+      "priceFormatted": "2968000",
       "searchText": "toyota corolla 1 8 hybrid dream e cvt 1 8 hybrid duz vites"
     },
     {
@@ -1545,8 +1532,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik Vites",
-      "price": 2530000,
-      "priceFormatted": "2530000",
+      "price": 2540000,
+      "priceFormatted": "2540000",
       "searchText": "toyota corolla 1 8 hybrid dream x pack e cvt 1 8 hybrid otomatik vites"
     },
     {
@@ -1558,8 +1545,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2500000,
-      "priceFormatted": "2500000",
+      "price": 2775000,
+      "priceFormatted": "2775000",
       "searchText": "toyota corolla 1 8 hybrid flame x pack e cvt 1 8 hybrid otomatik"
     },
     {
@@ -1571,8 +1558,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2820000,
-      "priceFormatted": "2820000",
+      "price": 2875000,
+      "priceFormatted": "2875000",
       "searchText": "toyota corolla cross 1 8 hybrid flame e cvt 1 8 hybrid otomatik"
     },
     {
@@ -1584,8 +1571,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 3024000,
-      "priceFormatted": "3024000",
+      "price": 3080000,
+      "priceFormatted": "3080000",
       "searchText": "toyota corolla cross 1 8 hybrid passion e cvt 1 8 hybrid otomatik"
     },
     {
@@ -1597,8 +1584,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 3504000,
-      "priceFormatted": "3504000",
+      "price": 3567000,
+      "priceFormatted": "3567000",
       "searchText": "toyota corolla cross 1 8 hybrid passion x pack e cvt 1 8 hybrid otomatik"
     },
     {
@@ -1610,8 +1597,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2250000,
-      "priceFormatted": "2250000",
+      "price": 2325000,
+      "priceFormatted": "2325000",
       "searchText": "toyota yeni toyota c hr 1 8 hybrid flame e cvt 1 8 hybrid otomatik"
     },
     {
@@ -1623,8 +1610,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2745000,
-      "priceFormatted": "2745000",
+      "price": 2870000,
+      "priceFormatted": "2870000",
       "searchText": "toyota yeni toyota c hr 1 8 hybrid passion e cvt 1 8 hybrid otomatik"
     },
     {
@@ -1636,8 +1623,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2980000,
-      "priceFormatted": "2980000",
+      "price": 3070000,
+      "priceFormatted": "3070000",
       "searchText": "toyota yeni toyota c hr 1 8 hybrid passion x sport e cvt 1 8 hybrid otomatik"
     },
     {
@@ -1649,8 +1636,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 3085000,
-      "priceFormatted": "3085000",
+      "price": 3180000,
+      "priceFormatted": "3180000",
       "searchText": "toyota yeni toyota c hr 1 8 hybrid gr sport e cvt 1 8 hybrid otomatik"
     },
     {
@@ -1662,8 +1649,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2180000,
-      "priceFormatted": "2180000",
+      "price": 2188000,
+      "priceFormatted": "2188000",
       "searchText": "toyota corolla hatchback hybrid 1 8 hybrid flame e cvt 1 8 hybrid otomatik"
     },
     {
@@ -1675,8 +1662,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2550000,
-      "priceFormatted": "2550000",
+      "price": 2783000,
+      "priceFormatted": "2783000",
       "searchText": "toyota corolla hatchback hybrid 1 8 hybrid passion x pack e cvt 1 8 hybrid otomatik"
     },
     {
@@ -1688,8 +1675,8 @@
       "engine": "1.8",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2550000,
-      "priceFormatted": "2550000",
+      "price": 2783000,
+      "priceFormatted": "2783000",
       "searchText": "toyota yeni corolla hatchback hybrid 1 8 hybrid gr sport e cvt 1 8 hybrid otomatik"
     },
     {
@@ -1701,8 +1688,8 @@
       "engine": "1",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2317000,
-      "priceFormatted": "2317000",
+      "price": 2295000,
+      "priceFormatted": "2295000",
       "searchText": "toyota yaris cross 1 5 hybrid dream 130 hp e cvt 1 hybrid otomatik"
     },
     {
@@ -1714,8 +1701,8 @@
       "engine": "1.5",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2740000,
-      "priceFormatted": "2740000",
+      "price": 2805000,
+      "priceFormatted": "2805000",
       "searchText": "toyota yaris cross 1 5 hybrid flame x pack 130 hp e cvt 1 5 hybrid otomatik"
     },
     {
@@ -1727,8 +1714,8 @@
       "engine": "1.5",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 1995000,
-      "priceFormatted": "1995000",
+      "price": 1999000,
+      "priceFormatted": "1999000",
       "searchText": "toyota yaris 1 5 hybrid flame e cvt 1 5 hybrid otomatik"
     },
     {
@@ -1740,8 +1727,8 @@
       "engine": "1.5",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2365000,
-      "priceFormatted": "2365000",
+      "price": 2374000,
+      "priceFormatted": "2374000",
       "searchText": "toyota yaris 1 5 hybrid passion x pack siyah tavan e cvt 1 5 hybrid otomatik"
     },
     {
@@ -1753,8 +1740,8 @@
       "engine": "2.8",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 13100000,
-      "priceFormatted": "13100000",
+      "price": 12490000,
+      "priceFormatted": "12490000",
       "searchText": "toyota land cruiser prado land cruiser prado 2 8 d 4d mild hybrid power 8 a t 2 8 dizel otomatik"
     },
     {
@@ -1766,8 +1753,8 @@
       "engine": "2.8",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 14700000,
-      "priceFormatted": "14700000",
+      "price": 14750000,
+      "priceFormatted": "14750000",
       "searchText": "toyota land cruiser prado land cruiser prado 2 8 l d 4d mild hybrid power 8 a t 2 8 dizel otomatik"
     },
     {
@@ -1818,8 +1805,8 @@
       "engine": "1.8",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 1652000,
-      "priceFormatted": "1652000",
+      "price": 1680000,
+      "priceFormatted": "1680000",
       "searchText": "toyota proace city 1 5 d 130 hp dream a t 1 8 dizel otomatik"
     },
     {
@@ -1831,8 +1818,8 @@
       "engine": "1.8",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 1830000,
-      "priceFormatted": "1830000",
+      "price": 1858500,
+      "priceFormatted": "1858500",
       "searchText": "toyota proace city 1 5 d 130 hp flame x pack a t 1 8 dizel otomatik"
     },
     {
@@ -1844,8 +1831,8 @@
       "engine": "1.8",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 1875000,
-      "priceFormatted": "1875000",
+      "price": 1904000,
+      "priceFormatted": "1904000",
       "searchText": "toyota proace city 1 5 d 130 hp passion x pack a t 1 8 dizel otomatik"
     },
     {
@@ -1857,8 +1844,8 @@
       "engine": "1.5",
       "fuel": "Dizel",
       "transmission": "Düz",
-      "price": 1289000,
-      "priceFormatted": "1289000",
+      "price": 1299000,
+      "priceFormatted": "1299000",
       "searchText": "toyota proace city cargo 1 5 d 100 hp vision 1 5 dizel duz"
     },
     {
@@ -1870,8 +1857,8 @@
       "engine": "1.5",
       "fuel": "Diger",
       "transmission": "Otomatik",
-      "price": 1343000,
-      "priceFormatted": "1343000",
+      "price": 1353000,
+      "priceFormatted": "1353000",
       "searchText": "toyota proace city cargo 1 5 d 100 hp dream 1 5 diger otomatik"
     },
     {
@@ -1883,8 +1870,8 @@
       "engine": "2",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 2312500,
-      "priceFormatted": "2312500",
+      "price": 2324000,
+      "priceFormatted": "2324000",
       "searchText": "toyota proace verso 2 2 d 180 hp passion a t 2 dizel otomatik"
     },
     {
@@ -1896,8 +1883,8 @@
       "engine": "2",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 2380500,
-      "priceFormatted": "2380500",
+      "price": 2392000,
+      "priceFormatted": "2392000",
       "searchText": "toyota proace verso 2 2 d 180 hp passion x pack a t 2 dizel otomatik"
     },
     {
@@ -1909,8 +1896,8 @@
       "engine": "2.2",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 1689000,
-      "priceFormatted": "1689000",
+      "price": 1699000,
+      "priceFormatted": "1699000",
       "searchText": "toyota proace cargo 2 2 d 150 hp flame m t 2 2 dizel otomatik"
     },
     {
@@ -1922,8 +1909,8 @@
       "engine": "2.2",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 1749000,
-      "priceFormatted": "1749000",
+      "price": 1759000,
+      "priceFormatted": "1759000",
       "searchText": "toyota proace cargo 2 2 d 150 hp flame a t 2 2 dizel otomatik"
     },
     {
@@ -1935,8 +1922,8 @@
       "engine": "2.2",
       "fuel": "Dizel",
       "transmission": "Düz",
-      "price": 1726500,
-      "priceFormatted": "1726500",
+      "price": 1741500,
+      "priceFormatted": "1741500",
       "searchText": "toyota proace max 2 2d 140 hp m t 13 m 2 2 dizel duz"
     },
     {
@@ -1948,8 +1935,8 @@
       "engine": "2.2",
       "fuel": "Dizel",
       "transmission": "Düz",
-      "price": 1804000,
-      "priceFormatted": "1804000",
+      "price": 1819000,
+      "priceFormatted": "1819000",
       "searchText": "toyota proace max 2 2d 180 hp m t 15 m 2 2 dizel duz"
     },
     {
@@ -1961,8 +1948,8 @@
       "engine": "2.2",
       "fuel": "Dizel",
       "transmission": "Düz",
-      "price": 1857500,
-      "priceFormatted": "1857500",
+      "price": 1872500,
+      "priceFormatted": "1872500",
       "searchText": "toyota proace max 2 2d 180 hp m t 17 m 2 2 dizel duz"
     },
     {
@@ -1974,8 +1961,8 @@
       "engine": "2.2",
       "fuel": "Dizel",
       "transmission": "Düz",
-      "price": 1804000,
-      "priceFormatted": "1804000",
+      "price": 1819000,
+      "priceFormatted": "1819000",
       "searchText": "toyota proace max 2 2d 140 hp m t 15 m 4 25t 2 2 dizel duz"
     },
     {
@@ -1987,8 +1974,8 @@
       "engine": "2.2",
       "fuel": "Dizel",
       "transmission": "Düz",
-      "price": 1804000,
-      "priceFormatted": "1804000",
+      "price": 1819000,
+      "priceFormatted": "1819000",
       "searchText": "toyota proace max kamyonet 2 2 d 140 hp l4 kasal m t 2 2 dizel duz"
     },
     {
@@ -2455,8 +2442,8 @@
       "engine": "100 kW",
       "fuel": "Elektrik",
       "transmission": "",
-      "price": 2039500,
-      "priceFormatted": "2.039.500 TL",
+      "price": 2080000,
+      "priceFormatted": "2.080.000 TL",
       "searchText": "peugeot e 208 gt 100 kw elektrik"
     },
     {
@@ -2481,8 +2468,8 @@
       "engine": "1.2 Hybrid 145 HP",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2580000,
-      "priceFormatted": "2.580.000 TL",
+      "price": 2632000,
+      "priceFormatted": "2.632.000 TL",
       "searchText": "peugeot 2008 gt 1 2 hybrid 145 hp hybrid otomatik"
     },
     {
@@ -2494,8 +2481,8 @@
       "engine": "115 kW",
       "fuel": "Elektrik",
       "transmission": "",
-      "price": 2201500,
-      "priceFormatted": "2.201.500 TL",
+      "price": 2245000,
+      "priceFormatted": "2.245.000 TL",
       "searchText": "peugeot e 2008 allure 115 kw elektrik"
     },
     {
@@ -2507,8 +2494,8 @@
       "engine": "115 kW",
       "fuel": "Elektrik",
       "transmission": "",
-      "price": 2355000,
-      "priceFormatted": "2.355.000 TL",
+      "price": 2400000,
+      "priceFormatted": "2.400.000 TL",
       "searchText": "peugeot e 2008 gt 115 kw elektrik"
     },
     {
@@ -2533,8 +2520,8 @@
       "engine": "1.2 Hybrid 145 HP",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2747000,
-      "priceFormatted": "2.747.000 TL",
+      "price": 2802000,
+      "priceFormatted": "2.802.000 TL",
       "searchText": "peugeot 408 allure 1 2 hybrid 145 hp hybrid otomatik"
     },
     {
@@ -2546,8 +2533,8 @@
       "engine": "1.2 Hybrid 145 HP",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2800000,
-      "priceFormatted": "2.800.000 TL",
+      "price": 2856000,
+      "priceFormatted": "2.856.000 TL",
       "searchText": "peugeot 408 gt 1 2 hybrid 145 hp hybrid otomatik"
     },
     {
@@ -2559,8 +2546,8 @@
       "engine": "1.2 Hybrid 145 HP",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2702000,
-      "priceFormatted": "2.702.000 TL",
+      "price": 2755000,
+      "priceFormatted": "2.755.000 TL",
       "searchText": "peugeot 3008 allure 1 2 hybrid 145 hp hybrid otomatik"
     },
     {
@@ -2572,8 +2559,8 @@
       "engine": "1.2 Hybrid 145 HP",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 3324500,
-      "priceFormatted": "3.324.500 TL",
+      "price": 3390000,
+      "priceFormatted": "3.390.000 TL",
       "searchText": "peugeot 3008 gt 1 2 hybrid 145 hp hybrid otomatik"
     },
     {
@@ -2611,8 +2598,8 @@
       "engine": "1.2 Hybrid 145 HP",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 3357000,
-      "priceFormatted": "3.357.000 TL",
+      "price": 3426000,
+      "priceFormatted": "3.426.000 TL",
       "searchText": "peugeot 5008 allure 1 2 hybrid 145 hp hybrid otomatik"
     },
     {
@@ -2624,8 +2611,8 @@
       "engine": "1.2 Hybrid 145 HP",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 3674000,
-      "priceFormatted": "3.674.000 TL",
+      "price": 3750000,
+      "priceFormatted": "3.750.000 TL",
       "searchText": "peugeot 5008 gt 1 2 hybrid 145 hp hybrid otomatik"
     },
     {
@@ -2663,8 +2650,8 @@
       "engine": "1.5 BlueHDi 130 HP",
       "fuel": "Dizel",
       "transmission": "Manuel",
-      "price": 1656500,
-      "priceFormatted": "1.656.500 TL",
+      "price": 1690000,
+      "priceFormatted": "1.690.000 TL",
       "searchText": "peugeot rifter allure 1 5 bluehdi 130 hp dizel manuel"
     },
     {
@@ -2676,8 +2663,8 @@
       "engine": "1.5 BlueHDi 130 HP",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 1944000,
-      "priceFormatted": "1.944.000 TL",
+      "price": 1983000,
+      "priceFormatted": "1.983.000 TL",
       "searchText": "peugeot rifter allure 1 5 bluehdi 130 hp dizel otomatik"
     },
     {
@@ -2689,8 +2676,8 @@
       "engine": "1.5 BlueHDi 130 HP",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 2119000,
-      "priceFormatted": "2.119.000 TL",
+      "price": 2162000,
+      "priceFormatted": "2.162.000 TL",
       "searchText": "peugeot rifter gt 1 5 bluehdi 130 hp dizel otomatik"
     },
     {
@@ -2702,8 +2689,8 @@
       "engine": "1.5 BlueHDi 130 HP",
       "fuel": "Dizel",
       "transmission": "Manuel",
-      "price": 1411000,
-      "priceFormatted": "1.411.000 TL",
+      "price": 1440000,
+      "priceFormatted": "1.440.000 TL",
       "searchText": "peugeot partner van comfort 1 5 bluehdi 130 hp dizel manuel"
     },
     {
@@ -2715,8 +2702,8 @@
       "engine": "1.5 BlueHDi 130 HP",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 1538000,
-      "priceFormatted": "1.538.000 TL",
+      "price": 1567000,
+      "priceFormatted": "1.567.000 TL",
       "searchText": "peugeot partner van comfort 1 5 bluehdi 130 hp dizel otomatik"
     },
     {
@@ -2728,8 +2715,8 @@
       "engine": "2.2 BlueHDi 180 HP",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 2540000,
-      "priceFormatted": "2.540.000 TL",
+      "price": 2590000,
+      "priceFormatted": "2.590.000 TL",
       "searchText": "peugeot expert traveller allure 2 2 bluehdi 180 hp dizel otomatik"
     },
     {
@@ -2757,19 +2744,6 @@
       "price": 4190000,
       "priceFormatted": "4.190.000 ₺",
       "searchText": "byd sealion 7 excellence byd 390kw awd elektrik otomatik"
-    },
-    {
-      "id": "byd-han-executive-byd-380-kw-awd",
-      "brand": "BYD",
-      "brandId": "byd",
-      "model": "HAN",
-      "trim": "Executive",
-      "engine": "BYD  380 kW AWD",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 4573000,
-      "priceFormatted": "4.573.000 ₺",
-      "searchText": "byd han executive byd 380 kw awd elektrik otomatik"
     },
     {
       "id": "byd-tang-flagship-byd-380-kw-awd",
@@ -2806,8 +2780,8 @@
       "engine": "Hybrid 1.2 110 (100HP)²",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 1999000,
-      "priceFormatted": "1.999.000 TL",
+      "price": 1820000,
+      "priceFormatted": "1.820.000 TL",
       "searchText": "opel corsa edition hybrid 1 2 110 100hp hybrid otomatik"
     },
     {
@@ -2819,8 +2793,8 @@
       "engine": "Hybrid 1.2 145 (136HP)³",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2119000,
-      "priceFormatted": "2.119.000 TL",
+      "price": 1955000,
+      "priceFormatted": "1.955.000 TL",
       "searchText": "opel corsa gs hybrid 1 2 145 136hp hybrid otomatik"
     },
     {
@@ -2832,8 +2806,8 @@
       "engine": "100 kW",
       "fuel": "Elektrik",
       "transmission": "",
-      "price": 2101000,
-      "priceFormatted": "2.101.000 TL",
+      "price": 1890000,
+      "priceFormatted": "1.890.000 TL",
       "searchText": "opel corsa e gs 100 kw elektrik"
     },
     {
@@ -2845,8 +2819,8 @@
       "engine": "Hybrid 1.2 145 (136HP)²",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2221000,
-      "priceFormatted": "2.221.000 TL",
+      "price": 2190000,
+      "priceFormatted": "2.190.000 TL",
       "searchText": "opel frontera hybrid edition hybrid 1 2 145 136hp hybrid otomatik"
     },
     {
@@ -2858,8 +2832,8 @@
       "engine": "Hybrid 1.2 145 (136HP)²",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2342000,
-      "priceFormatted": "2.342.000 TL",
+      "price": 2290000,
+      "priceFormatted": "2.290.000 TL",
       "searchText": "opel frontera hybrid gs hybrid 1 2 145 136hp hybrid otomatik"
     },
     {
@@ -2871,8 +2845,8 @@
       "engine": "44 kWh Batarya",
       "fuel": "Elektrik",
       "transmission": "",
-      "price": 1894000,
-      "priceFormatted": "1.894.000 TL",
+      "price": 1895000,
+      "priceFormatted": "1.895.000 TL",
       "searchText": "opel frontera elektrik gs 44 kwh batarya elektrik"
     },
     {
@@ -2884,8 +2858,8 @@
       "engine": "54 kWh Batarya - Uzun Menzil",
       "fuel": "Elektrik",
       "transmission": "",
-      "price": 2009000,
-      "priceFormatted": "2.009.000 TL",
+      "price": 2010000,
+      "priceFormatted": "2.010.000 TL",
       "searchText": "opel frontera elektrik gs 54 kwh batarya uzun menzil elektrik"
     },
     {
@@ -2897,8 +2871,8 @@
       "engine": "1.2 136 HP Benzin",
       "fuel": "Benzin",
       "transmission": "Manuel",
-      "price": 1988000,
-      "priceFormatted": "1.988.000 TL",
+      "price": 1990000,
+      "priceFormatted": "1.990.000 TL",
       "searchText": "opel mokka edition 1 2 136 hp benzin benzin manuel"
     },
     {
@@ -2910,8 +2884,8 @@
       "engine": "Hybrid 1.2 145 (136 HP)²",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2650000,
-      "priceFormatted": "2.650.000 TL",
+      "price": 2350000,
+      "priceFormatted": "2.350.000 TL",
       "searchText": "opel mokka gs hybrid 1 2 145 136 hp hybrid otomatik"
     },
     {
@@ -2923,8 +2897,8 @@
       "engine": "1.5 130 HP Dizel",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 2360000,
-      "priceFormatted": "2.360.000 TL",
+      "price": 2330000,
+      "priceFormatted": "2.330.000 TL",
       "searchText": "opel astra edition 1 5 130 hp dizel dizel otomatik"
     },
     {
@@ -2962,8 +2936,8 @@
       "engine": "Hybrid 1.2 145 (136HP)³",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 3179000,
-      "priceFormatted": "3.179.000 TL",
+      "price": 3050000,
+      "priceFormatted": "3.050.000 TL",
       "searchText": "opel grandland gs hybrid 1 2 145 136hp hybrid otomatik"
     },
     {
@@ -2975,8 +2949,8 @@
       "engine": "157 kW",
       "fuel": "Elektrik",
       "transmission": "",
-      "price": 2485000,
-      "priceFormatted": "2.485.000 TL",
+      "price": 3200000,
+      "priceFormatted": "3.200.000 TL",
       "searchText": "opel grandland elektrik edition 157 kw elektrik"
     },
     {
@@ -2988,8 +2962,8 @@
       "engine": "239 kW AWD",
       "fuel": "Elektrik",
       "transmission": "",
-      "price": 4222000,
-      "priceFormatted": "4.222.000 TL",
+      "price": 4220000,
+      "priceFormatted": "4.220.000 TL",
       "searchText": "opel grandland elektrik gs 239 kw awd elektrik"
     },
     {
@@ -3001,8 +2975,8 @@
       "engine": "83 kW Elektrikli Motor",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 1595000,
-      "priceFormatted": "1.595.000 TL",
+      "price": 1640000,
+      "priceFormatted": "1.640.000 TL",
       "searchText": "citroen elektrikli e c3 plus 83 kw elektrikli motor elektrik otomatik"
     },
     {
@@ -3014,8 +2988,8 @@
       "engine": "83 kW Elektrikli Motor",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 1660000,
-      "priceFormatted": "1.660.000 TL",
+      "price": 1720000,
+      "priceFormatted": "1.720.000 TL",
       "searchText": "citroen elektrikli e c3 max 83 kw elektrikli motor elektrik otomatik"
     },
     {
@@ -3027,8 +3001,8 @@
       "engine": "1.2 Hybrid 145* -  eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2155000,
-      "priceFormatted": "2.155.000 TL",
+      "price": 2275000,
+      "priceFormatted": "2.275.000 TL",
       "searchText": "citroen c3 aircross hybrid 145 plus 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3040,8 +3014,8 @@
       "engine": "1.2 Hybrid 145* -  eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2230000,
-      "priceFormatted": "2.230.000 TL",
+      "price": 2270000,
+      "priceFormatted": "2.270.000 TL",
       "searchText": "citroen c3 aircross hybrid 145 collection 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3053,8 +3027,8 @@
       "engine": "1.2 Hybrid 145* -  eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2260000,
-      "priceFormatted": "2.260.000 TL",
+      "price": 2300000,
+      "priceFormatted": "2.300.000 TL",
       "searchText": "citroen c3 aircross hybrid 145 max 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3066,8 +3040,8 @@
       "engine": "83 kW Elektrikli Motor Standart Menzil",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 1790000,
-      "priceFormatted": "1.790.000 TL",
+      "price": 1855000,
+      "priceFormatted": "1.855.000 TL",
       "searchText": "citroen elektrikli e c3 aircross max 83 kw elektrikli motor standart menzil elektrik otomatik"
     },
     {
@@ -3079,8 +3053,8 @@
       "engine": "83 kW Elektrikli Motor Uzun Menzil",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 1900000,
-      "priceFormatted": "1.900.000 TL",
+      "price": 1970000,
+      "priceFormatted": "1.970.000 TL",
       "searchText": "citroen elektrikli e c3 aircross collection 83 kw elektrikli motor uzun menzil elektrik otomatik"
     },
     {
@@ -3092,8 +3066,8 @@
       "engine": "83 kW Elektrikli Motor Uzun Menzil",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 1930000,
-      "priceFormatted": "1.930.000 TL",
+      "price": 2000000,
+      "priceFormatted": "2.000.000 TL",
       "searchText": "citroen elektrikli e c3 aircross max 83 kw elektrikli motor uzun menzil elektrik otomatik"
     },
     {
@@ -3105,8 +3079,8 @@
       "engine": "1.2 Hybrid 145* eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2061000,
-      "priceFormatted": "2.061.000 TL",
+      "price": 2230000,
+      "priceFormatted": "2.230.000 TL",
       "searchText": "citroen c4 hybrid 145 you 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3118,8 +3092,8 @@
       "engine": "1.2 Hybrid 145* eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2242000,
-      "priceFormatted": "2.242.000 TL",
+      "price": 2345000,
+      "priceFormatted": "2.345.000 TL",
       "searchText": "citroen c4 hybrid 145 max 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3131,8 +3105,8 @@
       "engine": "115 kW Elektrikli Motor",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 2295000,
-      "priceFormatted": "2.295.000 TL",
+      "price": 2375000,
+      "priceFormatted": "2.375.000 TL",
       "searchText": "citroen elektrikli e c4 max 115 kw elektrikli motor elektrik otomatik"
     },
     {
@@ -3144,8 +3118,8 @@
       "engine": "1.2 Hybrid 145* eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2061000,
-      "priceFormatted": "2.061.000 TL",
+      "price": 2255000,
+      "priceFormatted": "2.255.000 TL",
       "searchText": "citroen c4 x hybrid 145 you 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3157,8 +3131,8 @@
       "engine": "1.2 Hybrid 145* eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2262000,
-      "priceFormatted": "2.262.000 TL",
+      "price": 2345000,
+      "priceFormatted": "2.345.000 TL",
       "searchText": "citroen c4 x hybrid 145 max 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3170,8 +3144,8 @@
       "engine": "115 kW Elektrikli Motor",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 2255000,
-      "priceFormatted": "2.255.000 TL",
+      "price": 2340000,
+      "priceFormatted": "2.340.000 TL",
       "searchText": "citroen elektrikli e c4 x max 115 kw elektrikli motor elektrik otomatik"
     },
     {
@@ -3183,8 +3157,8 @@
       "engine": "1.2 Hybrid 145* eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2710000,
-      "priceFormatted": "2.710.000 TL",
+      "price": 2800000,
+      "priceFormatted": "2.800.000 TL",
       "searchText": "citroen c5 aircross hybrid 145 plus 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3196,8 +3170,8 @@
       "engine": "1.2 Hybrid 145* eDCS6",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2960000,
-      "priceFormatted": "2.960.000 TL",
+      "price": 3050000,
+      "priceFormatted": "3.050.000 TL",
       "searchText": "citroen c5 aircross hybrid 145 max 1 2 hybrid 145 edcs6 hybrid otomatik"
     },
     {
@@ -3222,8 +3196,8 @@
       "engine": "1.5 BlueHDi 130 HP - 6 İleri Manuel",
       "fuel": "Dizel",
       "transmission": "Manuel",
-      "price": 1841000,
-      "priceFormatted": "1.841.000 TL",
+      "price": 1902000,
+      "priceFormatted": "1.902.000 TL",
       "searchText": "citroen berlingo plus 1 5 bluehdi 130 hp 6 ileri manuel dizel manuel"
     },
     {
@@ -3235,8 +3209,8 @@
       "engine": "1.5 BlueHDi 130 HP - EAT8",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 1947000,
-      "priceFormatted": "1.947.000 TL",
+      "price": 2013000,
+      "priceFormatted": "2.013.000 TL",
       "searchText": "citroen berlingo plus 1 5 bluehdi 130 hp eat8 dizel otomatik"
     },
     {
@@ -3248,8 +3222,8 @@
       "engine": "1.5 BlueHDi 130 HP - EAT8",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 1999000,
-      "priceFormatted": "1.999.000 TL",
+      "price": 2053000,
+      "priceFormatted": "2.053.000 TL",
       "searchText": "citroen berlingo max 1 5 bluehdi 130 hp eat8 dizel otomatik"
     },
     {
@@ -3261,8 +3235,8 @@
       "engine": "1.5 BlueHDi 130 HP - 6 İleri Manuel",
       "fuel": "Dizel",
       "transmission": "Manuel",
-      "price": 1432000,
-      "priceFormatted": "1.432.000 TL",
+      "price": 1484000,
+      "priceFormatted": "1.484.000 TL",
       "searchText": "citroen berlingo van van 1 5 bluehdi 130 hp 6 ileri manuel dizel manuel"
     },
     {
@@ -3274,8 +3248,8 @@
       "engine": "1.5 BlueHDi 130 HP - EAT8",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 1513000,
-      "priceFormatted": "1.513.000 TL",
+      "price": 1573000,
+      "priceFormatted": "1.573.000 TL",
       "searchText": "citroen berlingo van van 1 5 bluehdi 130 hp eat8 dizel otomatik"
     },
     {
@@ -3300,8 +3274,8 @@
       "engine": "1.5 BlueHDi 120 HP - 6 İleri Manuel",
       "fuel": "Dizel",
       "transmission": "Manuel",
-      "price": 1526000,
-      "priceFormatted": "1.526.000 TL",
+      "price": 1554000,
+      "priceFormatted": "1.554.000 TL",
       "searchText": "citroen jumpy van panelvan l2 standart 1 5 bluehdi 120 hp 6 ileri manuel dizel manuel"
     },
     {
@@ -3313,8 +3287,8 @@
       "engine": "2.2 BlueHDi 180 HP - EAT8",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 1653000,
-      "priceFormatted": "1.653.000 TL",
+      "price": 1683000,
+      "priceFormatted": "1.683.000 TL",
       "searchText": "citroen jumpy van panelvan l2 standart 2 2 bluehdi 180 hp eat8 dizel otomatik"
     },
     {
@@ -3326,8 +3300,8 @@
       "engine": "1.5 BlueHDi 120 HP - 6 İleri Manuel",
       "fuel": "Dizel",
       "transmission": "Manuel",
-      "price": 1623000,
-      "priceFormatted": "1.623.000 TL",
+      "price": 1653000,
+      "priceFormatted": "1.653.000 TL",
       "searchText": "citroen jumpy van panelvan l3 uzun 1 5 bluehdi 120 hp 6 ileri manuel dizel manuel"
     },
     {
@@ -3339,8 +3313,8 @@
       "engine": "2.2 BlueHDi 150 HP - 6 İleri Manuel",
       "fuel": "Dizel",
       "transmission": "Manuel",
-      "price": 1710000,
-      "priceFormatted": "1.710.000 TL",
+      "price": 1740000,
+      "priceFormatted": "1.740.000 TL",
       "searchText": "citroen jumpy van panelvan l3 uzun 2 2 bluehdi 150 hp 6 ileri manuel dizel manuel"
     },
     {
@@ -3352,8 +3326,8 @@
       "engine": "2.2 BlueHDi 180 HP - EAT8",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 1794000,
-      "priceFormatted": "1.794.000 TL",
+      "price": 1844000,
+      "priceFormatted": "1.844.000 TL",
       "searchText": "citroen jumpy van panelvan l3 uzun 2 2 bluehdi 180 hp eat8 dizel otomatik"
     },
     {
@@ -3365,8 +3339,8 @@
       "engine": "2.2 BlueHDi 150 HP - 6 İleri Manuel",
       "fuel": "Dizel",
       "transmission": "Manuel",
-      "price": 1700000,
-      "priceFormatted": "1.700.000 TL",
+      "price": 1780000,
+      "priceFormatted": "1.780.000 TL",
       "searchText": "citroen jumpy kamyonet kamyonet 2 2 bluehdi 150 hp 6 ileri manuel dizel manuel"
     },
     {
@@ -3378,8 +3352,8 @@
       "engine": "2.2 BlueHDi 180 HP - 6 İleri Manuel",
       "fuel": "Dizel",
       "transmission": "Manuel",
-      "price": 1899000,
-      "priceFormatted": "1.899.000 TL",
+      "price": 1965000,
+      "priceFormatted": "1.965.000 TL",
       "searchText": "citroen jumper 3 5t 15m 2 2 bluehdi 180 hp 6 ileri manuel dizel manuel"
     },
     {
@@ -3391,8 +3365,8 @@
       "engine": "2.2 BlueHDi 180 HP - EAT8",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 2026000,
-      "priceFormatted": "2.026.000 TL",
+      "price": 2094000,
+      "priceFormatted": "2.094.000 TL",
       "searchText": "citroen jumper 3 5t 15m 2 2 bluehdi 180 hp eat8 dizel otomatik"
     },
     {
@@ -3404,9 +3378,35 @@
       "engine": "2.2 BlueHDi 140 HP - 6 İleri Manuel",
       "fuel": "Dizel",
       "transmission": "Manuel",
-      "price": 2043000,
-      "priceFormatted": "2.043.000 TL",
+      "price": 2114000,
+      "priceFormatted": "2.114.000 TL",
       "searchText": "citroen jumper 4 2t 15m 2 2 bluehdi 140 hp 6 ileri manuel dizel manuel"
+    },
+    {
+      "id": "citroën-jumper-4.2t-(15m³)-okul-2.2-bluehdi-140-hp---6-i̇leri-manuel",
+      "brand": "Citroën",
+      "brandId": "citroen",
+      "model": "Jumper",
+      "trim": "4.2T (15M³) Okul",
+      "engine": "2.2 BlueHDi 140 HP - 6 İleri Manuel",
+      "fuel": "Dizel",
+      "transmission": "Manuel",
+      "price": 2524000,
+      "priceFormatted": "2.524.000 TL",
+      "searchText": "citroen jumper 4 2t 15m okul 2 2 bluehdi 140 hp 6 ileri manuel dizel manuel"
+    },
+    {
+      "id": "citroën-jumper-4.2t-(15m³)-personel-2.2-bluehdi-140-hp---6-i̇leri-manuel",
+      "brand": "Citroën",
+      "brandId": "citroen",
+      "model": "Jumper",
+      "trim": "4.2T (15M³) Personel",
+      "engine": "2.2 BlueHDi 140 HP - 6 İleri Manuel",
+      "fuel": "Dizel",
+      "transmission": "Manuel",
+      "price": 2473000,
+      "priceFormatted": "2.473.000 TL",
+      "searchText": "citroen jumper 4 2t 15m personel 2 2 bluehdi 140 hp 6 ileri manuel dizel manuel"
     },
     {
       "id": "citroën-ami-ami-6-kw-elektrik-motor",
@@ -3417,8 +3417,8 @@
       "engine": "6 kW Elektrik Motor",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 590000,
-      "priceFormatted": "590.000 TL",
+      "price": 600000,
+      "priceFormatted": "600.000 TL",
       "searchText": "citroen ami ami 6 kw elektrik motor elektrik otomatik"
     },
     {
@@ -3430,8 +3430,8 @@
       "engine": "6 kW Elektrik Motor",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 605000,
-      "priceFormatted": "605.000 TL",
+      "price": 615000,
+      "priceFormatted": "615.000 TL",
       "searchText": "citroen ami ami dark side 6 kw elektrik motor elektrik otomatik"
     },
     {
@@ -3443,8 +3443,8 @@
       "engine": "6 kW Elektrik Motor",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 630000,
-      "priceFormatted": "630.000 TL",
+      "price": 640000,
+      "priceFormatted": "640.000 TL",
       "searchText": "citroen ami ami sunrise 6 kw elektrik motor elektrik otomatik"
     },
     {
@@ -3456,8 +3456,8 @@
       "engine": "6 kW Elektrik Motor",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 630000,
-      "priceFormatted": "630.000 TL",
+      "price": 640000,
+      "priceFormatted": "640.000 TL",
       "searchText": "citroen ami ami sunset 6 kw elektrik motor elektrik otomatik"
     },
     {
@@ -4262,22 +4262,9 @@
       "engine": "1.3L 163 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 3222000,
-      "priceFormatted": "3.222.000 TL",
+      "price": 3320000,
+      "priceFormatted": "3.320.000 TL",
       "searchText": "mercedes benz a 200 amg 1 3l 163 hp benzin otomatik"
-    },
-    {
-      "id": "mercedes-benz-mercedes-amg-a-45-s-4matic+-final-edition-2.0l-421-hp",
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "Mercedes-AMG A 45 S 4MATIC+",
-      "trim": "Final Edition",
-      "engine": "2.0L 421 HP",
-      "fuel": "Benzin",
-      "transmission": "Otomatik",
-      "price": 7058000,
-      "priceFormatted": "7.058.000 TL",
-      "searchText": "mercedes benz mercedes amg a 45 s 4matic final edition 2 0l 421 hp benzin otomatik"
     },
     {
       "id": "mercedes-benz-c-200-4matic-amg-1.5l-204-hp",
@@ -4288,8 +4275,8 @@
       "engine": "1.5L 204 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 6358000,
-      "priceFormatted": "6.358.000 TL",
+      "price": 6485000,
+      "priceFormatted": "6.485.000 TL",
       "searchText": "mercedes benz c 200 4matic amg 1 5l 204 hp benzin otomatik"
     },
     {
@@ -4301,8 +4288,8 @@
       "engine": "1.5L 204 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 7136000,
-      "priceFormatted": "7.136.000 TL",
+      "price": 7278500,
+      "priceFormatted": "7.278.500 TL",
       "searchText": "mercedes benz c 200 4matic 140th year edition 1 5l 204 hp benzin otomatik"
     },
     {
@@ -4314,8 +4301,8 @@
       "engine": "2.0L 421 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 8451000,
-      "priceFormatted": "8.451.000 TL",
+      "price": 8620000,
+      "priceFormatted": "8.620.000 TL",
       "searchText": "mercedes benz mercedes amg c 43 4matic performance 2 0l 421 hp benzin otomatik"
     },
     {
@@ -4327,8 +4314,8 @@
       "engine": "2.0L 680 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 13095000,
-      "priceFormatted": "13.095.000 TL",
+      "price": 13357000,
+      "priceFormatted": "13.357.000 TL",
       "searchText": "mercedes benz mercedes amg c 63 s e performance 2 0l 680 hp elektrik otomatik"
     },
     {
@@ -4340,8 +4327,8 @@
       "engine": "1.5L 204 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 6002000,
-      "priceFormatted": "6.002.000 TL",
+      "price": 6122000,
+      "priceFormatted": "6.122.000 TL",
       "searchText": "mercedes benz c 200 4matic all terrain 1 5l 204 hp benzin otomatik"
     },
     {
@@ -4366,8 +4353,8 @@
       "engine": "1.5L 170 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 8349000,
-      "priceFormatted": "8.349.000 TL",
+      "price": 8601500,
+      "priceFormatted": "8.601.500 TL",
       "searchText": "mercedes benz e 180 exclusive 1 5l 170 hp benzin otomatik"
     },
     {
@@ -4379,8 +4366,8 @@
       "engine": "1.5L 170 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 8416000,
-      "priceFormatted": "8.416.000 TL",
+      "price": 8668500,
+      "priceFormatted": "8.668.500 TL",
       "searchText": "mercedes benz e 180 amg 1 5l 170 hp benzin otomatik"
     },
     {
@@ -4431,8 +4418,8 @@
       "engine": "2.0L 258 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 8389000,
-      "priceFormatted": "8.389.000 TL",
+      "price": 8641000,
+      "priceFormatted": "8.641.000 TL",
       "searchText": "mercedes benz cle 300 4matic coupe amg 2 0l 258 hp benzin otomatik"
     },
     {
@@ -4444,8 +4431,8 @@
       "engine": "3.0L 449 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 13692000,
-      "priceFormatted": "13.692.000 TL",
+      "price": 14103000,
+      "priceFormatted": "14.103.000 TL",
       "searchText": "mercedes benz mercedes amg cle 53 4matic performance 3 0l 449 hp benzin otomatik"
     },
     {
@@ -4457,35 +4444,9 @@
       "engine": "2.0L 258 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 9406000,
-      "priceFormatted": "9.406.000 TL",
+      "price": 9688000,
+      "priceFormatted": "9.688.000 TL",
       "searchText": "mercedes benz cle 300 4matic cabriolet amg 2 0l 258 hp benzin otomatik"
-    },
-    {
-      "id": "mercedes-benz-s-450-d-4matic-l-inspiration-3.0l-367-hp",
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "S 450 d 4MATIC L",
-      "trim": "Inspiration",
-      "engine": "3.0L 367 HP",
-      "fuel": "Dizel",
-      "transmission": "Otomatik",
-      "price": 21035000,
-      "priceFormatted": "21.035.000 TL",
-      "searchText": "mercedes benz s 450 d 4matic l inspiration 3 0l 367 hp dizel otomatik"
-    },
-    {
-      "id": "mercedes-benz-mercedes-maybach-s-580-4matic-inspiration+-4.0l-503-hp",
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "Mercedes-Maybach S 580 4MATIC",
-      "trim": "Inspiration+",
-      "engine": "4.0L 503 HP",
-      "fuel": "Benzin",
-      "transmission": "Otomatik",
-      "price": 30378000,
-      "priceFormatted": "30.378.000 TL",
-      "searchText": "mercedes benz mercedes maybach s 580 4matic inspiration 4 0l 503 hp benzin otomatik"
     },
     {
       "id": "mercedes-benz-eqe-280-amg-218-hp",
@@ -4496,8 +4457,8 @@
       "engine": "218 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 5930500,
-      "priceFormatted": "5.930.500 TL",
+      "price": 6108500,
+      "priceFormatted": "6.108.500 TL",
       "searchText": "mercedes benz eqe 280 amg 218 hp elektrik otomatik"
     },
     {
@@ -4509,8 +4470,8 @@
       "engine": "320 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 6775500,
-      "priceFormatted": "6.775.500 TL",
+      "price": 6978500,
+      "priceFormatted": "6.978.500 TL",
       "searchText": "mercedes benz eqe 350 4matic amg 320 hp elektrik otomatik"
     },
     {
@@ -4527,19 +4488,6 @@
       "searchText": "mercedes benz eqs 450 4matic inspiration 360 hp elektrik otomatik"
     },
     {
-      "id": "mercedes-benz-eqs-580-4matic-heritage-edition-544-hp",
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "EQS 580 4MATIC",
-      "trim": "Heritage Edition",
-      "engine": "544 HP",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "price": 11829500,
-      "priceFormatted": "11.829.500 TL",
-      "searchText": "mercedes benz eqs 580 4matic heritage edition 544 hp elektrik otomatik"
-    },
-    {
       "id": "mercedes-benz-eqa-250+-night-edition-190-hp",
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
@@ -4548,8 +4496,8 @@
       "engine": "190 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 4345000,
-      "priceFormatted": "4.345.000 TL",
+      "price": 4477000,
+      "priceFormatted": "4.477.000 TL",
       "searchText": "mercedes benz eqa 250 night edition 190 hp elektrik otomatik"
     },
     {
@@ -4561,8 +4509,8 @@
       "engine": "1.3L 163 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 4619500,
-      "priceFormatted": "4.619.500 TL",
+      "price": 4760000,
+      "priceFormatted": "4.760.000 TL",
       "searchText": "mercedes benz gla 200 amg 1 3l 163 hp benzin otomatik"
     },
     {
@@ -4574,8 +4522,8 @@
       "engine": "1.5L 170 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 6957500,
-      "priceFormatted": "6.957.500 TL",
+      "price": 7169000,
+      "priceFormatted": "7.169.000 TL",
       "searchText": "mercedes benz glc 180 amg 1 5l 170 hp benzin otomatik"
     },
     {
@@ -4600,8 +4548,8 @@
       "engine": "2.0L 421 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 10219000,
-      "priceFormatted": "10.219.000 TL",
+      "price": 10526000,
+      "priceFormatted": "10.526.000 TL",
       "searchText": "mercedes benz mercedes amg glc 43 4matic performance 2 0l 421 hp benzin otomatik"
     },
     {
@@ -4613,8 +4561,8 @@
       "engine": "2.0L 680 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 14694000,
-      "priceFormatted": "14.694.000 TL",
+      "price": 15135000,
+      "priceFormatted": "15.135.000 TL",
       "searchText": "mercedes benz mercedes amg glc 63 s e performance 2 0l 680 hp elektrik otomatik"
     },
     {
@@ -4626,8 +4574,8 @@
       "engine": "1.5L 170 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 7341000,
-      "priceFormatted": "7.341.000 TL",
+      "price": 7561000,
+      "priceFormatted": "7.561.000 TL",
       "searchText": "mercedes benz glc 180 coupe amg 1 5l 170 hp benzin otomatik"
     },
     {
@@ -4665,8 +4613,8 @@
       "engine": "3.0L 367 HP",
       "fuel": "Dizel",
       "transmission": "Otomatik",
-      "price": 22017000,
-      "priceFormatted": "22.017.000 TL",
+      "price": 22678000,
+      "priceFormatted": "22.678.000 TL",
       "searchText": "mercedes benz g 450 d heritage 3 0l 367 hp dizel otomatik"
     },
     {
@@ -4678,8 +4626,8 @@
       "engine": "3.0L 449 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 23436000,
-      "priceFormatted": "23.436.000 TL",
+      "price": 24139000,
+      "priceFormatted": "24.139.000 TL",
       "searchText": "mercedes benz g 500 heritage 3 0l 449 hp benzin otomatik"
     },
     {
@@ -4704,8 +4652,8 @@
       "engine": "4.0L 585 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 30448000,
-      "priceFormatted": "30.448.000 TL",
+      "price": 31361000,
+      "priceFormatted": "31.361.000 TL",
       "searchText": "mercedes benz mercedes amg g 63 performance 4 0l 585 hp benzin otomatik"
     },
     {
@@ -4717,8 +4665,8 @@
       "engine": "2.0L 421 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 16772500,
-      "priceFormatted": "16.772.500 TL",
+      "price": 17276000,
+      "priceFormatted": "17.276.000 TL",
       "searchText": "mercedes benz mercedes amg sl 43 performance 2 0l 421 hp benzin otomatik"
     },
     {
@@ -4730,8 +4678,8 @@
       "engine": "4.0L 585 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 27820000,
-      "priceFormatted": "27.820.000 TL",
+      "price": 28655000,
+      "priceFormatted": "28.655.000 TL",
       "searchText": "mercedes benz mercedes amg sl 63 4matic performance 4 0l 585 hp benzin otomatik"
     },
     {
@@ -4743,8 +4691,8 @@
       "engine": "4.0L 585 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 38034000,
-      "priceFormatted": "38.034.000 TL",
+      "price": 39175000,
+      "priceFormatted": "39.175.000 TL",
       "searchText": "mercedes benz mercedes maybach sl 680 monogram series 4 0l 585 hp benzin otomatik"
     },
     {
@@ -4756,8 +4704,8 @@
       "engine": "2.0L 421 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 16675000,
-      "priceFormatted": "16.675.000 TL",
+      "price": 17175000,
+      "priceFormatted": "17.175.000 TL",
       "searchText": "mercedes benz mercedes amg gt 43 performance 2 0l 421 hp benzin otomatik"
     },
     {
@@ -4769,8 +4717,8 @@
       "engine": "4.0L 585 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 28640000,
-      "priceFormatted": "28.640.000 TL",
+      "price": 29499000,
+      "priceFormatted": "29.499.000 TL",
       "searchText": "mercedes benz mercedes amg gt 63 4matic performance 4 0l 585 hp benzin otomatik"
     },
     {
@@ -4782,8 +4730,8 @@
       "engine": "4.0L 612 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 33191000,
-      "priceFormatted": "33.191.000 TL",
+      "price": 34187000,
+      "priceFormatted": "34.187.000 TL",
       "searchText": "mercedes benz mercedes amg gt 63 pro 4matic 4 0l 612 hp benzin otomatik"
     },
     {
@@ -4795,8 +4743,8 @@
       "engine": "218 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 4191000,
-      "priceFormatted": "4.191.000 TL",
+      "price": 4318500,
+      "priceFormatted": "4.318.500 TL",
       "searchText": "mercedes benz cla 200 amg 218 hp elektrik otomatik"
     },
     {
@@ -5229,32 +5177,6 @@
       "searchText": "ford focus yeni titanium x 1 5l ecoblue 115ps dizel otomatik"
     },
     {
-      "id": "dacia-yeni-sandero-essential-essential-tce-100",
-      "brand": "Dacia",
-      "brandId": "dacia",
-      "model": "Yeni Sandero",
-      "trim": "Essential",
-      "engine": "essential TCe 100",
-      "fuel": "Benzin",
-      "transmission": "Manuel",
-      "price": 1238000,
-      "priceFormatted": "₺1.238.000,00",
-      "searchText": "dacia yeni sandero essential essential tce 100 benzin manuel"
-    },
-    {
-      "id": "dacia-yeni-sandero-essential-essential-tce-100",
-      "brand": "Dacia",
-      "brandId": "dacia",
-      "model": "Yeni Sandero",
-      "trim": "Essential",
-      "engine": "essential TCe 100",
-      "fuel": "Benzin",
-      "transmission": "Manuel",
-      "price": 1298999.99,
-      "priceFormatted": "₺1.298.999,99",
-      "searchText": "dacia yeni sandero essential essential tce 100 benzin manuel"
-    },
-    {
       "id": "dacia-yeni-sandero-expression-expression-tce-100",
       "brand": "Dacia",
       "brandId": "dacia",
@@ -5276,8 +5198,8 @@
       "engine": "expression TCe 100",
       "fuel": "Benzin",
       "transmission": "Manuel",
-      "price": 1433000.01,
-      "priceFormatted": "₺1.433.000,01",
+      "price": 1460000,
+      "priceFormatted": "₺1.460.000,00",
       "searchText": "dacia yeni sandero expression expression tce 100 benzin manuel"
     },
     {
@@ -5315,8 +5237,8 @@
       "engine": "essential TCe 100",
       "fuel": "Benzin",
       "transmission": "Manuel",
-      "price": 1440000,
-      "priceFormatted": "₺1.440.000,00",
+      "price": 1470000.02,
+      "priceFormatted": "₺1.470.000,02",
       "searchText": "dacia yeni logan essential essential tce 100 benzin manuel"
     },
     {
@@ -5354,8 +5276,8 @@
       "engine": "expression Eco-G 120 - 5 koltuklu",
       "fuel": "LPG",
       "transmission": "Manuel",
-      "price": 1680000.02,
-      "priceFormatted": "₺1.680.000,02",
+      "price": 1730000.01,
+      "priceFormatted": "₺1.730.000,01",
       "searchText": "dacia yeni jogger expression expression eco g 120 5 koltuklu lpg manuel"
     },
     {
@@ -5367,8 +5289,8 @@
       "engine": "expression Eco-G 120 - 7 koltuklu",
       "fuel": "LPG",
       "transmission": "Manuel",
-      "price": 1739999.99,
-      "priceFormatted": "₺1.739.999,99",
+      "price": 1790000.01,
+      "priceFormatted": "₺1.790.000,01",
       "searchText": "dacia yeni jogger expression expression eco g 120 7 koltuklu lpg manuel"
     },
     {
@@ -5380,8 +5302,8 @@
       "engine": "extreme TCe 110 - 7 koltuklu",
       "fuel": "Benzin",
       "transmission": "Manuel",
-      "price": 1600000.01,
-      "priceFormatted": "₺1.600.000,01",
+      "price": 1650000,
+      "priceFormatted": "₺1.650.000,00",
       "searchText": "dacia yeni jogger extreme extreme tce 110 7 koltuklu benzin manuel"
     },
     {
@@ -5393,8 +5315,8 @@
       "engine": "extreme Eco-G 120 - 5 koltuklu",
       "fuel": "LPG",
       "transmission": "Manuel",
-      "price": 1710000,
-      "priceFormatted": "₺1.710.000,00",
+      "price": 1760000,
+      "priceFormatted": "₺1.760.000,00",
       "searchText": "dacia yeni jogger extreme extreme eco g 120 5 koltuklu lpg manuel"
     },
     {
@@ -5406,8 +5328,8 @@
       "engine": "extreme Eco-G 120 auto - 7 koltuklu",
       "fuel": "LPG",
       "transmission": "Otomatik",
-      "price": 1850000.01,
-      "priceFormatted": "₺1.850.000,01",
+      "price": 1900000,
+      "priceFormatted": "₺1.900.000,00",
       "searchText": "dacia yeni jogger extreme extreme eco g 120 auto 7 koltuklu lpg otomatik"
     },
     {
@@ -5432,8 +5354,8 @@
       "engine": "1.3 DIG-T Mild Hybrid 158PS",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 2746500,
-      "priceFormatted": "2.746.500 TL",
+      "price": 2774100,
+      "priceFormatted": "2.774.100 TL",
       "searchText": "nissan qashqai skypack 1 3 dig t mild hybrid 158ps mild hybrid otomatik"
     },
     {
@@ -5445,8 +5367,8 @@
       "engine": "1.3 DIG-T Mild Hybrid 158PS",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 2934600,
-      "priceFormatted": "2.934.600 TL",
+      "price": 2964000,
+      "priceFormatted": "2.964.000 TL",
       "searchText": "nissan qashqai skypack 4x4 1 3 dig t mild hybrid 158ps mild hybrid otomatik"
     },
     {
@@ -5458,8 +5380,8 @@
       "engine": "1.3 DIG-T Mild Hybrid 158PS",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 3706600,
-      "priceFormatted": "3.706.600 TL",
+      "price": 3743500,
+      "priceFormatted": "3.743.500 TL",
       "searchText": "nissan qashqai n design 1 3 dig t mild hybrid 158ps mild hybrid otomatik"
     },
     {
@@ -5471,8 +5393,8 @@
       "engine": "1.3 DIG-T Mild Hybrid 158PS",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 3747600,
-      "priceFormatted": "3.747.600 TL",
+      "price": 3785200,
+      "priceFormatted": "3.785.200 TL",
       "searchText": "nissan qashqai platinum 1 3 dig t mild hybrid 158ps mild hybrid otomatik"
     },
     {
@@ -5484,8 +5406,8 @@
       "engine": "1.3 DIG-T Mild Hybrid 158PS",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 3894000,
-      "priceFormatted": "3.894.000 TL",
+      "price": 3933100,
+      "priceFormatted": "3.933.100 TL",
       "searchText": "nissan qashqai platinum 4x4 1 3 dig t mild hybrid 158ps mild hybrid otomatik"
     },
     {
@@ -5497,8 +5419,8 @@
       "engine": "1.3 DIG-T Mild Hybrid 158PS",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 3624400,
-      "priceFormatted": "3.624.400 TL",
+      "price": 3937400,
+      "priceFormatted": "3.937.400 TL",
       "searchText": "nissan qashqai platinum premium 1 3 dig t mild hybrid 158ps mild hybrid otomatik"
     },
     {
@@ -5510,8 +5432,8 @@
       "engine": "1.3 DIG-T Mild Hybrid 158PS",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 3736000,
-      "priceFormatted": "3.736.000 TL",
+      "price": 4058600,
+      "priceFormatted": "4.058.600 TL",
       "searchText": "nissan qashqai platinum premium 4x4 1 3 dig t mild hybrid 158ps mild hybrid otomatik"
     },
     {
@@ -5523,8 +5445,8 @@
       "engine": "e-POWER 190PS",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 3532200,
-      "priceFormatted": "3.532.200 TL",
+      "price": 3568400,
+      "priceFormatted": "3.568.400 TL",
       "searchText": "nissan qashqai e power designpack e power 190ps hybrid otomatik"
     },
     {
@@ -5536,8 +5458,8 @@
       "engine": "e-POWER 190PS",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 3769900,
-      "priceFormatted": "3.769.900 TL",
+      "price": 4015200,
+      "priceFormatted": "4.015.200 TL",
       "searchText": "nissan qashqai e power skypack e power 190ps hybrid otomatik"
     },
     {
@@ -5549,8 +5471,8 @@
       "engine": "e-POWER 190PS",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 4108700,
-      "priceFormatted": "4.108.700 TL",
+      "price": 4150700,
+      "priceFormatted": "4.150.700 TL",
       "searchText": "nissan qashqai e power n design e power 190ps hybrid otomatik"
     },
     {
@@ -5562,8 +5484,8 @@
       "engine": "e-POWER 190PS",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 4237900,
-      "priceFormatted": "4.237.900 TL",
+      "price": 4281400,
+      "priceFormatted": "4.281.400 TL",
       "searchText": "nissan qashqai e power platinum e power 190ps hybrid otomatik"
     },
     {
@@ -5575,8 +5497,8 @@
       "engine": "e-POWER 190PS",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 4084100,
-      "priceFormatted": "4.084.100 TL",
+      "price": 4429200,
+      "priceFormatted": "4.429.200 TL",
       "searchText": "nissan qashqai e power platinum premium e power 190ps hybrid otomatik"
     },
     {
@@ -5601,8 +5523,8 @@
       "engine": "1.0 DIG-T 115PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2108000,
-      "priceFormatted": "2.108.000 TL",
+      "price": 2129100,
+      "priceFormatted": "2.129.100 TL",
       "searchText": "nissan juke platinum 1 0 dig t 115ps benzin otomatik"
     },
     {
@@ -5614,8 +5536,8 @@
       "engine": "1.0 DIG-T 115PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 2701000,
-      "priceFormatted": "2.701.000 TL",
+      "price": 2728400,
+      "priceFormatted": "2.728.400 TL",
       "searchText": "nissan juke platinum premium 1 0 dig t 115ps benzin otomatik"
     },
     {
@@ -5653,8 +5575,8 @@
       "engine": "1.3 DIG-T 130PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 1415000,
-      "priceFormatted": "1.415.000 TL",
+      "price": 1429300,
+      "priceFormatted": "1.429.300 TL",
       "searchText": "nissan townstar van visia 1 3 dig t 130ps benzin otomatik"
     },
     {
@@ -5666,8 +5588,8 @@
       "engine": "1.3 DIG-T 130PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 1568100,
-      "priceFormatted": "1.568.100 TL",
+      "price": 1584500,
+      "priceFormatted": "1.584.500 TL",
       "searchText": "nissan townstar van visia 1 3 dig t 130ps benzin otomatik"
     },
     {
@@ -5679,8 +5601,8 @@
       "engine": "1.3 DIG-T 130PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 1707900,
-      "priceFormatted": "1.707.900 TL",
+      "price": 1725600,
+      "priceFormatted": "1.725.600 TL",
       "searchText": "nissan townstar van visia 1 3 dig t 130ps benzin otomatik"
     },
     {
@@ -5692,8 +5614,8 @@
       "engine": "1.3 DIG-T 130PS",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 1792700,
-      "priceFormatted": "1.792.700 TL",
+      "price": 1811200,
+      "priceFormatted": "1.811.200 TL",
       "searchText": "nissan townstar van tekna 1 3 dig t 130ps benzin otomatik"
     },
     {
@@ -5757,8 +5679,8 @@
       "engine": "1.5L Hibrit Otomatik",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2525000,
-      "priceFormatted": "2.525.000 TL",
+      "price": 2600000,
+      "priceFormatted": "2.600.000 TL",
       "searchText": "honda jazz hybrid crosstar 1 5l hibrit otomatik hybrid otomatik"
     },
     {
@@ -5783,22 +5705,9 @@
       "engine": "1.5L Hibrit Otomatik",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 2670000,
-      "priceFormatted": "2.670.000 TL",
+      "price": 2700000,
+      "priceFormatted": "2.700.000 TL",
       "searchText": "honda hr v hybrid advance 1 5l hibrit otomatik hybrid otomatik"
-    },
-    {
-      "id": "honda-hr-v-hybrid-style+-1.5l-hibrit-otomatik",
-      "brand": "Honda",
-      "brandId": "honda",
-      "model": "HR-V Hybrid",
-      "trim": "Style+",
-      "engine": "1.5L Hibrit Otomatik",
-      "fuel": "Hybrid",
-      "transmission": "Otomatik",
-      "price": 3060000,
-      "priceFormatted": "3.060.000 TL",
-      "searchText": "honda hr v hybrid style 1 5l hibrit otomatik hybrid otomatik"
     },
     {
       "id": "honda-zr-v-hybrid-advance-2.0l-hibrit-otomatik",
@@ -5848,8 +5757,8 @@
       "engine": "1.0 TSI 116 PS",
       "fuel": "Benzin",
       "transmission": "Otomatik (DSG)",
-      "price": 1857000,
-      "priceFormatted": "1.857.000 TL",
+      "price": 1985000,
+      "priceFormatted": "1.985.000 TL",
       "searchText": "seat ibiza style plus 1 0 tsi 116 ps benzin otomatik dsg"
     },
     {
@@ -5861,8 +5770,8 @@
       "engine": "1.0 TSI 116 PS",
       "fuel": "Benzin",
       "transmission": "Otomatik (DSG)",
-      "price": 1968000,
-      "priceFormatted": "1.968.000 TL",
+      "price": 2050000,
+      "priceFormatted": "2.050.000 TL",
       "searchText": "seat arona style plus 1 0 tsi 116 ps benzin otomatik dsg"
     },
     {
@@ -5887,8 +5796,8 @@
       "engine": "1.5 eTSI 116 PS",
       "fuel": "Hybrid",
       "transmission": "Otomatik (DSG)",
-      "price": 2380000,
-      "priceFormatted": "2.380.000 TL",
+      "price": 2560000,
+      "priceFormatted": "2.560.000 TL",
       "searchText": "seat leon style 1 5 etsi 116 ps hybrid otomatik dsg"
     },
     {
@@ -5913,8 +5822,8 @@
       "engine": "1.5 EcoTSI ACT 150 PS",
       "fuel": "Benzin",
       "transmission": "Otomatik (DSG)",
-      "price": 2561000,
-      "priceFormatted": "2.561.000 TL",
+      "price": 2665000,
+      "priceFormatted": "2.665.000 TL",
       "searchText": "seat ateca style plus 1 5 ecotsi act 150 ps benzin otomatik dsg"
     },
     {
@@ -6007,6 +5916,19 @@
       "price": 1960000,
       "priceFormatted": "1.960.000 TL",
       "searchText": "kia stonic cool 100 ps benzin otomatik"
+    },
+    {
+      "id": "kia-stonic-elegance-100-ps",
+      "brand": "Kia",
+      "brandId": "kia",
+      "model": "Stonic",
+      "trim": "Elegance",
+      "engine": "100 PS",
+      "fuel": "Benzin",
+      "transmission": "Otomatik",
+      "price": 1995000,
+      "priceFormatted": "1.995.000 TL",
+      "searchText": "kia stonic elegance 100 ps benzin otomatik"
     },
     {
       "id": "kia-xceed-cool-115-ps",
@@ -6186,8 +6108,8 @@
       "engine": "150 kW",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 3760000,
-      "priceFormatted": "3.760.000 TL",
+      "price": 3790000,
+      "priceFormatted": "3.790.000 TL",
       "searchText": "kia ev3 gt line long range 150 kw elektrik otomatik"
     },
     {
@@ -6212,8 +6134,8 @@
       "engine": "125 kW",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 3760000,
-      "priceFormatted": "3.760.000 TL",
+      "price": 3790000,
+      "priceFormatted": "3.790.000 TL",
       "searchText": "kia ev6 pe elegance 125 kw elektrik otomatik"
     },
     {

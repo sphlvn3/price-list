@@ -1,139 +1,196 @@
 {
-  "generatedAt": "2026-08-29T18:37:37.393Z",
-  "date": "2026-08-29",
+  "generatedAt": "2026-09-02T15:31:08.662Z",
+  "date": "2026-09-02",
   "summary": {
-    "totalPriceDrops": 11,
-    "totalRecentDrops": 5,
-    "avgDropPercent": 7.16,
-    "maxDropPercent": 9.75,
-    "brandsWithDrops": 5
+    "totalPriceDrops": 7,
+    "totalRecentDrops": 13,
+    "avgDropPercent": 8.48,
+    "maxDropPercent": 11.32,
+    "brandsWithDrops": 2
   },
   "priceDrops": [
     {
-      "id": "toyota-corolla-1.5-flame-x-pack-multidrive-s-1.5",
-      "brand": "Toyota",
-      "brandId": "toyota",
-      "model": "COROLLA",
-      "trim": "1.5 Flame X-Pack Multidrive S",
-      "engine": "1.5",
-      "fuel": "Benzin",
+      "id": "opel-mokka-gs-hybrid-1.2-145-(136-hp)²",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Mokka",
+      "trim": "GS",
+      "engine": "Hybrid 1.2 145 (136 HP)²",
+      "fuel": "Hibrit",
       "transmission": "Otomatik",
-      "currentPrice": 1999000,
-      "currentPriceFormatted": "₺1.999.000",
-      "peakPrice": 2215000,
-      "peakPriceFormatted": "₺2.215.000",
-      "peakDate": "2026-07-31",
-      "dropAmount": 216000,
-      "dropPercent": 9.75,
+      "currentPrice": 2350000,
+      "currentPriceFormatted": "₺2.350.000",
+      "peakPrice": 2650000,
+      "peakPriceFormatted": "₺2.650.000",
+      "peakDate": "2026-08-04",
+      "dropAmount": 300000,
+      "dropPercent": 11.32,
       "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-08-20",
-          "price": 1999000
-        },
-        {
-          "date": "2026-08-21",
-          "price": 1999000
-        },
-        {
-          "date": "2026-08-22",
-          "price": 1999000
-        },
-        {
-          "date": "2026-08-23",
-          "price": 1999000
-        },
-        {
           "date": "2026-08-24",
-          "price": 1999000
+          "price": 2650000
         },
         {
           "date": "2026-08-25",
-          "price": 1999000
+          "price": 2650000
         },
         {
           "date": "2026-08-26",
-          "price": 1999000
+          "price": 2650000
         },
         {
           "date": "2026-08-27",
-          "price": 1999000
+          "price": 2650000
         },
         {
           "date": "2026-08-28",
-          "price": 1999000
+          "price": 2650000
         },
         {
           "date": "2026-08-29",
-          "price": 1999000
+          "price": 2650000
+        },
+        {
+          "date": "2026-08-30",
+          "price": 2650000
+        },
+        {
+          "date": "2026-08-31",
+          "price": 2650000
+        },
+        {
+          "date": "2026-09-01",
+          "price": 2650000
+        },
+        {
+          "date": "2026-09-02",
+          "price": 2350000
         }
       ],
-      "listPrice": 2963000,
-      "campaignPrice": 1999000,
-      "campaignDiscount": 32.5
+      "listPrice": 2350000
     },
     {
-      "id": "toyota-corolla-1.5-dream-x-pack-multidrive-s-1.5",
-      "brand": "Toyota",
-      "brandId": "toyota",
-      "model": "COROLLA",
-      "trim": "1.5 Dream X-Pack Multidrive S",
-      "engine": "1.5",
-      "fuel": "Benzin",
-      "transmission": "Otomatik",
-      "currentPrice": 1950000,
-      "currentPriceFormatted": "₺1.950.000",
-      "peakPrice": 2160000,
-      "peakPriceFormatted": "₺2.160.000",
-      "peakDate": "2026-07-31",
-      "dropAmount": 210000,
-      "dropPercent": 9.72,
+      "id": "opel-corsa-e-gs-100-kw",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Corsa E",
+      "trim": "GS",
+      "engine": "100 kW",
+      "fuel": "Elektrik",
+      "transmission": "",
+      "currentPrice": 1890000,
+      "currentPriceFormatted": "₺1.890.000",
+      "peakPrice": 2101000,
+      "peakPriceFormatted": "₺2.101.000",
+      "peakDate": "2026-08-04",
+      "dropAmount": 211000,
+      "dropPercent": 10.04,
       "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-08-20",
-          "price": 1950000
-        },
-        {
-          "date": "2026-08-21",
-          "price": 1950000
-        },
-        {
-          "date": "2026-08-22",
-          "price": 1950000
-        },
-        {
-          "date": "2026-08-23",
-          "price": 1950000
-        },
-        {
           "date": "2026-08-24",
-          "price": 1950000
+          "price": 2101000
         },
         {
           "date": "2026-08-25",
-          "price": 1950000
+          "price": 2101000
         },
         {
           "date": "2026-08-26",
-          "price": 1950000
+          "price": 2101000
         },
         {
           "date": "2026-08-27",
-          "price": 1950000
+          "price": 2101000
         },
         {
           "date": "2026-08-28",
-          "price": 1950000
+          "price": 2101000
         },
         {
           "date": "2026-08-29",
-          "price": 1950000
+          "price": 2101000
+        },
+        {
+          "date": "2026-08-30",
+          "price": 2101000
+        },
+        {
+          "date": "2026-08-31",
+          "price": 2101000
+        },
+        {
+          "date": "2026-09-01",
+          "price": 2101000
+        },
+        {
+          "date": "2026-09-02",
+          "price": 1890000
         }
       ],
-      "listPrice": 2753000,
-      "campaignPrice": 1950000,
-      "campaignDiscount": 29.2
+      "listPrice": 1890000
+    },
+    {
+      "id": "opel-corsa-edition-hybrid-1.2-110-(100hp)²",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Corsa",
+      "trim": "Edition",
+      "engine": "Hybrid 1.2 110 (100HP)²",
+      "fuel": "Hibrit",
+      "transmission": "Otomatik",
+      "currentPrice": 1820000,
+      "currentPriceFormatted": "₺1.820.000",
+      "peakPrice": 1999000,
+      "peakPriceFormatted": "₺1.999.000",
+      "peakDate": "2026-08-04",
+      "dropAmount": 179000,
+      "dropPercent": 8.95,
+      "daysSincePeak": 29,
+      "priceHistory": [
+        {
+          "date": "2026-08-24",
+          "price": 1999000
+        },
+        {
+          "date": "2026-08-25",
+          "price": 1999000
+        },
+        {
+          "date": "2026-08-26",
+          "price": 1999000
+        },
+        {
+          "date": "2026-08-27",
+          "price": 1999000
+        },
+        {
+          "date": "2026-08-28",
+          "price": 1999000
+        },
+        {
+          "date": "2026-08-29",
+          "price": 1999000
+        },
+        {
+          "date": "2026-08-30",
+          "price": 1999000
+        },
+        {
+          "date": "2026-08-31",
+          "price": 1999000
+        },
+        {
+          "date": "2026-09-01",
+          "price": 1999000
+        },
+        {
+          "date": "2026-09-02",
+          "price": 1820000
+        }
+      ],
+      "listPrice": 1820000
     },
     {
       "id": "opel-grandland-edition-hybrid-1.2-145-(136hp)³",
@@ -148,27 +205,11 @@
       "currentPriceFormatted": "₺2.850.000",
       "peakPrice": 3102000,
       "peakPriceFormatted": "₺3.102.000",
-      "peakDate": "2026-07-31",
+      "peakDate": "2026-08-04",
       "dropAmount": 252000,
       "dropPercent": 8.12,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-08-20",
-          "price": 2850000
-        },
-        {
-          "date": "2026-08-21",
-          "price": 2850000
-        },
-        {
-          "date": "2026-08-22",
-          "price": 2850000
-        },
-        {
-          "date": "2026-08-23",
-          "price": 2850000
-        },
         {
           "date": "2026-08-24",
           "price": 2850000
@@ -191,133 +232,87 @@
         },
         {
           "date": "2026-08-29",
+          "price": 2850000
+        },
+        {
+          "date": "2026-08-30",
+          "price": 2850000
+        },
+        {
+          "date": "2026-08-31",
+          "price": 2850000
+        },
+        {
+          "date": "2026-09-01",
+          "price": 2850000
+        },
+        {
+          "date": "2026-09-02",
           "price": 2850000
         }
       ],
       "listPrice": 2850000
     },
     {
-      "id": "toyota-corolla-1.8-hybrid-flame-x-pack-e-cvt-1.8",
-      "brand": "Toyota",
-      "brandId": "toyota",
-      "model": "COROLLA",
-      "trim": "1.8 Hybrid Flame X-Pack e-CVT",
-      "engine": "1.8",
+      "id": "opel-corsa-gs-hybrid-1.2-145-(136hp)³",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Corsa",
+      "trim": "GS",
+      "engine": "Hybrid 1.2 145 (136HP)³",
       "fuel": "Hibrit",
       "transmission": "Otomatik",
-      "currentPrice": 2500000,
-      "currentPriceFormatted": "₺2.500.000",
-      "peakPrice": 2717000,
-      "peakPriceFormatted": "₺2.717.000",
-      "peakDate": "2026-07-31",
-      "dropAmount": 217000,
-      "dropPercent": 7.99,
+      "currentPrice": 1955000,
+      "currentPriceFormatted": "₺1.955.000",
+      "peakPrice": 2119000,
+      "peakPriceFormatted": "₺2.119.000",
+      "peakDate": "2026-08-04",
+      "dropAmount": 164000,
+      "dropPercent": 7.74,
       "daysSincePeak": 29,
       "priceHistory": [
         {
-          "date": "2026-08-20",
-          "price": 2500000
-        },
-        {
-          "date": "2026-08-21",
-          "price": 2500000
-        },
-        {
-          "date": "2026-08-22",
-          "price": 2500000
-        },
-        {
-          "date": "2026-08-23",
-          "price": 2500000
-        },
-        {
           "date": "2026-08-24",
-          "price": 2500000
+          "price": 2119000
         },
         {
           "date": "2026-08-25",
-          "price": 2500000
+          "price": 2119000
         },
         {
           "date": "2026-08-26",
-          "price": 2500000
+          "price": 2119000
         },
         {
           "date": "2026-08-27",
-          "price": 2500000
+          "price": 2119000
         },
         {
           "date": "2026-08-28",
-          "price": 2500000
+          "price": 2119000
         },
         {
           "date": "2026-08-29",
-          "price": 2500000
+          "price": 2119000
+        },
+        {
+          "date": "2026-08-30",
+          "price": 2119000
+        },
+        {
+          "date": "2026-08-31",
+          "price": 2119000
+        },
+        {
+          "date": "2026-09-01",
+          "price": 2119000
+        },
+        {
+          "date": "2026-09-02",
+          "price": 1955000
         }
       ],
-      "campaignPrice": 2500000
-    },
-    {
-      "id": "kia-stonic-cool-100-ps",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "Stonic",
-      "trim": "Cool",
-      "engine": "100 PS",
-      "fuel": "Benzin",
-      "transmission": "Otomatik",
-      "currentPrice": 1960000,
-      "currentPriceFormatted": "₺1.960.000",
-      "peakPrice": 2130000,
-      "peakPriceFormatted": "₺2.130.000",
-      "peakDate": "2026-07-31",
-      "dropAmount": 170000,
-      "dropPercent": 7.98,
-      "daysSincePeak": 29,
-      "priceHistory": [
-        {
-          "date": "2026-08-20",
-          "price": 1960000
-        },
-        {
-          "date": "2026-08-21",
-          "price": 1960000
-        },
-        {
-          "date": "2026-08-22",
-          "price": 1960000
-        },
-        {
-          "date": "2026-08-23",
-          "price": 1960000
-        },
-        {
-          "date": "2026-08-24",
-          "price": 1960000
-        },
-        {
-          "date": "2026-08-25",
-          "price": 1960000
-        },
-        {
-          "date": "2026-08-26",
-          "price": 1960000
-        },
-        {
-          "date": "2026-08-27",
-          "price": 1960000
-        },
-        {
-          "date": "2026-08-28",
-          "price": 1960000
-        },
-        {
-          "date": "2026-08-29",
-          "price": 1960000
-        }
-      ],
-      "listPrice": 866928.1,
-      "campaignPrice": 1830000
+      "listPrice": 1955000
     },
     {
       "id": "fiat-topolino-topolino-6-kw/8-hp---5.5kwh",
@@ -332,19 +327,11 @@
       "currentPriceFormatted": "₺544.900",
       "peakPrice": 584900,
       "peakPriceFormatted": "₺584.900",
-      "peakDate": "2026-06-03",
+      "peakDate": "2026-06-04",
       "dropAmount": 40000,
       "dropPercent": 6.84,
-      "daysSincePeak": 2,
+      "daysSincePeak": 1,
       "priceHistory": [
-        {
-          "date": "2026-06-03",
-          "price": 584900
-        },
-        {
-          "date": "2026-06-03",
-          "price": 544900
-        },
         {
           "date": "2026-06-04",
           "price": 584900
@@ -379,19 +366,11 @@
       "currentPriceFormatted": "₺589.900",
       "peakPrice": 629900,
       "peakPriceFormatted": "₺629.900",
-      "peakDate": "2026-06-03",
+      "peakDate": "2026-06-04",
       "dropAmount": 40000,
       "dropPercent": 6.35,
-      "daysSincePeak": 2,
+      "daysSincePeak": 1,
       "priceHistory": [
-        {
-          "date": "2026-06-03",
-          "price": 629900
-        },
-        {
-          "date": "2026-06-03",
-          "price": 589900
-        },
         {
           "date": "2026-06-04",
           "price": 629900
@@ -412,228 +391,69 @@
       "listPrice": 719900,
       "campaignPrice": 629900,
       "campaignDiscount": 12.5
-    },
-    {
-      "id": "kia-ev3-prestige-standard-range-150-kw",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "EV3",
-      "trim": "Prestige Standard Range",
-      "engine": "150 kW",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "currentPrice": 2345000,
-      "currentPriceFormatted": "₺2.345.000",
-      "peakPrice": 2485000,
-      "peakPriceFormatted": "₺2.485.000",
-      "peakDate": "2026-07-31",
-      "dropAmount": 140000,
-      "dropPercent": 5.63,
-      "daysSincePeak": 0,
-      "priceHistory": [
-        {
-          "date": "2026-07-31",
-          "price": 2485000
-        },
-        {
-          "date": "2026-07-31",
-          "price": 2345000
-        }
-      ],
-      "listPrice": 1648481.91,
-      "campaignPrice": 2485000
-    },
-    {
-      "id": "nissan-qashqai-platinum-premium-1.3-dig-t-mild-hybrid-158ps",
-      "brand": "Nissan",
-      "brandId": "nissan",
-      "model": "QASHQAI",
-      "trim": "Platinum Premium",
-      "engine": "1.3 DIG-T Mild Hybrid 158PS",
-      "fuel": "Hafif Hibrit",
-      "transmission": "Otomatik",
-      "currentPrice": 3624400,
-      "currentPriceFormatted": "₺3.624.400",
-      "peakPrice": 3836400,
-      "peakPriceFormatted": "₺3.836.400",
-      "peakDate": "2026-08-02",
-      "dropAmount": 212000,
-      "dropPercent": 5.53,
-      "daysSincePeak": 27,
-      "priceHistory": [
-        {
-          "date": "2026-08-20",
-          "price": 3599200
-        },
-        {
-          "date": "2026-08-21",
-          "price": 3624400
-        },
-        {
-          "date": "2026-08-22",
-          "price": 3624400
-        },
-        {
-          "date": "2026-08-23",
-          "price": 3624400
-        },
-        {
-          "date": "2026-08-24",
-          "price": 3624400
-        },
-        {
-          "date": "2026-08-25",
-          "price": 3624400
-        },
-        {
-          "date": "2026-08-26",
-          "price": 3624400
-        },
-        {
-          "date": "2026-08-27",
-          "price": 3624400
-        },
-        {
-          "date": "2026-08-28",
-          "price": 3624400
-        },
-        {
-          "date": "2026-08-29",
-          "price": 3624400
-        }
-      ],
-      "listPrice": 3898200,
-      "campaignPrice": 3624400,
-      "campaignDiscount": 7
-    },
-    {
-      "id": "nissan-qashqai-platinum-premium-4x4-1.3-dig-t-mild-hybrid-158ps",
-      "brand": "Nissan",
-      "brandId": "nissan",
-      "model": "QASHQAI",
-      "trim": "Platinum Premium 4x4",
-      "engine": "1.3 DIG-T Mild Hybrid 158PS",
-      "fuel": "Hafif Hibrit",
-      "transmission": "Otomatik",
-      "currentPrice": 3736000,
-      "currentPriceFormatted": "₺3.736.000",
-      "peakPrice": 3954500,
-      "peakPriceFormatted": "₺3.954.500",
-      "peakDate": "2026-08-02",
-      "dropAmount": 218500,
-      "dropPercent": 5.53,
-      "daysSincePeak": 27,
-      "priceHistory": [
-        {
-          "date": "2026-08-20",
-          "price": 3710000
-        },
-        {
-          "date": "2026-08-21",
-          "price": 3736000
-        },
-        {
-          "date": "2026-08-22",
-          "price": 3736000
-        },
-        {
-          "date": "2026-08-23",
-          "price": 3736000
-        },
-        {
-          "date": "2026-08-24",
-          "price": 3736000
-        },
-        {
-          "date": "2026-08-25",
-          "price": 3736000
-        },
-        {
-          "date": "2026-08-26",
-          "price": 3736000
-        },
-        {
-          "date": "2026-08-27",
-          "price": 3736000
-        },
-        {
-          "date": "2026-08-28",
-          "price": 3736000
-        },
-        {
-          "date": "2026-08-29",
-          "price": 3736000
-        }
-      ],
-      "listPrice": 4018300,
-      "campaignPrice": 3736000,
-      "campaignDiscount": 7
-    },
-    {
-      "id": "nissan-qashqai-e-power-platinum-premium-e-power-190ps",
-      "brand": "Nissan",
-      "brandId": "nissan",
-      "model": "QASHQAI e-POWER",
-      "trim": "Platinum Premium",
-      "engine": "e-POWER 190PS",
-      "fuel": "Hibrit",
-      "transmission": "Otomatik",
-      "currentPrice": 4084100,
-      "currentPriceFormatted": "₺4.084.100",
-      "peakPrice": 4313100,
-      "peakPriceFormatted": "₺4.313.100",
-      "peakDate": "2026-08-02",
-      "dropAmount": 229000,
-      "dropPercent": 5.31,
-      "daysSincePeak": 27,
-      "priceHistory": [
-        {
-          "date": "2026-08-20",
-          "price": 4053000
-        },
-        {
-          "date": "2026-08-21",
-          "price": 4084100
-        },
-        {
-          "date": "2026-08-22",
-          "price": 4084100
-        },
-        {
-          "date": "2026-08-23",
-          "price": 4084100
-        },
-        {
-          "date": "2026-08-24",
-          "price": 4084100
-        },
-        {
-          "date": "2026-08-25",
-          "price": 4084100
-        },
-        {
-          "date": "2026-08-26",
-          "price": 4084100
-        },
-        {
-          "date": "2026-08-27",
-          "price": 4084100
-        },
-        {
-          "date": "2026-08-28",
-          "price": 4084100
-        },
-        {
-          "date": "2026-08-29",
-          "price": 4084100
-        }
-      ],
-      "listPrice": 4484100,
-      "campaignPrice": 4084100,
-      "campaignDiscount": 8.9
     }
   ],
   "recentDrops": [
+    {
+      "id": "opel-mokka-gs-hybrid-1.2-145-(136-hp)²-recent",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Mokka",
+      "trim": "GS",
+      "engine": "Hybrid 1.2 145 (136 HP)²",
+      "currentPrice": 2350000,
+      "previousPrice": 2650000,
+      "dropAmount": 300000,
+      "dropPercent": 11.32,
+      "date": "2026-09-02",
+      "previousDate": "2026-09-01",
+      "listPrice": 2350000
+    },
+    {
+      "id": "opel-corsa-e-gs-100-kw-recent",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Corsa E",
+      "trim": "GS",
+      "engine": "100 kW",
+      "currentPrice": 1890000,
+      "previousPrice": 2101000,
+      "dropAmount": 211000,
+      "dropPercent": 10.04,
+      "date": "2026-09-02",
+      "previousDate": "2026-09-01",
+      "listPrice": 1890000
+    },
+    {
+      "id": "opel-corsa-edition-hybrid-1.2-110-(100hp)²-recent",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Corsa",
+      "trim": "Edition",
+      "engine": "Hybrid 1.2 110 (100HP)²",
+      "currentPrice": 1820000,
+      "previousPrice": 1999000,
+      "dropAmount": 179000,
+      "dropPercent": 8.95,
+      "date": "2026-09-02",
+      "previousDate": "2026-09-01",
+      "listPrice": 1820000
+    },
+    {
+      "id": "opel-corsa-gs-hybrid-1.2-145-(136hp)³-recent",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Corsa",
+      "trim": "GS",
+      "engine": "Hybrid 1.2 145 (136HP)³",
+      "currentPrice": 1955000,
+      "previousPrice": 2119000,
+      "dropAmount": 164000,
+      "dropPercent": 7.74,
+      "date": "2026-09-02",
+      "previousDate": "2026-09-01",
+      "listPrice": 1955000
+    },
     {
       "id": "fiat-topolino-topolino-6-kw/8-hp---5.5kwh-recent",
       "brand": "Fiat",
@@ -669,20 +489,36 @@
       "campaignDiscount": 12.5
     },
     {
-      "id": "kia-ev3-prestige-standard-range-150-kw-recent",
-      "brand": "Kia",
-      "brandId": "kia",
-      "model": "EV3",
-      "trim": "Prestige Standard Range",
-      "engine": "150 kW",
-      "currentPrice": 2345000,
-      "previousPrice": 2485000,
-      "dropAmount": 140000,
-      "dropPercent": 5.63,
-      "date": "2026-07-31",
-      "previousDate": "2026-07-31",
-      "listPrice": 1648481.91,
-      "campaignPrice": 2485000
+      "id": "toyota-land-cruiser-prado-land-cruiser-prado-2.8-d-4d-mild-hybrid-power-8-a/t-2.8-recent",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "Land Cruiser Prado",
+      "trim": "Land Cruiser Prado 2.8 D-4D Mild Hybrid Power 8 A/T",
+      "engine": "2.8",
+      "currentPrice": 12490000,
+      "previousPrice": 13100000,
+      "dropAmount": 610000,
+      "dropPercent": 4.66,
+      "date": "2026-09-02",
+      "previousDate": "2026-09-01",
+      "listPrice": 17550000,
+      "campaignPrice": 12490000,
+      "campaignDiscount": 28.8
+    },
+    {
+      "id": "opel-grandland-gs-hybrid-1.2-145-(136hp)³-recent",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Grandland",
+      "trim": "GS",
+      "engine": "Hybrid 1.2 145 (136HP)³",
+      "currentPrice": 3050000,
+      "previousPrice": 3179000,
+      "dropAmount": 129000,
+      "dropPercent": 4.06,
+      "date": "2026-09-02",
+      "previousDate": "2026-09-01",
+      "listPrice": 3050000
     },
     {
       "id": "fiat-grande-panda-elektrikli-la-prima-83-kw/113-hp-44-kwh-recent",
@@ -695,8 +531,8 @@
       "previousPrice": 1440000,
       "dropAmount": 50000,
       "dropPercent": 3.47,
-      "date": "2026-08-29",
-      "previousDate": "2026-08-29",
+      "date": "2026-09-02",
+      "previousDate": "2026-09-02",
       "listPrice": 1584900,
       "campaignPrice": 1440000,
       "campaignDiscount": 9.1
@@ -717,38 +553,65 @@
       "listPrice": 1584900,
       "campaignPrice": 1514900,
       "campaignDiscount": 4.4
+    },
+    {
+      "id": "opel-frontera-hybrid-gs-hybrid-1.2-145-(136hp)²-recent",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Frontera Hybrid",
+      "trim": "GS",
+      "engine": "Hybrid 1.2 145 (136HP)²",
+      "currentPrice": 2290000,
+      "previousPrice": 2342000,
+      "dropAmount": 52000,
+      "dropPercent": 2.22,
+      "date": "2026-09-02",
+      "previousDate": "2026-09-01",
+      "listPrice": 2290000
+    },
+    {
+      "id": "opel-frontera-hybrid-edition-hybrid-1.2-145-(136hp)²-recent",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Frontera Hybrid",
+      "trim": "Edition",
+      "engine": "Hybrid 1.2 145 (136HP)²",
+      "currentPrice": 2190000,
+      "previousPrice": 2221000,
+      "dropAmount": 31000,
+      "dropPercent": 1.4,
+      "date": "2026-09-02",
+      "previousDate": "2026-09-01",
+      "listPrice": 2190000
+    },
+    {
+      "id": "opel-astra-edition-1.5-130-hp-dizel-recent",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Astra",
+      "trim": "Edition",
+      "engine": "1.5 130 HP Dizel",
+      "currentPrice": 2330000,
+      "previousPrice": 2360000,
+      "dropAmount": 30000,
+      "dropPercent": 1.27,
+      "date": "2026-09-02",
+      "previousDate": "2026-09-01",
+      "listPrice": 2330000
     }
   ],
   "brandSummary": [
     {
-      "brandId": "toyota",
-      "brand": "Toyota",
-      "dropCount": 3,
-      "avgDropPercent": 9.15
-    },
-    {
-      "brandId": "nissan",
-      "brand": "Nissan",
-      "dropCount": 3,
-      "avgDropPercent": 5.45
-    },
-    {
-      "brandId": "kia",
-      "brand": "Kia",
-      "dropCount": 2,
-      "avgDropPercent": 6.81
+      "brandId": "opel",
+      "brand": "Opel",
+      "dropCount": 5,
+      "avgDropPercent": 9.24
     },
     {
       "brandId": "fiat",
       "brand": "Fiat",
       "dropCount": 2,
       "avgDropPercent": 6.59
-    },
-    {
-      "brandId": "opel",
-      "brand": "Opel",
-      "dropCount": 1,
-      "avgDropPercent": 8.12
     }
   ]
 }

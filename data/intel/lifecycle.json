@@ -1,129 +1,402 @@
 {
-  "generatedAt": "2026-08-29T18:37:37.606Z",
-  "date": "2026-08-29",
+  "generatedAt": "2026-09-02T15:31:08.800Z",
+  "date": "2026-09-02",
   "summary": {
-    "totalModels": 231,
+    "totalModels": 226,
     "totalTransitions": 0,
     "totalStaleModels": 0,
-    "avgEntryPriceDelta": 1.98
+    "avgEntryPriceDelta": 3.37
   },
   "modelYearTransitions": [],
   "entryPriceDeltas": [
     {
-      "id": "peugeot-5008-entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "5008",
-      "currentEntryPrice": 3357000,
-      "previousEntryPrice": 3290000,
-      "delta": 67000,
-      "deltaPercent": 2.04,
-      "currentDate": "2026-08-29",
-      "previousDate": "2026-08-22",
+      "id": "opel-Grandland Elektrik-entry",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Grandland Elektrik",
+      "currentEntryPrice": 3200000,
+      "previousEntryPrice": 2485000,
+      "delta": 715000,
+      "deltaPercent": 28.77,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
       "daysBetween": 7
     },
     {
-      "id": "peugeot-E-5008-entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "E-5008",
-      "currentEntryPrice": 3573500,
-      "previousEntryPrice": 3502000,
-      "delta": 71500,
-      "deltaPercent": 2.04,
-      "currentDate": "2026-08-29",
-      "previousDate": "2026-08-22",
+      "id": "renault-R5 E-Tech ELEKTRİKLİ-entry",
+      "brand": "Renault",
+      "brandId": "renault",
+      "model": "R5 E-Tech ELEKTRİKLİ",
+      "currentEntryPrice": 2099000,
+      "previousEntryPrice": 1885999.99,
+      "delta": 213000.01,
+      "deltaPercent": 11.29,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
       "daysBetween": 7
     },
     {
-      "id": "peugeot-Partner Van-entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "Partner Van",
-      "currentEntryPrice": 1411000,
-      "previousEntryPrice": 1383000,
-      "delta": 28000,
-      "deltaPercent": 2.02,
-      "currentDate": "2026-08-29",
-      "previousDate": "2026-08-22",
+      "id": "opel-Corsa E-entry",
+      "brand": "Opel",
+      "brandId": "opel",
+      "model": "Corsa E",
+      "currentEntryPrice": 1890000,
+      "previousEntryPrice": 2101000,
+      "delta": -211000,
+      "deltaPercent": -10.04,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
       "daysBetween": 7
     },
     {
-      "id": "peugeot-Expert Traveller-entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "Expert Traveller",
-      "currentEntryPrice": 2540000,
-      "previousEntryPrice": 2490000,
-      "delta": 50000,
-      "deltaPercent": 2.01,
-      "currentDate": "2026-08-29",
-      "previousDate": "2026-08-22",
+      "id": "citroen-C4 X Hybrid 145-entry",
+      "brand": "Citroën",
+      "brandId": "citroen",
+      "model": "C4 X Hybrid 145",
+      "currentEntryPrice": 2255000,
+      "previousEntryPrice": 2061000,
+      "delta": 194000,
+      "deltaPercent": 9.41,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
       "daysBetween": 7
     },
     {
-      "id": "peugeot-E-208-entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "E-208",
-      "currentEntryPrice": 2039500,
-      "previousEntryPrice": 1999500,
-      "delta": 40000,
-      "deltaPercent": 2,
-      "currentDate": "2026-08-29",
-      "previousDate": "2026-08-22",
+      "id": "toyota-YENİ COROLLA HATCHBACK HYBRID-entry",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "YENİ COROLLA HATCHBACK HYBRID",
+      "currentEntryPrice": 2783000,
+      "previousEntryPrice": 2550000,
+      "delta": 233000,
+      "deltaPercent": 9.14,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
       "daysBetween": 7
     },
     {
-      "id": "peugeot-3008-entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "3008",
-      "currentEntryPrice": 2702000,
-      "previousEntryPrice": 2649000,
-      "delta": 53000,
-      "deltaPercent": 2,
-      "currentDate": "2026-08-29",
-      "previousDate": "2026-08-22",
+      "id": "citroen-C4 Hybrid 145-entry",
+      "brand": "Citroën",
+      "brandId": "citroen",
+      "model": "C4 Hybrid 145",
+      "currentEntryPrice": 2230000,
+      "previousEntryPrice": 2061000,
+      "delta": 169000,
+      "deltaPercent": 8.2,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
       "daysBetween": 7
     },
     {
-      "id": "peugeot-E-3008-entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "E-3008",
-      "currentEntryPrice": 3384500,
-      "previousEntryPrice": 3318000,
-      "delta": 66500,
-      "deltaPercent": 2,
-      "currentDate": "2026-08-29",
-      "previousDate": "2026-08-22",
+      "id": "dacia-Yeni Sandero-entry",
+      "brand": "Dacia",
+      "brandId": "dacia",
+      "model": "Yeni Sandero",
+      "currentEntryPrice": 1338000,
+      "previousEntryPrice": 1238000,
+      "delta": 100000,
+      "deltaPercent": 8.08,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
       "daysBetween": 7
     },
     {
-      "id": "peugeot-Rifter-entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "Rifter",
-      "currentEntryPrice": 1656500,
-      "previousEntryPrice": 1624000,
-      "delta": 32500,
-      "deltaPercent": 2,
-      "currentDate": "2026-08-29",
-      "previousDate": "2026-08-22",
+      "id": "seat-Leon-entry",
+      "brand": "SEAT",
+      "brandId": "seat",
+      "model": "Leon",
+      "currentEntryPrice": 2560000,
+      "previousEntryPrice": 2380000,
+      "delta": 180000,
+      "deltaPercent": 7.56,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
       "daysBetween": 7
     },
     {
-      "id": "peugeot-408-entry",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "model": "408",
-      "currentEntryPrice": 2370000,
-      "previousEntryPrice": 2330000,
-      "delta": 40000,
-      "deltaPercent": 1.72,
-      "currentDate": "2026-08-29",
-      "previousDate": "2026-08-22",
+      "id": "seat-Ibiza-entry",
+      "brand": "SEAT",
+      "brandId": "seat",
+      "model": "Ibiza",
+      "currentEntryPrice": 1985000,
+      "previousEntryPrice": 1857000,
+      "delta": 128000,
+      "deltaPercent": 6.89,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "citroen-C3 Aircross Hybrid 145-entry",
+      "brand": "Citroën",
+      "brandId": "citroen",
+      "model": "C3 Aircross Hybrid 145",
+      "currentEntryPrice": 2270000,
+      "previousEntryPrice": 2155000,
+      "delta": 115000,
+      "deltaPercent": 5.34,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "citroen-Jumpy Kamyonet-entry",
+      "brand": "Citroën",
+      "brandId": "citroen",
+      "model": "Jumpy Kamyonet",
+      "currentEntryPrice": 1780000,
+      "previousEntryPrice": 1700000,
+      "delta": 80000,
+      "deltaPercent": 4.71,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "toyota-Land Cruiser Prado-entry",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "Land Cruiser Prado",
+      "currentEntryPrice": 12490000,
+      "previousEntryPrice": 13100000,
+      "delta": -610000,
+      "deltaPercent": -4.66,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "seat-Ateca-entry",
+      "brand": "SEAT",
+      "brandId": "seat",
+      "model": "Ateca",
+      "currentEntryPrice": 2665000,
+      "previousEntryPrice": 2561000,
+      "delta": 104000,
+      "deltaPercent": 4.06,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "citroen-Elektrikli ë-C4 X-entry",
+      "brand": "Citroën",
+      "brandId": "citroen",
+      "model": "Elektrikli ë-C4 X",
+      "currentEntryPrice": 2340000,
+      "previousEntryPrice": 2255000,
+      "delta": 85000,
+      "deltaPercent": 3.77,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "citroen-Elektrikli ë-C3 Aircross-entry",
+      "brand": "Citroën",
+      "brandId": "citroen",
+      "model": "Elektrikli ë-C3 Aircross",
+      "currentEntryPrice": 1855000,
+      "previousEntryPrice": 1790000,
+      "delta": 65000,
+      "deltaPercent": 3.63,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "citroen-Berlingo Van-entry",
+      "brand": "Citroën",
+      "brandId": "citroen",
+      "model": "Berlingo Van",
+      "currentEntryPrice": 1484000,
+      "previousEntryPrice": 1432000,
+      "delta": 52000,
+      "deltaPercent": 3.63,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "citroen-Elektrikli ë-C4-entry",
+      "brand": "Citroën",
+      "brandId": "citroen",
+      "model": "Elektrikli ë-C4",
+      "currentEntryPrice": 2375000,
+      "previousEntryPrice": 2295000,
+      "delta": 80000,
+      "deltaPercent": 3.49,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "citroen-Jumper-entry",
+      "brand": "Citroën",
+      "brandId": "citroen",
+      "model": "Jumper",
+      "currentEntryPrice": 1965000,
+      "previousEntryPrice": 1899000,
+      "delta": 66000,
+      "deltaPercent": 3.48,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "toyota-YENİ TOYOTA C-HR-entry",
+      "brand": "Toyota",
+      "brandId": "toyota",
+      "model": "YENİ TOYOTA C-HR",
+      "currentEntryPrice": 2325000,
+      "previousEntryPrice": 2250000,
+      "delta": 75000,
+      "deltaPercent": 3.33,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "citroen-C5 Aircross Hybrid 145-entry",
+      "brand": "Citroën",
+      "brandId": "citroen",
+      "model": "C5 Aircross Hybrid 145",
+      "currentEntryPrice": 2800000,
+      "previousEntryPrice": 2710000,
+      "delta": 90000,
+      "deltaPercent": 3.32,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "citroen-Berlingo-entry",
+      "brand": "Citroën",
+      "brandId": "citroen",
+      "model": "Berlingo",
+      "currentEntryPrice": 1902000,
+      "previousEntryPrice": 1841000,
+      "delta": 61000,
+      "deltaPercent": 3.31,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "dacia-Yeni Jogger-entry",
+      "brand": "Dacia",
+      "brandId": "dacia",
+      "model": "Yeni Jogger",
+      "currentEntryPrice": 1650000,
+      "previousEntryPrice": 1600000.01,
+      "delta": 49999.98999999999,
+      "deltaPercent": 3.12,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "mercedes-A 200-entry",
+      "brand": "Mercedes-Benz",
+      "brandId": "mercedes",
+      "model": "A 200",
+      "currentEntryPrice": 3320000,
+      "previousEntryPrice": 3222000,
+      "delta": 98000,
+      "deltaPercent": 3.04,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "mercedes-EQA 250+-entry",
+      "brand": "Mercedes-Benz",
+      "brandId": "mercedes",
+      "model": "EQA 250+",
+      "currentEntryPrice": 4477000,
+      "previousEntryPrice": 4345000,
+      "delta": 132000,
+      "deltaPercent": 3.04,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "mercedes-GLA 200-entry",
+      "brand": "Mercedes-Benz",
+      "brandId": "mercedes",
+      "model": "GLA 200",
+      "currentEntryPrice": 4760000,
+      "previousEntryPrice": 4619500,
+      "delta": 140500,
+      "deltaPercent": 3.04,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "mercedes-GLC 180-entry",
+      "brand": "Mercedes-Benz",
+      "brandId": "mercedes",
+      "model": "GLC 180",
+      "currentEntryPrice": 7169000,
+      "previousEntryPrice": 6957500,
+      "delta": 211500,
+      "deltaPercent": 3.04,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "mercedes-CLA 200+-entry",
+      "brand": "Mercedes-Benz",
+      "brandId": "mercedes",
+      "model": "CLA 200+",
+      "currentEntryPrice": 4318500,
+      "previousEntryPrice": 4191000,
+      "delta": 127500,
+      "deltaPercent": 3.04,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "mercedes-E 180-entry",
+      "brand": "Mercedes-Benz",
+      "brandId": "mercedes",
+      "model": "E 180",
+      "currentEntryPrice": 8601500,
+      "previousEntryPrice": 8349000,
+      "delta": 252500,
+      "deltaPercent": 3.02,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "mercedes-CLE 300 4MATIC Coupé-entry",
+      "brand": "Mercedes-Benz",
+      "brandId": "mercedes",
+      "model": "CLE 300 4MATIC Coupé",
+      "currentEntryPrice": 8641000,
+      "previousEntryPrice": 8389000,
+      "delta": 252000,
+      "deltaPercent": 3,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
+      "daysBetween": 7
+    },
+    {
+      "id": "mercedes-Mercedes-AMG CLE 53 4MATIC+-entry",
+      "brand": "Mercedes-Benz",
+      "brandId": "mercedes",
+      "model": "Mercedes-AMG CLE 53 4MATIC+",
+      "currentEntryPrice": 14103000,
+      "previousEntryPrice": 13692000,
+      "delta": 411000,
+      "deltaPercent": 3,
+      "currentDate": "2026-09-02",
+      "previousDate": "2026-08-26",
       "daysBetween": 7
     }
   ],
@@ -139,7 +412,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -151,7 +424,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -163,7 +436,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -175,7 +448,7 @@
       "fuelTypes": [
         "Plug-in Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -187,7 +460,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -199,7 +472,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -211,7 +484,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -223,7 +496,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -235,7 +508,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -247,7 +520,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -259,7 +532,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -271,7 +544,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -283,7 +556,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -295,7 +568,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -307,7 +580,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -319,7 +592,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -331,7 +604,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -343,7 +616,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -355,7 +628,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -367,7 +640,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -379,7 +652,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -391,7 +664,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -403,7 +676,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -415,7 +688,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -427,7 +700,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -439,7 +712,7 @@
       "fuelTypes": [
         "Plug-in Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -451,7 +724,7 @@
       "fuelTypes": [
         "Plug-in Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -463,7 +736,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -475,7 +748,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -487,7 +760,7 @@
       "fuelTypes": [
         "Plug-in Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -499,7 +772,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -511,7 +784,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -523,7 +796,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -535,7 +808,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -547,7 +820,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -559,7 +832,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -571,7 +844,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -583,7 +856,7 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -595,7 +868,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -607,7 +880,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BMW",
@@ -619,19 +892,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
-    },
-    {
-      "brand": "BYD",
-      "brandId": "byd",
-      "model": "HAN",
-      "entryPrice": 4573000,
-      "topPrice": 4573000,
-      "trimCount": 1,
-      "fuelTypes": [
-        "Elektrik"
-      ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BYD",
@@ -643,7 +904,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BYD",
@@ -655,7 +916,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "BYD",
@@ -667,91 +928,91 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Citroën",
       "brandId": "citroen",
       "model": "Ami",
-      "entryPrice": 590000,
-      "topPrice": 630000,
+      "entryPrice": 600000,
+      "topPrice": 640000,
       "trimCount": 4,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Citroën",
       "brandId": "citroen",
       "model": "Berlingo",
-      "entryPrice": 1841000,
-      "topPrice": 1999000,
+      "entryPrice": 1902000,
+      "topPrice": 2053000,
       "trimCount": 3,
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Citroën",
       "brandId": "citroen",
       "model": "Berlingo Van",
-      "entryPrice": 1432000,
-      "topPrice": 1513000,
+      "entryPrice": 1484000,
+      "topPrice": 1573000,
       "trimCount": 2,
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Citroën",
       "brandId": "citroen",
       "model": "C3 Aircross Hybrid 145",
-      "entryPrice": 2155000,
-      "topPrice": 2260000,
+      "entryPrice": 2270000,
+      "topPrice": 2300000,
       "trimCount": 3,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Citroën",
       "brandId": "citroen",
       "model": "C4 Hybrid 145",
-      "entryPrice": 2061000,
-      "topPrice": 2242000,
+      "entryPrice": 2230000,
+      "topPrice": 2345000,
       "trimCount": 2,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Citroën",
       "brandId": "citroen",
       "model": "C4 X Hybrid 145",
-      "entryPrice": 2061000,
-      "topPrice": 2262000,
+      "entryPrice": 2255000,
+      "topPrice": 2345000,
       "trimCount": 2,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Citroën",
       "brandId": "citroen",
       "model": "C5 Aircross Hybrid 145",
-      "entryPrice": 2710000,
-      "topPrice": 2960000,
+      "entryPrice": 2800000,
+      "topPrice": 3050000,
       "trimCount": 2,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Citroën",
@@ -763,91 +1024,91 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Citroën",
       "brandId": "citroen",
       "model": "Elektrikli ë-C3",
-      "entryPrice": 1595000,
-      "topPrice": 1660000,
+      "entryPrice": 1640000,
+      "topPrice": 1720000,
       "trimCount": 2,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Citroën",
       "brandId": "citroen",
       "model": "Elektrikli ë-C3 Aircross",
-      "entryPrice": 1790000,
-      "topPrice": 1930000,
+      "entryPrice": 1855000,
+      "topPrice": 2000000,
       "trimCount": 3,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Citroën",
       "brandId": "citroen",
       "model": "Elektrikli ë-C4",
-      "entryPrice": 2295000,
-      "topPrice": 2295000,
+      "entryPrice": 2375000,
+      "topPrice": 2375000,
       "trimCount": 1,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Citroën",
       "brandId": "citroen",
       "model": "Elektrikli ë-C4 X",
-      "entryPrice": 2255000,
-      "topPrice": 2255000,
+      "entryPrice": 2340000,
+      "topPrice": 2340000,
       "trimCount": 1,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Citroën",
       "brandId": "citroen",
       "model": "Jumper",
-      "entryPrice": 1899000,
-      "topPrice": 2043000,
-      "trimCount": 3,
+      "entryPrice": 1965000,
+      "topPrice": 2524000,
+      "trimCount": 5,
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Citroën",
       "brandId": "citroen",
       "model": "Jumpy Kamyonet",
-      "entryPrice": 1700000,
-      "topPrice": 1700000,
+      "entryPrice": 1780000,
+      "topPrice": 1780000,
       "trimCount": 1,
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Citroën",
       "brandId": "citroen",
       "model": "Jumpy Van",
-      "entryPrice": 1526000,
-      "topPrice": 1794000,
+      "entryPrice": 1554000,
+      "topPrice": 1844000,
       "trimCount": 5,
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Citroën",
@@ -859,45 +1120,45 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Dacia",
       "brandId": "dacia",
       "model": "Yeni Jogger",
-      "entryPrice": 1600000.01,
-      "topPrice": 1850000.01,
+      "entryPrice": 1650000,
+      "topPrice": 1900000,
       "trimCount": 5,
       "fuelTypes": [
         "LPG",
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Dacia",
       "brandId": "dacia",
       "model": "Yeni Logan",
-      "entryPrice": 1440000,
+      "entryPrice": 1470000.02,
       "topPrice": 1784000,
       "trimCount": 3,
       "fuelTypes": [
         "Benzin",
         "LPG"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Dacia",
       "brandId": "dacia",
       "model": "Yeni Sandero",
-      "entryPrice": 1238000,
-      "topPrice": 1433000.01,
-      "trimCount": 4,
+      "entryPrice": 1338000,
+      "topPrice": 1460000,
+      "trimCount": 2,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Dacia",
@@ -909,7 +1170,7 @@
       "fuelTypes": [
         "LPG"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Fiat",
@@ -921,7 +1182,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Fiat",
@@ -933,7 +1194,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Fiat",
@@ -945,7 +1206,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Fiat",
@@ -957,7 +1218,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Fiat",
@@ -969,7 +1230,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Fiat",
@@ -981,7 +1242,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Fiat",
@@ -993,7 +1254,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Ford",
@@ -1005,7 +1266,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Ford",
@@ -1017,7 +1278,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Ford",
@@ -1029,7 +1290,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Ford",
@@ -1041,7 +1302,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Ford",
@@ -1053,7 +1314,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Ford",
@@ -1065,7 +1326,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Ford",
@@ -1077,7 +1338,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Honda",
@@ -1089,31 +1350,31 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Honda",
       "brandId": "honda",
       "model": "HR-V Hybrid",
       "entryPrice": 2389000,
-      "topPrice": 3060000,
-      "trimCount": 3,
+      "topPrice": 2700000,
+      "trimCount": 2,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Honda",
       "brandId": "honda",
       "model": "Jazz Hybrid",
-      "entryPrice": 2525000,
-      "topPrice": 2525000,
+      "entryPrice": 2600000,
+      "topPrice": 2600000,
       "trimCount": 1,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Honda",
@@ -1125,7 +1386,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Honda",
@@ -1137,7 +1398,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Hyundai",
@@ -1149,7 +1410,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Hyundai",
@@ -1161,7 +1422,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Hyundai",
@@ -1173,7 +1434,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Hyundai",
@@ -1185,7 +1446,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Hyundai",
@@ -1197,7 +1458,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Hyundai",
@@ -1209,7 +1470,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Hyundai",
@@ -1221,7 +1482,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Hyundai",
@@ -1233,7 +1494,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Hyundai",
@@ -1245,7 +1506,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Hyundai",
@@ -1257,7 +1518,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Hyundai",
@@ -1269,7 +1530,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Hyundai",
@@ -1281,7 +1542,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Hyundai",
@@ -1294,7 +1555,7 @@
         "Benzin",
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Hyundai",
@@ -1306,7 +1567,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Kia",
@@ -1318,31 +1579,31 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Kia",
       "brandId": "kia",
       "model": "EV3",
       "entryPrice": 2399000,
-      "topPrice": 3760000,
+      "topPrice": 3790000,
       "trimCount": 5,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Kia",
       "brandId": "kia",
       "model": "EV6 PE",
-      "entryPrice": 3760000,
-      "topPrice": 3760000,
+      "entryPrice": 3790000,
+      "topPrice": 3790000,
       "trimCount": 1,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Kia",
@@ -1354,7 +1615,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Kia",
@@ -1366,7 +1627,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Kia",
@@ -1378,7 +1639,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Kia",
@@ -1390,7 +1651,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Kia",
@@ -1402,19 +1663,19 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Kia",
       "brandId": "kia",
       "model": "Stonic",
       "entryPrice": 1960000,
-      "topPrice": 1960000,
-      "trimCount": 1,
+      "topPrice": 1995000,
+      "trimCount": 2,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Kia",
@@ -1426,55 +1687,55 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "A 200",
-      "entryPrice": 3222000,
-      "topPrice": 3222000,
+      "entryPrice": 3320000,
+      "topPrice": 3320000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "C 200 4MATIC",
-      "entryPrice": 6358000,
-      "topPrice": 7136000,
+      "entryPrice": 6485000,
+      "topPrice": 7278500,
       "trimCount": 2,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "C 200 4MATIC All-Terrain",
-      "entryPrice": 6002000,
-      "topPrice": 6002000,
+      "entryPrice": 6122000,
+      "topPrice": 6122000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "CLA 200+",
-      "entryPrice": 4191000,
-      "topPrice": 4191000,
+      "entryPrice": 4318500,
+      "topPrice": 4318500,
       "trimCount": 1,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1486,43 +1747,43 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "CLE 300 4MATIC Cabriolet",
-      "entryPrice": 9406000,
-      "topPrice": 9406000,
+      "entryPrice": 9688000,
+      "topPrice": 9688000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "CLE 300 4MATIC Coupé",
-      "entryPrice": 8389000,
-      "topPrice": 8389000,
+      "entryPrice": 8641000,
+      "topPrice": 8641000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "E 180",
-      "entryPrice": 8349000,
-      "topPrice": 8416000,
+      "entryPrice": 8601500,
+      "topPrice": 8668500,
       "trimCount": 2,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1534,43 +1795,43 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "EQA 250+",
-      "entryPrice": 4345000,
-      "topPrice": 4345000,
+      "entryPrice": 4477000,
+      "topPrice": 4477000,
       "trimCount": 1,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "EQE 280",
-      "entryPrice": 5930500,
-      "topPrice": 5930500,
+      "entryPrice": 6108500,
+      "topPrice": 6108500,
       "trimCount": 1,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "EQE 350 4MATIC",
-      "entryPrice": 6775500,
-      "topPrice": 6775500,
+      "entryPrice": 6978500,
+      "topPrice": 6978500,
       "trimCount": 1,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1582,43 +1843,31 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
-    },
-    {
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "EQS 580 4MATIC",
-      "entryPrice": 11829500,
-      "topPrice": 11829500,
-      "trimCount": 1,
-      "fuelTypes": [
-        "Elektrik"
-      ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "G 450 d",
-      "entryPrice": 22017000,
-      "topPrice": 22017000,
+      "entryPrice": 22678000,
+      "topPrice": 22678000,
       "trimCount": 1,
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "G 500",
-      "entryPrice": 23436000,
-      "topPrice": 23436000,
+      "entryPrice": 24139000,
+      "topPrice": 24139000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1630,43 +1879,43 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "GLA 200",
-      "entryPrice": 4619500,
-      "topPrice": 4619500,
+      "entryPrice": 4760000,
+      "topPrice": 4760000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "GLC 180",
-      "entryPrice": 6957500,
-      "topPrice": 6957500,
+      "entryPrice": 7169000,
+      "topPrice": 7169000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "GLC 180 Coupé",
-      "entryPrice": 7341000,
-      "topPrice": 7341000,
+      "entryPrice": 7561000,
+      "topPrice": 7561000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1678,43 +1927,31 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
-    },
-    {
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "Mercedes-AMG A 45 S 4MATIC+",
-      "entryPrice": 7058000,
-      "topPrice": 7058000,
-      "trimCount": 1,
-      "fuelTypes": [
-        "Benzin"
-      ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "Mercedes-AMG C 43 4MATIC",
-      "entryPrice": 8451000,
-      "topPrice": 8451000,
+      "entryPrice": 8620000,
+      "topPrice": 8620000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "Mercedes-AMG C 63 S E PERFORMANCE",
-      "entryPrice": 13095000,
-      "topPrice": 13095000,
+      "entryPrice": 13357000,
+      "topPrice": 13357000,
       "trimCount": 1,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1726,19 +1963,19 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "Mercedes-AMG CLE 53 4MATIC+",
-      "entryPrice": 13692000,
-      "topPrice": 13692000,
+      "entryPrice": 14103000,
+      "topPrice": 14103000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1750,31 +1987,31 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "Mercedes-AMG G 63",
-      "entryPrice": 30448000,
-      "topPrice": 30448000,
+      "entryPrice": 31361000,
+      "topPrice": 31361000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "Mercedes-AMG GLC 43 4MATIC",
-      "entryPrice": 10219000,
-      "topPrice": 10219000,
+      "entryPrice": 10526000,
+      "topPrice": 10526000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1786,19 +2023,19 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "Mercedes-AMG GLC 63 S E PERFORMANCE",
-      "entryPrice": 14694000,
-      "topPrice": 14694000,
+      "entryPrice": 15135000,
+      "topPrice": 15135000,
       "trimCount": 1,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
@@ -1810,139 +2047,115 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "Mercedes-AMG GT 43",
-      "entryPrice": 16675000,
-      "topPrice": 16675000,
+      "entryPrice": 17175000,
+      "topPrice": 17175000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "Mercedes-AMG GT 63 4MATIC+",
-      "entryPrice": 28640000,
-      "topPrice": 28640000,
+      "entryPrice": 29499000,
+      "topPrice": 29499000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "Mercedes-AMG GT 63 PRO 4MATIC+",
-      "entryPrice": 33191000,
-      "topPrice": 33191000,
+      "entryPrice": 34187000,
+      "topPrice": 34187000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "Mercedes-AMG SL 43",
-      "entryPrice": 16772500,
-      "topPrice": 16772500,
+      "entryPrice": 17276000,
+      "topPrice": 17276000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "Mercedes-AMG SL 63 4MATIC+",
-      "entryPrice": 27820000,
-      "topPrice": 27820000,
+      "entryPrice": 28655000,
+      "topPrice": 28655000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
-    },
-    {
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "Mercedes-Maybach S 580 4MATIC",
-      "entryPrice": 30378000,
-      "topPrice": 30378000,
-      "trimCount": 1,
-      "fuelTypes": [
-        "Benzin"
-      ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Mercedes-Benz",
       "brandId": "mercedes",
       "model": "Mercedes-Maybach SL 680",
-      "entryPrice": 38034000,
-      "topPrice": 38034000,
+      "entryPrice": 39175000,
+      "topPrice": 39175000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
-    },
-    {
-      "brand": "Mercedes-Benz",
-      "brandId": "mercedes",
-      "model": "S 450 d 4MATIC L",
-      "entryPrice": 21035000,
-      "topPrice": 21035000,
-      "trimCount": 1,
-      "fuelTypes": [
-        "Dizel"
-      ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Nissan",
       "brandId": "nissan",
       "model": "JUKE",
       "entryPrice": 1899000,
-      "topPrice": 2701000,
+      "topPrice": 2728400,
       "trimCount": 3,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Nissan",
       "brandId": "nissan",
       "model": "QASHQAI",
       "entryPrice": 2249000,
-      "topPrice": 3894000,
+      "topPrice": 4058600,
       "trimCount": 8,
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Nissan",
       "brandId": "nissan",
       "model": "QASHQAI e-POWER",
-      "entryPrice": 3532200,
-      "topPrice": 4237900,
+      "entryPrice": 3568400,
+      "topPrice": 4429200,
       "trimCount": 5,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Nissan",
@@ -1954,20 +2167,20 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Nissan",
       "brandId": "nissan",
       "model": "TOWNSTAR VAN",
-      "entryPrice": 1415000,
+      "entryPrice": 1429300,
       "topPrice": 2276100,
       "trimCount": 6,
       "fuelTypes": [
         "Benzin",
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Nissan",
@@ -1979,177 +2192,177 @@
       "fuelTypes": [
         "Hafif Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Opel",
       "brandId": "opel",
       "model": "Astra",
-      "entryPrice": 2360000,
+      "entryPrice": 2330000,
       "topPrice": 2590000,
       "trimCount": 2,
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Opel",
       "brandId": "opel",
       "model": "Corsa",
       "entryPrice": 1535000,
-      "topPrice": 2119000,
+      "topPrice": 1955000,
       "trimCount": 3,
       "fuelTypes": [
         "Benzin",
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Opel",
       "brandId": "opel",
       "model": "Corsa E",
-      "entryPrice": 2101000,
-      "topPrice": 2101000,
+      "entryPrice": 1890000,
+      "topPrice": 1890000,
       "trimCount": 1,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Opel",
       "brandId": "opel",
       "model": "Frontera Elektrik",
-      "entryPrice": 1894000,
-      "topPrice": 2009000,
+      "entryPrice": 1895000,
+      "topPrice": 2010000,
       "trimCount": 2,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Opel",
       "brandId": "opel",
       "model": "Frontera Hybrid",
-      "entryPrice": 2221000,
-      "topPrice": 2342000,
+      "entryPrice": 2190000,
+      "topPrice": 2290000,
       "trimCount": 2,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Opel",
       "brandId": "opel",
       "model": "Grandland",
       "entryPrice": 2850000,
-      "topPrice": 3179000,
+      "topPrice": 3050000,
       "trimCount": 2,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Opel",
       "brandId": "opel",
       "model": "Grandland Elektrik",
-      "entryPrice": 2485000,
-      "topPrice": 4222000,
+      "entryPrice": 3200000,
+      "topPrice": 4220000,
       "trimCount": 2,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Opel",
       "brandId": "opel",
       "model": "Mokka",
-      "entryPrice": 1988000,
-      "topPrice": 2650000,
+      "entryPrice": 1990000,
+      "topPrice": 2350000,
       "trimCount": 2,
       "fuelTypes": [
         "Benzin",
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Peugeot",
       "brandId": "peugeot",
       "model": "",
       "entryPrice": 2353000,
-      "topPrice": 2580000,
+      "topPrice": 2632000,
       "trimCount": 2,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Peugeot",
       "brandId": "peugeot",
       "model": "3008",
-      "entryPrice": 2702000,
-      "topPrice": 3324500,
+      "entryPrice": 2755000,
+      "topPrice": 3390000,
       "trimCount": 2,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Peugeot",
       "brandId": "peugeot",
       "model": "408",
       "entryPrice": 2370000,
-      "topPrice": 2800000,
+      "topPrice": 2856000,
       "trimCount": 3,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Peugeot",
       "brandId": "peugeot",
       "model": "5008",
-      "entryPrice": 3357000,
-      "topPrice": 3674000,
+      "entryPrice": 3426000,
+      "topPrice": 3750000,
       "trimCount": 2,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Peugeot",
       "brandId": "peugeot",
       "model": "E-",
-      "entryPrice": 2201500,
-      "topPrice": 2355000,
+      "entryPrice": 2245000,
+      "topPrice": 2400000,
       "trimCount": 2,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Peugeot",
       "brandId": "peugeot",
       "model": "E-208",
-      "entryPrice": 2039500,
-      "topPrice": 2039500,
+      "entryPrice": 2080000,
+      "topPrice": 2080000,
       "trimCount": 1,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Peugeot",
@@ -2161,7 +2374,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Peugeot",
@@ -2173,43 +2386,43 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Peugeot",
       "brandId": "peugeot",
       "model": "Expert Traveller",
-      "entryPrice": 2540000,
-      "topPrice": 2540000,
+      "entryPrice": 2590000,
+      "topPrice": 2590000,
       "trimCount": 1,
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Peugeot",
       "brandId": "peugeot",
       "model": "Partner Van",
-      "entryPrice": 1411000,
-      "topPrice": 1538000,
+      "entryPrice": 1440000,
+      "topPrice": 1567000,
       "trimCount": 2,
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Peugeot",
       "brandId": "peugeot",
       "model": "Rifter",
-      "entryPrice": 1656500,
-      "topPrice": 2119000,
+      "entryPrice": 1690000,
+      "topPrice": 2162000,
       "trimCount": 3,
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Renault",
@@ -2222,7 +2435,7 @@
         "Benzin",
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Renault",
@@ -2234,7 +2447,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Renault",
@@ -2246,20 +2459,20 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Renault",
       "brandId": "renault",
       "model": "Duster",
       "entryPrice": 1865000,
-      "topPrice": 2799999.99,
+      "topPrice": 2919999.99,
       "trimCount": 6,
       "fuelTypes": [
         "LPG",
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Renault",
@@ -2271,7 +2484,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Renault",
@@ -2284,19 +2497,19 @@
         "Benzin",
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Renault",
       "brandId": "renault",
       "model": "R5 E-Tech ELEKTRİKLİ",
-      "entryPrice": 1885999.99,
+      "entryPrice": 2099000,
       "topPrice": 2099000,
-      "trimCount": 2,
+      "trimCount": 1,
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Renault",
@@ -2308,7 +2521,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Renault",
@@ -2320,7 +2533,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Renault",
@@ -2332,55 +2545,55 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "SEAT",
       "brandId": "seat",
       "model": "Arona",
       "entryPrice": 1853150,
-      "topPrice": 1968000,
+      "topPrice": 2050000,
       "trimCount": 2,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "SEAT",
       "brandId": "seat",
       "model": "Ateca",
-      "entryPrice": 2561000,
+      "entryPrice": 2665000,
       "topPrice": 2919150,
       "trimCount": 2,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "SEAT",
       "brandId": "seat",
       "model": "Ibiza",
-      "entryPrice": 1857000,
-      "topPrice": 1857000,
+      "entryPrice": 1985000,
+      "topPrice": 1985000,
       "trimCount": 1,
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "SEAT",
       "brandId": "seat",
       "model": "Leon",
-      "entryPrice": 2380000,
+      "entryPrice": 2560000,
       "topPrice": 2930150,
       "trimCount": 2,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Škoda",
@@ -2392,7 +2605,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Škoda",
@@ -2404,7 +2617,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Škoda",
@@ -2416,7 +2629,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Škoda",
@@ -2429,7 +2642,7 @@
         "Benzin",
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Škoda",
@@ -2441,7 +2654,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Škoda",
@@ -2453,7 +2666,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Škoda",
@@ -2466,7 +2679,7 @@
         "Benzin",
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Škoda",
@@ -2478,7 +2691,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Škoda",
@@ -2490,7 +2703,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Škoda",
@@ -2502,44 +2715,44 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Toyota",
       "brandId": "toyota",
       "model": "COROLLA",
       "entryPrice": 1850000,
-      "topPrice": 2906000,
+      "topPrice": 2968000,
       "trimCount": 8,
       "fuelTypes": [
         "Benzin",
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Toyota",
       "brandId": "toyota",
       "model": "COROLLA CROSS",
-      "entryPrice": 2820000,
-      "topPrice": 3504000,
+      "entryPrice": 2875000,
+      "topPrice": 3567000,
       "trimCount": 3,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Toyota",
       "brandId": "toyota",
       "model": "COROLLA HATCHBACK HYBRID",
-      "entryPrice": 2180000,
-      "topPrice": 2550000,
+      "entryPrice": 2188000,
+      "topPrice": 2783000,
       "trimCount": 2,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Toyota",
@@ -2551,140 +2764,140 @@
       "fuelTypes": [
         "Diger"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Toyota",
       "brandId": "toyota",
       "model": "Land Cruiser Prado",
-      "entryPrice": 13100000,
-      "topPrice": 14700000,
+      "entryPrice": 12490000,
+      "topPrice": 14750000,
       "trimCount": 2,
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Toyota",
       "brandId": "toyota",
       "model": "Proace Cargo",
-      "entryPrice": 1689000,
-      "topPrice": 1749000,
+      "entryPrice": 1699000,
+      "topPrice": 1759000,
       "trimCount": 2,
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Toyota",
       "brandId": "toyota",
       "model": "PROACE CITY CARGO",
-      "entryPrice": 1289000,
-      "topPrice": 1343000,
+      "entryPrice": 1299000,
+      "topPrice": 1353000,
       "trimCount": 2,
       "fuelTypes": [
         "Dizel",
         "Diger"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Toyota",
       "brandId": "toyota",
       "model": "Proace City",
-      "entryPrice": 1652000,
-      "topPrice": 1875000,
+      "entryPrice": 1680000,
+      "topPrice": 1904000,
       "trimCount": 3,
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Toyota",
       "brandId": "toyota",
       "model": "Proace Max",
-      "entryPrice": 1726500,
-      "topPrice": 1857500,
+      "entryPrice": 1741500,
+      "topPrice": 1872500,
       "trimCount": 4,
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Toyota",
       "brandId": "toyota",
       "model": "Proace Max Kamyonet",
-      "entryPrice": 1804000,
-      "topPrice": 1804000,
+      "entryPrice": 1819000,
+      "topPrice": 1819000,
       "trimCount": 1,
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Toyota",
       "brandId": "toyota",
       "model": "Proace Verso",
-      "entryPrice": 2312500,
-      "topPrice": 2380500,
+      "entryPrice": 2324000,
+      "topPrice": 2392000,
       "trimCount": 2,
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Toyota",
       "brandId": "toyota",
       "model": "YARIS",
-      "entryPrice": 1995000,
-      "topPrice": 2365000,
+      "entryPrice": 1999000,
+      "topPrice": 2374000,
       "trimCount": 2,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Toyota",
       "brandId": "toyota",
       "model": "YARIS CROSS",
-      "entryPrice": 2317000,
-      "topPrice": 2740000,
+      "entryPrice": 2295000,
+      "topPrice": 2805000,
       "trimCount": 2,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Toyota",
       "brandId": "toyota",
       "model": "YENİ COROLLA HATCHBACK HYBRID",
-      "entryPrice": 2550000,
-      "topPrice": 2550000,
+      "entryPrice": 2783000,
+      "topPrice": 2783000,
       "trimCount": 1,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Toyota",
       "brandId": "toyota",
       "model": "YENİ TOYOTA C-HR",
-      "entryPrice": 2250000,
-      "topPrice": 3085000,
+      "entryPrice": 2325000,
+      "topPrice": 3180000,
       "trimCount": 4,
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volkswagen",
@@ -2696,7 +2909,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volkswagen",
@@ -2708,7 +2921,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volkswagen",
@@ -2720,7 +2933,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volkswagen",
@@ -2732,7 +2945,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volkswagen",
@@ -2744,7 +2957,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volkswagen",
@@ -2758,7 +2971,7 @@
         "Plug-in Hibrit",
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volkswagen",
@@ -2770,7 +2983,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volkswagen",
@@ -2782,7 +2995,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volkswagen",
@@ -2794,7 +3007,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volkswagen",
@@ -2806,7 +3019,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volkswagen",
@@ -2818,7 +3031,7 @@
       "fuelTypes": [
         "Benzin"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volkswagen",
@@ -2831,7 +3044,7 @@
         "Benzin",
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volkswagen",
@@ -2843,7 +3056,7 @@
       "fuelTypes": [
         "Dizel"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volvo",
@@ -2855,7 +3068,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volvo",
@@ -2867,7 +3080,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volvo",
@@ -2879,7 +3092,7 @@
       "fuelTypes": [
         "Elektrik"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volvo",
@@ -2891,7 +3104,7 @@
       "fuelTypes": [
         "Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volvo",
@@ -2904,7 +3117,7 @@
         "Hibrit",
         "Plug-in Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     },
     {
       "brand": "Volvo",
@@ -2917,7 +3130,7 @@
         "Hibrit",
         "Plug-in Hibrit"
       ],
-      "lastUpdated": "2026-08-29"
+      "lastUpdated": "2026-09-02"
     }
   ]
 }
