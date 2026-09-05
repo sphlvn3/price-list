@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T15:31:05.186Z",
-  "totalEntries": 526,
+  "generatedAt": "2026-09-05T05:11:30.894Z",
+  "totalEntries": 530,
   "entries": [
     {
       "id": "volkswagen-polo-life-1.0-tsi-95-ps",
@@ -661,8 +661,8 @@
       "engine": "Premium 1.0 TSI 115 PS",
       "fuel": "Benzin",
       "transmission": "DSG",
-      "price": 1969900,
-      "priceFormatted": "₺1.969.900",
+      "price": 2009900,
+      "priceFormatted": "₺2.009.900",
       "searchText": "skoda skoda fabia premium 1 0 tsi 115 ps dsg premium 1 0 tsi 115 ps benzin dsg"
     },
     {
@@ -700,8 +700,8 @@
       "engine": "Elite 1.0 TSI 115 PS",
       "fuel": "Benzin",
       "transmission": "DSG",
-      "price": 2014900,
-      "priceFormatted": "₺2.014.900",
+      "price": 2054900,
+      "priceFormatted": "₺2.054.900",
       "searchText": "skoda skoda scala elite 1 0 tsi 115 ps dsg elite 1 0 tsi 115 ps benzin dsg"
     },
     {
@@ -713,8 +713,8 @@
       "engine": "Premium 1.0 TSI 115 PS",
       "fuel": "Benzin",
       "transmission": "DSG",
-      "price": 2264900,
-      "priceFormatted": "₺2.264.900",
+      "price": 2304900,
+      "priceFormatted": "₺2.304.900",
       "searchText": "skoda skoda scala premium 1 0 tsi 115 ps dsg premium 1 0 tsi 115 ps benzin dsg"
     },
     {
@@ -726,8 +726,8 @@
       "engine": "Premium 1.5 TSI 150 PS",
       "fuel": "Benzin",
       "transmission": "DSG",
-      "price": 2389900,
-      "priceFormatted": "₺2.389.900",
+      "price": 2559900,
+      "priceFormatted": "₺2.559.900",
       "searchText": "skoda skoda scala premium 1 5 tsi 150 ps dsg premium 1 5 tsi 150 ps benzin dsg"
     },
     {
@@ -739,8 +739,8 @@
       "engine": "Monte Carlo 1.5 TSI 150 PS",
       "fuel": "Benzin",
       "transmission": "DSG",
-      "price": 2709900,
-      "priceFormatted": "₺2.709.900",
+      "price": 2779900,
+      "priceFormatted": "₺2.779.900",
       "searchText": "skoda skoda scala monte carlo 1 5 tsi 150 ps dsg monte carlo 1 5 tsi 150 ps benzin dsg"
     },
     {
@@ -752,8 +752,8 @@
       "engine": "Elite 1.5 TSI mHEV 150 PS",
       "fuel": "Benzin",
       "transmission": "DSG",
-      "price": 2734900,
-      "priceFormatted": "₺2.734.900",
+      "price": 2779900,
+      "priceFormatted": "₺2.779.900",
       "searchText": "skoda skoda octavia elite 1 5 tsi mhev 150 ps dsg elite 1 5 tsi mhev 150 ps benzin dsg"
     },
     {
@@ -848,16 +848,16 @@
       "searchText": "skoda skoda superb premium 1 5 tsi mhev 150 ps dsg premium 1 5 tsi mhev 150 ps benzin dsg"
     },
     {
-      "id": "škoda-škoda-superb-prestige-1.5-tsi-mhev-150-ps-dsg-prestige-1.5-tsi-mhev-150-ps",
+      "id": "škoda-škoda-superb-prestige-1,5-tsi-mhev-150-ps-dsg-prestige-1,5-tsi-mhev-150-ps",
       "brand": "Škoda",
       "brandId": "skoda",
       "model": "Škoda Superb",
-      "trim": "Prestige 1.5 TSI  mHEV 150 PS DSG",
-      "engine": "Prestige 1.5 TSI  mHEV 150 PS",
+      "trim": "Prestige 1,5 TSI  mHEV 150 PS DSG",
+      "engine": "Prestige 1,5 TSI  mHEV 150 PS",
       "fuel": "Benzin",
       "transmission": "DSG",
-      "price": 4649900,
-      "priceFormatted": "₺4.649.900",
+      "price": 4744900,
+      "priceFormatted": "₺4.744.900",
       "searchText": "skoda skoda superb prestige 1 5 tsi mhev 150 ps dsg prestige 1 5 tsi mhev 150 ps benzin dsg"
     },
     {
@@ -865,104 +865,104 @@
       "brand": "Škoda",
       "brandId": "skoda",
       "model": "Škoda Superb",
-      "trim": "Sportline 1,5 TSI  mHEV 150 PS DSG",
-      "engine": "Sportline 1,5 TSI  mHEV 150 PS",
+      "trim": "Sportline 1,5 TSI mHEV 150 PS DSG",
+      "engine": "Sportline 1,5 TSI mHEV 150 PS",
       "fuel": "Benzin",
       "transmission": "DSG",
-      "price": 4649900,
-      "priceFormatted": "₺4.649.900",
+      "price": 4744900,
+      "priceFormatted": "₺4.744.900",
       "searchText": "skoda skoda superb sportline 1 5 tsi mhev 150 ps dsg sportline 1 5 tsi mhev 150 ps benzin dsg"
     },
     {
-      "id": "škoda-škoda-superb-l&k-crystal-1.5-tsi-mhev-150-ps-dsg-l&k-crystal-1.5-tsi-mhev-150-ps",
+      "id": "škoda-škoda-superb-laurin-&-klement-crystal-1,5-tsi-mhev-150-ps-dsg-laurin-&-klement-crystal-1,5-tsi-mhev-150-ps",
       "brand": "Škoda",
       "brandId": "skoda",
       "model": "Škoda Superb",
-      "trim": "L&K Crystal 1.5 TSI mHEV 150 PS DSG",
-      "engine": "L&K Crystal 1.5 TSI mHEV 150 PS",
+      "trim": "Laurin & Klement Crystal 1,5 TSI mHEV 150 PS DSG",
+      "engine": "Laurin & Klement Crystal 1,5 TSI mHEV 150 PS",
       "fuel": "Benzin",
       "transmission": "DSG",
-      "price": 5099900,
-      "priceFormatted": "₺5.099.900",
-      "searchText": "skoda skoda superb l k crystal 1 5 tsi mhev 150 ps dsg l k crystal 1 5 tsi mhev 150 ps benzin dsg"
+      "price": 5194900,
+      "priceFormatted": "₺5.194.900",
+      "searchText": "skoda skoda superb laurin klement crystal 1 5 tsi mhev 150 ps dsg laurin klement crystal 1 5 tsi mhev 150 ps benzin dsg"
     },
     {
-      "id": "škoda-škoda-superb-l&k-crystal-2.0-tdi-193-ps-dsg-4x4-l&k-crystal-2.0-tdi-193-ps-4x4",
+      "id": "škoda-škoda-superb-laurin-&-klement-crystal-2,0-tdi-193-ps-dsg-4x4-laurin-&-klement-crystal-2,0-tdi-193-ps-4x4",
       "brand": "Škoda",
       "brandId": "skoda",
       "model": "Škoda Superb",
-      "trim": "L&K Crystal 2.0 TDI 193 PS DSG 4x4",
-      "engine": "L&K Crystal 2.0 TDI 193 PS  4x4",
+      "trim": "Laurin & Klement Crystal 2,0 TDI 193 PS DSG 4x4",
+      "engine": "Laurin & Klement Crystal 2,0 TDI 193 PS  4x4",
       "fuel": "Dizel",
       "transmission": "DSG",
-      "price": 7099900,
-      "priceFormatted": "₺7.099.900",
-      "searchText": "skoda skoda superb l k crystal 2 0 tdi 193 ps dsg 4x4 l k crystal 2 0 tdi 193 ps 4x4 dizel dsg"
+      "price": 7239900,
+      "priceFormatted": "₺7.239.900",
+      "searchText": "skoda skoda superb laurin klement crystal 2 0 tdi 193 ps dsg 4x4 laurin klement crystal 2 0 tdi 193 ps 4x4 dizel dsg"
     },
     {
-      "id": "škoda-škoda-superb-l&k-crystal-2.0-tsi-265-ps-dsg-4x4-l&k-crystal-2.0-tsi-265-ps-4x4",
+      "id": "škoda-škoda-superb-laurin-&-klement-crystal-2,0-tsi-265-ps-dsg-4x4-laurin-&-klement-crystal-2,0-tsi-265-ps-4x4",
       "brand": "Škoda",
       "brandId": "skoda",
       "model": "Škoda Superb",
-      "trim": "L&K Crystal 2.0 TSI 265 PS DSG 4x4",
-      "engine": "L&K Crystal 2.0 TSI 265 PS  4x4",
+      "trim": "Laurin & Klement Crystal 2,0 TSI 265 PS DSG 4x4",
+      "engine": "Laurin & Klement Crystal 2,0 TSI 265 PS  4x4",
       "fuel": "Benzin",
       "transmission": "DSG",
-      "price": 7199900,
-      "priceFormatted": "₺7.199.900",
-      "searchText": "skoda skoda superb l k crystal 2 0 tsi 265 ps dsg 4x4 l k crystal 2 0 tsi 265 ps 4x4 benzin dsg"
+      "price": 7339900,
+      "priceFormatted": "₺7.339.900",
+      "searchText": "skoda skoda superb laurin klement crystal 2 0 tsi 265 ps dsg 4x4 laurin klement crystal 2 0 tsi 265 ps 4x4 benzin dsg"
     },
     {
-      "id": "škoda-škoda-superb-combi-prestige-1.5-tsi-mhev-150-ps-dsg-combi-prestige-1.5-tsi-mhev-150-ps",
+      "id": "škoda-škoda-superb-combi-prestige-1,5-tsi-mhev-150-ps-dsg-combi-prestige-1,5-tsi-mhev-150-ps",
       "brand": "Škoda",
       "brandId": "skoda",
       "model": "Škoda Superb",
-      "trim": "Combi Prestige 1.5 TSI mHEV 150 PS DSG",
-      "engine": "Combi Prestige 1.5 TSI mHEV 150 PS",
+      "trim": "Combi Prestige 1,5 TSI  mHEV 150 PS DSG",
+      "engine": "Combi Prestige 1,5 TSI  mHEV 150 PS",
       "fuel": "Benzin",
       "transmission": "DSG",
-      "price": 4769900,
-      "priceFormatted": "₺4.769.900",
+      "price": 4864900,
+      "priceFormatted": "₺4.864.900",
       "searchText": "skoda skoda superb combi prestige 1 5 tsi mhev 150 ps dsg combi prestige 1 5 tsi mhev 150 ps benzin dsg"
     },
     {
-      "id": "škoda-škoda-superb-combi-l&k-crystal-1.5-tsi-mhev-150-ps-dsg-combi-l&k-crystal-1.5-tsi-mhev-150-ps",
+      "id": "škoda-škoda-superb-combi-laurin-&-klement-crystal-1,5-tsi-mhev-150-ps-dsg-combi-laurin-&-klement-crystal-1,5-tsi-mhev-150-ps",
       "brand": "Škoda",
       "brandId": "skoda",
       "model": "Škoda Superb",
-      "trim": "Combi L&K Crystal 1.5 TSI mHEV 150 PS DSG",
-      "engine": "Combi L&K Crystal 1.5 TSI mHEV 150 PS",
+      "trim": "Combi Laurin & Klement Crystal 1,5 TSI mHEV 150 PS DSG",
+      "engine": "Combi Laurin & Klement Crystal 1,5 TSI mHEV 150 PS",
       "fuel": "Benzin",
       "transmission": "DSG",
-      "price": 5219900,
-      "priceFormatted": "₺5.219.900",
-      "searchText": "skoda skoda superb combi l k crystal 1 5 tsi mhev 150 ps dsg combi l k crystal 1 5 tsi mhev 150 ps benzin dsg"
+      "price": 5314900,
+      "priceFormatted": "₺5.314.900",
+      "searchText": "skoda skoda superb combi laurin klement crystal 1 5 tsi mhev 150 ps dsg combi laurin klement crystal 1 5 tsi mhev 150 ps benzin dsg"
     },
     {
-      "id": "škoda-škoda-superb-combi-l&k-crystal-2.0-tdi-scr-193-ps-dsg-4x4-combi-l&k-crystal-2.0-tdi-scr-193-ps-4x4",
+      "id": "škoda-škoda-superb-combi-laurin-&-klement-crystal-2,0-tdi-scr-193-ps-dsg-4x4-combi-laurin-&-klement-crystal-2,0-tdi-scr-193-ps-4x4",
       "brand": "Škoda",
       "brandId": "skoda",
       "model": "Škoda Superb",
-      "trim": "Combi L&K Crystal 2.0 TDI SCR 193 PS DSG 4x4",
-      "engine": "Combi L&K Crystal 2.0 TDI SCR 193 PS  4x4",
+      "trim": "Combi Laurin & Klement Crystal 2,0 TDI SCR 193 PS DSG 4x4",
+      "engine": "Combi Laurin & Klement Crystal 2,0 TDI SCR 193 PS  4x4",
       "fuel": "Dizel",
       "transmission": "DSG",
-      "price": 7219900,
-      "priceFormatted": "₺7.219.900",
-      "searchText": "skoda skoda superb combi l k crystal 2 0 tdi scr 193 ps dsg 4x4 combi l k crystal 2 0 tdi scr 193 ps 4x4 dizel dsg"
+      "price": 7359900,
+      "priceFormatted": "₺7.359.900",
+      "searchText": "skoda skoda superb combi laurin klement crystal 2 0 tdi scr 193 ps dsg 4x4 combi laurin klement crystal 2 0 tdi scr 193 ps 4x4 dizel dsg"
     },
     {
-      "id": "škoda-škoda-superb-combi-l&k-crystal-2.0-tsi-265-ps-dsg-4x4-combi-l&k-crystal-2.0-tsi-265-ps-4x4",
+      "id": "škoda-škoda-superb-combi-laurin-&-klement-crystal-2,0-tsi-265-ps-dsg-4x4-combi-laurin-&-klement-crystal-2,0-tsi-265-ps-4x4",
       "brand": "Škoda",
       "brandId": "skoda",
       "model": "Škoda Superb",
-      "trim": "Combi L&K Crystal 2.0 TSI 265 PS DSG 4x4",
-      "engine": "Combi L&K Crystal 2.0 TSI 265 PS  4x4",
+      "trim": "Combi Laurin & Klement Crystal 2,0 TSI 265 PS DSG 4x4",
+      "engine": "Combi Laurin & Klement Crystal 2,0 TSI 265 PS  4x4",
       "fuel": "Benzin",
       "transmission": "DSG",
-      "price": 7319900,
-      "priceFormatted": "₺7.319.900",
-      "searchText": "skoda skoda superb combi l k crystal 2 0 tsi 265 ps dsg 4x4 combi l k crystal 2 0 tsi 265 ps 4x4 benzin dsg"
+      "price": 7459900,
+      "priceFormatted": "₺7.459.900",
+      "searchText": "skoda skoda superb combi laurin klement crystal 2 0 tsi 265 ps dsg 4x4 combi laurin klement crystal 2 0 tsi 265 ps 4x4 benzin dsg"
     },
     {
       "id": "škoda-škoda-kamiq-elite-1.0-tsi-115-ps-dsg-elite-1.0-tsi-115-ps",
@@ -973,8 +973,8 @@
       "engine": "Elite 1.0 TSI 115 PS",
       "fuel": "Benzin",
       "transmission": "DSG",
-      "price": 2099900,
-      "priceFormatted": "₺2.099.900",
+      "price": 2149900,
+      "priceFormatted": "₺2.149.900",
       "searchText": "skoda skoda kamiq elite 1 0 tsi 115 ps dsg elite 1 0 tsi 115 ps benzin dsg"
     },
     {
@@ -986,8 +986,8 @@
       "engine": "Premium 1.0 TSI 115 PS",
       "fuel": "Benzin",
       "transmission": "DSG",
-      "price": 2519900,
-      "priceFormatted": "₺2.519.900",
+      "price": 2569900,
+      "priceFormatted": "₺2.569.900",
       "searchText": "skoda skoda kamiq premium 1 0 tsi 115 ps dsg premium 1 0 tsi 115 ps benzin dsg"
     },
     {
@@ -999,8 +999,8 @@
       "engine": "Premium 1.5 TSI 150 PS",
       "fuel": "Benzin",
       "transmission": "DSG",
-      "price": 2659900,
-      "priceFormatted": "₺2.659.900",
+      "price": 2709900,
+      "priceFormatted": "₺2.709.900",
       "searchText": "skoda skoda kamiq premium 1 5 tsi 150 ps dsg premium 1 5 tsi 150 ps benzin dsg"
     },
     {
@@ -1012,8 +1012,8 @@
       "engine": "Monte Carlo 1.5 TSI 150 PS",
       "fuel": "Benzin",
       "transmission": "DSG",
-      "price": 2829900,
-      "priceFormatted": "₺2.829.900",
+      "price": 2879900,
+      "priceFormatted": "₺2.879.900",
       "searchText": "skoda skoda kamiq monte carlo 1 5 tsi 150 ps dsg monte carlo 1 5 tsi 150 ps benzin dsg"
     },
     {
@@ -3469,8 +3469,8 @@
       "engine": "1.5L 156+20 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 3724500,
-      "priceFormatted": "3.724.500 TL",
+      "price": 4037800,
+      "priceFormatted": "4.037.800 TL",
       "searchText": "bmw bmw 120 sport line 1 5l 156 20 hp mild hybrid otomatik"
     },
     {
@@ -3482,8 +3482,8 @@
       "engine": "1.5L 156+20 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 4283100,
-      "priceFormatted": "4.283.100 TL",
+      "price": 4412300,
+      "priceFormatted": "4.412.300 TL",
       "searchText": "bmw bmw 120 m sport 1 5l 156 20 hp mild hybrid otomatik"
     },
     {
@@ -3495,8 +3495,8 @@
       "engine": "1.5L 156+20 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 4201000,
-      "priceFormatted": "4.201.000 TL",
+      "price": 4329700,
+      "priceFormatted": "4.329.700 TL",
       "searchText": "bmw bmw 220 gran coupe sport line 1 5l 156 20 hp mild hybrid otomatik"
     },
     {
@@ -3508,8 +3508,8 @@
       "engine": "1.5L 156+20 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 4479300,
-      "priceFormatted": "4.479.300 TL",
+      "price": 4616600,
+      "priceFormatted": "4.616.600 TL",
       "searchText": "bmw bmw 220 gran coupe m sport 1 5l 156 20 hp mild hybrid otomatik"
     },
     {
@@ -3521,8 +3521,8 @@
       "engine": "1.5L 156+20 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 4379500,
-      "priceFormatted": "4.379.500 TL",
+      "price": 4514200,
+      "priceFormatted": "4.514.200 TL",
       "searchText": "bmw bmw 220i active tourer luxury line 1 5l 156 20 hp mild hybrid otomatik"
     },
     {
@@ -3534,8 +3534,8 @@
       "engine": "1.5L 156+20 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 4613200,
-      "priceFormatted": "4.613.200 TL",
+      "price": 4755100,
+      "priceFormatted": "4.755.100 TL",
       "searchText": "bmw bmw 220i active tourer m sport 1 5l 156 20 hp mild hybrid otomatik"
     },
     {
@@ -3547,8 +3547,8 @@
       "engine": "1.5L 150+177 HP",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 5031800,
-      "priceFormatted": "5.031.800 TL",
+      "price": 5187100,
+      "priceFormatted": "5.187.100 TL",
       "searchText": "bmw bmw 230e xdrive active tourer luxury line 1 5l 150 177 hp plug in hybrid otomatik"
     },
     {
@@ -3560,8 +3560,8 @@
       "engine": "1.5L 150+177 HP",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 5371800,
-      "priceFormatted": "5.371.800 TL",
+      "price": 5537500,
+      "priceFormatted": "5.537.500 TL",
       "searchText": "bmw bmw 230e xdrive active tourer m sport 1 5l 150 177 hp plug in hybrid otomatik"
     },
     {
@@ -3573,8 +3573,8 @@
       "engine": "1.6L 170 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 5648100,
-      "priceFormatted": "5.648.100 TL",
+      "price": 5821300,
+      "priceFormatted": "5.821.300 TL",
       "searchText": "bmw bmw 320i sedan sport line 1 6l 170 hp benzin otomatik"
     },
     {
@@ -3586,8 +3586,8 @@
       "engine": "1.6L 170 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 6119800,
-      "priceFormatted": "6.119.800 TL",
+      "price": 6307600,
+      "priceFormatted": "6.307.600 TL",
       "searchText": "bmw bmw 320i sedan m sport 1 6l 170 hp benzin otomatik"
     },
     {
@@ -3599,8 +3599,8 @@
       "engine": "1.6L 170 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 6975000,
-      "priceFormatted": "6.975.000 TL",
+      "price": 7193800,
+      "priceFormatted": "7.193.800 TL",
       "searchText": "bmw bmw 420i coupe m sport 1 6l 170 hp benzin otomatik"
     },
     {
@@ -3612,8 +3612,8 @@
       "engine": "1.6L 170 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 7789600,
-      "priceFormatted": "7.789.600 TL",
+      "price": 8034100,
+      "priceFormatted": "8.034.100 TL",
       "searchText": "bmw bmw 420i coupe edition m sport 1 6l 170 hp benzin otomatik"
     },
     {
@@ -3625,8 +3625,8 @@
       "engine": "2.0L 245 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 10120600,
-      "priceFormatted": "10.120.600 TL",
+      "price": 10434900,
+      "priceFormatted": "10.434.900 TL",
       "searchText": "bmw bmw 430i xdrive cabrio m sport 2 0l 245 hp benzin otomatik"
     },
     {
@@ -3638,8 +3638,8 @@
       "engine": "1.6L 170 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 6586700,
-      "priceFormatted": "6.586.700 TL",
+      "price": 6786900,
+      "priceFormatted": "6.786.900 TL",
       "searchText": "bmw bmw 420i gran coupe m sport 1 6l 170 hp benzin otomatik"
     },
     {
@@ -3651,8 +3651,8 @@
       "engine": "1.6L 170 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 7396900,
-      "priceFormatted": "7.396.900 TL",
+      "price": 7621800,
+      "priceFormatted": "7.621.800 TL",
       "searchText": "bmw bmw 420i gran coupe edition m sport 1 6l 170 hp benzin otomatik"
     },
     {
@@ -3664,8 +3664,8 @@
       "engine": "218 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 5430800,
-      "priceFormatted": "5.430.800 TL",
+      "price": 5630700,
+      "priceFormatted": "5.630.700 TL",
       "searchText": "bmw bmw i4 edrive40 sport line 218 hp elektrik otomatik"
     },
     {
@@ -3677,8 +3677,8 @@
       "engine": "218 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 6032400,
-      "priceFormatted": "6.032.400 TL",
+      "price": 6230400,
+      "priceFormatted": "6.230.400 TL",
       "searchText": "bmw bmw i4 edrive40 m sport 218 hp elektrik otomatik"
     },
     {
@@ -3690,8 +3690,8 @@
       "engine": "218 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 6643800,
-      "priceFormatted": "6.643.800 TL",
+      "price": 6861100,
+      "priceFormatted": "6.861.100 TL",
       "searchText": "bmw bmw i4 edrive40 edition m sport 218 hp elektrik otomatik"
     },
     {
@@ -3703,8 +3703,8 @@
       "engine": "1.6L 190+11 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 8569600,
-      "priceFormatted": "8.569.600 TL",
+      "price": 9290400,
+      "priceFormatted": "9.290.400 TL",
       "searchText": "bmw bmw 520i sedan m sport 1 6l 190 11 hp mild hybrid otomatik"
     },
     {
@@ -3716,8 +3716,8 @@
       "engine": "1.6L 190+11 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 9119400,
-      "priceFormatted": "9.119.400 TL",
+      "price": 9443400,
+      "priceFormatted": "9.443.400 TL",
       "searchText": "bmw bmw 520i sedan edition m sport 1 6l 190 11 hp mild hybrid otomatik"
     },
     {
@@ -3729,8 +3729,8 @@
       "engine": "2.0L 197+11 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 11254800,
-      "priceFormatted": "11.254.800 TL",
+      "price": 11594400,
+      "priceFormatted": "11.594.400 TL",
       "searchText": "bmw bmw 520d xdrive sedan m sport 2 0l 197 11 hp mild hybrid otomatik"
     },
     {
@@ -3742,8 +3742,8 @@
       "engine": "2.0L 197+11 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 12387400,
-      "priceFormatted": "12.387.400 TL",
+      "price": 12761200,
+      "priceFormatted": "12.761.200 TL",
       "searchText": "bmw bmw 520d xdrive sedan edition m sport 2 0l 197 11 hp mild hybrid otomatik"
     },
     {
@@ -3755,8 +3755,8 @@
       "engine": "218 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 7319700,
-      "priceFormatted": "7.319.700 TL",
+      "price": 7842600,
+      "priceFormatted": "7.842.600 TL",
       "searchText": "bmw bmw i5 edrive40 m sport 218 hp elektrik otomatik"
     },
     {
@@ -3768,8 +3768,8 @@
       "engine": "218 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 7775100,
-      "priceFormatted": "7.775.100 TL",
+      "price": 8048700,
+      "priceFormatted": "8.048.700 TL",
       "searchText": "bmw bmw i5 edrive40 edition m sport 218 hp elektrik otomatik"
     },
     {
@@ -3781,8 +3781,8 @@
       "engine": "394 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 8159300,
-      "priceFormatted": "8.159.300 TL",
+      "price": 8403100,
+      "priceFormatted": "8.403.100 TL",
       "searchText": "bmw bmw i5 xdrive40 touring m sport 394 hp elektrik otomatik"
     },
     {
@@ -3794,8 +3794,8 @@
       "engine": "394 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 8575300,
-      "priceFormatted": "8.575.300 TL",
+      "price": 8831700,
+      "priceFormatted": "8.831.700 TL",
       "searchText": "bmw bmw i5 xdrive40 touring edition m sport 394 hp elektrik otomatik"
     },
     {
@@ -3807,8 +3807,8 @@
       "engine": "601 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 10017800,
-      "priceFormatted": "10.017.800 TL",
+      "price": 10360800,
+      "priceFormatted": "10.360.800 TL",
       "searchText": "bmw bmw i5 m60 xdrive m 601 hp elektrik otomatik"
     },
     {
@@ -3820,8 +3820,8 @@
       "engine": "601 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 10101700,
-      "priceFormatted": "10.101.700 TL",
+      "price": 10424700,
+      "priceFormatted": "10.424.700 TL",
       "searchText": "bmw bmw i5 m60 xdrive touring m 601 hp elektrik otomatik"
     },
     {
@@ -3851,6 +3851,32 @@
       "searchText": "bmw bmw 740d xdrive sedan m excellence 3 0l 286 18 hp mild hybrid otomatik"
     },
     {
+      "id": "bmw-yeni-bmw-740-xdrive-pure-excellence-3.0l-400+18-hp",
+      "brand": "BMW",
+      "brandId": "bmw",
+      "model": "Yeni BMW 740 xDrive",
+      "trim": "Pure Excellence",
+      "engine": "3.0L 400+18 HP",
+      "fuel": "Mild Hybrid",
+      "transmission": "Otomatik",
+      "price": 21526200,
+      "priceFormatted": "21.526.200 TL",
+      "searchText": "bmw yeni bmw 740 xdrive pure excellence 3 0l 400 18 hp mild hybrid otomatik"
+    },
+    {
+      "id": "bmw-yeni-bmw-740-xdrive-m-excellence-3.0l-400+18-hp",
+      "brand": "BMW",
+      "brandId": "bmw",
+      "model": "Yeni BMW 740 xDrive",
+      "trim": "M Excellence",
+      "engine": "3.0L 400+18 HP",
+      "fuel": "Mild Hybrid",
+      "transmission": "Otomatik",
+      "price": 22966800,
+      "priceFormatted": "22.966.800 TL",
+      "searchText": "bmw yeni bmw 740 xdrive m excellence 3 0l 400 18 hp mild hybrid otomatik"
+    },
+    {
       "id": "bmw-bmw-i7-xdrive60-pure-excellence-544-hp",
       "brand": "BMW",
       "brandId": "bmw",
@@ -3877,17 +3903,43 @@
       "searchText": "bmw bmw i7 xdrive60 m excellence 544 hp elektrik otomatik"
     },
     {
-      "id": "bmw-bmw-i7-m70-m-659-hp",
+      "id": "bmw-yeni-bmw-i7-60-xdrive-pure-excellence-544-hp",
       "brand": "BMW",
       "brandId": "bmw",
-      "model": "BMW i7 M70",
-      "trim": "M",
-      "engine": "659 HP",
+      "model": "Yeni BMW i7 60 xDrive",
+      "trim": "Pure Excellence",
+      "engine": "544 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 15909400,
-      "priceFormatted": "15.909.400 TL",
-      "searchText": "bmw bmw i7 m70 m 659 hp elektrik otomatik"
+      "price": 14370400,
+      "priceFormatted": "14.370.400 TL",
+      "searchText": "bmw yeni bmw i7 60 xdrive pure excellence 544 hp elektrik otomatik"
+    },
+    {
+      "id": "bmw-yeni-bmw-i7-60-xdrive-m-excellence-544-hp",
+      "brand": "BMW",
+      "brandId": "bmw",
+      "model": "Yeni BMW i7 60 xDrive",
+      "trim": "M Excellence",
+      "engine": "544 HP",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 15136900,
+      "priceFormatted": "15.136.900 TL",
+      "searchText": "bmw yeni bmw i7 60 xdrive m excellence 544 hp elektrik otomatik"
+    },
+    {
+      "id": "bmw-yeni-bmw-i7-m70-xdrive-m-680-hp",
+      "brand": "BMW",
+      "brandId": "bmw",
+      "model": "Yeni BMW i7 M70 xDrive",
+      "trim": "M",
+      "engine": "680 HP",
+      "fuel": "Elektrik",
+      "transmission": "Otomatik",
+      "price": 16000000,
+      "priceFormatted": "16.000.000 TL",
+      "searchText": "bmw yeni bmw i7 m70 xdrive m 680 hp elektrik otomatik"
     },
     {
       "id": "bmw-bmw-x1-xdrive25e-x-line-1.5l-136+109-hp",
@@ -3898,8 +3950,8 @@
       "engine": "1.5L 136+109 HP",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 5469400,
-      "priceFormatted": "5.469.400 TL",
+      "price": 5579000,
+      "priceFormatted": "5.579.000 TL",
       "searchText": "bmw bmw x1 xdrive25e x line 1 5l 136 109 hp plug in hybrid otomatik"
     },
     {
@@ -3911,8 +3963,8 @@
       "engine": "1.5L 136+109 HP",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 5739800,
-      "priceFormatted": "5.739.800 TL",
+      "price": 5854800,
+      "priceFormatted": "5.854.800 TL",
       "searchText": "bmw bmw x1 xdrive25e m sport 1 5l 136 109 hp plug in hybrid otomatik"
     },
     {
@@ -3924,8 +3976,8 @@
       "engine": "1.5L 156+20 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 4753800,
-      "priceFormatted": "4.753.800 TL",
+      "price": 4850800,
+      "priceFormatted": "4.850.800 TL",
       "searchText": "bmw bmw x1 sdrive20i x line 1 5l 156 20 hp mild hybrid otomatik"
     },
     {
@@ -3937,8 +3989,8 @@
       "engine": "1.5L 156+20 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 5015400,
-      "priceFormatted": "5.015.400 TL",
+      "price": 5117800,
+      "priceFormatted": "5.117.800 TL",
       "searchText": "bmw bmw x1 sdrive20i m sport 1 5l 156 20 hp mild hybrid otomatik"
     },
     {
@@ -3950,8 +4002,8 @@
       "engine": "204 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 4133000,
-      "priceFormatted": "4.133.000 TL",
+      "price": 4261800,
+      "priceFormatted": "4.261.800 TL",
       "searchText": "bmw bmw ix1 edrive20 sport line 204 hp elektrik otomatik"
     },
     {
@@ -3963,8 +4015,8 @@
       "engine": "204 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 4350400,
-      "priceFormatted": "4.350.400 TL",
+      "price": 4486000,
+      "priceFormatted": "4.486.000 TL",
       "searchText": "bmw bmw ix1 edrive20 x line 204 hp elektrik otomatik"
     },
     {
@@ -3976,8 +4028,8 @@
       "engine": "204 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 4513400,
-      "priceFormatted": "4.513.400 TL",
+      "price": 4654200,
+      "priceFormatted": "4.654.200 TL",
       "searchText": "bmw bmw ix1 edrive20 m sport 204 hp elektrik otomatik"
     },
     {
@@ -3989,8 +4041,8 @@
       "engine": "1.5L 156+20 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 5544400,
-      "priceFormatted": "5.544.400 TL",
+      "price": 5797800,
+      "priceFormatted": "5.797.800 TL",
       "searchText": "bmw bmw x2 sdrive20i m sport 1 5l 156 20 hp mild hybrid otomatik"
     },
     {
@@ -4002,8 +4054,8 @@
       "engine": "204 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 4498600,
-      "priceFormatted": "4.498.600 TL",
+      "price": 4699900,
+      "priceFormatted": "4.699.900 TL",
       "searchText": "bmw bmw ix2 edrive20 m sport 204 hp elektrik otomatik"
     },
     {
@@ -4015,8 +4067,8 @@
       "engine": "1.6L 190+11 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 6853400,
-      "priceFormatted": "6.853.400 TL",
+      "price": 7303900,
+      "priceFormatted": "7.303.900 TL",
       "searchText": "bmw bmw x3 20 x line 1 6l 190 11 hp mild hybrid otomatik"
     },
     {
@@ -4028,8 +4080,8 @@
       "engine": "1.6L 190+11 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 7316600,
-      "priceFormatted": "7.316.600 TL",
+      "price": 7635700,
+      "priceFormatted": "7.635.700 TL",
       "searchText": "bmw bmw x3 20 m sport 1 6l 190 11 hp mild hybrid otomatik"
     },
     {
@@ -4041,8 +4093,8 @@
       "engine": "3.0L 340+12 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 18679500,
-      "priceFormatted": "18.679.500 TL",
+      "price": 19255800,
+      "priceFormatted": "19.255.800 TL",
       "searchText": "bmw bmw x5 xdrive40d m sport 3 0l 340 12 hp mild hybrid otomatik"
     },
     {
@@ -4054,8 +4106,8 @@
       "engine": "3.0L 340+12 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 18720900,
-      "priceFormatted": "18.720.900 TL",
+      "price": 19298400,
+      "priceFormatted": "19.298.400 TL",
       "searchText": "bmw bmw x6 xdrive40d m sport 3 0l 340 12 hp mild hybrid otomatik"
     },
     {
@@ -4067,8 +4119,8 @@
       "engine": "3.0L 340+12 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 24215000,
-      "priceFormatted": "24.215.000 TL",
+      "price": 24979100,
+      "priceFormatted": "24.979.100 TL",
       "searchText": "bmw bmw x7 xdrive40d m excellence 3 0l 340 12 hp mild hybrid otomatik"
     },
     {
@@ -4080,8 +4132,8 @@
       "engine": "3.0L 480 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 14713700,
-      "priceFormatted": "14.713.700 TL",
+      "price": 15172000,
+      "priceFormatted": "15.172.000 TL",
       "searchText": "bmw bmw m2 m 3 0l 480 hp benzin otomatik"
     },
     {
@@ -4093,8 +4145,8 @@
       "engine": "3.0L 530 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 18562700,
-      "priceFormatted": "18.562.700 TL",
+      "price": 18654400,
+      "priceFormatted": "18.654.400 TL",
       "searchText": "bmw bmw m3 sedan competition m xdrive m 3 0l 530 hp benzin otomatik"
     },
     {
@@ -4106,8 +4158,8 @@
       "engine": "3.0L 530 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 18847900,
-      "priceFormatted": "18.847.900 TL",
+      "price": 18970300,
+      "priceFormatted": "18.970.300 TL",
       "searchText": "bmw bmw m3 touring m xdrive m 3 0l 530 hp benzin otomatik"
     },
     {
@@ -4119,8 +4171,8 @@
       "engine": "3.0L 530 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 19269000,
-      "priceFormatted": "19.269.000 TL",
+      "price": 19308500,
+      "priceFormatted": "19.308.500 TL",
       "searchText": "bmw bmw m4 competition coupe m xdrive m 3 0l 530 hp benzin otomatik"
     },
     {
@@ -4132,8 +4184,8 @@
       "engine": "3.0L 530 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 19648500,
-      "priceFormatted": "19.648.500 TL",
+      "price": 19726600,
+      "priceFormatted": "19.726.600 TL",
       "searchText": "bmw bmw m4 competition cabrio m xdrive m 3 0l 530 hp benzin otomatik"
     },
     {
@@ -4145,8 +4197,8 @@
       "engine": "4.4L 544+197 HP",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 24376300,
-      "priceFormatted": "24.376.300 TL",
+      "price": 25136400,
+      "priceFormatted": "25.136.400 TL",
       "searchText": "bmw bmw m5 sedan m 4 4l 544 197 hp plug in hybrid otomatik"
     },
     {
@@ -4158,8 +4210,8 @@
       "engine": "4.4L 544+197 HP",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 24722800,
-      "priceFormatted": "24.722.800 TL",
+      "price": 25468900,
+      "priceFormatted": "25.468.900 TL",
       "searchText": "bmw bmw m5 touring m 4 4l 544 197 hp plug in hybrid otomatik"
     },
     {
@@ -4171,8 +4223,8 @@
       "engine": "4.4L 625+12 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 25325400,
-      "priceFormatted": "25.325.400 TL",
+      "price": 26116500,
+      "priceFormatted": "26.116.500 TL",
       "searchText": "bmw bmw x5 m competition m 4 4l 625 12 hp mild hybrid otomatik"
     },
     {
@@ -4184,8 +4236,8 @@
       "engine": "4.4L 625+12 HP",
       "fuel": "Mild Hybrid",
       "transmission": "Otomatik",
-      "price": 25700400,
-      "priceFormatted": "25.700.400 TL",
+      "price": 26503300,
+      "priceFormatted": "26.503.300 TL",
       "searchText": "bmw bmw x6 m competition m 4 4l 625 12 hp mild hybrid otomatik"
     },
     {
@@ -4197,8 +4249,8 @@
       "engine": "2.0L 300 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 8349100,
-      "priceFormatted": "8.349.100 TL",
+      "price": 8612700,
+      "priceFormatted": "8.612.700 TL",
       "searchText": "bmw bmw x1 m35i xdrive m 2 0l 300 hp benzin otomatik"
     },
     {
@@ -4210,22 +4262,22 @@
       "engine": "2.0L 300 HP",
       "fuel": "Benzin",
       "transmission": "Otomatik",
-      "price": 8430700,
-      "priceFormatted": "8.430.700 TL",
+      "price": 8684800,
+      "priceFormatted": "8.684.800 TL",
       "searchText": "bmw bmw x2 m35i xdrive m 2 0l 300 hp benzin otomatik"
     },
     {
-      "id": "bmw-yeni-bmw-ix-m70-xdrive-m-659-hp",
+      "id": "bmw-bmw-ix-m70-xdrive-m-659-hp",
       "brand": "BMW",
       "brandId": "bmw",
-      "model": "Yeni BMW iX M70 xDrive",
+      "model": "BMW iX M70 xDrive",
       "trim": "M",
       "engine": "659 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 11157000,
-      "priceFormatted": "11.157.000 TL",
-      "searchText": "bmw yeni bmw ix m70 xdrive m 659 hp elektrik otomatik"
+      "price": 11504200,
+      "priceFormatted": "11.504.200 TL",
+      "searchText": "bmw bmw ix m70 xdrive m 659 hp elektrik otomatik"
     },
     {
       "id": "bmw-yeni-bmw-ix3-50-xdrive-m-sport-218-hp",
@@ -4236,22 +4288,22 @@
       "engine": "218 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 6755300,
-      "priceFormatted": "6.755.300 TL",
+      "price": 6819500,
+      "priceFormatted": "6.819.500 TL",
       "searchText": "bmw yeni bmw ix3 50 xdrive m sport 218 hp elektrik otomatik"
     },
     {
-      "id": "bmw-yeni-bmw-ix-xdrive60-m-sport-544-hp",
+      "id": "bmw-bmw-ix-xdrive60-m-sport-544-hp",
       "brand": "BMW",
       "brandId": "bmw",
-      "model": "Yeni BMW iX xDrive60",
+      "model": "BMW iX xDrive60",
       "trim": "M Sport",
       "engine": "544 HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 10453600,
-      "priceFormatted": "10.453.600 TL",
-      "searchText": "bmw yeni bmw ix xdrive60 m sport 544 hp elektrik otomatik"
+      "price": 10783400,
+      "priceFormatted": "10.783.400 TL",
+      "searchText": "bmw bmw ix xdrive60 m sport 544 hp elektrik otomatik"
     },
     {
       "id": "mercedes-benz-a-200-amg-1.3l-163-hp",
@@ -5211,8 +5263,8 @@
       "engine": "stepway expression Eco-G 120 auto",
       "fuel": "LPG",
       "transmission": "Otomatik",
-      "price": 1756000,
-      "priceFormatted": "₺1.756.000,00",
+      "price": 1786000.01,
+      "priceFormatted": "₺1.786.000,01",
       "searchText": "dacia yeni sandero stepway expression stepway expression eco g 120 auto lpg otomatik"
     },
     {
@@ -5224,8 +5276,8 @@
       "engine": "stepway extreme Eco-G 120 auto",
       "fuel": "LPG",
       "transmission": "Otomatik",
-      "price": 1820999.99,
-      "priceFormatted": "₺1.820.999,99",
+      "price": 1851000,
+      "priceFormatted": "₺1.851.000,00",
       "searchText": "dacia yeni sandero stepway extreme stepway extreme eco g 120 auto lpg otomatik"
     },
     {
@@ -6212,8 +6264,8 @@
       "engine": "150 kW / 204 hp",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 4336644,
-      "priceFormatted": "4.336.644 TL",
+      "price": 4466361,
+      "priceFormatted": "4.466.361 TL",
       "searchText": "volvo ex40 ultra single motor extended range 150 kw 204 hp elektrik otomatik"
     },
     {
@@ -6225,8 +6277,8 @@
       "engine": "150 kW / 204 hp",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 4476144,
-      "priceFormatted": "4.476.144 TL",
+      "price": 4610046,
+      "priceFormatted": "4.610.046 TL",
       "searchText": "volvo ex40 black edition ultra single motor extended range 150 kw 204 hp elektrik otomatik"
     },
     {
@@ -6238,8 +6290,8 @@
       "engine": "300 kW / 408 hp",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 5262560,
-      "priceFormatted": "5.262.560 TL",
+      "price": 5419356,
+      "priceFormatted": "5.419.356 TL",
       "searchText": "volvo ex40 ultra twin motor 300 kw 408 hp elektrik otomatik"
     },
     {
@@ -6251,8 +6303,8 @@
       "engine": "150 kW / 204 hp",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 4428528,
-      "priceFormatted": "4.428.528 TL",
+      "price": 4565406,
+      "priceFormatted": "4.565.406 TL",
       "searchText": "volvo ec40 ultra single motor extended range 150 kw 204 hp elektrik otomatik"
     },
     {
@@ -6264,8 +6316,8 @@
       "engine": "150 kW / 204 hp",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 4568028,
-      "priceFormatted": "4.568.028 TL",
+      "price": 4709240,
+      "priceFormatted": "4.709.240 TL",
       "searchText": "volvo ec40 black edition ultra single motor extended range 150 kw 204 hp elektrik otomatik"
     },
     {
@@ -6277,8 +6329,8 @@
       "engine": "300 kW / 408 hp",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
-      "price": 5349420,
-      "priceFormatted": "5.349.420 TL",
+      "price": 5508825,
+      "priceFormatted": "5.508.825 TL",
       "searchText": "volvo ec40 ultra twin motor 300 kw 408 hp elektrik otomatik"
     },
     {
@@ -6290,8 +6342,8 @@
       "engine": "1.969 cc 197 hp",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 5958559,
-      "priceFormatted": "5.958.559 TL",
+      "price": 6136694,
+      "priceFormatted": "6.136.694 TL",
       "searchText": "volvo v60 plus b4 mild hybrid dark 1 969 cc 197 hp hybrid otomatik"
     },
     {
@@ -6303,8 +6355,8 @@
       "engine": "1.969 cc 250 hp",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 7292014,
-      "priceFormatted": "7.292.014 TL",
+      "price": 7510130,
+      "priceFormatted": "7.510.130 TL",
       "searchText": "volvo xc60 plus b5 awd mild hybrid bright 1 969 cc 250 hp hybrid otomatik"
     },
     {
@@ -6316,8 +6368,8 @@
       "engine": "1.969 cc 250 hp",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 7292014,
-      "priceFormatted": "7.292.014 TL",
+      "price": 7510130,
+      "priceFormatted": "7.510.130 TL",
       "searchText": "volvo xc60 plus b5 awd mild hybrid dark 1 969 cc 250 hp hybrid otomatik"
     },
     {
@@ -6329,8 +6381,8 @@
       "engine": "1.969 cc 250 hp",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 7594954,
-      "priceFormatted": "7.594.954 TL",
+      "price": 7813070,
+      "priceFormatted": "7.813.070 TL",
       "searchText": "volvo xc60 ultra b5 awd mild hybrid bright 1 969 cc 250 hp hybrid otomatik"
     },
     {
@@ -6342,8 +6394,8 @@
       "engine": "1.969 cc 250 hp",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 7594954,
-      "priceFormatted": "7.594.954 TL",
+      "price": 7813070,
+      "priceFormatted": "7.813.070 TL",
       "searchText": "volvo xc60 ultra b5 awd mild hybrid dark 1 969 cc 250 hp hybrid otomatik"
     },
     {
@@ -6355,8 +6407,8 @@
       "engine": "1.969 cc 250 hp",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 7700254,
-      "priceFormatted": "7.700.254 TL",
+      "price": 7930618,
+      "priceFormatted": "7.930.618 TL",
       "searchText": "volvo xc60 black edition plus b5 awd mild hybrid 1 969 cc 250 hp hybrid otomatik"
     },
     {
@@ -6368,8 +6420,8 @@
       "engine": "1.969 cc 250 hp",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 8025874,
-      "priceFormatted": "8.025.874 TL",
+      "price": 8233558,
+      "priceFormatted": "8.233.558 TL",
       "searchText": "volvo xc60 black edition ultra b5 awd mild hybrid 1 969 cc 250 hp hybrid otomatik"
     },
     {
@@ -6381,8 +6433,8 @@
       "engine": "1.969 cc 250+156 hp",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 7965934,
-      "priceFormatted": "7.965.934 TL",
+      "price": 8236052,
+      "priceFormatted": "8.236.052 TL",
       "searchText": "volvo xc60 plus t8 awd plug in hybrid bright 1 969 cc 250 156 hp plug in hybrid otomatik"
     },
     {
@@ -6394,8 +6446,8 @@
       "engine": "1.969 cc 250+156 hp",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 7965934,
-      "priceFormatted": "7.965.934 TL",
+      "price": 8236052,
+      "priceFormatted": "8.236.052 TL",
       "searchText": "volvo xc60 plus t8 awd plug in hybrid dark 1 969 cc 250 156 hp plug in hybrid otomatik"
     },
     {
@@ -6407,8 +6459,8 @@
       "engine": "1.969 cc 250+156 hp",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 8268874,
-      "priceFormatted": "8.268.874 TL",
+      "price": 8538992,
+      "priceFormatted": "8.538.992 TL",
       "searchText": "volvo xc60 ultra t8 awd plug in hybrid bright 1 969 cc 250 156 hp plug in hybrid otomatik"
     },
     {
@@ -6420,8 +6472,8 @@
       "engine": "1.969 cc 250+156 hp",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 8268874,
-      "priceFormatted": "8.268.874 TL",
+      "price": 8538992,
+      "priceFormatted": "8.538.992 TL",
       "searchText": "volvo xc60 ultra t8 awd plug in hybrid dark 1 969 cc 250 156 hp plug in hybrid otomatik"
     },
     {
@@ -6433,8 +6485,8 @@
       "engine": "1.969 cc 250+156 hp",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 8374174,
-      "priceFormatted": "8.374.174 TL",
+      "price": 8658192,
+      "priceFormatted": "8.658.192 TL",
       "searchText": "volvo xc60 black edition plus t8 awd plug in hybrid 1 969 cc 250 156 hp plug in hybrid otomatik"
     },
     {
@@ -6446,8 +6498,8 @@
       "engine": "1.969 cc 250+156 hp",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 8699794,
-      "priceFormatted": "8.699.794 TL",
+      "price": 8961132,
+      "priceFormatted": "8.961.132 TL",
       "searchText": "volvo xc60 black edition ultra t8 awd plug in hybrid 1 969 cc 250 156 hp plug in hybrid otomatik"
     },
     {
@@ -6459,8 +6511,8 @@
       "engine": "1.969 cc 250 hp",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 11234089,
-      "priceFormatted": "11.234.089 TL",
+      "price": 11626550,
+      "priceFormatted": "11.626.550 TL",
       "searchText": "volvo xc90 plus b5 awd mild hybrid bright 1 969 cc 250 hp hybrid otomatik"
     },
     {
@@ -6472,8 +6524,8 @@
       "engine": "1.969 cc 250 hp",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 11234089,
-      "priceFormatted": "11.234.089 TL",
+      "price": 11626550,
+      "priceFormatted": "11.626.550 TL",
       "searchText": "volvo xc90 plus b5 awd mild hybrid dark 1 969 cc 250 hp hybrid otomatik"
     },
     {
@@ -6485,8 +6537,8 @@
       "engine": "1.969 cc 250 hp",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 11642329,
-      "priceFormatted": "11.642.329 TL",
+      "price": 12034790,
+      "priceFormatted": "12.034.790 TL",
       "searchText": "volvo xc90 ultra b5 awd mild hybrid bright 1 969 cc 250 hp hybrid otomatik"
     },
     {
@@ -6498,8 +6550,8 @@
       "engine": "1.969 cc 250 hp",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 11642329,
-      "priceFormatted": "11.642.329 TL",
+      "price": 12034790,
+      "priceFormatted": "12.034.790 TL",
       "searchText": "volvo xc90 ultra b5 awd mild hybrid dark 1 969 cc 250 hp hybrid otomatik"
     },
     {
@@ -6511,8 +6563,8 @@
       "engine": "1.969 cc 250 hp",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 11464777,
-      "priceFormatted": "11.464.777 TL",
+      "price": 11865306,
+      "priceFormatted": "11.865.306 TL",
       "searchText": "volvo xc90 black edition plus b5 awd mild hybrid 1 969 cc 250 hp hybrid otomatik"
     },
     {
@@ -6524,8 +6576,8 @@
       "engine": "1.969 cc 250 hp",
       "fuel": "Hybrid",
       "transmission": "Otomatik",
-      "price": 11873017,
-      "priceFormatted": "11.873.017 TL",
+      "price": 12273546,
+      "priceFormatted": "12.273.546 TL",
       "searchText": "volvo xc90 black edition ultra b5 awd mild hybrid 1 969 cc 250 hp hybrid otomatik"
     },
     {
@@ -6537,8 +6589,8 @@
       "engine": "1.969 cc 250+156 hp",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 11914748,
-      "priceFormatted": "11.914.748 TL",
+      "price": 12352310,
+      "priceFormatted": "12.352.310 TL",
       "searchText": "volvo xc90 plus t8 awd plug in hybrid bright 1 969 cc 250 156 hp plug in hybrid otomatik"
     },
     {
@@ -6550,8 +6602,8 @@
       "engine": "1.969 cc 250+156 hp",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 11914748,
-      "priceFormatted": "11.914.748 TL",
+      "price": 12352310,
+      "priceFormatted": "12.352.310 TL",
       "searchText": "volvo xc90 plus t8 awd plug in hybrid dark 1 969 cc 250 156 hp plug in hybrid otomatik"
     },
     {
@@ -6563,8 +6615,8 @@
       "engine": "1.969 cc 250+156 hp",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 12322988,
-      "priceFormatted": "12.322.988 TL",
+      "price": 12760550,
+      "priceFormatted": "12.760.550 TL",
       "searchText": "volvo xc90 ultra t8 awd plug in hybrid bright 1 969 cc 250 156 hp plug in hybrid otomatik"
     },
     {
@@ -6576,8 +6628,8 @@
       "engine": "1.969 cc 250+156 hp",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 12322988,
-      "priceFormatted": "12.322.988 TL",
+      "price": 12760550,
+      "priceFormatted": "12.760.550 TL",
       "searchText": "volvo xc90 ultra t8 awd plug in hybrid dark 1 969 cc 250 156 hp plug in hybrid otomatik"
     },
     {
@@ -6589,8 +6641,8 @@
       "engine": "1.969 cc 250+156 hp",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 12145436,
-      "priceFormatted": "12.145.436 TL",
+      "price": 12581929,
+      "priceFormatted": "12.581.929 TL",
       "searchText": "volvo xc90 black edition plus t8 awd plug in hybrid 1 969 cc 250 156 hp plug in hybrid otomatik"
     },
     {
@@ -6602,8 +6654,8 @@
       "engine": "1.969 cc 250+156 hp",
       "fuel": "Plug-in Hybrid",
       "transmission": "Otomatik",
-      "price": 12553676,
-      "priceFormatted": "12.553.676 TL",
+      "price": 12990169,
+      "priceFormatted": "12.990.169 TL",
       "searchText": "volvo xc90 black edition ultra t8 awd plug in hybrid 1 969 cc 250 156 hp plug in hybrid otomatik"
     },
     {
