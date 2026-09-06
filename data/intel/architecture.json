@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-05T05:11:33.640Z",
-  "date": "2026-09-05",
+  "generatedAt": "2026-09-06T05:26:05.375Z",
+  "date": "2026-09-06",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -4248,7 +4248,7 @@
           "priceFormatted": "6.861.100 TL",
           "stepFromBase": 1230400,
           "stepPercent": 21.851634787859414,
-          "engine": "218 HP",
+          "engine": "218' HP",
           "transmission": "Otomatik",
           "fuel": "Elektrik"
         }

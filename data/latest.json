@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-05T05:11:30.888Z",
+  "generatedAt": "2026-09-06T05:26:02.777Z",
   "totalVehicles": 530,
   "brands": {
     "volkswagen": {
       "name": "Volkswagen",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "Polo",
@@ -1299,7 +1299,7 @@
     },
     "skoda": {
       "name": "Škoda",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "Yeni Škoda Elroq",
@@ -2553,7 +2553,7 @@
     },
     "renault": {
       "name": "Renault",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "Yeni Clio",
@@ -3347,7 +3347,7 @@
     },
     "toyota": {
       "name": "Toyota",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "COROLLA",
@@ -3926,7 +3926,7 @@
     },
     "hyundai": {
       "name": "Hyundai",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "i20",
@@ -4359,7 +4359,7 @@
     },
     "peugeot": {
       "name": "Peugeot",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "E-208",
@@ -4745,7 +4745,7 @@
     },
     "byd": {
       "name": "BYD",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "SEAL",
@@ -4808,7 +4808,7 @@
     },
     "opel": {
       "name": "Opel",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "Corsa",
@@ -5046,7 +5046,7 @@
     },
     "citroen": {
       "name": "Citroën",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "Elektrikli ë-C3",
@@ -5610,7 +5610,7 @@
     },
     "bmw": {
       "name": "BMW",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "BMW 120",
@@ -5880,7 +5880,7 @@
         {
           "model": "BMW i4 eDrive40",
           "trim": "Edition M Sport",
-          "engine": "218 HP",
+          "engine": "218' HP",
           "transmission": "Otomatik",
           "fuel": "Elektrik",
           "priceRaw": "6.861.100 TL",
@@ -5888,7 +5888,6 @@
           "brand": "BMW",
           "fuelConsumption": "17,1",
           "otvRate": 55,
-          "powerHP": 218,
           "isElectric": true
         },
         {
@@ -6659,7 +6658,7 @@
     },
     "mercedes": {
       "name": "Mercedes-Benz",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "A 200",
@@ -7289,7 +7288,7 @@
     },
     "ford": {
       "name": "Ford",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "Puma",
@@ -8527,7 +8526,7 @@
     },
     "dacia": {
       "name": "Dacia",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "Yeni Sandero",
@@ -8873,7 +8872,7 @@
     },
     "nissan": {
       "name": "Nissan",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "QASHQAI",
@@ -9317,7 +9316,7 @@
     },
     "honda": {
       "name": "Honda",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "Jazz Hybrid",
@@ -9409,7 +9408,7 @@
     },
     "seat": {
       "name": "SEAT",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "Ibiza",
@@ -9515,7 +9514,7 @@
     },
     "kia": {
       "name": "Kia",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "EV2",
@@ -9933,7 +9932,7 @@
     },
     "volvo": {
       "name": "Volvo",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "EX30",
@@ -10498,7 +10497,7 @@
     },
     "fiat": {
       "name": "Fiat",
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "vehicles": [
         {
           "model": "Egea Sedan",

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-05T05:11:34.097Z",
-  "date": "2026-09-05",
+  "generatedAt": "2026-09-06T05:26:05.704Z",
+  "date": "2026-09-06",
   "summary": {
-    "totalPriceDrops": 6,
-    "totalRecentDrops": 4,
-    "avgDropPercent": 8.54,
+    "totalPriceDrops": 4,
+    "totalRecentDrops": 1,
+    "avgDropPercent": 9.51,
     "maxDropPercent": 11.32,
-    "brandsWithDrops": 2
+    "brandsWithDrops": 1
   },
   "priceDrops": [
     {
@@ -22,15 +22,11 @@
       "currentPriceFormatted": "₺2.350.000",
       "peakPrice": 2650000,
       "peakPriceFormatted": "₺2.650.000",
-      "peakDate": "2026-08-07",
+      "peakDate": "2026-08-08",
       "dropAmount": 300000,
       "dropPercent": 11.32,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-08-27",
-          "price": 2650000
-        },
         {
           "date": "2026-08-28",
           "price": 2650000
@@ -65,6 +61,10 @@
         },
         {
           "date": "2026-09-05",
+          "price": 2350000
+        },
+        {
+          "date": "2026-09-06",
           "price": 2350000
         }
       ],
@@ -83,15 +83,11 @@
       "currentPriceFormatted": "₺1.890.000",
       "peakPrice": 2101000,
       "peakPriceFormatted": "₺2.101.000",
-      "peakDate": "2026-08-07",
+      "peakDate": "2026-08-08",
       "dropAmount": 211000,
       "dropPercent": 10.04,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-08-27",
-          "price": 2101000
-        },
         {
           "date": "2026-08-28",
           "price": 2101000
@@ -126,6 +122,10 @@
         },
         {
           "date": "2026-09-05",
+          "price": 1890000
+        },
+        {
+          "date": "2026-09-06",
           "price": 1890000
         }
       ],
@@ -144,15 +144,11 @@
       "currentPriceFormatted": "₺1.820.000",
       "peakPrice": 1999000,
       "peakPriceFormatted": "₺1.999.000",
-      "peakDate": "2026-08-07",
+      "peakDate": "2026-08-08",
       "dropAmount": 179000,
       "dropPercent": 8.95,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-08-27",
-          "price": 1999000
-        },
         {
           "date": "2026-08-28",
           "price": 1999000
@@ -187,6 +183,10 @@
         },
         {
           "date": "2026-09-05",
+          "price": 1820000
+        },
+        {
+          "date": "2026-09-06",
           "price": 1820000
         }
       ],
@@ -205,15 +205,11 @@
       "currentPriceFormatted": "₺1.955.000",
       "peakPrice": 2119000,
       "peakPriceFormatted": "₺2.119.000",
-      "peakDate": "2026-08-07",
+      "peakDate": "2026-08-08",
       "dropAmount": 164000,
       "dropPercent": 7.74,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-08-27",
-          "price": 2119000
-        },
         {
           "date": "2026-08-28",
           "price": 2119000
@@ -249,108 +245,16 @@
         {
           "date": "2026-09-05",
           "price": 1955000
+        },
+        {
+          "date": "2026-09-06",
+          "price": 1955000
         }
       ],
       "listPrice": 1955000
-    },
-    {
-      "id": "fiat-topolino-topolino-6-kw/8-hp---5.5kwh",
-      "brand": "Fiat",
-      "brandId": "fiat",
-      "model": "Topolino",
-      "trim": "Topolino",
-      "engine": "6 kW/8 HP - 5.5kWh",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "currentPrice": 544900,
-      "currentPriceFormatted": "₺544.900",
-      "peakPrice": 584900,
-      "peakPriceFormatted": "₺584.900",
-      "peakDate": "2026-06-05",
-      "dropAmount": 40000,
-      "dropPercent": 6.84,
-      "daysSincePeak": 0,
-      "priceHistory": [
-        {
-          "date": "2026-06-05",
-          "price": 584900
-        },
-        {
-          "date": "2026-06-05",
-          "price": 544900
-        }
-      ],
-      "listPrice": 674900,
-      "campaignPrice": 584900,
-      "campaignDiscount": 13.3
-    },
-    {
-      "id": "fiat-topolino-topolino-plus-6-kw/8-hp---5.5kwh",
-      "brand": "Fiat",
-      "brandId": "fiat",
-      "model": "Topolino",
-      "trim": "Topolino Plus",
-      "engine": "6 kW/8 HP - 5.5kWh",
-      "fuel": "Elektrik",
-      "transmission": "Otomatik",
-      "currentPrice": 589900,
-      "currentPriceFormatted": "₺589.900",
-      "peakPrice": 629900,
-      "peakPriceFormatted": "₺629.900",
-      "peakDate": "2026-06-05",
-      "dropAmount": 40000,
-      "dropPercent": 6.35,
-      "daysSincePeak": 0,
-      "priceHistory": [
-        {
-          "date": "2026-06-05",
-          "price": 629900
-        },
-        {
-          "date": "2026-06-05",
-          "price": 589900
-        }
-      ],
-      "listPrice": 719900,
-      "campaignPrice": 629900,
-      "campaignDiscount": 12.5
     }
   ],
   "recentDrops": [
-    {
-      "id": "fiat-topolino-topolino-6-kw/8-hp---5.5kwh-recent",
-      "brand": "Fiat",
-      "brandId": "fiat",
-      "model": "Topolino",
-      "trim": "Topolino",
-      "engine": "6 kW/8 HP - 5.5kWh",
-      "currentPrice": 544900,
-      "previousPrice": 584900,
-      "dropAmount": 40000,
-      "dropPercent": 6.84,
-      "date": "2026-06-05",
-      "previousDate": "2026-06-05",
-      "listPrice": 674900,
-      "campaignPrice": 584900,
-      "campaignDiscount": 13.3
-    },
-    {
-      "id": "fiat-topolino-topolino-plus-6-kw/8-hp---5.5kwh-recent",
-      "brand": "Fiat",
-      "brandId": "fiat",
-      "model": "Topolino",
-      "trim": "Topolino Plus",
-      "engine": "6 kW/8 HP - 5.5kWh",
-      "currentPrice": 589900,
-      "previousPrice": 629900,
-      "dropAmount": 40000,
-      "dropPercent": 6.35,
-      "date": "2026-06-05",
-      "previousDate": "2026-06-05",
-      "listPrice": 719900,
-      "campaignPrice": 629900,
-      "campaignDiscount": 12.5
-    },
     {
       "id": "fiat-grande-panda-elektrikli-la-prima-83-kw/113-hp-44-kwh-recent",
       "brand": "Fiat",
@@ -362,28 +266,11 @@
       "previousPrice": 1440000,
       "dropAmount": 50000,
       "dropPercent": 3.47,
-      "date": "2026-09-05",
-      "previousDate": "2026-09-05",
+      "date": "2026-09-06",
+      "previousDate": "2026-09-06",
       "listPrice": 1584900,
       "campaignPrice": 1440000,
       "campaignDiscount": 9.1
-    },
-    {
-      "id": "fiat-grande-panda-la-prima-44-kwh-recent",
-      "brand": "Fiat",
-      "brandId": "fiat",
-      "model": "Grande Panda",
-      "trim": "La Prima",
-      "engine": "44 kWh",
-      "currentPrice": 1469900,
-      "previousPrice": 1514900,
-      "dropAmount": 45000,
-      "dropPercent": 2.97,
-      "date": "2026-06-05",
-      "previousDate": "2026-06-05",
-      "listPrice": 1584900,
-      "campaignPrice": 1514900,
-      "campaignDiscount": 4.4
     }
   ],
   "brandSummary": [
@@ -392,12 +279,6 @@
       "brand": "Opel",
       "dropCount": 4,
       "avgDropPercent": 9.51
-    },
-    {
-      "brandId": "fiat",
-      "brand": "Fiat",
-      "dropCount": 2,
-      "avgDropPercent": 6.59
     }
   ]
 }

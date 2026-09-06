@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T05:11:30.894Z",
+  "generatedAt": "2026-09-06T05:26:02.783Z",
   "totalEntries": 530,
   "entries": [
     {
@@ -3682,12 +3682,12 @@
       "searchText": "bmw bmw i4 edrive40 m sport 218 hp elektrik otomatik"
     },
     {
-      "id": "bmw-bmw-i4-edrive40-edition-m-sport-218-hp",
+      "id": "bmw-bmw-i4-edrive40-edition-m-sport-218'-hp",
       "brand": "BMW",
       "brandId": "bmw",
       "model": "BMW i4 eDrive40",
       "trim": "Edition M Sport",
-      "engine": "218 HP",
+      "engine": "218' HP",
       "fuel": "Elektrik",
       "transmission": "Otomatik",
       "price": 6861100,
