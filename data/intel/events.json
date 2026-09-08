@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-07T07:33:12.759Z",
-  "date": "2026-09-07",
-  "previousDate": "2026-09-06",
+  "generatedAt": "2026-09-08T06:13:36.813Z",
+  "date": "2026-09-08",
+  "previousDate": "2026-09-07",
   "dateRange": {
     "start": "2026-01-28",
-    "end": "2026-09-07",
-    "totalDays": 223
+    "end": "2026-09-08",
+    "totalDays": 224
   },
   "summary": {
     "totalEvents": 2726,
