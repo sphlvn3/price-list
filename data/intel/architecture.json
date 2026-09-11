@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T05:42:38.775Z",
-  "date": "2026-09-09",
+  "generatedAt": "2026-09-11T05:33:59.074Z",
+  "date": "2026-09-11",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -6057,29 +6057,29 @@
         },
         {
           "trim": "Titanium",
-          "price": 2238900,
-          "priceFormatted": "2.238.900 TL",
-          "stepFromBase": 341800,
-          "stepPercent": 18.016973274998684,
+          "price": 2305800,
+          "priceFormatted": "2.305.800 TL",
+          "stepFromBase": 408700,
+          "stepPercent": 21.54340836012862,
           "engine": "1.0L EcoBoost 125PS",
           "transmission": "Otomatik",
           "fuel": "Hibrit"
         },
         {
           "trim": "ST-Line X",
-          "price": 2615600,
-          "priceFormatted": "2.615.600 TL",
-          "stepFromBase": 718500,
-          "stepPercent": 37.87359654209056,
+          "price": 2693800,
+          "priceFormatted": "2.693.800 TL",
+          "stepFromBase": 796700,
+          "stepPercent": 41.99567761319909,
           "engine": "1.0L EcoBoost 155PS",
           "transmission": "Otomatik",
           "fuel": "Hibrit"
         }
       ],
       "basePrice": 1897100,
-      "topPrice": 2615600,
-      "priceSpread": 718500,
-      "priceSpreadPercent": 37.87,
+      "topPrice": 2693800,
+      "priceSpread": 796700,
+      "priceSpreadPercent": 42,
       "trimCount": 4
     },
     {
@@ -6090,8 +6090,8 @@
       "trims": [
         {
           "trim": "Premium",
-          "price": 1976500,
-          "priceFormatted": "1.976.500 TL",
+          "price": 2016600,
+          "priceFormatted": "2.016.600 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "123KW",
@@ -6100,19 +6100,19 @@
         },
         {
           "trim": "Premium",
-          "price": 2158700,
-          "priceFormatted": "2.158.700 TL",
-          "stepFromBase": 182200,
-          "stepPercent": 9.218315203642803,
+          "price": 2421700,
+          "priceFormatted": "2.421.700 TL",
+          "stepFromBase": 405100,
+          "stepPercent": 20.08826738073986,
           "engine": "123KW",
           "transmission": "Otomatik",
           "fuel": "Elektrik"
         }
       ],
-      "basePrice": 1976500,
-      "topPrice": 2158700,
-      "priceSpread": 182200,
-      "priceSpreadPercent": 9.22,
+      "basePrice": 2016600,
+      "topPrice": 2421700,
+      "priceSpread": 405100,
+      "priceSpreadPercent": 20.09,
       "trimCount": 2
     },
     {
@@ -6133,21 +6133,11 @@
         },
         {
           "trim": "Select",
-          "price": 2232300,
-          "priceFormatted": "2.232.300 TL",
-          "stepFromBase": 138200,
-          "stepPercent": 6.599493815959123,
+          "price": 2276700,
+          "priceFormatted": "2.276.700 TL",
+          "stepFromBase": 182600,
+          "stepPercent": 8.719736402273053,
           "engine": "125KW",
-          "transmission": "Otomatik",
-          "fuel": "Elektrik"
-        },
-        {
-          "trim": "Select",
-          "price": 2298900,
-          "priceFormatted": "2.298.900 TL",
-          "stepFromBase": 204800,
-          "stepPercent": 9.779857695430017,
-          "engine": "140KW",
           "transmission": "Otomatik",
           "fuel": "Elektrik"
         },
@@ -6158,6 +6148,16 @@
           "stepFromBase": 211000,
           "stepPercent": 10.075927606131513,
           "engine": "125KW",
+          "transmission": "Otomatik",
+          "fuel": "Elektrik"
+        },
+        {
+          "trim": "Select",
+          "price": 2344700,
+          "priceFormatted": "2.344.700 TL",
+          "stepFromBase": 250600,
+          "stepPercent": 11.9669547777088,
+          "engine": "140KW",
           "transmission": "Otomatik",
           "fuel": "Elektrik"
         },
@@ -8476,9 +8476,9 @@
           "brandId": "ford",
           "model": "Puma",
           "basePrice": 1897100,
-          "topPrice": 2615600,
+          "topPrice": 2693800,
           "basePriceFormatted": "₺1.897.100",
-          "topPriceFormatted": "₺2.615.600",
+          "topPriceFormatted": "₺2.693.800",
           "trimCount": 4
         },
         {
@@ -8512,16 +8512,6 @@
           "trimCount": 5
         },
         {
-          "brand": "Ford",
-          "brandId": "ford",
-          "model": "Puma Gen-E",
-          "basePrice": 1976500,
-          "topPrice": 2158700,
-          "basePriceFormatted": "₺1.976.500",
-          "topPriceFormatted": "₺2.158.700",
-          "trimCount": 2
-        },
-        {
           "brand": "Opel",
           "brandId": "opel",
           "model": "Mokka",
@@ -8529,6 +8519,16 @@
           "topPrice": 2350000,
           "basePriceFormatted": "₺1.990.000",
           "topPriceFormatted": "₺2.350.000",
+          "trimCount": 2
+        },
+        {
+          "brand": "Ford",
+          "brandId": "ford",
+          "model": "Puma Gen-E",
+          "basePrice": 2016600,
+          "topPrice": 2421700,
+          "basePriceFormatted": "₺2.016.600",
+          "topPriceFormatted": "₺2.421.700",
           "trimCount": 2
         },
         {
@@ -9452,8 +9452,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 8086060,
-      "avgTopPrice": 8344991
+      "avgBasePrice": 8086399,
+      "avgTopPrice": 8347882
     },
     {
       "segment": "SUV",
@@ -10584,7 +10584,7 @@
   "summary": {
     "totalModels": 228,
     "avgTrimsPerModel": 2.3,
-    "avgPriceSpread": 379128,
-    "avgPriceSpreadPercent": 12.72
+    "avgPriceSpread": 380448,
+    "avgPriceSpreadPercent": 12.78
   }
 }

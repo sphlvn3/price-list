@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-09T05:42:38.994Z",
-  "date": "2026-09-09",
+  "generatedAt": "2026-09-11T05:33:59.228Z",
+  "date": "2026-09-11",
   "summary": {
     "totalSegments": 10,
     "totalGaps": 901,
@@ -11,7 +11,7 @@
     {
       "segment": "SUV-Compact",
       "totalVehicles": 109,
-      "avgPrice": 2978786,
+      "avgPrice": 2982898,
       "minPrice": 1429300,
       "maxPrice": 8684800,
       "brands": [
@@ -44,7 +44,7 @@
     {
       "segment": "SUV-Large",
       "totalVehicles": 74,
-      "avgPrice": 10003028,
+      "avgPrice": 10004246,
       "minPrice": 2094100,
       "maxPrice": 34187000,
       "brands": [
@@ -2032,7 +2032,7 @@
         "Ford",
         "Honda"
       ],
-      "avgPrice": 2439567,
+      "avgPrice": 2447628,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -2576,12 +2576,11 @@
       "priceRange": "1.5M-2M",
       "priceRangeMin": 1500000,
       "priceRangeMax": 2000000,
-      "vehicleCount": 5,
+      "vehicleCount": 4,
       "brands": [
-        "Citroën",
-        "Ford"
+        "Citroën"
       ],
-      "avgPrice": 1832300,
+      "avgPrice": 1796250,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -2592,7 +2591,7 @@
       "priceRange": "2M-3M",
       "priceRangeMin": 2000000,
       "priceRangeMax": 3000000,
-      "vehicleCount": 11,
+      "vehicleCount": 12,
       "brands": [
         "Hyundai",
         "Citroën",
@@ -2601,7 +2600,7 @@
         "Kia",
         "Volvo"
       ],
-      "avgPrice": 2307308,
+      "avgPrice": 2304999,
       "hasGap": false,
       "opportunityScore": 0
     },
@@ -7830,7 +7829,7 @@
       "brands": [
         "Ford"
       ],
-      "avgPrice": 2277540,
+      "avgPrice": 2295580,
       "hasGap": false,
       "opportunityScore": 0
     },
