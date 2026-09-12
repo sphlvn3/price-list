@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-11T05:33:59.228Z",
-  "date": "2026-09-11",
+  "generatedAt": "2026-09-12T05:24:44.877Z",
+  "date": "2026-09-12",
   "summary": {
     "totalSegments": 10,
-    "totalGaps": 901,
+    "totalGaps": 900,
     "totalOpportunities": 20,
     "avgOpportunityScore": 22.66
   },
@@ -123,7 +123,7 @@
     {
       "segment": "SUV-Medium",
       "totalVehicles": 58,
-      "avgPrice": 3802186,
+      "avgPrice": 3778671,
       "minPrice": 2249000,
       "maxPrice": 9241000,
       "brands": [
@@ -4877,13 +4877,13 @@
       "priceRange": "3M-5M",
       "priceRangeMin": 3000000,
       "priceRangeMax": 5000000,
-      "vehicleCount": 1,
+      "vehicleCount": 2,
       "brands": [
         "Nissan"
       ],
-      "avgPrice": 4998300,
-      "hasGap": true,
-      "opportunityScore": 23.88
+      "avgPrice": 4575000,
+      "hasGap": false,
+      "opportunityScore": 0
     },
     {
       "segment": "SUV-Medium",
@@ -4892,12 +4892,11 @@
       "priceRange": "5M+",
       "priceRangeMin": 5000000,
       "priceRangeMax": 100000000,
-      "vehicleCount": 3,
+      "vehicleCount": 2,
       "brands": [
-        "BMW",
-        "Nissan"
+        "BMW"
       ],
-      "avgPrice": 6818400,
+      "avgPrice": 7469800,
       "hasGap": false,
       "opportunityScore": 0
     },

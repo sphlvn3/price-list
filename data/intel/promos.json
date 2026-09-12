@@ -1,14 +1,140 @@
 {
-  "generatedAt": "2026-09-11T05:33:59.406Z",
-  "date": "2026-09-11",
+  "generatedAt": "2026-09-12T05:24:45.059Z",
+  "date": "2026-09-12",
   "summary": {
-    "totalPriceDrops": 4,
-    "totalRecentDrops": 1,
-    "avgDropPercent": 9.51,
-    "maxDropPercent": 11.32,
-    "brandsWithDrops": 1
+    "totalPriceDrops": 6,
+    "totalRecentDrops": 3,
+    "avgDropPercent": 10.67,
+    "maxDropPercent": 12.97,
+    "brandsWithDrops": 2
   },
   "priceDrops": [
+    {
+      "id": "nissan-x-trail-mild-hybrid-platinum-",
+      "brand": "Nissan",
+      "brandId": "nissan",
+      "model": "X-TRAIL MILD HYBRID",
+      "trim": "Platinum",
+      "engine": "",
+      "fuel": "Hafif Hibrit",
+      "transmission": "Otomatik",
+      "currentPrice": 4350000,
+      "currentPriceFormatted": "₺4.350.000",
+      "peakPrice": 4998300,
+      "peakPriceFormatted": "₺4.998.300",
+      "peakDate": "2026-08-14",
+      "dropAmount": 648300,
+      "dropPercent": 12.97,
+      "daysSincePeak": 29,
+      "priceHistory": [
+        {
+          "date": "2026-09-03",
+          "price": 4998300
+        },
+        {
+          "date": "2026-09-04",
+          "price": 4998300
+        },
+        {
+          "date": "2026-09-05",
+          "price": 4998300
+        },
+        {
+          "date": "2026-09-06",
+          "price": 4998300
+        },
+        {
+          "date": "2026-09-07",
+          "price": 4998300
+        },
+        {
+          "date": "2026-09-08",
+          "price": 4998300
+        },
+        {
+          "date": "2026-09-09",
+          "price": 4998300
+        },
+        {
+          "date": "2026-09-10",
+          "price": 4998300
+        },
+        {
+          "date": "2026-09-11",
+          "price": 4998300
+        },
+        {
+          "date": "2026-09-12",
+          "price": 4350000
+        }
+      ],
+      "listPrice": 5098300,
+      "campaignPrice": 4350000,
+      "campaignDiscount": 14.7
+    },
+    {
+      "id": "nissan-x-trail-mild-hybrid-platinum-premium-",
+      "brand": "Nissan",
+      "brandId": "nissan",
+      "model": "X-TRAIL MILD HYBRID",
+      "trim": "Platinum Premium",
+      "engine": "",
+      "fuel": "Hafif Hibrit",
+      "transmission": "Otomatik",
+      "currentPrice": 4800000,
+      "currentPriceFormatted": "₺4.800.000",
+      "peakPrice": 5515600,
+      "peakPriceFormatted": "₺5.515.600",
+      "peakDate": "2026-08-14",
+      "dropAmount": 715600,
+      "dropPercent": 12.97,
+      "daysSincePeak": 29,
+      "priceHistory": [
+        {
+          "date": "2026-09-03",
+          "price": 5515600
+        },
+        {
+          "date": "2026-09-04",
+          "price": 5515600
+        },
+        {
+          "date": "2026-09-05",
+          "price": 5515600
+        },
+        {
+          "date": "2026-09-06",
+          "price": 5515600
+        },
+        {
+          "date": "2026-09-07",
+          "price": 5515600
+        },
+        {
+          "date": "2026-09-08",
+          "price": 5515600
+        },
+        {
+          "date": "2026-09-09",
+          "price": 5515600
+        },
+        {
+          "date": "2026-09-10",
+          "price": 5515600
+        },
+        {
+          "date": "2026-09-11",
+          "price": 5515600
+        },
+        {
+          "date": "2026-09-12",
+          "price": 4800000
+        }
+      ],
+      "listPrice": 5615600,
+      "campaignPrice": 4800000,
+      "campaignDiscount": 14.5
+    },
     {
       "id": "opel-mokka-gs-hybrid-1.2-145-(136-hp)²",
       "brand": "Opel",
@@ -22,15 +148,11 @@
       "currentPriceFormatted": "₺2.350.000",
       "peakPrice": 2650000,
       "peakPriceFormatted": "₺2.650.000",
-      "peakDate": "2026-08-13",
+      "peakDate": "2026-08-14",
       "dropAmount": 300000,
       "dropPercent": 11.32,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-09-02",
-          "price": 2350000
-        },
         {
           "date": "2026-09-03",
           "price": 2350000
@@ -65,6 +187,10 @@
         },
         {
           "date": "2026-09-11",
+          "price": 2350000
+        },
+        {
+          "date": "2026-09-12",
           "price": 2350000
         }
       ],
@@ -83,15 +209,11 @@
       "currentPriceFormatted": "₺1.890.000",
       "peakPrice": 2101000,
       "peakPriceFormatted": "₺2.101.000",
-      "peakDate": "2026-08-13",
+      "peakDate": "2026-08-14",
       "dropAmount": 211000,
       "dropPercent": 10.04,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-09-02",
-          "price": 1890000
-        },
         {
           "date": "2026-09-03",
           "price": 1890000
@@ -126,6 +248,10 @@
         },
         {
           "date": "2026-09-11",
+          "price": 1890000
+        },
+        {
+          "date": "2026-09-12",
           "price": 1890000
         }
       ],
@@ -144,15 +270,11 @@
       "currentPriceFormatted": "₺1.820.000",
       "peakPrice": 1999000,
       "peakPriceFormatted": "₺1.999.000",
-      "peakDate": "2026-08-13",
+      "peakDate": "2026-08-14",
       "dropAmount": 179000,
       "dropPercent": 8.95,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-09-02",
-          "price": 1820000
-        },
         {
           "date": "2026-09-03",
           "price": 1820000
@@ -187,6 +309,10 @@
         },
         {
           "date": "2026-09-11",
+          "price": 1820000
+        },
+        {
+          "date": "2026-09-12",
           "price": 1820000
         }
       ],
@@ -205,15 +331,11 @@
       "currentPriceFormatted": "₺1.955.000",
       "peakPrice": 2119000,
       "peakPriceFormatted": "₺2.119.000",
-      "peakDate": "2026-08-13",
+      "peakDate": "2026-08-14",
       "dropAmount": 164000,
       "dropPercent": 7.74,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-09-02",
-          "price": 1955000
-        },
         {
           "date": "2026-09-03",
           "price": 1955000
@@ -249,12 +371,50 @@
         {
           "date": "2026-09-11",
           "price": 1955000
+        },
+        {
+          "date": "2026-09-12",
+          "price": 1955000
         }
       ],
       "listPrice": 1955000
     }
   ],
   "recentDrops": [
+    {
+      "id": "nissan-x-trail-mild-hybrid-platinum--recent",
+      "brand": "Nissan",
+      "brandId": "nissan",
+      "model": "X-TRAIL MILD HYBRID",
+      "trim": "Platinum",
+      "engine": "",
+      "currentPrice": 4350000,
+      "previousPrice": 4998300,
+      "dropAmount": 648300,
+      "dropPercent": 12.97,
+      "date": "2026-09-12",
+      "previousDate": "2026-09-11",
+      "listPrice": 5098300,
+      "campaignPrice": 4350000,
+      "campaignDiscount": 14.7
+    },
+    {
+      "id": "nissan-x-trail-mild-hybrid-platinum-premium--recent",
+      "brand": "Nissan",
+      "brandId": "nissan",
+      "model": "X-TRAIL MILD HYBRID",
+      "trim": "Platinum Premium",
+      "engine": "",
+      "currentPrice": 4800000,
+      "previousPrice": 5515600,
+      "dropAmount": 715600,
+      "dropPercent": 12.97,
+      "date": "2026-09-12",
+      "previousDate": "2026-09-11",
+      "listPrice": 5615600,
+      "campaignPrice": 4800000,
+      "campaignDiscount": 14.5
+    },
     {
       "id": "fiat-grande-panda-elektrikli-la-prima-83-kw/113-hp-44-kwh-recent",
       "brand": "Fiat",
@@ -266,8 +426,8 @@
       "previousPrice": 1440000,
       "dropAmount": 50000,
       "dropPercent": 3.47,
-      "date": "2026-09-11",
-      "previousDate": "2026-09-11",
+      "date": "2026-09-12",
+      "previousDate": "2026-09-12",
       "listPrice": 1584900,
       "campaignPrice": 1440000,
       "campaignDiscount": 9.1
@@ -279,6 +439,12 @@
       "brand": "Opel",
       "dropCount": 4,
       "avgDropPercent": 9.51
+    },
+    {
+      "brandId": "nissan",
+      "brand": "Nissan",
+      "dropCount": 2,
+      "avgDropPercent": 12.97
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-11T05:33:56.519Z",
+  "generatedAt": "2026-09-12T05:24:42.064Z",
   "totalVehicles": 530,
   "overallStats": {
-    "avgPrice": 5161020,
+    "avgPrice": 5158447,
     "minPrice": 594900,
     "maxPrice": 39175000,
     "medianPrice": 3136600
@@ -83,9 +83,9 @@
     {
       "name": "Nissan",
       "vehicleCount": 26,
-      "avgPrice": 3149054,
+      "avgPrice": 3096596,
       "minPrice": 1429300,
-      "maxPrice": 5515600,
+      "maxPrice": 4800000,
       "medianPrice": 3055600
     },
     {
@@ -190,7 +190,7 @@
       "fuel": "Hafif Hibrit",
       "count": 34,
       "percentage": 6.4,
-      "avgPrice": 10051609
+      "avgPrice": 10011494
     },
     {
       "fuel": "Plug-in Hibrit",
@@ -216,7 +216,7 @@
       "transmission": "Otomatik",
       "count": 364,
       "percentage": 68.7,
-      "avgPrice": 6057259
+      "avgPrice": 6053512
     },
     {
       "transmission": "DSG",
@@ -262,15 +262,15 @@
       "segment": "premium",
       "min": 3000000,
       "max": 5000000,
-      "count": 129,
-      "percentage": 24.3
+      "count": 130,
+      "percentage": 24.5
     },
     {
       "segment": "luxury",
       "min": 5000000,
       "max": 0,
-      "count": 149,
-      "percentage": 28.1
+      "count": 148,
+      "percentage": 27.9
     }
   ],
   "otvStats": {
@@ -415,7 +415,7 @@
         "year": "2026",
         "count": 293,
         "percentage": 68.5,
-        "avgPrice": 4394201
+        "avgPrice": 4389546
       },
       {
         "year": "2025",

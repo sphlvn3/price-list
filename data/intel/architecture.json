@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-11T05:33:59.074Z",
-  "date": "2026-09-11",
+  "generatedAt": "2026-09-12T05:24:44.725Z",
+  "date": "2026-09-12",
   "ladders": [
     {
       "id": "volkswagen-polo",
@@ -6819,8 +6819,8 @@
       "trims": [
         {
           "trim": "Platinum",
-          "price": 4998300,
-          "priceFormatted": "4.998.300 TL",
+          "price": 4350000,
+          "priceFormatted": "4.350.000 TL",
           "stepFromBase": 0,
           "stepPercent": 0,
           "engine": "",
@@ -6829,19 +6829,19 @@
         },
         {
           "trim": "Platinum Premium",
-          "price": 5515600,
-          "priceFormatted": "5.515.600 TL",
-          "stepFromBase": 517300,
-          "stepPercent": 10.349518836404377,
+          "price": 4800000,
+          "priceFormatted": "4.800.000 TL",
+          "stepFromBase": 450000,
+          "stepPercent": 10.344827586206897,
           "engine": "",
           "transmission": "Otomatik",
           "fuel": "Hafif Hibrit"
         }
       ],
-      "basePrice": 4998300,
-      "topPrice": 5515600,
-      "priceSpread": 517300,
-      "priceSpreadPercent": 10.35,
+      "basePrice": 4350000,
+      "topPrice": 4800000,
+      "priceSpread": 450000,
+      "priceSpreadPercent": 10.34,
       "trimCount": 2
     },
     {
@@ -9739,6 +9739,16 @@
           "trimCount": 3
         },
         {
+          "brand": "Nissan",
+          "brandId": "nissan",
+          "model": "X-TRAIL MILD HYBRID",
+          "basePrice": 4350000,
+          "topPrice": 4800000,
+          "basePriceFormatted": "₺4.350.000",
+          "topPriceFormatted": "₺4.800.000",
+          "trimCount": 2
+        },
+        {
           "brand": "Volvo",
           "brandId": "volvo",
           "model": "EX40",
@@ -9766,16 +9776,6 @@
           "topPrice": 5117800,
           "basePriceFormatted": "₺4.850.800",
           "topPriceFormatted": "₺5.117.800",
-          "trimCount": 2
-        },
-        {
-          "brand": "Nissan",
-          "brandId": "nissan",
-          "model": "X-TRAIL MILD HYBRID",
-          "basePrice": 4998300,
-          "topPrice": 5515600,
-          "basePriceFormatted": "₺4.998.300",
-          "topPriceFormatted": "₺5.515.600",
           "trimCount": 2
         },
         {
@@ -9909,8 +9909,8 @@
           "trimCount": 1
         }
       ],
-      "avgBasePrice": 5918294,
-      "avgTopPrice": 6461036
+      "avgBasePrice": 5903888,
+      "avgTopPrice": 6445134
     },
     {
       "segment": "Sedan",
@@ -10584,7 +10584,7 @@
   "summary": {
     "totalModels": 228,
     "avgTrimsPerModel": 2.3,
-    "avgPriceSpread": 380448,
+    "avgPriceSpread": 380153,
     "avgPriceSpreadPercent": 12.78
   }
 }
