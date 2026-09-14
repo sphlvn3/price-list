@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13T05:40:30.131Z",
-  "date": "2026-09-13",
+  "generatedAt": "2026-09-14T05:44:03.546Z",
+  "date": "2026-09-14",
   "summary": {
     "totalPriceDrops": 6,
     "totalRecentDrops": 1,
@@ -22,15 +22,11 @@
       "currentPriceFormatted": "₺4.350.000",
       "peakPrice": 4998300,
       "peakPriceFormatted": "₺4.998.300",
-      "peakDate": "2026-08-15",
+      "peakDate": "2026-08-16",
       "dropAmount": 648300,
       "dropPercent": 12.97,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-09-04",
-          "price": 4998300
-        },
         {
           "date": "2026-09-05",
           "price": 4998300
@@ -65,6 +61,10 @@
         },
         {
           "date": "2026-09-13",
+          "price": 4350000
+        },
+        {
+          "date": "2026-09-14",
           "price": 4350000
         }
       ],
@@ -85,15 +85,11 @@
       "currentPriceFormatted": "₺4.800.000",
       "peakPrice": 5515600,
       "peakPriceFormatted": "₺5.515.600",
-      "peakDate": "2026-08-15",
+      "peakDate": "2026-08-16",
       "dropAmount": 715600,
       "dropPercent": 12.97,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-09-04",
-          "price": 5515600
-        },
         {
           "date": "2026-09-05",
           "price": 5515600
@@ -128,6 +124,10 @@
         },
         {
           "date": "2026-09-13",
+          "price": 4800000
+        },
+        {
+          "date": "2026-09-14",
           "price": 4800000
         }
       ],
@@ -148,15 +148,11 @@
       "currentPriceFormatted": "₺2.350.000",
       "peakPrice": 2650000,
       "peakPriceFormatted": "₺2.650.000",
-      "peakDate": "2026-08-15",
+      "peakDate": "2026-08-16",
       "dropAmount": 300000,
       "dropPercent": 11.32,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-09-04",
-          "price": 2350000
-        },
         {
           "date": "2026-09-05",
           "price": 2350000
@@ -191,6 +187,10 @@
         },
         {
           "date": "2026-09-13",
+          "price": 2350000
+        },
+        {
+          "date": "2026-09-14",
           "price": 2350000
         }
       ],
@@ -209,15 +209,11 @@
       "currentPriceFormatted": "₺1.890.000",
       "peakPrice": 2101000,
       "peakPriceFormatted": "₺2.101.000",
-      "peakDate": "2026-08-15",
+      "peakDate": "2026-08-16",
       "dropAmount": 211000,
       "dropPercent": 10.04,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-09-04",
-          "price": 1890000
-        },
         {
           "date": "2026-09-05",
           "price": 1890000
@@ -252,6 +248,10 @@
         },
         {
           "date": "2026-09-13",
+          "price": 1890000
+        },
+        {
+          "date": "2026-09-14",
           "price": 1890000
         }
       ],
@@ -270,15 +270,11 @@
       "currentPriceFormatted": "₺1.820.000",
       "peakPrice": 1999000,
       "peakPriceFormatted": "₺1.999.000",
-      "peakDate": "2026-08-15",
+      "peakDate": "2026-08-16",
       "dropAmount": 179000,
       "dropPercent": 8.95,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-09-04",
-          "price": 1820000
-        },
         {
           "date": "2026-09-05",
           "price": 1820000
@@ -313,6 +309,10 @@
         },
         {
           "date": "2026-09-13",
+          "price": 1820000
+        },
+        {
+          "date": "2026-09-14",
           "price": 1820000
         }
       ],
@@ -331,15 +331,11 @@
       "currentPriceFormatted": "₺1.955.000",
       "peakPrice": 2119000,
       "peakPriceFormatted": "₺2.119.000",
-      "peakDate": "2026-08-15",
+      "peakDate": "2026-08-16",
       "dropAmount": 164000,
       "dropPercent": 7.74,
       "daysSincePeak": 29,
       "priceHistory": [
-        {
-          "date": "2026-09-04",
-          "price": 1955000
-        },
         {
           "date": "2026-09-05",
           "price": 1955000
@@ -375,6 +371,10 @@
         {
           "date": "2026-09-13",
           "price": 1955000
+        },
+        {
+          "date": "2026-09-14",
+          "price": 1955000
         }
       ],
       "listPrice": 1955000
@@ -392,8 +392,8 @@
       "previousPrice": 1440000,
       "dropAmount": 50000,
       "dropPercent": 3.47,
-      "date": "2026-09-13",
-      "previousDate": "2026-09-13",
+      "date": "2026-09-14",
+      "previousDate": "2026-09-14",
       "listPrice": 1584900,
       "campaignPrice": 1440000,
       "campaignDiscount": 9.1
