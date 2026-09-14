@@ -1,11 +1,82 @@
 {
-  "generatedAt": "2026-09-13T05:40:30.729Z",
-  "clearedAt": "2026-09-13T05:40:20.067Z",
-  "errors": [],
+  "generatedAt": "2026-09-14T05:33:50.801Z",
+  "clearedAt": "2026-09-14T05:33:19.683Z",
+  "errors": [
+    {
+      "id": "err_1789364000419_n86t5y9",
+      "timestamp": "2026-09-14T05:33:20.419Z",
+      "severity": "error",
+      "category": "HTTP_ERROR",
+      "source": "collection",
+      "brand": "Volkswagen",
+      "brandId": "volkswagen",
+      "code": "COLLECTION_FAILED",
+      "message": "Failed to collect Volkswagen: HTTP 503: Service Unavailable",
+      "details": {
+        "error": "HTTP 503: Service Unavailable",
+        "url": "https://binekarac2.vw.com.tr/app/local/fiyatlardata/fiyatlar-test.json?v=202511071652",
+        "elapsed": 706,
+        "isTimeout": false
+      },
+      "recovered": false
+    },
+    {
+      "id": "err_1789364000435_7rni9y2",
+      "timestamp": "2026-09-14T05:33:20.435Z",
+      "severity": "warning",
+      "category": "DATA_QUALITY_ERROR",
+      "source": "collection",
+      "brand": "Volkswagen",
+      "brandId": "volkswagen",
+      "code": "USING_FALLBACK_DATA",
+      "message": "Using fallback data for Volkswagen (46 rows)",
+      "recovered": true,
+      "recoveryMethod": "Used previous day data"
+    },
+    {
+      "id": "err_1789364021115_s7r9tz0",
+      "timestamp": "2026-09-14T05:33:41.115Z",
+      "severity": "error",
+      "category": "HTTP_ERROR",
+      "source": "collection",
+      "brand": "BMW",
+      "brandId": "bmw",
+      "code": "COLLECTION_FAILED",
+      "message": "Failed to collect BMW: fetch failed",
+      "details": {
+        "error": "fetch failed",
+        "url": "https://www.borusanotomotiv.com/bmw/stage2/fiyat-listesi/static-fiyat-listesi-v2.aspx",
+        "elapsed": 10477,
+        "isTimeout": false
+      },
+      "recovered": false
+    },
+    {
+      "id": "err_1789364021117_u5es0ak",
+      "timestamp": "2026-09-14T05:33:41.117Z",
+      "severity": "warning",
+      "category": "DATA_QUALITY_ERROR",
+      "source": "collection",
+      "brand": "BMW",
+      "brandId": "bmw",
+      "code": "USING_FALLBACK_DATA",
+      "message": "Using fallback data for BMW (65 rows)",
+      "recovered": true,
+      "recoveryMethod": "Used previous day data"
+    }
+  ],
   "summary": {
-    "total": 0,
-    "byCategory": {},
-    "bySeverity": {},
-    "bySource": {}
+    "total": 4,
+    "byCategory": {
+      "HTTP_ERROR": 2,
+      "DATA_QUALITY_ERROR": 2
+    },
+    "bySeverity": {
+      "error": 2,
+      "warning": 2
+    },
+    "bySource": {
+      "collection": 4
+    }
   }
 }
