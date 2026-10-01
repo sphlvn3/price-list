@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T06:07:52.103Z",
-  "date": "2026-09-30",
+  "generatedAt": "2026-10-01T06:40:22.444Z",
+  "date": "2026-10-01",
   "totalBrands": 18,
   "successful": 18,
   "failed": 0,
-  "usedFallback": 0,
+  "usedFallback": 1,
   "details": [
     {
       "brand": "volkswagen",
@@ -12,7 +12,7 @@
       "count": 46,
       "error": null,
       "usedFallback": false,
-      "elapsed": 5373
+      "elapsed": 5068
     },
     {
       "brand": "skoda",
@@ -20,7 +20,7 @@
       "count": 41,
       "error": null,
       "usedFallback": false,
-      "elapsed": 1064
+      "elapsed": 1190
     },
     {
       "brand": "renault",
@@ -28,7 +28,7 @@
       "count": 24,
       "error": null,
       "usedFallback": false,
-      "elapsed": 176
+      "elapsed": 100
     },
     {
       "brand": "toyota",
@@ -36,7 +36,7 @@
       "count": 41,
       "error": null,
       "usedFallback": false,
-      "elapsed": 577
+      "elapsed": 572
     },
     {
       "brand": "hyundai",
@@ -44,7 +44,7 @@
       "count": 35,
       "error": null,
       "usedFallback": false,
-      "elapsed": 547
+      "elapsed": 574
     },
     {
       "brand": "peugeot",
@@ -52,7 +52,7 @@
       "count": 22,
       "error": null,
       "usedFallback": false,
-      "elapsed": 2621
+      "elapsed": 2498
     },
     {
       "brand": "byd",
@@ -60,23 +60,23 @@
       "count": 3,
       "error": null,
       "usedFallback": false,
-      "elapsed": 841
+      "elapsed": 920
     },
     {
       "brand": "opel",
       "success": true,
       "count": 16,
       "error": null,
-      "usedFallback": false,
-      "elapsed": 2753
+      "usedFallback": true,
+      "elapsed": 2193
     },
     {
       "brand": "citroen",
       "success": true,
-      "count": 38,
+      "count": 11,
       "error": null,
       "usedFallback": false,
-      "elapsed": 1430
+      "elapsed": 853
     },
     {
       "brand": "bmw",
@@ -84,15 +84,15 @@
       "count": 65,
       "error": null,
       "usedFallback": false,
-      "elapsed": 1864
+      "elapsed": 1306
     },
     {
       "brand": "mercedes",
       "success": true,
-      "count": 40,
+      "count": 34,
       "error": null,
       "usedFallback": false,
-      "elapsed": 5915
+      "elapsed": 3949
     },
     {
       "brand": "ford",
@@ -100,15 +100,15 @@
       "count": 33,
       "error": null,
       "usedFallback": false,
-      "elapsed": 2866
+      "elapsed": 1827
     },
     {
       "brand": "dacia",
       "success": true,
-      "count": 12,
+      "count": 11,
       "error": null,
       "usedFallback": false,
-      "elapsed": 139
+      "elapsed": 90
     },
     {
       "brand": "nissan",
@@ -116,7 +116,7 @@
       "count": 26,
       "error": null,
       "usedFallback": false,
-      "elapsed": 1021
+      "elapsed": 3165
     },
     {
       "brand": "honda",
@@ -124,23 +124,23 @@
       "count": 6,
       "error": null,
       "usedFallback": false,
-      "elapsed": 323
+      "elapsed": 308
     },
     {
       "brand": "seat",
       "success": true,
-      "count": 7,
+      "count": 6,
       "error": null,
       "usedFallback": false,
-      "elapsed": 1661
+      "elapsed": 1485
     },
     {
       "brand": "kia",
       "success": true,
-      "count": 26,
+      "count": 2,
       "error": null,
       "usedFallback": false,
-      "elapsed": 305
+      "elapsed": 355
     },
     {
       "brand": "volvo",
@@ -148,7 +148,7 @@
       "count": 34,
       "error": null,
       "usedFallback": false,
-      "elapsed": 580
+      "elapsed": 660
     }
   ]
 }
