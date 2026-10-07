@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-06T07:00:54.317Z",
-  "clearedAt": "2026-10-06T07:00:02.534Z",
+  "generatedAt": "2026-10-07T06:41:31.705Z",
+  "clearedAt": "2026-10-07T06:40:41.118Z",
   "errors": [
     {
-      "id": "err_1791270033218_adp3phz",
-      "timestamp": "2026-10-06T07:00:33.218Z",
+      "id": "err_1791355273470_jh18ou6",
+      "timestamp": "2026-10-07T06:41:13.470Z",
       "severity": "error",
       "category": "HTTP_ERROR",
       "source": "collection",
@@ -15,14 +15,14 @@
       "details": {
         "error": "All 5 proxies failed for peugeot",
         "url": "https://kampanya.peugeot.com.tr/fiyat-listesi/fiyatlar.pdf",
-        "elapsed": 22549,
+        "elapsed": 23014,
         "isTimeout": false
       },
       "recovered": false
     },
     {
-      "id": "err_1791270033222_cos1g4q",
-      "timestamp": "2026-10-06T07:00:33.222Z",
+      "id": "err_1791355273472_s8rl0s6",
+      "timestamp": "2026-10-07T06:41:13.472Z",
       "severity": "warning",
       "category": "DATA_QUALITY_ERROR",
       "source": "collection",
