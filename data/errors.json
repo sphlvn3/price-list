@@ -1,51 +1,11 @@
 {
-  "generatedAt": "2026-10-08T06:48:18.442Z",
-  "clearedAt": "2026-10-08T06:47:25.206Z",
-  "errors": [
-    {
-      "id": "err_1791442078160_8i2s7th",
-      "timestamp": "2026-10-08T06:47:58.160Z",
-      "severity": "error",
-      "category": "HTTP_ERROR",
-      "source": "collection",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "code": "COLLECTION_FAILED",
-      "message": "Failed to collect Peugeot: All 5 proxies failed for peugeot",
-      "details": {
-        "error": "All 5 proxies failed for peugeot",
-        "url": "https://kampanya.peugeot.com.tr/fiyat-listesi/fiyatlar.pdf",
-        "elapsed": 23134,
-        "isTimeout": false
-      },
-      "recovered": false
-    },
-    {
-      "id": "err_1791442078162_gtbhwti",
-      "timestamp": "2026-10-08T06:47:58.162Z",
-      "severity": "warning",
-      "category": "DATA_QUALITY_ERROR",
-      "source": "collection",
-      "brand": "Peugeot",
-      "brandId": "peugeot",
-      "code": "USING_FALLBACK_DATA",
-      "message": "Using fallback data for Peugeot (22 rows)",
-      "recovered": true,
-      "recoveryMethod": "Used previous day data"
-    }
-  ],
+  "generatedAt": "2026-10-08T17:32:06.044Z",
+  "clearedAt": "2026-10-08T17:31:48.901Z",
+  "errors": [],
   "summary": {
-    "total": 2,
-    "byCategory": {
-      "HTTP_ERROR": 1,
-      "DATA_QUALITY_ERROR": 1
-    },
-    "bySeverity": {
-      "error": 1,
-      "warning": 1
-    },
-    "bySource": {
-      "collection": 2
-    }
+    "total": 0,
+    "byCategory": {},
+    "bySeverity": {},
+    "bySource": {}
   }
 }
