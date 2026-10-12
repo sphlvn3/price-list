@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T06:37:42.628Z",
-  "clearedAt": "2026-10-11T06:36:50.222Z",
+  "generatedAt": "2026-10-12T06:44:45.321Z",
+  "clearedAt": "2026-10-12T06:43:53.659Z",
   "errors": [
     {
-      "id": "err_1791700641598_2ysnivb",
-      "timestamp": "2026-10-11T06:37:21.598Z",
+      "id": "err_1791787465630_2dx1m9r",
+      "timestamp": "2026-10-12T06:44:25.630Z",
       "severity": "error",
       "category": "HTTP_ERROR",
       "source": "collection",
@@ -15,14 +15,14 @@
       "details": {
         "error": "All 5 proxies failed for peugeot",
         "url": "https://kampanya.peugeot.com.tr/fiyat-listesi/fiyatlar.pdf",
-        "elapsed": 23275,
+        "elapsed": 23220,
         "isTimeout": false
       },
       "recovered": false
     },
     {
-      "id": "err_1791700641600_m6h5r2r",
-      "timestamp": "2026-10-11T06:37:21.600Z",
+      "id": "err_1791787465632_3p8z7bo",
+      "timestamp": "2026-10-12T06:44:25.632Z",
       "severity": "warning",
       "category": "DATA_QUALITY_ERROR",
       "source": "collection",
@@ -34,8 +34,8 @@
       "recoveryMethod": "Used previous day data"
     },
     {
-      "id": "err_1791700662626_mpgej3y",
-      "timestamp": "2026-10-11T06:37:42.626Z",
+      "id": "err_1791787485319_6d2auys",
+      "timestamp": "2026-10-12T06:44:45.319Z",
       "severity": "error",
       "category": "HTTP_ERROR",
       "source": "collection",
@@ -46,14 +46,14 @@
       "details": {
         "error": "fetch failed",
         "url": "https://www.volvocars.com/tr/l/fiyat-listesi/",
-        "elapsed": 1779,
+        "elapsed": 1274,
         "isTimeout": false
       },
       "recovered": false
     },
     {
-      "id": "err_1791700662628_qzneshj",
-      "timestamp": "2026-10-11T06:37:42.628Z",
+      "id": "err_1791787485321_9bgin31",
+      "timestamp": "2026-10-12T06:44:45.321Z",
       "severity": "warning",
       "category": "DATA_QUALITY_ERROR",
       "source": "collection",
