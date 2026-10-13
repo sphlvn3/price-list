@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T06:44:45.321Z",
-  "clearedAt": "2026-10-12T06:43:53.659Z",
+  "generatedAt": "2026-10-13T07:13:13.122Z",
+  "clearedAt": "2026-10-13T07:12:13.612Z",
   "errors": [
     {
-      "id": "err_1791787465630_2dx1m9r",
-      "timestamp": "2026-10-12T06:44:25.630Z",
+      "id": "err_1791875569311_hm6r1mx",
+      "timestamp": "2026-10-13T07:12:49.311Z",
       "severity": "error",
       "category": "HTTP_ERROR",
       "source": "collection",
@@ -15,14 +15,14 @@
       "details": {
         "error": "All 5 proxies failed for peugeot",
         "url": "https://kampanya.peugeot.com.tr/fiyat-listesi/fiyatlar.pdf",
-        "elapsed": 23220,
+        "elapsed": 23945,
         "isTimeout": false
       },
       "recovered": false
     },
     {
-      "id": "err_1791787465632_3p8z7bo",
-      "timestamp": "2026-10-12T06:44:25.632Z",
+      "id": "err_1791875569313_v58n980",
+      "timestamp": "2026-10-13T07:12:49.313Z",
       "severity": "warning",
       "category": "DATA_QUALITY_ERROR",
       "source": "collection",
@@ -32,51 +32,20 @@
       "message": "Using fallback data for Peugeot (22 rows)",
       "recovered": true,
       "recoveryMethod": "Used previous day data"
-    },
-    {
-      "id": "err_1791787485319_6d2auys",
-      "timestamp": "2026-10-12T06:44:45.319Z",
-      "severity": "error",
-      "category": "HTTP_ERROR",
-      "source": "collection",
-      "brand": "Volvo",
-      "brandId": "volvo",
-      "code": "COLLECTION_FAILED",
-      "message": "Failed to collect Volvo: fetch failed",
-      "details": {
-        "error": "fetch failed",
-        "url": "https://www.volvocars.com/tr/l/fiyat-listesi/",
-        "elapsed": 1274,
-        "isTimeout": false
-      },
-      "recovered": false
-    },
-    {
-      "id": "err_1791787485321_9bgin31",
-      "timestamp": "2026-10-12T06:44:45.321Z",
-      "severity": "warning",
-      "category": "DATA_QUALITY_ERROR",
-      "source": "collection",
-      "brand": "Volvo",
-      "brandId": "volvo",
-      "code": "USING_FALLBACK_DATA",
-      "message": "Using fallback data for Volvo (34 rows)",
-      "recovered": true,
-      "recoveryMethod": "Used previous day data"
     }
   ],
   "summary": {
-    "total": 4,
+    "total": 2,
     "byCategory": {
-      "HTTP_ERROR": 2,
-      "DATA_QUALITY_ERROR": 2
+      "HTTP_ERROR": 1,
+      "DATA_QUALITY_ERROR": 1
     },
     "bySeverity": {
-      "error": 2,
-      "warning": 2
+      "error": 1,
+      "warning": 1
     },
     "bySource": {
-      "collection": 4
+      "collection": 2
     }
   }
 }
