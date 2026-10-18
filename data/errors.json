@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-17T05:11:22.039Z",
-  "clearedAt": "2026-10-17T05:10:31.670Z",
+  "generatedAt": "2026-10-18T05:16:00.052Z",
+  "clearedAt": "2026-10-18T05:15:12.860Z",
   "errors": [
     {
-      "id": "err_1792213863059_7teutu4",
-      "timestamp": "2026-10-17T05:11:03.059Z",
+      "id": "err_1792300543971_rpttegf",
+      "timestamp": "2026-10-18T05:15:43.971Z",
       "severity": "error",
       "category": "HTTP_ERROR",
       "source": "collection",
@@ -15,14 +15,14 @@
       "details": {
         "error": "All 5 proxies failed for peugeot",
         "url": "https://kampanya.peugeot.com.tr/fiyat-listesi/fiyatlar.pdf",
-        "elapsed": 23163,
+        "elapsed": 22790,
         "isTimeout": false
       },
       "recovered": false
     },
     {
-      "id": "err_1792213863061_nrhv6uy",
-      "timestamp": "2026-10-17T05:11:03.061Z",
+      "id": "err_1792300543974_wvzleme",
+      "timestamp": "2026-10-18T05:15:43.974Z",
       "severity": "warning",
       "category": "DATA_QUALITY_ERROR",
       "source": "collection",
@@ -34,39 +34,8 @@
       "recoveryMethod": "Used previous day data"
     },
     {
-      "id": "err_1792213881156_x8zyrzk",
-      "timestamp": "2026-10-17T05:11:21.156Z",
-      "severity": "error",
-      "category": "HTTP_ERROR",
-      "source": "collection",
-      "brand": "SEAT",
-      "brandId": "seat",
-      "code": "COLLECTION_FAILED",
-      "message": "Failed to collect SEAT: HTTP 400: Bad Request",
-      "details": {
-        "error": "HTTP 400: Bad Request",
-        "url": "https://www.seat.com.tr/firsatlar/fiyat-listesi",
-        "elapsed": 1998,
-        "isTimeout": false
-      },
-      "recovered": false
-    },
-    {
-      "id": "err_1792213881157_ggpjthx",
-      "timestamp": "2026-10-17T05:11:21.157Z",
-      "severity": "warning",
-      "category": "DATA_QUALITY_ERROR",
-      "source": "collection",
-      "brand": "SEAT",
-      "brandId": "seat",
-      "code": "USING_FALLBACK_DATA",
-      "message": "Using fallback data for SEAT (6 rows)",
-      "recovered": true,
-      "recoveryMethod": "Used previous day data"
-    },
-    {
-      "id": "err_1792213882037_3qbl8tv",
-      "timestamp": "2026-10-17T05:11:22.037Z",
+      "id": "err_1792300560050_cvjr2pt",
+      "timestamp": "2026-10-18T05:16:00.050Z",
       "severity": "error",
       "category": "HTTP_ERROR",
       "source": "collection",
@@ -77,14 +46,14 @@
       "details": {
         "error": "Could not find PDF URL in Volvo page",
         "url": "https://www.volvocars.com/tr/l/fiyat-listesi/",
-        "elapsed": 515,
+        "elapsed": 281,
         "isTimeout": false
       },
       "recovered": false
     },
     {
-      "id": "err_1792213882039_4puhqbm",
-      "timestamp": "2026-10-17T05:11:22.039Z",
+      "id": "err_1792300560051_ve1dhss",
+      "timestamp": "2026-10-18T05:16:00.051Z",
       "severity": "warning",
       "category": "DATA_QUALITY_ERROR",
       "source": "collection",
@@ -97,17 +66,17 @@
     }
   ],
   "summary": {
-    "total": 6,
+    "total": 4,
     "byCategory": {
-      "HTTP_ERROR": 3,
-      "DATA_QUALITY_ERROR": 3
+      "HTTP_ERROR": 2,
+      "DATA_QUALITY_ERROR": 2
     },
     "bySeverity": {
-      "error": 3,
-      "warning": 3
+      "error": 2,
+      "warning": 2
     },
     "bySource": {
-      "collection": 6
+      "collection": 4
     }
   }
 }
