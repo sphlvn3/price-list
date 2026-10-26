@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T05:29:25.535Z",
-  "clearedAt": "2026-10-25T05:28:41.127Z",
+  "generatedAt": "2026-10-26T05:34:57.691Z",
+  "clearedAt": "2026-10-26T05:33:56.868Z",
   "errors": [
     {
-      "id": "err_1792906150712_q7ubwni",
-      "timestamp": "2026-10-25T05:29:10.712Z",
+      "id": "err_1792992875792_ng3ijm0",
+      "timestamp": "2026-10-26T05:34:35.792Z",
       "severity": "error",
       "category": "HTTP_ERROR",
       "source": "collection",
@@ -15,14 +15,14 @@
       "details": {
         "error": "All 5 proxies failed for peugeot",
         "url": "https://kampanya.peugeot.com.tr/fiyat-listesi/fiyatlar.pdf",
-        "elapsed": 22756,
+        "elapsed": 28432,
         "isTimeout": false
       },
       "recovered": false
     },
     {
-      "id": "err_1792906150715_c2k2w1l",
-      "timestamp": "2026-10-25T05:29:10.715Z",
+      "id": "err_1792992875794_yan2ssl",
+      "timestamp": "2026-10-26T05:34:35.794Z",
       "severity": "warning",
       "category": "DATA_QUALITY_ERROR",
       "source": "collection",
@@ -34,8 +34,8 @@
       "recoveryMethod": "Used previous day data"
     },
     {
-      "id": "err_1792906165533_2nvny4e",
-      "timestamp": "2026-10-25T05:29:25.533Z",
+      "id": "err_1792992897689_c9a38f1",
+      "timestamp": "2026-10-26T05:34:57.689Z",
       "severity": "error",
       "category": "HTTP_ERROR",
       "source": "collection",
@@ -46,14 +46,14 @@
       "details": {
         "error": "Could not find PDF URL in Volvo page",
         "url": "https://www.volvocars.com/tr/l/fiyat-listesi/",
-        "elapsed": 470,
+        "elapsed": 1181,
         "isTimeout": false
       },
       "recovered": false
     },
     {
-      "id": "err_1792906165535_t3wduoj",
-      "timestamp": "2026-10-25T05:29:25.535Z",
+      "id": "err_1792992897691_33c6vvc",
+      "timestamp": "2026-10-26T05:34:57.691Z",
       "severity": "warning",
       "category": "DATA_QUALITY_ERROR",
       "source": "collection",
