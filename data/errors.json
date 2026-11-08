@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T06:42:29.433Z",
-  "clearedAt": "2026-11-07T06:41:55.674Z",
+  "generatedAt": "2026-11-08T06:48:44.253Z",
+  "clearedAt": "2026-11-08T06:48:10.555Z",
   "errors": [
     {
-      "id": "err_1794033749431_z7i40ok",
-      "timestamp": "2026-11-07T06:42:29.431Z",
+      "id": "err_1794120524251_mtz4l9h",
+      "timestamp": "2026-11-08T06:48:44.251Z",
       "severity": "error",
       "category": "HTTP_ERROR",
       "source": "collection",
@@ -15,14 +15,14 @@
       "details": {
         "error": "Could not find PDF URL in Volvo page",
         "url": "https://www.volvocars.com/tr/l/fiyat-listesi/",
-        "elapsed": 283,
+        "elapsed": 329,
         "isTimeout": false
       },
       "recovered": false
     },
     {
-      "id": "err_1794033749433_6ygc5sh",
-      "timestamp": "2026-11-07T06:42:29.433Z",
+      "id": "err_1794120524253_w0s2615",
+      "timestamp": "2026-11-08T06:48:44.253Z",
       "severity": "warning",
       "category": "DATA_QUALITY_ERROR",
       "source": "collection",
